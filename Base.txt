@@ -1,0 +1,105 @@
+; Expresion regular para texto
+,Abuelo Gohan,,|,Abuelo de Gokuh,,|,Androide 16,,|,Androide 17,,|,Androide 18,,|,Androide 19,,|,Androide 20,,|,Arale,,|,Azul,,|,BaBA,,|,Bardock,,|,Birusu,,|,Bulma,,|,Chaozu,,|,Chichi,,|,Chilled,,|,Cooler,,|,Cymbal,,|,Célula,,|,Célula Kame Hame,,|,Célula Taiyo Ken,,|,Dende,,|,Diablo,,|,Dodoria,,|,Dr. Raichi (Tsufuru),,|,Dracula,,|,Enma,,|,Fantasma,,|,Freeza,,|,Freeza Padre,,|,Fuezas E. - Burtta (Azul),,|,Fuezas E. - Ginyu,,|,Fuezas E. - Gourd (Verde),,|,Fuezas E. - Jesse (Rojo),,|,Fuezas E. - Recoom (Pelo Naranja),,|,Garlick,,|,Gato Karin,,|,General Blue,,|,General Red,,|,Gokuh,,|,Gokuh Kaioh Ken,,|,Gokuh Kame Hame,,|,Gokuh Taiyo Ken,,|,Gotenks,,|,Gregory,,|,Gure,,|,Hatchan,,|,Hatchhyack,,|,Kaioh,,|,Krilin,,|,Krilin Kame,,|,Krilin Kienzan,,|,Krilin Taiyo Ken,,|,Lunch,,|,Madre Bulma,,|,Mai,,|,Maron,,|,Momia,,|,Monarca demoniaco 1 (Morado),,|,Monarca demoniaco 2 (Marron),,|,Monarca demoniaco 3 (Celeste),,|,Monarca demoniaco 4 (Rojo),,|,Morado,,|,Mr. Satan,,|,Mutenroshi,,|,Nail,,|,Namekiano 1,,|,Namekiano 2,,|,Namekiano 3,,|,Namekiano 4,,|,Namekiano 5,,|,Namekiano 6,,|,Napa,,|,Narrador,,|,Niña pelo rojo,,|,Notas traducción,,|,Oolong,,|,Otro personaje,,|,Padre Bulma,,|,Padre Upa,,|,Personaje Secundario 1,,|,Personaje Secundario 2,,|,Personaje Secundario 3,,|,Personaje Secundario 4,,|,Personaje Secundario 5,,|,Personaje Secundario 6,,|,Personaje Secundario 7,,|,Piccolo,,|,Piccolo Damaioh,,|,Piccolo Dios,,|,Piccolo Makkanko,,|,Pilaf,,|,Policia,,|,Polunga - Dragon Namek,,|,Popo,,|,Princesa Serpiente,,|,Puar,,|,Raditz,,|,Reportero torneo,,|,Rey Vegeta,,|,Rojo,,|,Saichoro - Gran Anciano Namek,,|,Shenron,,|,Slug,,|,Son Gohan,,|,Son Gohan Kame Hame,,|,Son Gohan Masenko,,|,Son Goten,,|,Tambourine,,|,Tao Pai Pai,,|,Tarble,,|,Ten Shin Han,,|,Ten Shin Han Kikoho,,|,Titulos,,|,Todos,,|,Tortuga,,|,Trunks,,|,Turles,,|,Uisu,,|,Upa,,|,Vegeta,,|,Vegeta Final Flash,,|,Videl,,|,Yajirobee,,|,Yamcha,,|,Yamcha Soukidan,,|,Zarbon,,|,Androide 17 - Moreno,,|,Androide 16 - Verde,,|,Androide 18 - Rubia,,|/gm
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+; Opening
+; Japones
+{\blur.8}hikaru kumo wo tsukuinuke
+{\blur.8}Fly Away  < Fly Away >
+{\blur.8}karadajuu ni hirogaru panorama
+{\blur.8}kao wo kerareta chikyuu ga
+{\blur.8}okotte < okotte >
+{\blur.8}kazan wo bakuhatsu saseru
+{\blur.8}toketa koori no naka ni
+{\blur.8}kyouryuu ga itara tamanori shikomitai ne
+{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+{\blur.8}nani ga okite mo kibun wa heno heno kappa
+{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA mune ga
+{\blur.8}pachi{\fs30}-{\fs}pachi suru hodo sawagu
+{\blur.8}Genki Dama
+{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+{\blur.8}atama karappo no hou ga yume tsumekomeru
+{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+{\blur.8}egao urutora Z de
+{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
+{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+; Español
+{\blur.8}Atravieso las brillantes nubes y
+{\blur.8}Vuelo lejos (Vuelo lejos)
+{\blur.8}Un panorama se extiende\Na través de mi cuerpo.
+{\blur.8}La Tierra, al ser pateada en la cara,
+{\blur.8}se enfurece (se enfurece)
+{\blur.8}¡Provocando la erupción de los volcanes!
+{\blur.8}Si dentro de un iceberg derretido,
+{\blur.8}hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+{\blur.8}CHA-LA HEAD-CHA-LA
+{\blur.8}¡No importa lo que suceda,\Nnada me podrá afectar!
+{\blur.8}CHA-LA HEAD-CHA-LA
+{\blur.8}No importa lo fuerte que lata tu pecho,
+{\blur.8}¡La Genki-dama rugirá!
+{\blur.8}CHA-LA HEAD-CHA-LA
+{\blur.8}¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+{\blur.8}CHA-LA HEAD-CHA-LA
+{\blur.8}¡Con una sonrisa Ultra-Z,
+{\blur.8}hoy también estoy\Nai-yai-yai-yai-yai...!
+{\blur.8}¡Comenzando!
+;Ending
+; Japones
+{\blur.8}kakete kuru yo appuru iro monsutaa
+{\blur.8}tonde kuru yo nattsu no kaori eirian
+{\blur.8}deatte dokkin{\fs30}-{\fs}dokkin
+{\blur.8}pika{\fs30}-{\fs}pika ginga wa poppukoon shawaa
+{\blur.8}kinou ni bai{\fs30} • {\fs}bai{\fs30} • {\fs}bai (Go{\fs30} • {\fs}ha{\fs30} • {\fs}n)
+{\blur.8}fu{\fs30} • {\fs}shi{\fs30} • {\fs}gi (ip{\fs30} • {\fs}pa{\fs30} • {\fs}i)
+{\blur.8}chikara o komete (okawari OK)
+{\blur.8}kochira e rai{\fs30} • {\fs}rai{\fs30} • {\fs}rai
+{\blur.8}Woh... mirakuru ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+{\blur.8}haraheri wanpaku Kinto'un
+{\blur.8}yama hodo takusan suiheisen
+{\blur.8}deatte wakarete deatte wakarete ta{\fs30} • {\fs}i{\fs30} • {\fs}he{\fs30} • {\fs}n
+{\blur.8}Ah mou Kami{\fs30}-{\fs}sama mo tsurai yo ne{\fs35\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+{\blur.8}... go{\fs30} • {\fs}men
+{\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+; Español
+{\blur1.8}Ahí viene corriendo,\Nun monstruo color manzana
+{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
+{\blur.8}Al encontrarles,\Npalpita mi corazón
+{\blur.8}La galaxia es como una ducha\Nde brillantes palomitas
+{\blur.8}Al ayer dile adiós, adiós, adiós\N(Arroz)
+{\blur.8}Mis-te-rio\N(Mucho arroz)
+{\blur.8}Concentra tu fuerza\N(Otra ración está bien)
+{\blur.8}Ahí está... ven, ven, ven
+{\blur.8}¡Uhh... Milagroso Poder Zenkai!
+{\blur.8}La hambrienta y traviesa\Nnube voladora,
+{\blur.8}Y tantos horizontes\Ncomo montañas,
+{\blur.8}Se encuentran y se separan,\Nse encuentran y se separan
+{\blur.8}¡Qué dolor!
+{\blur.8}¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+{\blur.8}Lo siento.
+{\blur.8}¡Uhh... Saciante Poder Zenkai!
+{\blur.8}¡Sal, increíble poder Zenkai!
