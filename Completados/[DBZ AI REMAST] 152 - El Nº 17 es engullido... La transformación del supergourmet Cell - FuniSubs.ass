@@ -1,0 +1,207 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,{\blur.8}hikaru kumo wo tsukuinuke
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,{\blur.8}Fly Away  < Fly Away >
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,{\blur.8}karadajuu ni hirogaru panorama
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,{\blur.8}kao wo kerareta chikyuu ga
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,{\blur.8}okotte < okotte >
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,{\blur.8}kazan wo bakuhatsu saseru
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,{\blur.8}toketa koori no naka ni
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,{\blur.8}kyouryuu ga itara tamanori shikomitai ne
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,{\blur.8}nani ga okite mo kibun wa heno heno kappa
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA mune ga
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,{\blur.8}pachi{\fs30}-{\fs}pachi suru hodo sawagu
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,{\blur.8}Genki Dama
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,{\blur.8}atama karappo no hou ga yume tsumekomeru
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,{\blur.8}egao urutora Z de
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,{\blur.8}Atravieso las brillantes nubes y
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,{\blur.8}Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,{\blur.8}Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,{\blur.8}La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,{\blur.8}se enfurece (se enfurece)
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,{\blur.8}¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,{\blur.8}Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,{\blur.8}hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,{\blur.8}¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,{\blur.8}No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,{\blur.8}¡La Genki-dama rugirá!
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,{\blur.8}¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,{\blur.8}¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,{\blur.8}hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,{\blur.8}¡Comenzando!
+Dialogue: 0,0:02:01.40,0:02:06.03,Default,,0,0,0,,Con el propósito de defender a\NNº 17, Nº 16 pasa a la acción.
+Dialogue: 0,0:02:06.20,0:02:10.89,Default,,0,0,0,,Nº 16 consigue igualar a Cell\Na pesar de su tremendo poder. Pero...
+Dialogue: 0,0:02:53.54,0:02:57.26,Default,,0,0,0,,Puedo regenerarme, al menos\Nhasta cierto punto.
+Dialogue: 0,0:03:55.84,0:03:59.33,Default,,0,0,0,,¿Entonces para evitar que alcances tu forma perfecta,
+Dialogue: 0,0:03:59.94,0:04:02.62,Default,,0,0,0,,lo único que puedo hacer es acabar con tu vida, no?
+Dialogue: 0,0:04:02.80,0:04:05.63,Default,,0,0,0,,Sin embargo, eso es imposible.
+Dialogue: 0,0:04:05.92,0:04:08.67,Default,,0,0,0,,No lo sabré hasta que lo intente.
+Dialogue: 0,0:04:13.36,0:04:15.03,Default,,0,0,0,,Yo ya lo sé.
+Dialogue: 0,0:06:42.37,0:06:43.96,Default,,0,0,0,,¡Hell Flash!
+Dialogue: 0,0:07:30.08,0:07:34.03,Default,,0,0,0,,Ha sido una onda de ki increíble.\N¿Qué estará pasando?
+Dialogue: 0,0:07:36.92,0:07:41.76,Default,,0,0,0,,Por desgracia, no es Piccolo.\NSu energía ha desaparecido hace un poco.
+Dialogue: 0,0:07:43.08,0:07:46.75,Default,,0,0,0,,¿Es Cell? ¿O Nº 17 y los otros?
+Dialogue: 0,0:07:47.36,0:07:50.27,Default,,0,0,0,,Sea como sea, tengo que darme\Nprisa y llevar el control.
+Dialogue: 0,0:07:50.44,0:07:52.98,Default,,0,0,0,,¡Ahora mismo es lo único\Nque puedo hacer!
+Dialogue: 0,0:07:56.60,0:07:57.71,Default,,0,0,0,,¡Papá!
+Dialogue: 0,0:07:58.16,0:08:00.83,Default,,0,0,0,,Sí. También lo sentí.
+Dialogue: 0,0:08:01.28,0:08:04.59,Default,,0,0,0,,La energía de ese Cell\Nha disminuido de golpe.
+Dialogue: 0,0:08:05.48,0:08:08.99,Default,,0,0,0,,No sé quién eres, pero sigue así.
+Dialogue: 0,0:08:09.88,0:08:13.66,Default,,0,0,0,,Al menos hasta que Vegeta y Trunks\Nhayan acabado su entrenamiento.
+Dialogue: 0,0:08:35.28,0:08:37.13,Default,,0,0,0,,Increíble...
+Dialogue: 0,0:08:39.04,0:08:41.11,Default,,0,0,0,,¿Es así de fuerte?
+Dialogue: 0,0:08:41.70,0:08:44.60,Default,,0,0,0,,Vaya con Nº 16...
+Dialogue: 0,0:08:46.04,0:08:47.71,Default,,0,0,0,,Increíble...
+Dialogue: 0,0:08:48.48,0:08:52.37,Default,,0,0,0,,¿Aún estás aquí? ¡Creía haberte\Ndicho que escaparas, Nº 18!
+Dialogue: 0,0:08:53.30,0:08:56.36,Default,,0,0,0,,Ahora ya no hay peligro, ¿no?\NTe has ocupado de él.
+Dialogue: 0,0:08:56.36,0:08:57.84,Default,,0,0,0,,¡No lo he derrotado!
+Dialogue: 0,0:08:57.92,0:09:02.63,Default,,0,0,0,,¡No es la clase de adversario con el que\Nse puede acabar con un ataque como éste!
+Dialogue: 0,0:09:02.72,0:09:05.95,Default,,0,0,0,,¡Nº 17, escapa mientras\Ntengas la oportunidad!
+Dialogue: 0,0:09:06.76,0:09:10.01,Default,,0,0,0,,¿Qué escape, dices?\NDebes estar bromeando.
+Dialogue: 0,0:09:10.13,0:09:13.93,Default,,0,0,0,,Con el mal rato que me ha hecho pasar,\N¿esperas que escape sin devolvérselo?
+Dialogue: 0,0:09:15.08,0:09:17.36,Default,,0,0,0,,Está herido, ¿no?
+Dialogue: 0,0:09:18.20,0:09:21.31,Default,,0,0,0,,Entonces, acabaré con él\Ncon mis propias manos.
+Dialogue: 0,0:09:22.04,0:09:27.94,Default,,0,0,0,,¡Da la cara, monstruo asqueroso!\N¿No decías que ibas a absorberme?
+Dialogue: 0,0:09:29.92,0:09:32.08,Default,,0,0,0,,¡No pienso escapar ni esconderme!
+Dialogue: 0,0:09:32.96,0:09:35.54,Default,,0,0,0,,¡No hasta que hayas exhalado\Ntu último aliento!
+Dialogue: 0,0:09:42.40,0:09:44.91,Default,,0,0,0,,¡Nº 17, detrás de ti! ¡Es Cell!
+Dialogue: 0,0:09:45.28,0:09:46.56,Default,,0,0,0,,¿Qué...?
+Dialogue: 0,0:09:48.73,0:09:51.78,Default,,0,0,0,,¡Aquí me tienes, tal y como querías!
+Dialogue: 0,0:10:04.53,0:10:05.67,Default,,0,0,0,,¡Maldición!
+Dialogue: 0,0:10:29.32,0:10:31.01,Default,,0,0,0,,Lo ha absorbido.
+Dialogue: 0,0:11:41.62,0:11:43.07,Default,,0,0,0,,¡Escapa, Nº 18!
+Dialogue: 0,0:11:43.24,0:11:45.43,Default,,0,0,0,,¿Qué estás haciendo? ¡Escapa!
+Dialogue: 0,0:11:47.28,0:11:49.13,Default,,0,0,0,,¡Y tú es mejor que escapes también!
+Dialogue: 0,0:11:57.45,0:12:00.58,Default,,0,0,0,,La energía de ese Cell ha\Naumentado de forma increíble.
+Dialogue: 0,0:12:01.40,0:12:02.95,Default,,0,0,0,,Esto no me gusta...
+Dialogue: 0,0:12:03.42,0:12:08.16,Default,,0,0,0,,Nº 17 o Nº 18... Uno de los dos\Ndebe de haber sido absorbido por Cell.
+Dialogue: 0,0:13:18.66,0:13:20.78,Default,,0,0,0,,¡Salgamos de aquí, Nº 18!
+Dialogue: 0,0:13:44.68,0:13:47.10,Default,,0,0,0,,Qué velocidad...
+Dialogue: 0,0:13:51.68,0:13:53.99,Default,,0,0,0,,Esto tiene mala pinta.\NMuy mala pinta.
+Dialogue: 0,0:14:02.90,0:14:05.89,Default,,0,0,0,,¿Creían que podrían escapar de mí?
+Dialogue: 0,0:14:17.82,0:14:21.65,Default,,0,0,0,,Perdóname, Chaoz.\NEs posible que muera.
+Dialogue: 0,0:14:24.62,0:14:28.29,Default,,0,0,0,,Incluso a mí mismo me sorprende\Nmi extraordinaria velocidad.
+Dialogue: 0,0:14:28.42,0:14:31.81,Default,,0,0,0,,Obviamente, es porque he\Nabsorbido a Nº 17.
+Dialogue: 0,0:14:33.58,0:14:35.53,Default,,0,0,0,,Me pregunto cómo andaré de fuerza.
+Dialogue: 0,0:15:25.10,0:15:29.66,Default,,0,0,0,,Vaya... Parece ser que también\Nha aumentado bastante.
+Dialogue: 0,0:15:37.46,0:15:38.85,Default,,0,0,0,,Muy bien...
+Dialogue: 0,0:15:47.78,0:15:49.29,Default,,0,0,0,,Así me gusta.
+Dialogue: 0,0:15:49.58,0:15:53.45,Default,,0,0,0,,Al menos tú comprendes que no te\Nservirá de nada tratar de escapar.
+Dialogue: 0,0:15:53.48,0:15:55.37,Default,,0,0,0,,Eres inteligente.
+Dialogue: 0,0:16:02.14,0:16:04.85,Default,,0,0,0,,Venga, ahora te toca a ti.
+Dialogue: 0,0:16:06.54,0:16:09.09,Default,,0,0,0,,¡Juntos, conseguiremos\Nla forma perfecta!
+Dialogue: 0,0:16:27.66,0:16:32.17,Default,,0,0,0,,¡Más vale que no te acerques!\N¡Si lo haces, me volaré a mí misma!
+Dialogue: 0,0:16:33.14,0:16:35.60,Default,,0,0,0,,Si yo muero, tus planes\Nse van al diablo, ¿no?
+Dialogue: 0,0:16:47.34,0:16:51.81,Default,,0,0,0,,¿Puedes oírme, Nº 18?\NSoy yo, Nº 17.
+Dialogue: 0,0:16:53.46,0:16:59.21,Default,,0,0,0,,Ahora formo parte de Cell.\NMe siento muy bien. Es genial.
+Dialogue: 0,0:16:59.86,0:17:02.61,Default,,0,0,0,,Deberías dejar que te\Nabsorbiera enseguida.
+Dialogue: 0,0:17:02.61,0:17:06.85,Default,,0,0,0,,Así nos convertiremos en la\Nforma de vida definitiva.
+Dialogue: 0,0:17:07.50,0:17:09.29,Default,,0,0,0,,Nº 17...
+Dialogue: 0,0:17:09.52,0:17:12.06,Default,,0,0,0,,¡No te dejes engañar, Nº 18!
+Dialogue: 0,0:17:13.22,0:17:17.57,Default,,0,0,0,,¡Es Cell! ¡Sólo está utilizando\Nla voz de Nº 17!
+Dialogue: 0,0:17:17.70,0:17:19.93,Default,,0,0,0,,¡Quédate tus comentarios\Ninoportunos para ti!
+Dialogue: 0,0:17:20.18,0:17:24.61,Default,,0,0,0,,Los robots no pueden...\N comprender nuestros sentimientos.
+Dialogue: 0,0:17:25.94,0:17:28.77,Default,,0,0,0,,Vamos, Nº 18. No tienes\Nnada que perder.
+Dialogue: 0,0:17:28.94,0:17:32.33,Default,,0,0,0,,Únete a nosotros y conseguirás\Nun poder inigualable.
+Dialogue: 0,0:17:32.46,0:17:35.32,Default,,0,0,0,,Así cumpliremos la voluntad de\Nnuestro amo y señor, el Dr. Gero.
+Dialogue: 0,0:17:36.82,0:17:40.90,Default,,0,0,0,,¡Acabaremos con Gokuh y tendremos\Nel Universo en nuestras manos!
+Dialogue: 0,0:17:41.94,0:17:44.77,Default,,0,0,0,,¡Tú no eres Nº 17!
+Dialogue: 0,0:17:47.42,0:17:51.85,Default,,0,0,0,,¡Nosotros odiábamos al Dr. Gero por\Nhabernos reconstruido a su antojo!
+Dialogue: 0,0:17:51.86,0:17:55.37,Default,,0,0,0,,¡Él jamás se habría referido a\Nél como nuestro amo y señor!
+Dialogue: 0,0:17:56.60,0:18:00.17,Default,,0,0,0,,Llegados a este punto, te absorberé\Naunque tenga que hacerlo por la fuerza.
+Dialogue: 0,0:18:03.82,0:18:05.93,Default,,0,0,0,,Deja tu inútil resistencia.
+Dialogue: 0,0:18:06.10,0:18:10.76,Default,,0,0,0,,Para lanzar un rayo de ki,\Nnecesitarás un instante para cargarlo.
+Dialogue: 0,0:18:11.01,0:18:16.45,Default,,0,0,0,,Existe la posibilidad de que pueda\N moverme más rápido y evite tu suicidio.
+Dialogue: 0,0:18:19.62,0:18:21.05,Default,,0,0,0,,Ríndete.
+Dialogue: 0,0:18:30.52,0:18:32.21,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:18:55.86,0:18:59.58,Default,,0,0,0,,¡Insecto! ¿Qué demonios crees\Nque estás haciendo?
+Dialogue: 0,0:19:10.04,0:19:13.05,Default,,0,0,0,,{\r\k77\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\t(0,385-500,0.5,\shad2\fscx120\fscy120\1c&HC0F3FF&\2c&HC0F3FF&\3c&H3A0F14&\4c&H6FD2E7&)\t(385-500,770,0.5,\shad1\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\fscx100\fscy100)\t(770,1470,0.5,\shad0\fscx90\fscy90\alpha&HFF&)}¡Shin {\r\k20\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\t(770,870-500,0.5,\shad2\fscx120\fscy120\1c&HC0F3FF&\2c&HC0F3FF&\3c&H3A0F14&\4c&H6FD2E7&)\t(870-500,970,0.5,\shad1\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\fscx100\fscy100)\t(970,1670,0.5,\shad0\fscx90\fscy90\alpha&HFF&)}Ki{\r\k47\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\t(970,1205-500,0.5,\shad2\fscx120\fscy120\1c&HC0F3FF&\2c&HC0F3FF&\3c&H3A0F14&\4c&H6FD2E7&)\t(1205-500,1440,0.5,\shad1\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\fscx100\fscy100)\t(1440,2140,0.5,\shad0\fscx90\fscy90\alpha&HFF&)}ko{\r\k136\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\t(1440,2120-500,0.5,\shad2\fscx120\fscy120\1c&HC0F3FF&\2c&HC0F3FF&\3c&H3A0F14&\4c&H6FD2E7&)\t(2120-500,2800,0.5,\shad1\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\fscx100\fscy100)\t(2800,3500,0.5,\shad0\fscx90\fscy90\alpha&HFF&)}ho!{\r\k21\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\t(2800,2905-500,0.5,\shad2\fscx120\fscy120\1c&HC0F3FF&\2c&HC0F3FF&\3c&H3A0F14&\4c&H6FD2E7&)\t(2905-500,3010,0.5,\shad1\1c&H00AACD&\2c&H00AACD&\3c&H3A0F14&\4c&H7A92A9&\fscx100\fscy100)\t(3010,3710,0.5,\shad0\fscx90\fscy90\alpha&HFF&)}
+Dialogue: 0,0:19:30.86,0:19:32.45,Default,,0,0,0,,¡Esa energía es...!
+Dialogue: 0,0:19:33.44,0:19:35.57,Default,,0,0,0,,¡Es la energía de Ten Shin Han!
+Dialogue: 0,0:19:36.46,0:19:39.12,Default,,0,0,0,,¿Ten Shin Han está\Nenfrentándose a Cell?
+Dialogue: 0,0:20:26.94,0:20:29.29,Default,,0,0,0,,¡¿Qué estás haciendo?!\N¡Rápido, escapa!
+Dialogue: 0,0:20:31.38,0:20:33.61,Default,,0,0,0,,¡Maldito!
+Dialogue: 0,0:20:48.21,0:20:50.69,Default,,0,0,0,,-¿Puedes volar?\N-Sí, más o menos.
+Dialogue: 0,0:21:23.06,0:21:26.84,Default,,0,0,0,,¡No lo hagas! ¡Para!\N¡Para, Ten Shin Han!
+Dialogue: 0,0:21:28.02,0:21:30.81,Default,,0,0,0,,¡Si disparas otra vez\Nel Kikoho, morirás!
+Dialogue: 0,0:21:41.81,0:21:45.25,Default,,0,0,0,,Finalmente, Cell ha\Nabsorbido a Nº 17.
+Dialogue: 0,0:22:11.12,0:22:12.80,Default,,0,0,0,,¡Para, Ten Shin Han!
+Dialogue: 0,0:22:13.80,0:22:16.60,Default,,0,0,0,,Ni siquiera el Shin Kikoho de\N Ten Shin Han hace daño...
+Dialogue: 0,0:22:16.61,0:22:19.56,Default,,0,0,0,,en un Cell que está más cerca\N de su forma perfecta.
+Dialogue: 0,0:22:19.73,0:22:26.82,Default,,0,0,0,,¿Llegarán a tiempo los Saiyajines\NVegeta, Trunks, Gokuh y Gohan?
+Dialogue: 0,0:22:43.85,0:22:47.59,Karaoke Japones,,0,0,0,,{\blur.8}kakete kuru yo appuru iro monsutaa
+Dialogue: 0,0:22:47.80,0:22:53.19,Karaoke Japones,,0,0,0,,{\blur.8}tonde kuru yo nattsu no kaori eirian
+Dialogue: 0,0:22:53.70,0:22:55.68,Karaoke Japones,,0,0,0,,{\blur.8}deatte dokkin{\fs30}-{\fs}dokkin
+Dialogue: 0,0:22:59.37,0:23:06.53,Karaoke Japones,,0,0,0,,{\blur.8}pika{\fs30}-{\fs}pika ginga wa poppukoon shawaa
+Dialogue: 0,0:23:06.69,0:23:11.16,Karaoke Japones,,0,0,0,,{\blur.8}kinou ni bai{\fs30} • {\fs}bai{\fs30} • {\fs}bai (Go{\fs30} • {\fs}ha{\fs30} • {\fs}n)
+Dialogue: 0,0:23:11.16,0:23:14.89,Karaoke Japones,,0,0,0,,{\blur.8}fu{\fs30} • {\fs}shi{\fs30} • {\fs}gi (ip{\fs30} • {\fs}pa{\fs30} • {\fs}i)
+Dialogue: 0,0:23:15.08,0:23:18.65,Karaoke Japones,,0,0,0,,{\blur.8}chikara o komete (okawari OK)
+Dialogue: 0,0:23:18.65,0:23:20.78,Karaoke Japones,,0,0,0,,{\blur.8}kochira e rai{\fs30} • {\fs}rai{\fs30} • {\fs}rai
+Dialogue: 0,0:23:23.00,0:23:30.13,Karaoke Japones,,0,0,0,,{\blur.8}Woh... mirakuru ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:30.83,0:23:32.55,Karaoke Japones,,0,0,0,,{\blur.8}haraheri wanpaku Kinto'un
+Dialogue: 0,0:23:32.80,0:23:34.58,Karaoke Japones,,0,0,0,,{\blur.8}yama hodo takusan suiheisen
+Dialogue: 0,0:23:34.80,0:23:38.68,Karaoke Japones,,0,0,0,,{\blur.8}deatte wakarete deatte wakarete ta{\fs30} • {\fs}i{\fs30} • {\fs}he{\fs30} • {\fs}n
+Dialogue: 0,0:23:38.68,0:23:43.70,Karaoke Japones,,0,0,0,,{\blur.8}Ah mou Kami{\fs30}-{\fs}sama mo tsurai yo ne{\fs35\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+Dialogue: 0,0:23:44.37,0:23:45.38,Karaoke Japones,,0,0,0,,{\blur.8}... go{\fs30} • {\fs}men
+Dialogue: 0,0:23:46.63,0:23:51.55,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:54.48,0:24:00.39,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:22:43.85,0:22:47.59,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:47.80,0:22:53.19,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:53.70,0:22:55.68,Karaoke Español,,0,0,0,,{\blur.8}Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:59.37,0:23:06.53,Karaoke Español,,0,0,0,,{\blur.8}La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:06.69,0:23:11.16,Karaoke Español,,0,0,0,,{\blur.8}Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:11.16,0:23:14.89,Karaoke Español,,0,0,0,,{\blur.8}Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:15.08,0:23:18.65,Karaoke Español,,0,0,0,,{\blur.8}Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:18.65,0:23:20.78,Karaoke Español,,0,0,0,,{\blur.8}Ahí está... ven, ven, ven
+Dialogue: 0,0:23:23.00,0:23:30.13,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:30.83,0:23:32.55,Karaoke Español,,0,0,0,,{\blur.8}La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:32.80,0:23:34.58,Karaoke Español,,0,0,0,,{\blur.8}Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:34.80,0:23:36.81,Karaoke Español,,0,0,0,,{\blur.8}Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:36.81,0:23:38.68,Karaoke Español,,0,0,0,,{\blur.8}¡Qué dolor!
+Dialogue: 0,0:23:38.68,0:23:43.70,Karaoke Español,,0,0,0,,{\blur.8}¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:44.37,0:23:45.38,Karaoke Español,,0,0,0,,{\blur.8}Lo siento.
+Dialogue: 0,0:23:46.63,0:23:51.55,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:54.48,0:24:00.39,Karaoke Español,,0,0,0,,{\blur.8}¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:24:06.80,0:24:09.09,Default,,0,0,0,,{\pos(340.619,102.81)}Avance
+Dialogue: 0,0:24:09.78,0:24:11.61,Default,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:11.61,0:24:14.40,Default,,0,0,0,,¡Quizás ahora no tenga el poder,\N pero Cell,
+Dialogue: 0,0:24:14.42,0:24:17.54,Default,,0,0,0,,espera sólo un día, \Ny te aseguro que te derrotaré!
+Dialogue: 0,0:24:17.55,0:24:19.82,Default,,0,0,0,,¿Qué puedes hacer en un sólo día?
+Dialogue: 0,0:24:19.84,0:24:24.03,Default,,0,0,0,,Tan sólo observa, con impotencia,\N como alcanzo mi forma perfecta.
+Dialogue: 0,0:24:24.03,0:24:26.04,Default,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:26.08,0:24:29.70,Default,,0,0,0,,¡Mañana voy a destruirte!\NEl desafío de Gokuh
+Dialogue: 0,0:24:29.70,0:24:32.56,Default,,0,0,0,,¡No nos culpes si mañana\N acabas llorando!
