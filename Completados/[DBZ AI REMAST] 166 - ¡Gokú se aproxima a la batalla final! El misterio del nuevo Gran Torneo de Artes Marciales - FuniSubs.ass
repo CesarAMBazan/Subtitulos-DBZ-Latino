@@ -1,0 +1,331 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.31,0:00:15.06,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.31,0:00:15.06,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:15.06,0:00:17.64,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:15.06,0:00:17.64,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.64,0:00:24.09,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.64,0:00:24.09,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.81,0:00:27.38,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.81,0:00:27.38,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.38,0:00:30.09,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.38,0:00:30.09,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:30.11,0:00:35.80,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:30.11,0:00:35.80,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:36.92,0:00:42.60,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:36.92,0:00:42.60,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.48,0:00:51.70,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.48,0:00:51.70,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.46,0:00:55.42,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.46,0:00:55.42,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:55.89,0:01:04.22,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:55.89,0:01:04.22,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:04.89,0:01:08.02,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:04.89,0:01:08.02,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.48,0:01:12.00,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.48,0:01:12.00,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.17,0:01:14.27,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.17,0:01:14.27,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.28,0:01:17.44,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.28,0:01:17.44,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:17.88,0:01:25.06,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:17.88,0:01:25.06,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.74,0:01:29.91,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.74,0:01:29.91,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.37,0:01:34.03,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.37,0:01:34.03,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:34.03,0:01:37.25,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:34.03,0:01:37.25,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.26,0:01:38.79,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.26,0:01:38.79,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:55.32,0:01:58.60,Default,,0,0,0,,Frente a la extraordinaria fuerza\Nde Cell, ni siquiera Trunks,
+Dialogue: 0,0:01:58.64,0:02:04.13,Default,,0,0,0,,que ha superado el poder del\NSúper Saiyajin, puede hacer nada.
+Dialogue: 0,0:02:05.20,0:02:10.37,Default,,0,0,0,,La Tierra se encuentra en\Ngrave peligro. Pero...
+Dialogue: 0,0:02:12.28,0:02:14.35,Default,,0,0,0,,Tengo una última pregunta.
+Dialogue: 0,0:02:14.37,0:02:18.26,Default,,0,0,0,,¿Cómo han aumentado tanto\Nde poder en tan poco tiempo?
+Dialogue: 0,0:02:18.68,0:02:21.67,Default,,0,0,0,,Si les doy más tiempo,\N¿podrían aumentar aún más de poder?
+Dialogue: 0,0:02:21.73,0:02:24.83,Default,,0,0,0,,¡¿Cómo quieres que lo sepa?!\N¡No lo sabré a menos que lo intente!
+Dialogue: 0,0:02:25.00,0:02:27.87,Default,,0,0,0,,Entonces, no es imposible, ¿no?
+Dialogue: 0,0:02:28.35,0:02:32.83,Default,,0,0,0,,Muy bien. En ese caso, celebraré\Nun torneo de artes marciales.
+Dialogue: 0,0:02:33.96,0:02:38.97,Default,,0,0,0,,¿Cómo? ¿Va a organizar un\Ntorneo de artes marciales?
+Dialogue: 0,0:02:39.12,0:02:41.83,Default,,0,0,0,,Detrás de esa total confianza\Nen sí mismo, Cell debe de
+Dialogue: 0,0:02:41.88,0:02:43.91,Default,,0,0,0,,esconder algún terrible secreto.
+Dialogue: 0,0:02:50.76,0:02:58.11,Default,,0,0,0,,
+Dialogue: 0,0:03:13.64,0:03:17.35,Default,,0,0,0,,Aunque, por supuesto, mi principal\Nobjetivo es contemplar
+Dialogue: 0,0:03:17.35,0:03:20.23,Default,,0,0,0,,las caras de terror de los humanos.
+Dialogue: 0,0:03:21.76,0:03:24.86,Default,,0,0,0,,Sí, sí... Justo esa cara.
+Dialogue: 0,0:03:30.24,0:03:34.53,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:04:16.48,0:04:19.77,Default,,0,0,0,,¡Menos mal!\N¡Parece que está bien!
+Dialogue: 0,0:04:20.28,0:04:24.55,Default,,0,0,0,,Pero, ¿qué ha pasado?\N¿Dónde está Cell?
+Dialogue: 0,0:04:25.00,0:04:27.31,Default,,0,0,0,,¡Eh! ¡Espérame!
+Dialogue: 0,0:04:30.44,0:04:31.47,Default,,0,0,0,,Padre...
+Dialogue: 0,0:04:36.72,0:04:38.95,Default,,0,0,0,,¿Qué ha pasado con Cell?
+Dialogue: 0,0:04:44.44,0:04:47.47,Default,,0,0,0,,No he podido... no he podido vencerlo...
+Dialogue: 0,0:04:48.56,0:04:51.91,Default,,0,0,0,,¿Se puede saber qué ha pasado aquí?
+Dialogue: 0,0:04:58.28,0:05:02.11,Default,,0,0,0,,Lo siento. No he podido hacer nada.
+Dialogue: 0,0:05:03.04,0:05:04.68,Default,,0,0,0,,Por supuesto que no.
+Dialogue: 0,0:05:05.52,0:05:10.71,Default,,0,0,0,,Es imposible que alguien como tú pueda\Nderrotar a Cell en su forma perfecta.
+Dialogue: 0,0:05:11.28,0:05:12.64,Default,,0,0,0,,¡No estés tan seguro!
+Dialogue: 0,0:05:12.68,0:05:14.53,Default,,0,0,0,,¡Después de todo, Trunks es\Nmucho más poderoso que t...!
+Dialogue: 0,0:05:14.53,0:05:15.71,Default,,0,0,0,,¡Krilin!
+Dialogue: 0,0:05:39.72,0:05:42.99,Default,,0,0,0,,Ya está, ya está, ya está...
+Dialogue: 0,0:05:43.92,0:05:48.60,Default,,0,0,0,,¡Eh, ustedes!\N¡No se queden ahí plantados!
+Dialogue: 0,0:05:48.66,0:05:52.79,Default,,0,0,0,,¡Vayan a ayudarlo! ¡Trunks...!\N¡Trunks morirá si no hacen nada!
+Dialogue: 0,0:05:56.00,0:05:58.91,Default,,0,0,0,,No te preocupes. Ha sobrevivido.
+Dialogue: 0,0:05:59.64,0:06:00.59,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:06:00.64,0:06:02.35,Default,,0,0,0,,¿Cómo es posible?
+Dialogue: 0,0:06:02.46,0:06:05.91,Default,,0,0,0,,¡Maldito Cell!\N¿Qué clase de monstruo es?
+Dialogue: 0,0:06:06.16,0:06:10.67,Default,,0,0,0,,Hubo un momento en el que el poder\Nde Trunks era superior al de Cell.
+Dialogue: 0,0:06:11.00,0:06:14.00,Default,,0,0,0,,¿Cómo diablos ha hecho\Npara recortar esa diferencia?
+Dialogue: 0,0:06:14.72,0:06:16.76,Default,,0,0,0,,Es tal y como me temía.
+Dialogue: 0,0:06:16.76,0:06:20.15,Default,,0,0,0,,Yo seré el siguiente en entrar en\Nla Sala del Espíritu y el Tiempo.
+Dialogue: 0,0:06:23.88,0:06:26.67,Default,,0,0,0,,¿Un torneo de artes marciales?
+Dialogue: 0,0:06:28.32,0:06:30.59,Default,,0,0,0,,¿Eso es lo que ha dicho?
+Dialogue: 0,0:06:30.76,0:06:34.67,Default,,0,0,0,,¡Mierda! ¡Se está divirtiendo\Na nuestra costa!
+Dialogue: 0,0:06:35.64,0:06:38.02,Default,,0,0,0,,Pero, ¿quién participará?
+Dialogue: 0,0:06:38.24,0:06:41.04,Default,,0,0,0,,Ni siquiera ustedes pueden hacer\Nnada contra un adversario así.
+Dialogue: 0,0:06:58.12,0:07:00.86,Default,,0,0,0,,Yo... ¡Yo...!
+Dialogue: 0,0:07:01.75,0:07:05.07,Default,,0,0,0,,En cuanto salga Gokuh, tengo intención\Nde volver a entrenarme en la Sala
+Dialogue: 0,0:07:05.11,0:07:07.04,Default,,0,0,0,,del Espíritu y el Tiempo.
+Dialogue: 0,0:07:09.08,0:07:12.11,Default,,0,0,0,,Ni tú ni Kakarotto serán necesarios.
+Dialogue: 0,0:07:13.00,0:07:18.07,Default,,0,0,0,,Si puedo entrenar un día más en la\NSala, yo me encargaré de todo.
+Dialogue: 0,0:07:20.28,0:07:21.50,Default,,0,0,0,,Yo también...
+Dialogue: 0,0:07:26.60,0:07:28.83,Default,,0,0,0,,¡Yo también participaré\Nen el torneo!
+Dialogue: 0,0:07:28.96,0:07:30.55,Default,,0,0,0,,¡Nº 16!
+Dialogue: 0,0:07:30.80,0:07:36.06,Default,,0,0,0,,Por favor, llévenme a la\NCapsule Corporation.
+Dialogue: 0,0:07:36.40,0:07:38.43,Default,,0,0,0,,¿A casa de mamá?
+Dialogue: 0,0:07:39.04,0:07:43.51,Default,,0,0,0,,Eso es. Allí podrán repararme\Npara que pueda luchar de nuevo.
+Dialogue: 0,0:07:43.88,0:07:47.03,Default,,0,0,0,,Estoy seguro de que puedo\Nresultar útil.
+Dialogue: 0,0:07:47.56,0:07:52.31,Default,,0,0,0,,¡No seas ridículo! Eres uno de\Nlos Androides del Dr. Gero, ¿no?
+Dialogue: 0,0:08:08.20,0:08:09.18,Default,,0,0,0,,¡No...!
+Dialogue: 0,0:08:15.84,0:08:18.62,Default,,0,0,0,,Muy bien. Te llevaré allí y\Npediré que te arreglen.
+Dialogue: 0,0:08:20.40,0:08:21.79,Default,,0,0,0,,¡Krilin!
+Dialogue: 0,0:08:22.32,0:08:26.79,Default,,0,0,0,,No te preocupes, Trunks.\NNo creo que sea malo.
+Dialogue: 0,0:08:26.92,0:08:27.98,Default,,0,0,0,,¡Pero... !
+Dialogue: 0,0:08:28.12,0:08:32.51,Default,,0,0,0,,Y esos dos que han sido absorbidos\Npor Cell tampoco eran malos.
+Dialogue: 0,0:08:33.00,0:08:37.24,Default,,0,0,0,,Parecen muy diferentes de\Nlos Androides de tu futuro.
+Dialogue: 0,0:08:37.48,0:08:39.35,Default,,0,0,0,,Pertenecen a otra dimensión.
+Dialogue: 0,0:08:39.92,0:08:44.51,Default,,0,0,0,,Además, ahora mismo necesitamos todos\Nlos\Naliados fuertes que podamos encontrar.
+Dialogue: 0,0:08:45.92,0:08:47.20,Default,,0,0,0,,Vamos...
+Dialogue: 0,0:08:48.68,0:08:49.90,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:08:54.16,0:08:56.39,Default,,0,0,0,,Date prisa y sal de\Nuna vez, Kakarotto.
+Dialogue: 0,0:08:56.52,0:08:59.03,Default,,0,0,0,,Todo lo que hagas será inútil.
+Dialogue: 0,0:08:59.28,0:09:05.48,Default,,0,0,0,,Si puedo entrar en esa sala otra vez, ya\Nno tendremos que preocuparnos de Cell.
+Dialogue: 0,0:10:46.26,0:10:47.99,Default,,0,0,0,,No perderé...
+Dialogue: 0,0:10:52.76,0:10:54.43,Default,,0,0,0,,Lo siento, papá.
+Dialogue: 0,0:10:55.72,0:10:58.04,Default,,0,0,0,,Me he dormido sin darme cuenta.
+Dialogue: 0,0:11:00.72,0:11:04.34,Default,,0,0,0,,Hoy has entrenado muy duro, Gohan.\NAhora descansa.
+Dialogue: 0,0:11:05.08,0:11:08.27,Default,,0,0,0,,Pero, ¿qué harás tú, papá?
+Dialogue: 0,0:11:10.62,0:11:13.19,Default,,0,0,0,,Yo voy a entrenar un poco más.
+Dialogue: 0,0:11:13.76,0:11:17.93,Default,,0,0,0,,¡Entonces, yo también!\N¡Llévame contigo!
+Dialogue: 0,0:11:21.76,0:11:24.71,Default,,0,0,0,,Está bien, yo también voy\Na dejarlo por hoy.
+Dialogue: 0,0:11:24.96,0:11:26.18,Default,,0,0,0,,Papá...
+Dialogue: 0,0:11:26.72,0:11:32.23,Default,,0,0,0,,Pero, Gohan... mañana tendremos\Nque entrenar más duro todavía.
+Dialogue: 0,0:11:32.36,0:11:37.20,Default,,0,0,0,,Tenemos que llegar más allá del\NSúper Saiyajin lo antes posible.
+Dialogue: 0,0:11:38.36,0:11:39.47,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:11:40.00,0:11:41.84,Default,,0,0,0,,¿Qué te parece si comemos algo?
+Dialogue: 0,0:11:41.93,0:11:42.79,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:11:57.84,0:12:00.14,Default,,0,0,0,,Siento haberos hecho esperar.
+Dialogue: 0,0:12:02.32,0:12:04.47,Default,,0,0,0,,Bebe todo lo que quieras.
+Dialogue: 0,0:12:07.73,0:12:11.17,Default,,0,0,0,,¡Vaya! Cuánto tiempo\Nsin verte, Vegeta.
+Dialogue: 0,0:12:12.93,0:12:15.51,Default,,0,0,0,,Estás tan apuesto como siempre.
+Dialogue: 0,0:12:17.60,0:12:21.22,Default,,0,0,0,,Y el joven que te acompaña\Ntambién es muy apuesto.
+Dialogue: 0,0:12:21.80,0:12:24.31,Default,,0,0,0,,¿Eres amigo de Vegeta?
+Dialogue: 0,0:12:24.56,0:12:27.15,Default,,0,0,0,,Encantado de conocerla.
+Dialogue: 0,0:12:32.08,0:12:34.33,Default,,0,0,0,,Disculpe. ¿Está Bulma en casa?
+Dialogue: 0,0:12:34.37,0:12:35.95,Default,,0,0,0,,¿Quién?
+Dialogue: 0,0:12:36.08,0:12:37.62,Default,,0,0,0,,Digo que si Bulma...
+Dialogue: 0,0:12:37.64,0:12:39.15,Default,,0,0,0,,¡Hola, Krilin!
+Dialogue: 0,0:12:41.00,0:12:45.94,Default,,0,0,0,,Si buscas a Bulma, acaba de llamarnos.\NDice que viene hacia aquí.
+Dialogue: 0,0:12:46.20,0:12:50.11,Default,,0,0,0,,Entonces, ¿aún no ha vuelto\Ndel Palacio de Kami Sama? Vaya...
+Dialogue: 0,0:12:59.00,0:13:00.63,Default,,0,0,0,,¡Mutenroshi!
+Dialogue: 0,0:13:01.68,0:13:05.42,Default,,0,0,0,,Hemos recibido el mensaje de\Nque todo el mundo se reuniría
+Dialogue: 0,0:13:05.42,0:13:06.95,Default,,0,0,0,,en la Capsule Corporation.
+Dialogue: 0,0:13:07.40,0:13:10.68,Default,,0,0,0,,Además, en la Kame House no hay forma\Nde estar al corriente de la situación.
+Dialogue: 0,0:13:11.06,0:13:12.95,Default,,0,0,0,,¿Dónde está Gohan?
+Dialogue: 0,0:13:13.08,0:13:15.75,Default,,0,0,0,,Bueno, sigue en el Palacio de Kami Sama...
+Dialogue: 0,0:13:16.08,0:13:17.60,Default,,0,0,0,,¿Aún?
+Dialogue: 0,0:13:20.55,0:13:26.03,Default,,0,0,0,,Vamos a ver... qué interesante...\Neso va aquí...
+Dialogue: 0,0:13:36.68,0:13:39.48,Default,,0,0,0,,Vaya... ¿un Gran Torneo\Nde Artes Marciales?
+Dialogue: 0,0:13:39.64,0:13:43.67,Default,,0,0,0,,Sí, eso es lo que ha dicho Cell.\NTendrá lugar dentro de diez días.
+Dialogue: 0,0:13:44.22,0:13:46.46,Default,,0,0,0,,Dijo que nos haría saber el lugar\Ny los detalles más adelante.
+Dialogue: 0,0:13:46.73,0:13:49.75,Default,,0,0,0,,¿Será como un torneo normal?
+Dialogue: 0,0:13:49.75,0:13:53.84,Default,,0,0,0,,No. Aunque no lo tengo muy claro,\Nparece ser que será un luchador
+Dialogue: 0,0:13:53.93,0:13:56.55,Default,,0,0,0,,por turno contra Cell.
+Dialogue: 0,0:13:56.64,0:14:00.93,Default,,0,0,0,,¡Maldito Cell! ¿Eso es lo que dice?\NYa comprendo.
+Dialogue: 0,0:14:01.20,0:14:05.31,Default,,0,0,0,,Se ha vuelto aún más arrogante ahora\Nque ha obtenido la forma perfecta.
+Dialogue: 0,0:14:05.60,0:14:09.99,Default,,0,0,0,,Aún y así, lo de organizar un Gran\NTorneo de Artes Marciales es buena idea.
+Dialogue: 0,0:14:10.16,0:14:12.17,Default,,0,0,0,,Estoy deseando demostrar mi fuerza.
+Dialogue: 0,0:14:12.31,0:14:14.27,Default,,0,0,0,,Esto es lo tuyo, ¿eh, Yamcha?
+Dialogue: 0,0:14:14.40,0:14:14.95,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:14:15.12,0:14:18.55,Default,,0,0,0,,Puedes decir lo que quieras,\Npero te eliminaron en cada uno de ellos.
+Dialogue: 0,0:14:22.08,0:14:27.67,Default,,0,0,0,,Kame Sennin, ¿puedes explicarme lo\Nque es el Gran Torneo de Artes Marciales?
+Dialogue: 0,0:14:28.00,0:14:32.28,Default,,0,0,0,,Oh, claro que sí. Como ganador del\NGran Torneo de Artes Marciales
+Dialogue: 0,0:14:32.31,0:14:34.51,Default,,0,0,0,,soy el más indicado para\Nexplicártelo.
+Dialogue: 0,0:14:35.92,0:14:39.67,Default,,0,0,0,,¿Tú también lo ganaste, Mutenroshi?
+Dialogue: 0,0:14:40.00,0:14:42.71,Default,,0,0,0,,Está hablando de hace\Nmucho tiempo.
+Dialogue: 0,0:14:44.40,0:14:47.87,Default,,0,0,0,,Hace mucho tiempo, tenía lugar una\Ncompetición entre maestros
+Dialogue: 0,0:14:47.97,0:14:52.71,Default,,0,0,0,,de artes marciales para determinar quién\Nde entre todos ellos era el número uno.
+Dialogue: 0,0:14:53.84,0:14:56.48,Default,,0,0,0,,La primera vez que Gokuh y\Nlos otros participaron fue en...
+Dialogue: 0,0:14:56.48,0:15:01.10,Default,,0,0,0,,vamos a ver, si no recuerdo mal... en el\N21º Torneo de Artes Marciales, ¿verdad?
+Dialogue: 0,0:15:01.24,0:15:05.87,Default,,0,0,0,,A pesar de que era la primera vez que\Nparticipaba, Gokuh llegó hasta la final.
+Dialogue: 0,0:15:06.15,0:15:08.95,Default,,0,0,0,,Pero allí encontró a un adversario\Nque fue demasiado para él.
+Dialogue: 0,0:15:08.97,0:15:13.51,Default,,0,0,0,,Fue derrotado por otro maestro\Nllamado Jackie Chun.
+Dialogue: 0,0:15:14.13,0:15:19.44,Default,,0,0,0,,Cinco años después, tuvo lugar el 22º\NGran Torneo de Artes Marciales.
+Dialogue: 0,0:15:19.84,0:15:25.11,Default,,0,0,0,,Esa fue la primera vez que vimos\Na Ten Shin Han y a Chaoz.
+Dialogue: 0,0:15:25.32,0:15:29.06,Default,,0,0,0,,Y así, mientras Gokuh y Ten Shin Han se\Nenfrentaban por la victoria final,
+Dialogue: 0,0:15:29.08,0:15:32.91,Default,,0,0,0,,Gokuh fue derrotado por un\Nmargen muy estrecho.
+Dialogue: 0,0:15:35.16,0:15:37.79,Default,,0,0,0,,Qué nivel más bajo...
+Dialogue: 0,0:15:38.68,0:15:43.07,Default,,0,0,0,,Eso explica por qué ustedes\Npudieron competir en ese torneo.
+Dialogue: 0,0:15:45.24,0:15:50.87,Default,,0,0,0,,Y el 23º Gran Torneo de Artes Marciales,\Nque tuvo lugar tres años después...
+Dialogue: 0,0:15:51.16,0:15:55.19,Default,,0,0,0,,Ése sí que fue un torneo\Nmovido y espectacular.
+Dialogue: 0,0:15:55.96,0:16:02.91,Default,,0,0,0,,Después de todo, Gokuh se casó, Piccolo\Nparticipó bajo el alias de Ma Junior
+Dialogue: 0,0:16:03.04,0:16:06.87,Default,,0,0,0,,e incluso Kami Sama tomó parte\Nposeyendo a un humano.
+Dialogue: 0,0:16:07.12,0:16:10.39,Default,,0,0,0,,Para entonces ya no era la clase de\Ntorneo en el que podía participar
+Dialogue: 0,0:16:10.40,0:16:11.78,Default,,0,0,0,,la gente normal.
+Dialogue: 0,0:16:13.56,0:16:19.06,Default,,0,0,0,,Y así, Gokuh y Piccolo se enfrentaron\Nen la gran final con el destino
+Dialogue: 0,0:16:19.11,0:16:21.71,Default,,0,0,0,,del mundo en juego.
+Dialogue: 0,0:16:22.44,0:16:28.19,Default,,0,0,0,,Al final, fue Gokuh quién venció y se\Nproclamó el hombre más fuerte del mundo.
+Dialogue: 0,0:16:30.16,0:16:35.53,Default,,0,0,0,,Pero el estadio quedó destruido y el\NGran Torneo de Artes Marciales
+Dialogue: 0,0:16:35.53,0:16:38.19,Default,,0,0,0,,no ha vuelto a celebrarse\Ndesde entonces.
+Dialogue: 0,0:16:47.20,0:16:53.51,Default,,0,0,0,,Eso fue... vamos a ver...\N¿Cuántos años hace? ¿Eh, Krilin?
+Dialogue: 0,0:16:57.32,0:17:02.07,Default,,0,0,0,,¿Así que es eso?\NDebió de ser terrible.
+Dialogue: 0,0:17:09.08,0:17:11.95,Default,,0,0,0,,Aún y así, ¿por qué Cell\Nquerría hacer algo así?
+Dialogue: 0,0:17:12.08,0:17:13.22,Default,,0,0,0,,Es verdad.
+Dialogue: 0,0:17:13.36,0:17:17.71,Default,,0,0,0,,Ganar el Gran Torneo de Artes Marciales\Nno le servirá para conquistar el mundo.
+Dialogue: 0,0:17:18.76,0:17:22.68,Default,,0,0,0,,Cell dijo que no tenía ningún\Ninterés en conquistar el mundo.
+Dialogue: 0,0:17:23.52,0:17:26.91,Default,,0,0,0,,Por lo que dijo, el propósito de este\Ntorneo es constatar su propia fuerza,
+Dialogue: 0,0:17:26.91,0:17:29.91,Default,,0,0,0,,así como sumergir al mundo\Nen el terror.
+Dialogue: 0,0:17:30.28,0:17:34.91,Default,,0,0,0,,Y que además le serviría como\Nejercicio para pulir su fuerza.
+Dialogue: 0,0:17:35.16,0:17:37.91,Default,,0,0,0,,Mierda... lo tiene muy creído.
+Dialogue: 0,0:17:38.08,0:17:38.84,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:17:38.84,0:17:42.43,Default,,0,0,0,,¡Nosotros también participaremos\Ny lo pondremos en su sitio!
+Dialogue: 0,0:17:42.56,0:17:43.42,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:17:44.72,0:17:46.87,Default,,0,0,0,,Dejen de decir estupideces.
+Dialogue: 0,0:17:47.00,0:17:50.62,Default,,0,0,0,,Unos luchadores de poca monta como\Nustedes no servirán de nada.
+Dialogue: 0,0:17:53.12,0:17:55.95,Default,,0,0,0,,Bueno, en cualquier caso,\Npueden estar tranquilos.
+Dialogue: 0,0:17:56.60,0:17:58.62,Default,,0,0,0,,¿Por qué dice eso?
+Dialogue: 0,0:17:58.62,0:18:00.38,Default,,0,0,0,,¿Y cómo quieres que lo sepa?
+Dialogue: 0,0:18:00.56,0:18:02.27,Default,,0,0,0,,¿No lo comprenden?
+Dialogue: 0,0:18:02.44,0:18:05.23,Default,,0,0,0,,Si organiza un Gran Torneo de Artes\NMarciales es que está dispuesto
+Dialogue: 0,0:18:05.28,0:18:07.39,Default,,0,0,0,,a seguir las reglas.
+Dialogue: 0,0:18:08.60,0:18:13.64,Default,,0,0,0,,Lo que significa que si mata a\Nalguien, será descalificado.
+Dialogue: 0,0:18:13.64,0:18:14.31,Default,,0,0,0,,¡Claro!
+Dialogue: 0,0:18:14.48,0:18:16.83,Default,,0,0,0,,En ese caso, yo también participaré.
+Dialogue: 0,0:18:16.96,0:18:18.95,Default,,0,0,0,,A lo mejor yo también participo.
+Dialogue: 0,0:18:19.08,0:18:23.07,Default,,0,0,0,,¿No me digas que aún te aferras\Na tu antigua gloria?
+Dialogue: 0,0:18:25.00,0:18:29.86,Default,,0,0,0,,Pero con una regla como ésa, la Tierra\Nseguro que sobrevive a esta crisis.
+Dialogue: 0,0:18:30.56,0:18:32.35,Default,,0,0,0,,Y además está Piccolo.
+Dialogue: 0,0:18:32.80,0:18:37.71,Default,,0,0,0,,Y Gokuh y Gohan saldrán de la Sala\Ndel Espíritu y el Tiempo...
+Dialogue: 0,0:18:38.00,0:18:38.83,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:18:39.04,0:18:40.15,Default,,0,0,0,,¡Es verdad!
+Dialogue: 0,0:18:40.76,0:18:42.23,Default,,0,0,0,,¡Un momento!
+Dialogue: 0,0:18:43.48,0:18:47.42,Default,,0,0,0,,Quizá no puedo impedir que\NGokuh participe, pero,
+Dialogue: 0,0:18:47.42,0:18:50.46,Default,,0,0,0,,¿Esperan que Gohan\Ntambién participe?
+Dialogue: 0,0:18:51.40,0:18:55.86,Default,,0,0,0,,Pero, tú misma lo has dicho, Chichi,\Nhay una regla que impide matar,
+Dialogue: 0,0:18:55.86,0:18:57.11,Default,,0,0,0,,así que no hay peligro...
+Dialogue: 0,0:18:57.11,0:19:00.15,Default,,0,0,0,,¡Tanto si hay peligro como si no,\Nno pienso permitir que Gohan
+Dialogue: 0,0:19:00.15,0:19:01.75,Default,,0,0,0,,participe en ningún torneo!
+Dialogue: 0,0:19:01.82,0:19:03.59,Default,,0,0,0,,¡Pero... !
+Dialogue: 0,0:19:03.92,0:19:06.71,Default,,0,0,0,,¡La Tierra ya se ha salvado\Nde esta crisis!
+Dialogue: 0,0:19:07.04,0:19:10.84,Default,,0,0,0,,¡Cell está organizando este Gran Torneo\Nde Artes Marciales para que aquellos
+Dialogue: 0,0:19:10.84,0:19:13.35,Default,,0,0,0,,que quieran luchar puedan hacerlo!
+Dialogue: 0,0:19:13.80,0:19:15.87,Default,,0,0,0,,Puede que sí, pero...
+Dialogue: 0,0:19:16.92,0:19:20.27,Default,,0,0,0,,¡Y por eso no voy a permitir\Nque Gohan vuelva a luchar!
+Dialogue: 0,0:19:20.40,0:19:23.94,Default,,0,0,0,,Cuando Gohan nació,\NGokuh accedió a eso.
+Dialogue: 0,0:19:24.76,0:19:27.06,Default,,0,0,0,,Es la hora del biberón.
+Dialogue: 0,0:19:37.52,0:19:41.43,Default,,0,0,0,,Gokuh, cuando este niño crezca\Nserá un gran sabio.
+Dialogue: 0,0:19:41.53,0:19:43.47,Default,,0,0,0,,¡Eh! ¿Un sabio?
+Dialogue: 0,0:19:44.00,0:19:47.07,Default,,0,0,0,,Eso es. Ahora la paz\Nreina en el mundo.
+Dialogue: 0,0:19:47.20,0:19:50.77,Default,,0,0,0,,No tiene ninguna utilidad convertirse\Nen un experto en artes marciales.
+Dialogue: 0,0:19:52.32,0:19:54.27,Default,,0,0,0,,Supongo que no...
+Dialogue: 0,0:19:58.00,0:19:58.95,Default,,0,0,0,,¡Es cierto!
+Dialogue: 0,0:19:59.08,0:20:02.35,Default,,0,0,0,,¡No pienso bajar la guardia ante\Nninguno de los aquí presentes!
+Dialogue: 0,0:20:02.52,0:20:05.71,Default,,0,0,0,,¡Quieren convertir a Gohan en un\Ndelincuente como ustedes!
+Dialogue: 0,0:20:06.06,0:20:07.68,Default,,0,0,0,,¿Delincuentes, dices?
+Dialogue: 0,0:20:07.71,0:20:08.97,Default,,0,0,0,,¡Eso es terrible!
+Dialogue: 0,0:20:09.00,0:20:10.80,Default,,0,0,0,,¿Yo también soy un delincuente?
+Dialogue: 0,0:20:25.17,0:20:28.73,Default,,0,0,0,,Respecto al estadio del torneo\Nde artes marciales...
+Dialogue: 0,0:20:28.93,0:20:30.75,Default,,0,0,0,,Bueno, este mismo sitio servirá.
+Dialogue: 0,0:20:43.48,0:20:46.11,Default,,0,0,0,,¿Qué tal si hago el ring un poco\Nmás grande que el del Gran Torneo
+Dialogue: 0,0:20:46.11,0:20:47.46,Default,,0,0,0,,de Artes Marciales?
+Dialogue: 0,0:21:10.28,0:21:11.79,Default,,0,0,0,,Y ahora...
+Dialogue: 0,0:21:34.08,0:21:37.91,Default,,0,0,0,,Tal y como pensaba, la piedra de\Naquí parece de buena calidad.
+Dialogue: 0,0:22:04.40,0:22:09.03,Default,,0,0,0,,Bien. Es un poco simple, pero\Nya lo decoraré más tarde.
+Dialogue: 0,0:22:09.40,0:22:12.46,Default,,0,0,0,,Y ahora, ¿qué tal si hago una visita\Na los estudios de televisión?
+Dialogue: 0,0:22:13.88,0:22:16.57,Default,,0,0,0,,Cell y su impredecible línea\Nde pensamiento...
+Dialogue: 0,0:22:16.57,0:22:21.35,Default,,0,0,0,,¿Seguro que el malvado Cell obedecerá\Nlas reglas del Gran Torneo
+Dialogue: 0,0:22:21.42,0:22:23.55,Default,,0,0,0,,de Artes Marciales?
+Dialogue: 0,0:22:23.91,0:22:27.51,Default,,0,0,0,,Algo terrible envuelve a este Súper\NGran Torneo de Artes Marciales
+Dialogue: 0,0:22:27.53,0:22:29.83,Default,,0,0,0,,que espera a sus guerreros.
+Dialogue: 0,0:22:44.76,0:22:48.50,Karaoke Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.76,0:22:48.50,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:48.71,0:22:54.10,Karaoke Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.71,0:22:54.10,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:54.61,0:22:56.59,Karaoke Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.61,0:22:56.59,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:00.28,0:23:07.44,Karaoke Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.28,0:23:07.44,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:07.60,0:23:12.07,Karaoke Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.60,0:23:12.07,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:12.07,0:23:15.80,Karaoke Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.07,0:23:15.80,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:15.99,0:23:19.56,Karaoke Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:15.99,0:23:19.56,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:19.56,0:23:21.69,Karaoke Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.56,0:23:21.69,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:23.91,0:23:31.04,Karaoke Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:23.91,0:23:31.04,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:31.74,0:23:33.46,Karaoke Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.74,0:23:33.46,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:33.71,0:23:35.49,Karaoke Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.71,0:23:35.49,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:35.71,0:23:37.72,Karaoke Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.71,0:23:37.72,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:37.72,0:23:39.59,Karaoke Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.72,0:23:39.59,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:39.59,0:23:44.61,Karaoke Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.59,0:23:44.61,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:45.28,0:23:46.29,Karaoke Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.28,0:23:46.29,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:47.54,0:23:52.46,Karaoke Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.54,0:23:52.46,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:55.39,0:24:01.30,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.39,0:24:01.30,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:24:08.46,0:24:11.09,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:11.45,0:24:13.28,Default,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:13.28,0:24:17.21,Default,,0,0,0,,Trunks, ¿estás seguro de que Cell dijo\Nque daría más detalles por TV?
+Dialogue: 0,0:24:17.21,0:24:20.18,Default,,0,0,0,,Gente del Mundo, tengo\N unas maravillosas noticias.
+Dialogue: 0,0:24:20.18,0:24:23.54,Default,,0,0,0,,He decidido que si pierden\Nel torneo que voy a celebrar,
+Dialogue: 0,0:24:23.54,0:24:27.03,Default,,0,0,0,,mataré hasta la última\Npersona de La Tierra.
+Dialogue: 0,0:24:27.20,0:24:29.18,Default,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:29.18,0:24:33.60,Default,,0,0,0,,¡100% de cuota de audiencia! Retransmisión\N en directo del mortífero Cell Game
+Dialogue: 0,0:24:33.60,0:24:35.31,Default,,0,0,0,,¡De ninguna manera\Nvamos a perder!
+Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,
+Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,
+Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,

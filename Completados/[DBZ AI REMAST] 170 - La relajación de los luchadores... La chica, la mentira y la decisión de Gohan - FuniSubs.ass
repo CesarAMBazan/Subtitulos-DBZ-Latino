@@ -1,0 +1,353 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:02:04.00,0:02:07.82,Default,,0,0,0,,Con la mirada puesta en el Cell Game,\Nel torneo de artes marciales que Cell va a celebrar,
+Dialogue: 0,0:02:07.82,0:02:12.31,Default,,0,0,0,,todos los luchadores han comenzado a entrenar duro. Pero...
+Dialogue: 0,0:02:12.96,0:02:15.39,Default,,0,0,0,,Recogeremos a mamá e\Niremos a casa.
+Dialogue: 0,0:02:15.52,0:02:17.39,Default,,0,0,0,,Allí nos relajaremos.
+Dialogue: 0,0:02:17.76,0:02:20.32,Default,,0,0,0,,Descansaremos tres días,\Nentrenaremos tres días
+Dialogue: 0,0:02:20.44,0:02:22.55,Default,,0,0,0,,y luego descansaremos\Notros tres días.
+Dialogue: 0,0:02:22.72,0:02:24.59,Default,,0,0,0,,Y entonces iremos al torneo.
+Dialogue: 0,0:02:26.12,0:02:27.39,Default,,0,0,0,,¡Oye, papá!
+Dialogue: 0,0:02:29.68,0:02:31.23,Default,,0,0,0,,¿De verdad que haremos eso?
+Dialogue: 0,0:02:31.36,0:02:33.79,Default,,0,0,0,,¿Seguro que así podremos\Nderrotar a Cell?
+Dialogue: 0,0:02:34.96,0:02:38.27,Default,,0,0,0,,No te preocupes.\NVamos a buscar a mamá.
+Dialogue: 0,0:02:42.16,0:02:46.83,Default,,0,0,0,,Gokuh y Gohan se están\Ntomando las cosas con calma.
+Dialogue: 0,0:02:47.28,0:02:52.75,Default,,0,0,0,,Pero, ¿seguro que así\Npodrán derrotar a Cell?
+Dialogue: 0,0:02:55.04,0:03:01.07,Default,,0,0,0,,
+Dialogue: 0,0:03:51.00,0:03:52.71,Default,,0,0,0,,Eso ha sido peligroso.
+Dialogue: 0,0:03:55.46,0:03:57.51,Default,,0,0,0,,¿Qué estás haciendo?\N¡Pervertido!
+Dialogue: 0,0:03:57.68,0:03:59.17,Default,,0,0,0,,¿Pervertido...?
+Dialogue: 0,0:04:13.16,0:04:14.87,Default,,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:04:15.80,0:04:18.39,Default,,0,0,0,,Da igual... tengo que hacer la compra.
+Dialogue: 0,0:04:30.32,0:04:33.47,Default,,0,0,0,,¿Aquí también ha huido toda la gente?
+Dialogue: 0,0:04:33.84,0:04:37.91,Default,,0,0,0,,Es el quinto pueblo que visito y\Naún no he podido comprar nada.
+Dialogue: 0,0:04:38.12,0:04:41.07,Default,,0,0,0,,Y no puedo llevarme las\Ncosas sin pagar...
+Dialogue: 0,0:04:41.20,0:04:43.79,Default,,0,0,0,,A ver si encuentro a\Nalguien que me ayude.
+Dialogue: 0,0:04:46.24,0:04:48.47,Default,,0,0,0,,Qué bien. Aquí hay alguien.
+Dialogue: 0,0:04:48.60,0:04:52.86,Default,,0,0,0,,¡Lo único que te pido es\Nun poco de comida y vino!
+Dialogue: 0,0:04:52.86,0:04:56.59,Default,,0,0,0,,No tengo nada para ustedes.\NMárchense de aquí.
+Dialogue: 0,0:04:56.76,0:05:00.57,Default,,0,0,0,,¡Cómo te atreves a faltarle\Nal respeto al Sr. Babon!
+Dialogue: 0,0:05:01.15,0:05:05.02,Default,,0,0,0,,Viejo, si haces lo que te pedimos,\Nte dejaremos entrar
+Dialogue: 0,0:05:05.06,0:05:08.26,Default,,0,0,0,,en el domo refugio del Sr. Babon.
+Dialogue: 0,0:05:08.26,0:05:11.86,Default,,0,0,0,,Como si fuera a servir de algo...\N¿Es que no hablo lo bastante claro?
+Dialogue: 0,0:05:12.00,0:05:13.19,Default,,0,0,0,,Esto...
+Dialogue: 0,0:05:13.60,0:05:15.23,Default,,0,0,0,,¿Y tú qué quieres?
+Dialogue: 0,0:05:15.56,0:05:17.91,Default,,0,0,0,,Quiero comprar algunas especias.
+Dialogue: 0,0:05:18.04,0:05:22.64,Default,,0,0,0,,Aquí no se vende nada. Lárgate.
+Dialogue: 0,0:05:23.76,0:05:25.40,Default,,0,0,0,,¿Pero las tienen o no?
+Dialogue: 0,0:05:25.42,0:05:28.47,Default,,0,0,0,,El Sr. Babon ha comprado\Ntodas las existencias.
+Dialogue: 0,0:05:28.64,0:05:29.93,Default,,0,0,0,,Tonterías...
+Dialogue: 0,0:05:29.93,0:05:30.83,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:05:30.86,0:05:34.23,Default,,0,0,0,,Joven, ¿qué clase de\Ncondimentos quieres?
+Dialogue: 0,0:05:36.80,0:05:38.64,Default,,0,0,0,,A ver...
+Dialogue: 0,0:05:38.80,0:05:43.17,Default,,0,0,0,,¡Viejo, más vale que\Nno te precipites!
+Dialogue: 0,0:05:43.64,0:05:48.23,Default,,0,0,0,,Toda la gente del pueblo está ayudando\Na construir el domo refugio.
+Dialogue: 0,0:05:48.36,0:05:53.03,Default,,0,0,0,,¿Ayudando, dices?\N¡Ustedes los fuerzan a hacerlo!
+Dialogue: 0,0:05:54.48,0:05:58.23,Default,,0,0,0,,Parece que es inútil tratar\Nde razonar con él.
+Dialogue: 0,0:06:01.60,0:06:02.79,Default,,0,0,0,,¡Para!
+Dialogue: 0,0:06:04.92,0:06:07.55,Default,,0,0,0,,¡Cell! ¡Viene Cell!
+Dialogue: 0,0:06:08.32,0:06:10.27,Default,,0,0,0,,¿Cómo? ¡No puede ser...!
+Dialogue: 0,0:06:10.64,0:06:12.27,Default,,0,0,0,,¿Ha dicho Cell?
+Dialogue: 0,0:06:12.35,0:06:14.98,Default,,0,0,0,,¡Rápido! ¡Al domo refugio!
+Dialogue: 0,0:06:16.64,0:06:20.07,Default,,0,0,0,,¡Viejo, espero que Cell te coma vivo!
+Dialogue: 0,0:06:21.92,0:06:23.79,Default,,0,0,0,,¡Cell está aquí!
+Dialogue: 0,0:06:24.44,0:06:27.28,Default,,0,0,0,,¡Cell! ¡Viene Cell!
+Dialogue: 0,0:06:27.82,0:06:31.64,Default,,0,0,0,,¡Cell está aquí!\N¡Escapen antes de que sea tarde!
+Dialogue: 0,0:06:32.64,0:06:34.39,Default,,0,0,0,,¡Eres la que...!
+Dialogue: 0,0:06:35.64,0:06:37.63,Default,,0,0,0,,¡Otra vez tú!
+Dialogue: 0,0:06:40.72,0:06:44.28,Default,,0,0,0,,¿Cuántas veces tengo que\Ndecirte que no digas mentiras?
+Dialogue: 0,0:06:45.88,0:06:47.31,Default,,0,0,0,,¿Mentiras?
+Dialogue: 0,0:06:48.12,0:06:51.63,Default,,0,0,0,,¿Ése es el domo refugio donde\Nvan a esconderse de Cell?
+Dialogue: 0,0:06:51.80,0:06:57.59,Default,,0,0,0,,Eso es. Han llegado cientos\Nde personas de la ciudad.
+Dialogue: 0,0:06:57.80,0:07:01.67,Default,,0,0,0,,Pero, ¿por qué creen que\Nahí están seguros?
+Dialogue: 0,0:07:03.52,0:07:08.54,Default,,0,0,0,,Ha corrido el rumor de que Cell\Nno volverá a pasar por aquí
+Dialogue: 0,0:07:08.72,0:07:11.79,Default,,0,0,0,,porque ya ha visitado esta zona.
+Dialogue: 0,0:07:13.16,0:07:14.91,Default,,0,0,0,,¿Quieres decir...?
+Dialogue: 0,0:07:15.08,0:07:19.63,Default,,0,0,0,,Eso es. Cell apareció por\Naquí no hace mucho.
+Dialogue: 0,0:07:25.64,0:07:29.95,Default,,0,0,0,,Ya no queda más energía vital\Nque valga la pena por aquí.
+Dialogue: 0,0:07:38.68,0:07:41.14,Default,,0,0,0,,Los padres de esta niña\Nmurieron entonces.
+Dialogue: 0,0:07:41.32,0:07:42.75,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:07:45.52,0:07:49.99,Default,,0,0,0,,Los que nunca han visto a ese monstruo\Nno saben que es inútil esconderse de él.
+Dialogue: 0,0:07:50.32,0:07:55.48,Default,,0,0,0,,Por eso confían ciegamente en eso.
+Dialogue: 0,0:07:59.16,0:08:01.31,Default,,0,0,0,,¡Son unos idiotas!
+Dialogue: 0,0:08:01.44,0:08:03.47,Default,,0,0,0,,Sólo quedan ocho días.
+Dialogue: 0,0:08:03.60,0:08:06.99,Default,,0,0,0,,Y nadie de este mundo puede\Nderrotar a ese monstruo.
+Dialogue: 0,0:08:07.24,0:08:11.79,Default,,0,0,0,,Así que sólo quiero vivir en paz\Nhasta que llegue el fin del mundo.
+Dialogue: 0,0:08:14.48,0:08:19.27,Default,,0,0,0,,Abuelo, estás cansado.\NDeja que te ayude.
+Dialogue: 0,0:08:20.00,0:08:22.27,Default,,0,0,0,,Tú no puedes hacer esto.
+Dialogue: 0,0:08:22.40,0:08:24.55,Default,,0,0,0,,Deje que lo haga yo.
+Dialogue: 0,0:08:31.96,0:08:34.34,Default,,0,0,0,,Está bien, te lo agradezco.
+Dialogue: 0,0:08:42.60,0:08:43.79,Default,,0,0,0,,¡Eh, hermanito!
+Dialogue: 0,0:08:47.80,0:08:49.77,Default,,0,0,0,,Hermanito, pareces tonto.
+Dialogue: 0,0:08:49.84,0:08:53.82,Default,,0,0,0,,No se puede cortar leña sin\Nel hacha. Toma.
+Dialogue: 0,0:08:55.93,0:08:58.80,Default,,0,0,0,,Ah, claro.
+Dialogue: 0,0:09:17.72,0:09:21.23,Default,,0,0,0,,Gokuh, en serio, ¿cómo puedes\Nestar tan relajado?
+Dialogue: 0,0:09:22.08,0:09:23.47,Default,,0,0,0,,¿Cómo dices?
+Dialogue: 0,0:09:23.60,0:09:28.35,Default,,0,0,0,,Sólo quedan ocho días.\NTienes que prepararte, ¿no?
+Dialogue: 0,0:09:28.76,0:09:33.33,Default,,0,0,0,,Tu forma de bostezar\Nme pone nervioso.
+Dialogue: 0,0:09:33.42,0:09:34.97,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:09:39.72,0:09:42.79,Default,,0,0,0,,Desde luego, a ti no se\Nte ve nada nervioso.
+Dialogue: 0,0:09:45.80,0:09:48.87,Default,,0,0,0,,¡Vamos, vamos! ¡Más rápido!\N¡Aún queda otra hora!
+Dialogue: 0,0:09:49.00,0:09:52.75,Default,,0,0,0,,¡Tienen que traer toda la comida!\N¡¿Entendido?!
+Dialogue: 0,0:09:56.17,0:09:58.62,Default,,0,0,0,,¡Idiotas!
+Dialogue: 0,0:09:58.77,0:10:02.80,Default,,0,0,0,,¡No hay ni el menor rastro de Cell!\N¡¿Qué tonterías son ésas?!
+Dialogue: 0,0:10:03.13,0:10:06.08,Default,,0,0,0,,Cuando alguien me toma el pelo\Nme hace sentir como un idiota.
+Dialogue: 0,0:10:06.16,0:10:10.60,Default,,0,0,0,,-Lo sentimos, Sr. Babon.\N-Han dicho que venía Cell.
+Dialogue: 0,0:10:10.60,0:10:14.66,Default,,0,0,0,,¡No quiero volver a ver vuestras caras!\NFuera de mi vista.
+Dialogue: 0,0:10:19.16,0:10:22.19,Default,,0,0,0,,Cell jamás vendrá aquí.
+Dialogue: 0,0:10:23.36,0:10:27.59,Default,,0,0,0,,Y aunque lo haga, estaremos\Nseguros en el domo refugio.
+Dialogue: 0,0:10:31.24,0:10:34.91,Default,,0,0,0,,¡Si sobrevivimos, el dinero y el\Npoder serán lo más importante!
+Dialogue: 0,0:10:36.96,0:10:39.59,Default,,0,0,0,,¡Y yo tengo ambos!
+Dialogue: 0,0:10:41.36,0:10:43.27,Default,,0,0,0,,¿Cómo va eso?
+Dialogue: 0,0:10:43.48,0:10:45.95,Default,,0,0,0,,¡Ah, es el maestro!
+Dialogue: 0,0:10:46.75,0:10:49.03,Default,,0,0,0,,¿Y qué le trae por aquí?
+Dialogue: 0,0:10:49.16,0:10:52.88,Default,,0,0,0,,Gracias por contratar mis servicios\Ncomo asesino profesional,
+Dialogue: 0,0:10:52.95,0:10:56.40,Default,,0,0,0,,pero me estoy aburriendo\Nsoberanamente.
+Dialogue: 0,0:10:56.88,0:11:03.79,Default,,0,0,0,,¿Hay alguien a quien quiera que mate?\NSólo son cincuenta millones por persona.
+Dialogue: 0,0:11:04.12,0:11:08.68,Default,,0,0,0,,Maestro Tao Pai Pai,\Nel mejor asesino del mundo.
+Dialogue: 0,0:11:08.71,0:11:11.79,Default,,0,0,0,,Sólo quiero utilizarle cuando\Nsea estrictamente necesario.
+Dialogue: 0,0:11:11.92,0:11:17.00,Default,,0,0,0,,¿De veras? Qué lástima.\NEn ese caso, no habrá descuentos.
+Dialogue: 0,0:11:17.06,0:11:20.62,Default,,0,0,0,,Aquí el dinero se marcha volando.
+Dialogue: 0,0:11:21.92,0:11:25.27,Default,,0,0,0,,No se preocupe. Aún queda mucho.
+Dialogue: 0,0:11:26.56,0:11:27.91,Default,,0,0,0,,¿De veras?
+Dialogue: 0,0:11:49.40,0:11:53.11,Default,,0,0,0,,Piccolo, si tardas un segundo\Nmás de la cuenta,
+Dialogue: 0,0:11:53.31,0:11:55.97,Default,,0,0,0,,derribaré la puerta y\Nte sacaré a rastras.
+Dialogue: 0,0:12:05.86,0:12:07.42,Default,,0,0,0,,¿Qué pasa, Piccolo?
+Dialogue: 0,0:12:07.60,0:12:10.97,Default,,0,0,0,,¿Es que quieres derrotarme\Ncon ese nivel de poder?
+Dialogue: 0,0:12:11.57,0:12:13.46,Default,,0,0,0,,¡Maldito!
+Dialogue: 0,0:12:55.91,0:12:59.11,Default,,0,0,0,,Mierda...
+Dialogue: 0,0:13:00.75,0:13:02.00,Default,,0,0,0,,¡Aún me falta!
+Dialogue: 0,0:13:05.88,0:13:11.08,Default,,0,0,0,,¡Eh, joven! ¿Quieres comprar algo\Nmás aparte de los condimentos?
+Dialogue: 0,0:13:17.55,0:13:19.80,Default,,0,0,0,,¿Dónde se habrán metido esos dos?
+Dialogue: 0,0:13:26.40,0:13:29.11,Default,,0,0,0,,Hermanito, pareces buena persona.
+Dialogue: 0,0:13:32.42,0:13:33.77,Default,,0,0,0,,¿Eso crees?
+Dialogue: 0,0:13:34.46,0:13:38.00,Default,,0,0,0,,Basta con verte para saber\Nque no buscas pelea.
+Dialogue: 0,0:13:39.00,0:13:43.25,Default,,0,0,0,,Pero a mí me gustan los tipos duros.\NComo el abuelo.
+Dialogue: 0,0:13:43.82,0:13:45.53,Default,,0,0,0,,¿Como el abuelo?
+Dialogue: 0,0:13:45.66,0:13:49.24,Default,,0,0,0,,Ahí donde le ves, el abuelo es un\Ngran experto en artes marciales.
+Dialogue: 0,0:13:49.31,0:13:52.76,Default,,0,0,0,,Solía participar en el Gran\NTorneo de Artes Marciales.
+Dialogue: 0,0:13:52.94,0:13:55.40,Default,,0,0,0,,Vaya, ya veo.
+Dialogue: 0,0:13:55.94,0:14:01.13,Default,,0,0,0,,Ojalá que el abuelo le diera\Nuna paliza a ese Babon.
+Dialogue: 0,0:14:03.22,0:14:04.64,Default,,0,0,0,,¿Qué ha sido eso?
+Dialogue: 0,0:14:05.42,0:14:08.29,Default,,0,0,0,,Eso es que han terminado\Nel domo refugio.
+Dialogue: 0,0:14:08.98,0:14:10.46,Default,,0,0,0,,¡Vamos a echar un vistazo!
+Dialogue: 0,0:14:10.46,0:14:11.53,Default,,0,0,0,,Sí...
+Dialogue: 0,0:14:19.71,0:14:25.00,Default,,0,0,0,,Gracias a todos sus esfuerzos, el domo\Nrefugio ha sido finalmente completado.
+Dialogue: 0,0:14:25.44,0:14:30.15,Default,,0,0,0,,¡Genial!\N¡Bravo!
+Dialogue: 0,0:14:30.22,0:14:38.73,Default,,0,0,0,,Me hace muy feliz que el domo refugio\Nvaya a servir para salvar a mucha gente.
+Dialogue: 0,0:14:38.74,0:14:41.53,Default,,0,0,0,,Se lo tiene muy creído. Vamos...
+Dialogue: 0,0:14:43.42,0:14:46.11,Default,,0,0,0,,¡Es Cell! ¡Viene Cell!
+Dialogue: 0,0:14:46.11,0:14:47.64,Default,,0,0,0,,¡No...!
+Dialogue: 0,0:14:47.64,0:14:50.89,Default,,0,0,0,,¿Ha dicho Cell?\N¡Todos al refugio!
+Dialogue: 0,0:14:51.08,0:14:54.61,Default,,0,0,0,,¡Viene Cell!\N¡Corran por sus vidas!
+Dialogue: 0,0:14:54.68,0:14:56.21,Default,,0,0,0,,¡Es Cell!
+Dialogue: 0,0:14:59.38,0:15:01.37,Default,,0,0,0,,¡Rápido, cerrad las puertas!
+Dialogue: 0,0:15:01.46,0:15:05.85,Default,,0,0,0,,-Pero aún queda mucha gente fuera.\N-¡Idiota! ¡Ellos me importan un comino!
+Dialogue: 0,0:15:13.71,0:15:15.85,Default,,0,0,0,,¿Por qué cierra las puertas?
+Dialogue: 0,0:15:17.82,0:15:20.42,Default,,0,0,0,,Hermanito, ha mostrado\Nsu verdadera cara.
+Dialogue: 0,0:15:20.42,0:15:21.75,Default,,0,0,0,,Anda, eres tu..
+Dialogue: 0,0:15:24.14,0:15:27.53,Default,,0,0,0,,Tú debes de haber sido la que\Nnos ha engañado antes.
+Dialogue: 0,0:15:28.53,0:15:32.40,Default,,0,0,0,,¡Eh, Babon!\N¡Esto no es lo que nos habías dicho!
+Dialogue: 0,0:15:32.44,0:15:35.91,Default,,0,0,0,,¡Es verdad!\N¡Nosotros también hemos pagado!
+Dialogue: 0,0:15:35.95,0:15:38.40,Default,,0,0,0,,¡Mala suerte!
+Dialogue: 0,0:15:39.11,0:15:40.53,Default,,0,0,0,,¡Desgraciado! ¡Sal!
+Dialogue: 0,0:15:44.66,0:15:49.17,Default,,0,0,0,,¡Sr. Babon, no se preocupe!\N¡Ha sido una travesura de niños!
+Dialogue: 0,0:15:49.30,0:15:50.88,Default,,0,0,0,,¡¿Cómo?!
+Dialogue: 0,0:15:58.42,0:16:00.80,Default,,0,0,0,,¡¿Una travesura de niños?!
+Dialogue: 0,0:16:01.02,0:16:03.05,Default,,0,0,0,,Sr. Babon, ha sido ella.
+Dialogue: 0,0:16:03.78,0:16:06.57,Default,,0,0,0,,¡Eres una niña muy mala!
+Dialogue: 0,0:16:08.58,0:16:11.51,Default,,0,0,0,,Sr. Babon, me gustaría\Nhablar con usted.
+Dialogue: 0,0:16:11.51,0:16:15.69,Default,,0,0,0,,Ha hecho mal en mentir, pero usted\Ntampoco ha obrado correctamente.
+Dialogue: 0,0:16:15.94,0:16:19.37,Default,,0,0,0,,¿Y tú quién eres?\N¡No estoy hablando contigo!
+Dialogue: 0,0:16:19.54,0:16:23.97,Default,,0,0,0,,Un domo como éste no podrá resistir\Nel poder de Cell. Y además...
+Dialogue: 0,0:16:24.93,0:16:29.45,Default,,0,0,0,,¡Tonterías! ¡Tonterías!\N¡Ustedes, hágan callar a este mocoso!
+Dialogue: 0,0:16:29.58,0:16:30.53,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:16:30.64,0:16:34.77,Default,,0,0,0,,Deténganse. No es más que un niño.\NNo le hagan daño.
+Dialogue: 0,0:16:34.94,0:16:36.45,Default,,0,0,0,,¡Cierre el pico!
+Dialogue: 0,0:16:36.58,0:16:41.93,Default,,0,0,0,,¡Si quieren quedarse en mi domo refugio,\Nmás vale que me hagan caso!
+Dialogue: 0,0:16:45.50,0:16:46.64,Default,,0,0,0,,¡Un momento!
+Dialogue: 0,0:16:49.18,0:16:50.69,Default,,0,0,0,,¡Abuelo!
+Dialogue: 0,0:16:51.50,0:16:54.65,Default,,0,0,0,,No permitiré que les hagan\Ndaño a estos niños.
+Dialogue: 0,0:16:54.78,0:16:56.09,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:16:56.42,0:16:59.84,Default,,0,0,0,,¡No tengan miedo de ese viejo!\N¡Dénle una lección!
+Dialogue: 0,0:16:59.84,0:17:00.69,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:17:01.58,0:17:04.14,Default,,0,0,0,,Abuelo, deje que le ayude.
+Dialogue: 0,0:17:04.30,0:17:06.91,Default,,0,0,0,,No, puedo encargarme de esto yo solo.
+Dialogue: 0,0:17:06.95,0:17:08.44,Default,,0,0,0,,¡Desgraciado!
+Dialogue: 0,0:17:13.10,0:17:16.06,Default,,0,0,0,,¡Mierda! ¿Cómo te atreves a\Nhacerle esto a mi compañero?
+Dialogue: 0,0:17:26.17,0:17:27.33,Default,,0,0,0,,¡Maldito!
+Dialogue: 0,0:17:31.66,0:17:36.24,Default,,0,0,0,,¡Mierda! ¡Maestro!\N¡Maestro Tao Pai Pai!
+Dialogue: 0,0:17:38.13,0:17:40.42,Default,,0,0,0,,¿Puedo hacer algo por usted?
+Dialogue: 0,0:17:40.98,0:17:46.81,Default,,0,0,0,,Ha llegado el momento de trabajar.\NEs él. Quiero que se deshaga de él.
+Dialogue: 0,0:17:49.54,0:17:52.13,Default,,0,0,0,,Muy bien, será visto y no visto.
+Dialogue: 0,0:18:08.46,0:18:11.49,Default,,0,0,0,,Oh, bien esquivado.
+Dialogue: 0,0:18:12.26,0:18:12.93,Default,,0,0,0,,¡Abuelo!
+Dialogue: 0,0:18:12.93,0:18:18.45,Default,,0,0,0,,Joven, no te conviene meterte\Nen esta pelea. Déjamela a mí.
+Dialogue: 0,0:18:18.70,0:18:21.26,Default,,0,0,0,,¿Ya sabe quién soy?
+Dialogue: 0,0:18:31.50,0:18:34.21,Default,,0,0,0,,¡Maestro, acabe con él!
+Dialogue: 0,0:18:39.18,0:18:42.13,Default,,0,0,0,,Es un desperdicio malgastarlo contigo,\Npero espero que te guste
+Dialogue: 0,0:18:42.13,0:18:43.85,Default,,0,0,0,,mi Súper Dondonpa.
+Dialogue: 0,0:18:50.38,0:18:51.17,Default,,0,0,0,,¡Muere!
+Dialogue: 0,0:18:51.30,0:18:53.45,Tao Pai Pai - Super Dondonpa,,0,0,0,,
+Dialogue: 0,0:18:57.02,0:18:58.81,Default,,0,0,0,,¡Abuelo!
+Dialogue: 0,0:19:05.36,0:19:06.37,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:19:06.43,0:19:07.73,Default,,0,0,0,,¡Es imposible!
+Dialogue: 0,0:19:07.90,0:19:10.17,Default,,0,0,0,,¡Deja que yo sea tu adversario!
+Dialogue: 0,0:19:11.47,0:19:12.97,Default,,0,0,0,,¡Hermanito!
+Dialogue: 0,0:19:13.42,0:19:18.65,Default,,0,0,0,,Qué mocoso más arrogante...\NMuy bien, te mataré a ti primero.
+Dialogue: 0,0:19:20.26,0:19:23.33,Default,,0,0,0,,Pero juraría que he visto\Na este mocoso antes.
+Dialogue: 0,0:19:23.46,0:19:25.25,Default,,0,0,0,,¡Muchacho, ¿cómo te llamas?!
+Dialogue: 0,0:19:25.38,0:19:26.73,Default,,0,0,0,,¡Son Gohan!
+Dialogue: 0,0:19:26.94,0:19:30.77,Default,,0,0,0,,¿Son Gohan? ¿Y tienes alguna\Nrelación con Son Gokuh?
+Dialogue: 0,0:19:30.98,0:19:33.44,Default,,0,0,0,,¡Son Gokuh es mi padre!
+Dialogue: 0,0:19:33.62,0:19:34.89,Default,,0,0,0,,¡¿Cómo?!
+Dialogue: 0,0:19:39.34,0:19:41.61,Default,,0,0,0,,¡Me rindo, me rindo, me rindo!
+Dialogue: 0,0:19:41.74,0:19:43.05,Default,,0,0,0,,¡Has ganado!
+Dialogue: 0,0:19:55.90,0:20:00.17,Default,,0,0,0,,¿Qué le ocurre, maestro?\N¡Acabe con él de una vez!
+Dialogue: 0,0:20:00.20,0:20:03.73,Default,,0,0,0,,Ya está. Lo dejo.
+Dialogue: 0,0:20:04.89,0:20:06.72,Default,,0,0,0,,Dejo mi trabajo de guardaespaldas.
+Dialogue: 0,0:20:13.82,0:20:15.61,Default,,0,0,0,,¡Hasta la vista!
+Dialogue: 0,0:20:15.62,0:20:17.92,Default,,0,0,0,,¡Maestro Tao Pai Pai!
+Dialogue: 0,0:20:25.66,0:20:29.00,Default,,0,0,0,,¡Maestro, sólo tiene que decirme\Nel precio y se lo pagaré,
+Dialogue: 0,0:20:29.02,0:20:31.01,Default,,0,0,0,,pero ocúpese de ellos!
+Dialogue: 0,0:20:31.13,0:20:32.28,Default,,0,0,0,,¿Se refiere a mí?
+Dialogue: 0,0:20:32.28,0:20:35.40,Default,,0,0,0,,Claro que sí.\NNo me abandone, maestro.
+Dialogue: 0,0:20:50.54,0:20:52.17,Default,,0,0,0,,¿Qué ha sido eso?
+Dialogue: 0,0:20:52.34,0:20:57.65,Default,,0,0,0,,¿No lo comprende? Incluso un niño\Ncomo yo puede destruirlo fácilmente.
+Dialogue: 0,0:20:57.86,0:21:00.69,Default,,0,0,0,,¿Cómo va a resistir a Cell?
+Dialogue: 0,0:21:03.18,0:21:04.81,Default,,0,0,0,,Amigos, no se preocupen.
+Dialogue: 0,0:21:04.94,0:21:07.68,Default,,0,0,0,,Les aseguro que en el torneo de artes\Nmarciales habrá alguien capaz
+Dialogue: 0,0:21:07.69,0:21:09.05,Default,,0,0,0,,de derrotar a Cell.
+Dialogue: 0,0:21:09.22,0:21:12.01,Default,,0,0,0,,No se preocupen y vivan\Nsus vidas como siempre.
+Dialogue: 0,0:21:13.44,0:21:16.33,Default,,0,0,0,,A lo mejor no pasa nada...\NTodo saldrá bien...
+Dialogue: 0,0:21:16.46,0:21:17.85,Default,,0,0,0,,¡Gohan!
+Dialogue: 0,0:21:18.98,0:21:20.12,Default,,0,0,0,,¡Papá!
+Dialogue: 0,0:21:22.66,0:21:26.73,Default,,0,0,0,,Hace mucho que saliste a comprar.\NTu madre está enfadada.
+Dialogue: 0,0:21:26.76,0:21:28.33,Default,,0,0,0,,Lo había olvidado...
+Dialogue: 0,0:21:29.10,0:21:30.65,Default,,0,0,0,,Toma, hermanito.
+Dialogue: 0,0:21:31.14,0:21:32.33,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:21:34.30,0:21:36.93,Default,,0,0,0,,¿Usted es el padre de este muchacho?
+Dialogue: 0,0:21:37.10,0:21:38.24,Default,,0,0,0,,Sí, eso es.
+Dialogue: 0,0:21:38.70,0:21:41.97,Default,,0,0,0,,Ambos poseen un gran poder.
+Dialogue: 0,0:21:45.07,0:21:47.07,Default,,0,0,0,,Lo has notado, ¿eh, abuelo?
+Dialogue: 0,0:21:48.06,0:21:49.17,Default,,0,0,0,,Abuelo...
+Dialogue: 0,0:21:49.90,0:21:51.37,Default,,0,0,0,,Muchas gracias.
+Dialogue: 0,0:21:51.47,0:21:53.10,Default,,0,0,0,,Ven a visitarnos cuando quieras.
+Dialogue: 0,0:21:53.10,0:21:54.10,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:21:54.26,0:21:55.28,Default,,0,0,0,,Vamos, Gohan.
+Dialogue: 0,0:21:55.29,0:21:56.13,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:21:56.90,0:21:59.36,Default,,0,0,0,,¡Tienen que derrotar a Cell!
+Dialogue: 0,0:22:00.51,0:22:04.01,Default,,0,0,0,,Pelearan en ese Gran Torneo\Nde Artes Marciales, ¿no?
+Dialogue: 0,0:22:04.66,0:22:05.42,Default,,0,0,0,,Sí...
+Dialogue: 0,0:22:09.78,0:22:13.90,Default,,0,0,0,,¡Hermanito! ¡Adiós!
+Dialogue: 0,0:22:15.06,0:22:18.60,Default,,0,0,0,,Dentro de ocho días dará\Ncomienzo el Cell Game.
+Dialogue: 0,0:22:18.90,0:22:26.57,Default,,0,0,0,,Entretanto, ¿podrán Gokuh y Gohan\Nsuperar\Nel poder de la forma perfecta de Cell?
+Dialogue: 0,0:22:44.77,0:22:48.51,Karaoke Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.77,0:22:48.51,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:48.72,0:22:54.11,Karaoke Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.72,0:22:54.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:54.62,0:22:56.60,Karaoke Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.62,0:22:56.60,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:00.29,0:23:07.45,Karaoke Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.29,0:23:07.45,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:07.61,0:23:12.08,Karaoke Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.61,0:23:12.08,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:12.08,0:23:15.81,Karaoke Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.08,0:23:15.81,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:16.00,0:23:19.57,Karaoke Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:16.00,0:23:19.57,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:19.57,0:23:21.70,Karaoke Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.57,0:23:21.70,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:23.92,0:23:31.05,Karaoke Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:23.92,0:23:31.05,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:31.75,0:23:33.47,Karaoke Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.75,0:23:33.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:33.72,0:23:35.50,Karaoke Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.72,0:23:35.50,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:35.72,0:23:37.73,Karaoke Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.72,0:23:37.73,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:37.73,0:23:39.60,Karaoke Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.73,0:23:39.60,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:39.60,0:23:44.62,Karaoke Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.60,0:23:44.62,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:45.29,0:23:46.30,Karaoke Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.29,0:23:46.30,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:47.55,0:23:52.47,Karaoke Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.55,0:23:52.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:55.40,0:24:01.31,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.40,0:24:01.31,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:24:08.46,0:24:11.09,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:11.90,0:24:13.76,Default,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:13.76,0:24:18.20,Default,,0,0,0,,Krilin, mira.\NEsto me trae muy buenos recuerdos.
+Dialogue: 0,0:24:18.20,0:24:20.37,Default,,0,0,0,,Éstas son fotos de cuando\NGohan era un bebé.
+Dialogue: 0,0:24:20.37,0:24:22.94,Default,,0,0,0,,¿Ah, sí?\NEra muy lindo, si.
+Dialogue: 0,0:24:22.94,0:24:26.18,Default,,0,0,0,,¿Qué clase de niño era\NGohan por aquel entonces?
+Dialogue: 0,0:24:26.18,0:24:28.05,Default,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:28.05,0:24:31.72,Default,,0,0,0,,¡Fuerza oculta! Cuando Gohan\Nno era más que un bebé
+Dialogue: 0,0:24:31.72,0:24:35.87,Default,,0,0,0,,Ahora que lo pienso, ¿por qué me pusieron el nombre de "Gohan"?
+Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,
+Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,
+Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,

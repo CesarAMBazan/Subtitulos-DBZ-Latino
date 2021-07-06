@@ -1,0 +1,214 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:50.50,0:01:55.09,Default,,0,0,0,,Después de alcanzar la forma perfecta,\Nel poder de Cell es tan inmenso
+Dialogue: 0,0:01:55.10,0:01:58.53,Default,,0,0,0,,que supera incluso a Súper Vegeta.
+Dialogue: 0,0:02:00.22,0:02:03.02,Default,,0,0,0,,¡Trunks, es ahora o nunca!
+Dialogue: 0,0:02:03.33,0:02:06.97,Default,,0,0,0,,¡Es el momento de que te conviertas\Nen ese Súper Saiyajin invencible!
+Dialogue: 0,0:02:14.90,0:02:18.52,Default,,0,0,0,,Voy a matarte, Cell.
+Dialogue: 0,0:02:19.22,0:02:24.66,Default,,0,0,0,,Ha llegado el momento de comprobar el\Nalcance del poder de mi forma perfecta.
+Dialogue: 0,0:02:54.45,0:03:00.74,Default,,0,0,0,,
+Dialogue: 0,0:03:47.82,0:03:49.93,Default,,0,0,0,,Su energía es terrorífica...
+Dialogue: 0,0:04:17.78,0:04:19.69,Default,,0,0,0,,Es la energía de Trunks.
+Dialogue: 0,0:04:20.57,0:04:24.57,Default,,0,0,0,,Increíble... y eso que ya\Nnos hemos alejado bastante.
+Dialogue: 0,0:04:25.54,0:04:28.65,Default,,0,0,0,,Esos Saiyajines son realmente\Nterroríficos.
+Dialogue: 0,0:04:44.38,0:04:46.06,Default,,0,0,0,,¡Esta vez es un terremoto!
+Dialogue: 0,0:04:52.22,0:04:55.20,Default,,0,0,0,,Es terrible. Deja que me apoye...
+Dialogue: 0,0:04:55.42,0:04:58.00,Default,,0,0,0,,¡¿Qué estás haciendo,\Nviejo pervertido?!
+Dialogue: 0,0:05:12.44,0:05:15.97,Default,,0,0,0,,Qué energía más increíble. ¿Es...?
+Dialogue: 0,0:05:16.59,0:05:18.59,Default,,0,0,0,,Es la energía de Trunks.
+Dialogue: 0,0:05:21.34,0:05:24.57,Default,,0,0,0,,Es más increíble que la de Vegeta.\N¡Mucho más increíble!
+Dialogue: 0,0:05:24.97,0:05:26.62,Default,,0,0,0,,¡Seguro que puede derrotar a Cell!
+Dialogue: 0,0:05:33.81,0:05:40.65,Default,,0,0,0,,Un poder formidable. Ciertamente no puede\Ncompararse con el de tu padre, Vegeta.
+Dialogue: 0,0:05:40.67,0:05:45.05,Default,,0,0,0,,¡No permitiré que ustedes los\NAndroides se salgan con la suya!
+Dialogue: 0,0:05:46.92,0:05:52.33,Default,,0,0,0,,¡No permitiré que se repita el\Ninfierno de ese futuro de desesperación!
+Dialogue: 0,0:06:03.95,0:06:06.90,Default,,0,0,0,,¡Son los Androides! ¡Los Androides\Nhan venido a por nosotros!
+Dialogue: 0,0:06:06.91,0:06:09.05,Default,,0,0,0,,¡Son Nº 17 y Nº 18!
+Dialogue: 0,0:06:34.37,0:06:37.09,Default,,0,0,0,,Es divertido destruir ciudades.
+Dialogue: 0,0:06:37.66,0:06:42.01,Default,,0,0,0,,Mira esta ciudad, ¿cuántos años se\Nnecesitan para que se desarrolle así?
+Dialogue: 0,0:06:42.11,0:06:44.77,Default,,0,0,0,,Pero sólo se tarda un\Nsegundo en destruirla.
+Dialogue: 0,0:06:45.09,0:06:47.52,Default,,0,0,0,,Aún así, empieza a ser aburrido.
+Dialogue: 0,0:06:48.02,0:06:50.53,Default,,0,0,0,,¿Es que no hay nadie que pueda\Noponerse a nosotros?
+Dialogue: 0,0:06:51.65,0:06:55.33,Default,,0,0,0,,Los Androides eran fuertes.\NDemasiado fuertes.
+Dialogue: 0,0:06:56.53,0:07:01.33,Default,,0,0,0,,Los guerreros que se opusieron a ellos\Nfueron asesinados por su terrible poder.
+Dialogue: 0,0:07:01.88,0:07:03.37,Default,,0,0,0,,Incluido mi padre, Vegeta.
+Dialogue: 0,0:07:12.36,0:07:14.89,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:07:23.18,0:07:24.41,Default,,0,0,0,,Y también Piccolo...
+Dialogue: 0,0:07:39.31,0:07:40.34,Default,,0,0,0,,Y también Krilin...
+Dialogue: 0,0:07:49.89,0:07:59.53,Default,,0,0,0,,Y entonces, Ten Shin Han, Yamcha y\NYajirobee... acabaron con todos.
+Dialogue: 0,0:08:00.84,0:08:03.70,Default,,0,0,0,,Sólo quedamos Gohan y yo.
+Dialogue: 0,0:08:14.06,0:08:16.25,Default,,0,0,0,,Vaya... ¿Son Gohan?
+Dialogue: 0,0:08:16.93,0:08:19.57,Default,,0,0,0,,No podrán salirse siempre\Ncon la suya!
+Dialogue: 0,0:08:22.36,0:08:28.37,Default,,0,0,0,,Aquellos a los que matamos, Piccolo y\NVegeta, dijeron exactamente lo mismo.
+Dialogue: 0,0:08:33.24,0:08:35.01,Default,,0,0,0,,¡Trunks, apártate!
+Dialogue: 0,0:08:35.38,0:08:36.17,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:08:54.65,0:08:56.22,Default,,0,0,0,,¡Gohan!
+Dialogue: 0,0:09:03.14,0:09:05.81,Default,,0,0,0,,¿Cómo te atreves a cortar\Nmi precioso pelo?
+Dialogue: 0,0:09:23.18,0:09:26.85,Default,,0,0,0,,¡Mierda! ¡Muere!
+Dialogue: 0,0:09:29.66,0:09:32.70,Default,,0,0,0,,
+Dialogue: 0,0:09:50.10,0:09:52.97,Default,,0,0,0,,¡Mierda! ¡¿Dónde están?!
+Dialogue: 0,0:09:57.60,0:10:02.10,Default,,0,0,0,,Tendremos que aniquilar a fondo esta zona.\NDestruiremos un lugar tras otro.
+Dialogue: 0,0:10:08.12,0:10:09.37,Default,,0,0,0,,Gohan...
+Dialogue: 0,0:10:09.78,0:10:12.68,Default,,0,0,0,,No hay nada que hacer.\NNo somos rivales para ellos.
+Dialogue: 0,0:10:14.40,0:10:15.97,Default,,0,0,0,,Qué rabia...
+Dialogue: 0,0:10:17.92,0:10:22.27,Default,,0,0,0,,Si al menos mi padre, que murió de un\Nataque al corazón, siguiera vivo...
+Dialogue: 0,0:10:23.85,0:10:26.94,Default,,0,0,0,,Conociendo a papá, habría luchado\Nvalientemente sin dudarlo
+Dialogue: 0,0:10:26.96,0:10:31.31,Default,,0,0,0,,bajo cualquier circunstancia.\NQuiero ser tan fuerte como papá.
+Dialogue: 0,0:10:32.14,0:10:33.07,Default,,0,0,0,,Gohan...
+Dialogue: 0,0:10:39.68,0:10:43.42,Default,,0,0,0,,Después de eso, la batalla\Ncontra los Androides continuó...
+Dialogue: 0,0:10:44.93,0:10:48.40,Default,,0,0,0,,Y con el tiempo, Gohan\Nfue asesinado.
+Dialogue: 0,0:10:49.24,0:10:52.19,Default,,0,0,0,,Y yo me convertí en el último\Nguerrero que quedó.
+Dialogue: 0,0:10:52.59,0:10:57.15,Default,,0,0,0,,Por culpa de tan sólo dos Androides,\Nel futuro se convirtió en un infierno.
+Dialogue: 0,0:11:01.46,0:11:06.01,Default,,0,0,0,,¡No permitiré que ese miserable\Nfuturo se repita, Cell!
+Dialogue: 0,0:11:06.62,0:11:09.63,Default,,0,0,0,,¡En nombre del futuro de\Nla Tierra, te mataré!
+Dialogue: 0,0:11:32.61,0:11:36.70,Default,,0,0,0,,Muy bien, muy bien.\NQué poder más impresionante.
+Dialogue: 0,0:11:37.48,0:11:41.91,Default,,0,0,0,,Puede que incluso sea superior al mío.\NEstoy complacido.
+Dialogue: 0,0:11:45.40,0:11:50.16,Default,,0,0,0,,Apuesto a que incluso el Dr. Gero estaría\Ncontento de que hubiera encontrado
+Dialogue: 0,0:11:50.21,0:11:55.55,Default,,0,0,0,,un oponente con el que medir\Nmi poder definitivo.
+Dialogue: 0,0:12:34.59,0:12:38.03,Androide 20 - Dr. Gero,,0,0,0,,¡Cell! Soy el Dr. Gero.
+Dialogue: 0,0:12:38.56,0:12:42.15,Androide 20 - Dr. Gero,,0,0,0,,Tú eres el androide definitivo,\Ncultivado por mi ordenador
+Dialogue: 0,0:12:42.28,0:12:47.40,Androide 20 - Dr. Gero,,0,0,0,,a partir de las células de expertos\Nen artes marciales que he reunido.
+Dialogue: 0,0:12:47.96,0:12:50.52,Androide 20 - Dr. Gero,,0,0,0,,Tengo muchas esperanzas\Npuestas en ti.
+Dialogue: 0,0:12:50.56,0:12:55.73,Androide 20 - Dr. Gero,,0,0,0,,Cuando seas completado, poseerás\Nun poder terrible y asombroso
+Dialogue: 0,0:12:55.73,0:12:59.26,Androide 20 - Dr. Gero,,0,0,0,,y te convertirás en el\Nandroide definitivo.
+Dialogue: 0,0:13:30.10,0:13:36.71,Androide 20 - Dr. Gero,,0,0,0,,Cell, absorbe la energía vital de los\Nseres vivos y continúa creciendo.
+Dialogue: 0,0:13:36.91,0:13:42.64,Androide 20 - Dr. Gero,,0,0,0,,Y entonces cuando absorbas a mis otras\Ncreaciones, los Androides Nº 17 y Nº 18,
+Dialogue: 0,0:13:42.67,0:13:47.88,Androide 20 - Dr. Gero,,0,0,0,,y alcances la forma perfecta,\Nobtendrás el poder definitivo
+Dialogue: 0,0:13:47.90,0:13:50.41,Androide 20 - Dr. Gero,,0,0,0,,y serás invencible en este mundo.
+Dialogue: 0,0:15:12.44,0:15:14.55,Default,,0,0,0,,¿Qué es ese monstruo?
+Dialogue: 0,0:15:30.68,0:15:32.96,Default,,0,0,0,,¡A por él! ¡Derribenlo!
+Dialogue: 0,0:16:06.10,0:16:07.42,Default,,0,0,0,,¡Corran!
+Dialogue: 0,0:16:12.25,0:16:13.59,Default,,0,0,0,,¡Auxilio!
+Dialogue: 0,0:16:39.86,0:16:43.91,Default,,0,0,0,,El estudio del Dr. Gero fue perfecto.
+Dialogue: 0,0:16:44.52,0:16:47.91,Default,,0,0,0,,Al haber sido concebido a partir\Nde las células de los mejores expertos
+Dialogue: 0,0:16:47.95,0:16:51.89,Default,,0,0,0,,en artes marciales, no tuve\Nninguna oposición.
+Dialogue: 0,0:16:52.44,0:16:58.76,Default,,0,0,0,,Sin embargo, no di con Nº 17 y\NNº 18 a pesar de que los busqué
+Dialogue: 0,0:16:58.76,0:17:00.11,Default,,0,0,0,,por todas partes.
+Dialogue: 0,0:17:34.28,0:17:41.63,Default,,0,0,0,,Cuando salí a la superficie, Nº 17\Ny Nº 18 ya no estaban ahí.
+Dialogue: 0,0:17:42.56,0:17:45.99,Default,,0,0,0,,Aparentemente, tú los\Nhabías derrotado.
+Dialogue: 0,0:17:51.40,0:17:56.91,Default,,0,0,0,,Pero gracias a tu máquina del tiempo\Nfui capaz de regresar a este pasado,
+Dialogue: 0,0:17:56.97,0:18:02.99,Default,,0,0,0,,encontrar a Nº 17 y Nº 18 de esta\Népoca y alcanzar la forma perfecta.
+Dialogue: 0,0:18:05.28,0:18:08.71,Default,,0,0,0,,Finalmente, mi deseo se\Nha hecho realidad.
+Dialogue: 0,0:18:24.26,0:18:29.71,Default,,0,0,0,,Estoy ansioso por probar el\Npoder de mi forma perfecta.
+Dialogue: 0,0:18:33.08,0:18:35.55,Default,,0,0,0,,¡Voy a concederte tu deseo, Cell!
+Dialogue: 0,0:18:36.15,0:18:40.35,Default,,0,0,0,,Ahora te mostraré el verdadero\Npoder de los Saiyajines.
+Dialogue: 0,0:19:38.64,0:19:39.64,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:20:01.31,0:20:05.64,Default,,0,0,0,,¿Qué clase de gente son?\NNi siquiera puedo ver sus movimientos.
+Dialogue: 0,0:20:08.92,0:20:10.67,Default,,0,0,0,,¡Voy a matarte!
+Dialogue: 0,0:20:11.68,0:20:15.06,Default,,0,0,0,,¡No permitiré que los Androides hagan\Nlo que quieran con la Tierra!
+Dialogue: 0,0:21:31.57,0:21:36.23,Default,,0,0,0,,Ya veo. Está claro que tienes\Nun poder extraordinario.
+Dialogue: 0,0:21:36.44,0:21:39.67,Default,,0,0,0,,Es posible que incluso sea\Nsuperior al mío.
+Dialogue: 0,0:21:43.40,0:21:49.26,Default,,0,0,0,,Pero de esta forma no podrás derrotarme.\NDe ninguna de las maneras.
+Dialogue: 0,0:22:00.16,0:22:03.27,Default,,0,0,0,,¡Estás diciendo cosas sin sentido!
+Dialogue: 0,0:22:05.00,0:22:06.43,Default,,0,0,0,,¿Eso crees?
+Dialogue: 0,0:22:11.46,0:22:18.60,Default,,0,0,0,,El choque entre la total confianza de\NTrunks y la forma perfecta de Cell
+Dialogue: 0,0:22:18.60,0:22:20.35,Default,,0,0,0,,está en marcha.
+Dialogue: 0,0:22:20.55,0:22:26.78,Default,,0,0,0,,Sin embargo, ¿cómo que es Cell se ve\Ntan confiado y seguro de sí mismo?
+Dialogue: 0,0:22:44.64,0:22:48.38,Karaoke Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.64,0:22:48.38,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:48.59,0:22:53.98,Karaoke Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.59,0:22:53.98,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:54.49,0:22:56.47,Karaoke Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.49,0:22:56.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:00.16,0:23:07.32,Karaoke Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.16,0:23:07.32,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:07.48,0:23:11.95,Karaoke Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.48,0:23:11.95,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:11.95,0:23:15.68,Karaoke Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:11.95,0:23:15.68,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:15.87,0:23:19.44,Karaoke Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:15.87,0:23:19.44,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:19.44,0:23:21.57,Karaoke Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.44,0:23:21.57,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:23.79,0:23:30.92,Karaoke Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:23.79,0:23:30.92,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:31.62,0:23:33.34,Karaoke Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.62,0:23:33.34,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:33.59,0:23:35.37,Karaoke Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.59,0:23:35.37,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:35.59,0:23:37.60,Karaoke Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.59,0:23:37.60,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:37.60,0:23:39.47,Karaoke Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.60,0:23:39.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:39.47,0:23:44.49,Karaoke Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.47,0:23:44.49,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:45.16,0:23:46.17,Karaoke Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.16,0:23:46.17,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:47.42,0:23:52.34,Karaoke Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.42,0:23:52.34,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:55.27,0:24:01.18,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.27,0:24:01.18,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:24:08.30,0:24:10.92,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:11.61,0:24:13.92,Default,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:13.92,0:24:17.05,Default,,0,0,0,,El ki de Trunks ha disminuido\Nmuchísimo.
+Dialogue: 0,0:24:17.05,0:24:19.22,Default,,0,0,0,,Y dijo que estaba seguro\Nde que ganaría.
+Dialogue: 0,0:24:19.22,0:24:23.52,Default,,0,0,0,,Les daré diez días de margen.\NEs una buena oportunidad.
+Dialogue: 0,0:24:23.52,0:24:25.76,Default,,0,0,0,,Asegúrense de volverse\Nmás fuertes.
+Dialogue: 0,0:24:25.76,0:24:27.80,Default,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:27.80,0:24:32.30,Default,,0,0,0,,¡Súper Trunks tiene un punto débil!\NLa impactante revelación bomba de Cell
+Dialogue: 0,0:24:32.30,0:24:34.20,Default,,0,0,0,,¿Dices qué Cell está organizando\Nun Torneo de Artes Marciales?
+Dialogue: 0,0:24:34.49,0:24:37.95,Default,,0,0,0,,
+Dialogue: 0,0:24:34.49,0:24:37.95,Default,,0,0,0,,
+Dialogue: 0,0:24:34.49,0:24:37.95,Default,,0,0,0,,
