@@ -68,7 +68,7 @@ Dialogue: 0,0:01:57.10,0:02:01.53,Default,,0,0,0,,para absorber a Nº 18 y\Ncomi
 Dialogue: 0,0:02:24.55,0:02:30.65,Default,,0,0,0,,Mientras tanto, Vegeta y Trunks han\Nsalido de la Habitación del Espíritu
 Dialogue: 0,0:02:30.67,0:02:33.85,Default,,0,0,0,,y el Tiempo y se dirigen a toda\Nvelocidad al encuentro con Cell.
 Dialogue: 0,0:02:48.94,0:02:52.33,Default,,0,0,0,,Parece que Cell ha empezado\Na hacer una escena.
-Dialogue: 0,0:02:54.02,0:02:59.07,Default,,0,0,0,,Gokuh y Gohan, padre e hijo, han entrado\N a la habitación del Espíritu y el Tiempo.
+Dialogue: 0,0:02:54.02,0:02:59.07,Default,,0,0,0,,Gokú y Gohan, padre e hijo, han entrado\N a la habitación del Espíritu y el Tiempo.
 Dialogue: 0,0:02:59.10,0:03:04.30,Default,,0,0,0,,¿Conseguirán ir más allá de los límites\N de un Súper Saiyajin?
 Dialogue: 0,0:03:38.98,0:03:41.45,Default,,0,0,0,,¡Por mucho que te escondas,\Nno servirá de nada!
 Dialogue: 0,0:03:41.50,0:03:44.69,Default,,0,0,0,,¡Te equivocas si crees que\Npuedes esconderte, Nº 18!
@@ -85,12 +85,12 @@ Dialogue: 0,0:05:57.72,0:06:00.37,Default,,0,0,0,,Parece mentira que pueda despl
 Dialogue: 0,0:06:22.85,0:06:26.75,Default,,0,0,0,,Desconozco cuánto han aumentado\Nde poder Vegeta y Trunks,
 Dialogue: 0,0:06:26.77,0:06:30.53,Default,,0,0,0,,pero el poder de Cell no se\Npuede tomar a la ligera.
 Dialogue: 0,0:06:30.82,0:06:34.77,Default,,0,0,0,,Si fuera capaz de absorber a Nº 18\Ny alcanzar la forma perfecta
-Dialogue: 0,0:06:34.80,0:06:38.20,Default,,0,0,0,,antes de que Gokuh finalice su\Nentrenamiento especial...
-Dialogue: 0,0:06:40.62,0:06:42.81,Default,,0,0,0,,Ni siquiera Gokuh\Npodría derrotarlo.
+Dialogue: 0,0:06:34.80,0:06:38.20,Default,,0,0,0,,antes de que Gokú finalice su\Nentrenamiento especial...
+Dialogue: 0,0:06:40.62,0:06:42.81,Default,,0,0,0,,Ni siquiera Gokú\Npodría derrotarlo.
 Dialogue: 0,0:06:44.42,0:06:46.41,Default,,0,0,0,,Podría ser el fin de todo.
 Dialogue: 0,0:06:48.67,0:06:53.41,Default,,0,0,0,,Mierda. En toda mi vida, jamás se\Nme había hecho tan largo un día.
 Dialogue: 0,0:06:54.55,0:06:57.69,Default,,0,0,0,,¿Cómo pueden tener miedo unos\Nhombres como ustedes?
-Dialogue: 0,0:06:57.82,0:07:01.13,Default,,0,0,0,,¡Gokuh es el más fuerte del Universo!\N¡Seguro que gana!
+Dialogue: 0,0:06:57.82,0:07:01.13,Default,,0,0,0,,¡Gokú es el más fuerte del Universo!\N¡Seguro que gana!
 Dialogue: 0,0:07:01.30,0:07:03.41,Default,,0,0,0,,¡No hay más que hablar!\N¡¿Entendido?!
 Dialogue: 0,0:07:07.86,0:07:11.73,Default,,0,0,0,,Ya está, ya está, no llores más... Trunks,\Nsi estás hecho un hombre.
 Dialogue: 0,0:07:11.86,0:07:13.33,Default,,0,0,0,,¡Qué alto! ¡Qué alto!
@@ -212,7 +212,7 @@ Dialogue: 0,0:19:27.38,0:19:32.05,Default,,0,0,0,,Además, el tú que moría en 
 Dialogue: 0,0:19:33.62,0:19:34.81,Default,,0,0,0,,Claro...
 Dialogue: 0,0:19:34.98,0:19:36.65,Default,,0,0,0,,Todo depende de ti.
 Dialogue: 0,0:19:38.82,0:19:40.85,Default,,0,0,0,,¡Cuando quieras, papá!
-Dialogue: 0,0:19:41.26,0:19:45.40,Default,,0,0,0,,Eso es, así me gusta. Voy a ser\Naún más duro que Piccolo.
+Dialogue: 0,0:19:41.26,0:19:45.40,Default,,0,0,0,,Eso es, así me gusta. Voy a ser\Naún más duro que Píkoro.
 Dialogue: 0,0:19:45.60,0:19:46.97,Default,,0,0,0,,Más vale que te prepares.
 Dialogue: 0,0:19:47.14,0:19:48.01,Default,,0,0,0,,¡Sí!
 Dialogue: 0,0:20:05.30,0:20:09.00,Default,,0,0,0,,¡No puede ser!\N¡Aún sigue aumentando!
@@ -259,7 +259,7 @@ Dialogue: 0,0:23:44.17,0:23:45.18,Karaoke Español,,0,0,0,,{\blur.8}Lo siento.
 Dialogue: 0,0:23:46.43,0:23:51.35,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Saciante Poder Zenkai!
 Dialogue: 0,0:23:54.28,0:24:00.19,Karaoke Español,,0,0,0,,{\blur.8}¡Sal, increíble poder Zenkai!
 Dialogue: 0,0:24:06.46,0:24:09.09,Default,,0,0,0,,{\pos(340.619,102.81)}Avance
-Dialogue: 0,0:24:09.78,0:24:11.47,Default,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:09.78,0:24:11.47,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:11.65,0:24:14.42,Default,,0,0,0,,¡Bien hecho, Vegeta!\N¡Increíble poder!
 Dialogue: 0,0:24:14.42,0:24:16.92,Default,,0,0,0,,Muy bien, Gohan, no hay\N que quedarse atrás.
 Dialogue: 0,0:24:16.92,0:24:19.82,Default,,0,0,0,,¿Qué te pasa, Cell?\N¡Tómate esto mas en serio!

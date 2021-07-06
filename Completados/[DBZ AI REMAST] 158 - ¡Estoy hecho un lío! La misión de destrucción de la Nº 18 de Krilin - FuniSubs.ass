@@ -69,16 +69,16 @@ Dialogue: 0,0:02:46.29,0:02:52.08,Default,,0,0,0,,Parece que aunque saques todo 
 Dialogue: 0,0:02:52.33,0:02:55.63,Default,,0,0,0,,¡Qué decepción! ¡Resultas patético!
 Dialogue: 0,0:02:55.80,0:02:57.96,Default,,0,0,0,,¡Yo esperaba encontrar\Nun adversario digno!
 Dialogue: 0,0:03:00.94,0:03:03.93,Default,,0,0,0,,¡Ahora ya no tengo ningún\Ninterés en matarte!
-Dialogue: 0,0:03:03.93,0:03:06.57,Default,,0,0,0,,¡Mierda!
-Dialogue: 0,0:03:07.41,0:03:09.72,Default,,0,0,0,,¡Mierda!
-Dialogue: 0,0:03:10.22,0:03:12.70,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:03:03.93,0:03:06.57,Default,,0,0,0,,¡Maldición!
+Dialogue: 0,0:03:07.41,0:03:09.72,Default,,0,0,0,,¡Maldición!
+Dialogue: 0,0:03:10.22,0:03:12.70,Default,,0,0,0,,¡Maldición!
 Dialogue: 0,0:03:18.41,0:03:24.92,Default,,0,0,0,,
 Dialogue: 0,0:03:31.57,0:03:35.16,Default,,0,0,0,,Nº 18 está por aquí.
 Dialogue: 0,0:03:42.52,0:03:49.55,Default,,0,0,0,,Aún puedo usar el control remoto.\NPero, ¿dónde demonios está?
 Dialogue: 0,0:03:50.75,0:03:53.52,Default,,0,0,0,,Tengo que encontrar a\NNº 18 enseguida.
 Dialogue: 0,0:04:03.26,0:04:05.72,Default,,0,0,0,,Si Cell la encuentra antes...
-Dialogue: 0,0:04:22.49,0:04:27.72,Default,,0,0,0,,¡Mierda!
-Dialogue: 0,0:04:28.93,0:04:34.27,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:04:22.49,0:04:27.72,Default,,0,0,0,,¡Maldición!
+Dialogue: 0,0:04:28.93,0:04:34.27,Default,,0,0,0,,¡Maldición!
 Dialogue: 0,0:04:39.42,0:04:40.88,Default,,0,0,0,,Increíble...
 Dialogue: 0,0:05:14.30,0:05:17.84,Default,,0,0,0,,Si pudiera alcanzar la forma perfecta...
 Dialogue: 0,0:05:20.48,0:05:25.48,Default,,0,0,0,,Si pudiera alcanzar la forma perfecta,\Nese desgraciado no se atrevería a...
@@ -88,9 +88,9 @@ Dialogue: 0,0:05:44.61,0:05:47.96,Default,,0,0,0,,¡Exacto!\N¡Sería imposible 
 Dialogue: 0,0:05:48.54,0:05:52.83,Default,,0,0,0,,¡Poder, velocidad, técnica,\Ninteligencia, fuerza mental...!
 Dialogue: 0,0:05:52.97,0:05:56.64,Default,,0,0,0,,¡Alcanzaría la perfección en\Ntodas esas cualidades!
 Dialogue: 0,0:05:57.76,0:06:00.72,Default,,0,0,0,,Eso es lo que me aseguró el ordenador.
-Dialogue: 0,0:06:15.48,0:06:17.04,Default,,0,0,0,,¡Mierda...!
+Dialogue: 0,0:06:15.48,0:06:17.04,Default,,0,0,0,,¡Maldición...!
 Dialogue: 0,0:06:19.32,0:06:22.71,Default,,0,0,0,,Si pudiera alcanzar la\Nforma perfecta...
-Dialogue: 0,0:06:27.37,0:06:30.22,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:06:27.37,0:06:30.22,Default,,0,0,0,,¡Maldición!
 Dialogue: 0,0:06:40.45,0:06:46.76,Default,,0,0,0,,Increíble... ¿es que se dejó ganar\Ndeliberadamente cuando luchó contra mí?
 Dialogue: 0,0:06:46.93,0:06:50.44,Default,,0,0,0,,No, no tenía ningún motivo\Npara hacer algo así.
 Dialogue: 0,0:06:51.05,0:06:54.80,Default,,0,0,0,,Ha debido de ocurrir algo\Nen estos últimos días.
@@ -252,7 +252,7 @@ Dialogue: 0,0:23:46.39,0:23:51.31,Karaoke Japones,,0,0,0,,
 Dialogue: 0,0:23:54.24,0:24:00.15,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
 Dialogue: 0,0:23:54.24,0:24:00.15,Karaoke Japones,,0,0,0,,
 Dialogue: 0,0:24:06.46,0:24:09.09,Default,,0,0,0,,{\pos(340.619,102.81)}Avance
-Dialogue: 0,0:24:09.83,0:24:11.63,Default,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:09.83,0:24:11.63,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:11.82,0:24:15.65,Default,,0,0,0,,¡Nº 18, Cell te ha descubierto!\N¡Huye de allí, rápido!
 Dialogue: 0,0:24:15.65,0:24:18.32,Default,,0,0,0,,Le impediré alcanzar su forma perfecta,
 Dialogue: 0,0:24:18.32,0:24:20.39,Default,,0,0,0,,incluso si tengo que derrotarte, padre.
