@@ -64,54 +64,54 @@ Dialogue: 0,0:01:34.13,0:01:37.35,Karaoke Español,,0,0,0,,hoy también estoy\Na
 Dialogue: 0,0:01:34.13,0:01:37.35,Karaoke Japones,,0,0,0,,
 Dialogue: 0,0:01:37.36,0:01:38.89,Karaoke Español,,0,0,0,,¡Comenzando!
 Dialogue: 0,0:01:37.36,0:01:38.89,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:55.56,0:01:59.71,Narrador,,0,0,0,,Finalmente, da comienzo la final del\NGran Torneo de Artes Marciales
-Dialogue: 0,0:01:59.71,0:02:02.43,Narrador,,0,0,0,,del Más Allá que enfrenta\Na Paikuhan y a Gokuh.
+Dialogue: 0,0:01:55.56,0:01:59.71,Default,,0,0,0,,Finalmente, da comienzo la final del\NGran Torneo de Artes Marciales
+Dialogue: 0,0:01:59.71,0:02:02.43,Default,,0,0,0,,del Más Allá que enfrenta\Na Paikuhan y a Gokú.
 Dialogue: 0,0:02:43.96,0:02:46.08,Pikkon,,0,0,0,,Es imposible...
-Dialogue: 0,0:02:51.56,0:02:56.27,Narrador,,0,0,0,,Tras comprobar la fuerza de Gokuh\Nen el combate, Paikuhan se desprende
-Dialogue: 0,0:02:56.37,0:03:01.20,Narrador,,0,0,0,,de parte de su vestimenta para\Nluchar con todas sus fuerzas.
-Dialogue: 0,0:03:13.84,0:03:15.27,Gokuh,,0,0,0,,Como quieras.
-Dialogue: 0,0:03:30.88,0:03:37.23,Titulos,,0,0,0,,
+Dialogue: 0,0:02:51.56,0:02:56.27,Default,,0,0,0,,Tras comprobar la fuerza de Gokú\Nen el combate, Paikuhan se desprende
+Dialogue: 0,0:02:56.37,0:03:01.20,Default,,0,0,0,,de parte de su vestimenta para\Nluchar con todas sus fuerzas.
+Dialogue: 0,0:03:13.84,0:03:15.27,Default,,0,0,0,,Como quieras.
+Dialogue: 0,0:03:30.88,0:03:37.23,Default,,0,0,0,,
 Dialogue: 0,0:04:03.48,0:04:07.83,Pikkon,,0,0,0,,¿Qué clase de persona es?\N¡Su energía sigue aumentando!
-Dialogue: 0,0:04:17.31,0:04:19.88,Reportero torneo,,0,0,0,,¿Cómo es posible?
-Dialogue: 0,0:04:20.09,0:04:25.05,Reportero torneo,,0,0,0,,¡Gokuh se ha transformado y le\Nrodea un resplandor dorado!
+Dialogue: 0,0:04:17.31,0:04:19.88,Default,,0,0,0,,¿Cómo es posible?
+Dialogue: 0,0:04:20.09,0:04:25.05,Default,,0,0,0,,¡Gokú se ha transformado y le\Nrodea un resplandor dorado!
 Dialogue: 0,0:04:25.95,0:04:27.67,Kaioh del Oeste,,0,0,0,,Pero, ¿qué...?
 Dialogue: 0,0:04:27.96,0:04:31.43,Kaioh del Este,,0,0,0,,Ese muchacho... ¿cómo puede hacer eso?
-Dialogue: 0,0:04:35.12,0:04:36.93,Kaioh,,0,0,0,,¿A qué viene tanta sorpresa?
-Dialogue: 0,0:04:36.94,0:04:40.11,Kaioh,,0,0,0,,Gokuh sólo se ha transformado\Nen Súper Saiyajin.
+Dialogue: 0,0:04:35.12,0:04:36.93,Default,,0,0,0,,¿A qué viene tanta sorpresa?
+Dialogue: 0,0:04:36.94,0:04:40.11,Default,,0,0,0,,Gokú sólo se ha transformado\Nen Súper Saiyajin.
 Dialogue: 0,0:04:40.24,0:04:41.07,Kaioh del Sur,,0,0,0,,¿Super...?
 Dialogue: 0,0:04:42.83,0:04:44.52,Kaioh del Oeste,,0,0,0,,¿Saiyajin?
-Dialogue: 0,0:04:45.06,0:04:46.54,Kaioh,,0,0,0,,Eso mismo.
-Dialogue: 0,0:04:46.54,0:04:53.18,Kaioh,,0,0,0,,Para que lo entiendan, hasta ahora Gokuh\Nno había mostrado su verdadera fuerza.
-Dialogue: 0,0:04:53.22,0:04:54.73,Kaioh,,0,0,0,,Eso es lo que quiero decir.
+Dialogue: 0,0:04:45.06,0:04:46.54,Default,,0,0,0,,Eso mismo.
+Dialogue: 0,0:04:46.54,0:04:53.18,Default,,0,0,0,,Para que lo entiendan, hasta ahora Gokú\Nno había mostrado su verdadera fuerza.
+Dialogue: 0,0:04:53.22,0:04:54.73,Default,,0,0,0,,Eso es lo que quiero decir.
 Dialogue: 0,0:04:55.40,0:04:56.87,Kaioh del Oeste,,0,0,0,,¿Cómo?
-Dialogue: 0,0:04:57.12,0:05:04.57,Titulos,,0,0,0,,{\fscx150\fscy150\pos(133.333,69.333)}Gua, ja, ja, ja
-Dialogue: 0,0:04:57.12,0:05:00.74,Kaioh,,0,0,0,,No has olvidado nuestra apuesta,\N¿verdad, Kaioh del Oeste?
-Dialogue: 0,0:05:00.88,0:05:04.35,Kaioh,,0,0,0,,¡Si Gokuh gana, me darás\Ntu planeta de Kaioh!
+Dialogue: 0,0:04:57.12,0:05:04.57,Default,,0,0,0,,{\fscx150\fscy150\pos(133.333,69.333)}Gua, ja, ja, ja
+Dialogue: 0,0:04:57.12,0:05:00.74,Default,,0,0,0,,No has olvidado nuestra apuesta,\N¿verdad, Kaioh del Oeste?
+Dialogue: 0,0:05:00.88,0:05:04.35,Default,,0,0,0,,¡Si Gokú gana, me darás\Ntu planeta de Kaioh!
 Dialogue: 0,0:05:04.76,0:05:06.65,Kaioh del Oeste,,0,0,0,,¡Seré yo el que gane!
 Dialogue: 0,0:05:06.69,0:05:10.54,Kaioh del Oeste,,0,0,0,,¡Paikuhan tampoco ha mostrado\Naún su verdadera fuerza!
-Dialogue: 0,0:05:23.84,0:05:28.90,Reportero torneo,,0,0,0,,¿Qué clase de combate presenciaremos\Na partir de ahora?
-Dialogue: 0,0:05:28.90,0:05:31.89,Reportero torneo,,0,0,0,,¡No tengo ni idea de\Nlo que nos espera!
-Dialogue: 0,0:05:32.36,0:05:35.15,Gokuh,,0,0,0,,Yo tampoco puedo ni imaginarlo.
-Dialogue: 0,0:05:36.73,0:05:38.00,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:05:38.00,0:05:39.46,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:05:40.16,0:05:42.30,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:05:51.92,0:05:52.95,Gokuh,,0,0,0,,¡Ya te tengo!
-Dialogue: 0,0:06:25.56,0:06:26.70,Pikkon,,0,0,0,,Aquí, Gokuh.
-Dialogue: 0,0:06:35.52,0:06:40.27,Gokuh,,0,0,0,,Ni siquiera lo he visto llegar ahí.\NNo puedo seguir sus movimientos.
+Dialogue: 0,0:05:23.84,0:05:28.90,Default,,0,0,0,,¿Qué clase de combate presenciaremos\Na partir de ahora?
+Dialogue: 0,0:05:28.90,0:05:31.89,Default,,0,0,0,,¡No tengo ni idea de\Nlo que nos espera!
+Dialogue: 0,0:05:32.36,0:05:35.15,Default,,0,0,0,,Yo tampoco puedo ni imaginarlo.
+Dialogue: 0,0:05:36.73,0:05:38.00,Default,,0,0,0,,
+Dialogue: 0,0:05:38.00,0:05:39.46,Default,,0,0,0,,
+Dialogue: 0,0:05:40.16,0:05:42.30,Default,,0,0,0,,
+Dialogue: 0,0:05:51.92,0:05:52.95,Default,,0,0,0,,¡Ya te tengo!
+Dialogue: 0,0:06:25.56,0:06:26.70,Pikkon,,0,0,0,,Aquí, Gokú.
+Dialogue: 0,0:06:35.52,0:06:40.27,Default,,0,0,0,,Ni siquiera lo he visto llegar ahí.\NNo puedo seguir sus movimientos.
 Dialogue: 0,0:06:42.32,0:06:45.91,Pikkon,,0,0,0,,Has aumentado de poder\Ncon tu transformación,
 Dialogue: 0,0:06:46.29,0:06:49.18,Pikkon,,0,0,0,,pero no me superas\Nen velocidad.
 Dialogue: 0,0:06:50.91,0:06:53.43,Pikkon,,0,0,0,,Me siento un poco decepcionado.
 Dialogue: 0,0:07:12.08,0:07:12.99,Pikkon,,0,0,0,,¡Prepárate!
 Dialogue: 0,0:07:13.31,0:07:16.73,Pikkon Hyper Tornado,,0,0,0,,
 Dialogue: 0,0:08:11.46,0:08:14.35,Kaioh del Oeste,,0,0,0,,¡No olvides nuestra apuesta,\NKaioh del Norte!
-Dialogue: 0,0:08:14.36,0:08:15.83,Kaioh,,0,0,0,,¡Ya lo sé!
-Dialogue: 0,0:08:24.48,0:08:28.31,Pikkon,,0,0,0,,Gokuh, tu cuerpo se\Nencuentra al límite.
+Dialogue: 0,0:08:14.36,0:08:15.83,Default,,0,0,0,,¡Ya lo sé!
+Dialogue: 0,0:08:24.48,0:08:28.31,Pikkon,,0,0,0,,Gokú, tu cuerpo se\Nencuentra al límite.
 Dialogue: 0,0:08:51.80,0:08:52.94,Pikkon,,0,0,0,,¿Cómo?
-Dialogue: 0,0:09:04.69,0:09:08.17,Gokuh Kaioh Ken,,0,0,0,,
-Dialogue: 0,0:09:13.02,0:09:14.12,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:09:14.12,0:09:15.61,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:09:15.61,0:09:16.78,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:09:16.78,0:09:18.03,Gokuh Kame Hame,,0,0,0,,
+Dialogue: 0,0:09:04.69,0:09:08.17,Default,,0,0,0,,
+Dialogue: 0,0:09:13.02,0:09:14.12,Default,,0,0,0,,
+Dialogue: 0,0:09:14.12,0:09:15.61,Default,,0,0,0,,
+Dialogue: 0,0:09:15.61,0:09:16.78,Default,,0,0,0,,
+Dialogue: 0,0:09:16.78,0:09:18.03,Default,,0,0,0,,
 Dialogue: 0,0:10:00.06,0:10:00.87,Pikkon,,0,0,0,,¿Cómo?
 Dialogue: 0,0:10:23.44,0:10:26.81,Kaioh del Oeste,,0,0,0,,Qué pena... le ha faltado muy poco.
 Dialogue: 0,0:10:28.24,0:10:29.46,Kaioh del Este,,0,0,0,,Increíble...
@@ -122,17 +122,17 @@ Dialogue: 0,0:10:49.32,0:10:51.44,Dai Kaioh,,0,0,0,,Claro...
 Dialogue: 0,0:10:51.64,0:10:54.51,Dai Kaioh,,0,0,0,,Ahora recuerdo que hice esa promesa...
 Dialogue: 0,0:10:54.51,0:10:57.35,Dai Kaioh,,0,0,0,,Lo había olvidado por completo.
 Dialogue: 0,0:11:03.28,0:11:07.91,Pikkon,,0,0,0,,Para ser honesto, no imaginaba\Nque fueras tan fuerte.
-Dialogue: 0,0:11:08.76,0:11:10.95,Gokuh,,0,0,0,,Tú también eres muy fuerte.
-Dialogue: 0,0:11:11.56,0:11:15.67,Gokuh,,0,0,0,,Me emociona poder luchar contra\Nalguien tan fuerte como tú.
+Dialogue: 0,0:11:08.76,0:11:10.95,Default,,0,0,0,,Tú también eres muy fuerte.
+Dialogue: 0,0:11:11.56,0:11:15.67,Default,,0,0,0,,Me emociona poder luchar contra\Nalguien tan fuerte como tú.
 Dialogue: 0,0:11:16.56,0:11:21.63,Pikkon,,0,0,0,,Yo también siento lo mismo.\NEs una lástima que tenga que acabar.
-Dialogue: 0,0:11:22.84,0:11:23.87,Gokuh,,0,0,0,,¿Cómo?
+Dialogue: 0,0:11:22.84,0:11:23.87,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:11:31.09,0:11:33.07,Pikkon Thunder Flash,,0,0,0,,
 Dialogue: 0,0:11:33.72,0:11:37.45,Pikkon Thunder Flash,,0,0,0,,
 Dialogue: 0,0:11:51.88,0:11:52.86,Pikkon Thunder Flash,,0,0,0,,
 Dialogue: 0,0:11:53.86,0:11:56.12,Pikkon Thunder Flash,,0,0,0,,
-Dialogue: 0,0:12:25.80,0:12:26.63,Gokuh,,0,0,0,,Increíble...
-Dialogue: 0,0:12:26.96,0:12:29.67,Gokuh,,0,0,0,,No he visto venir ese ataque...
-Dialogue: 0,0:13:15.45,0:13:16.49,Gokuh,,0,0,0,,Otra vez...
+Dialogue: 0,0:12:25.80,0:12:26.63,Default,,0,0,0,,Increíble...
+Dialogue: 0,0:12:26.96,0:12:29.67,Default,,0,0,0,,No he visto venir ese ataque...
+Dialogue: 0,0:13:15.45,0:13:16.49,Default,,0,0,0,,Otra vez...
 Dialogue: 0,0:13:17.57,0:13:19.57,Pikkon Thunder Flash,,0,0,0,,
 Dialogue: 0,0:13:20.80,0:13:23.08,Pikkon Thunder Flash,,0,0,0,,
 Dialogue: 0,0:14:19.44,0:14:22.00,Kaioh del Este,,0,0,0,,Un poco más y nos achicharra...
@@ -142,114 +142,114 @@ Dialogue: 0,0:14:28.78,0:14:33.19,Kaioh del Oeste,,0,0,0,,¡¿Cómo se ha atrevi
 Dialogue: 0,0:14:33.40,0:14:36.51,Kaioh del Oeste,,0,0,0,,¡Cuando lo agarre se va a enterar!
 Dialogue: 0,0:14:52.66,0:14:55.61,Default,,0,0,0,,¿Qué está sucediendo ahí arriba?
 Dialogue: 0,0:14:55.61,0:14:56.71,Olibu,,0,0,0,,No lo sé.
-Dialogue: 0,0:14:56.92,0:15:03.77,Reportero torneo,,0,0,0,,Paikuhan y Gokuh se han perdido\Nde vista en las alturas.
-Dialogue: 0,0:15:03.92,0:15:07.27,Reportero torneo,,0,0,0,,¿Cuál de los dos se impondrá\Nen este intenso duelo?
+Dialogue: 0,0:14:56.92,0:15:03.77,Default,,0,0,0,,Paikuhan y Gokú se han perdido\Nde vista en las alturas.
+Dialogue: 0,0:15:03.92,0:15:07.27,Default,,0,0,0,,¿Cuál de los dos se impondrá\Nen este intenso duelo?
 Dialogue: 0,0:15:10.28,0:15:13.06,Dai Kaioh,,0,0,0,,No está nada mal...
-Dialogue: 0,0:16:00.83,0:16:04.35,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:16:09.08,0:16:12.15,Gokuh,,0,0,0,,Mis ataques no le\Nhacen ningún efecto.
+Dialogue: 0,0:16:00.83,0:16:04.35,Default,,0,0,0,,
+Dialogue: 0,0:16:09.08,0:16:12.15,Default,,0,0,0,,Mis ataques no le\Nhacen ningún efecto.
 Dialogue: 0,0:16:34.48,0:16:35.97,Pikkon,,0,0,0,,Y ahora el golpe de gracia.
 Dialogue: 0,0:16:36.44,0:16:39.39,Pikkon,,0,0,0,,Voy a sacarte del ring\Ncon mi Thunder Flash.
-Dialogue: 0,0:16:56.20,0:17:01.71,Gokuh,,0,0,0,,Esa técnica debe de tener algún punto\Ndébil... ¡tengo que encontrarlo!
+Dialogue: 0,0:16:56.20,0:17:01.71,Default,,0,0,0,,Esa técnica debe de tener algún punto\Ndébil... ¡tengo que encontrarlo!
 Dialogue: 0,0:17:13.98,0:17:15.08,Pikkon Thunder Flash,,0,0,0,,
-Dialogue: 0,0:17:20.04,0:17:21.10,Gokuh,,0,0,0,,¡Ahora!
+Dialogue: 0,0:17:20.04,0:17:21.10,Default,,0,0,0,,¡Ahora!
 Dialogue: 0,0:17:22.00,0:17:23.65,Pikkon Thunder Flash,,0,0,0,,
-Dialogue: 0,0:17:28.90,0:17:30.32,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:17:30.32,0:17:32.25,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:17:32.25,0:17:33.86,Gokuh Kame Hame,,0,0,0,,
-Dialogue: 0,0:18:00.08,0:18:03.62,Reportero torneo,,0,0,0,,¡Paikuhan ha salido del ring!
-Dialogue: 0,0:18:04.00,0:18:10.67,Reportero torneo,,0,0,0,,¡El campeón del Gran Torneo de Artes\NMarciales del Más Allá es Son Gokuh!
+Dialogue: 0,0:17:28.90,0:17:30.32,Default,,0,0,0,,
+Dialogue: 0,0:17:30.32,0:17:32.25,Default,,0,0,0,,
+Dialogue: 0,0:17:32.25,0:17:33.86,Default,,0,0,0,,
+Dialogue: 0,0:18:00.08,0:18:03.62,Default,,0,0,0,,¡Paikuhan ha salido del ring!
+Dialogue: 0,0:18:04.00,0:18:10.67,Default,,0,0,0,,¡El campeón del Gran Torneo de Artes\NMarciales del Más Allá es Son Gokú!
 Dialogue: 0,0:18:28.60,0:18:30.15,Pikkon,,0,0,0,,Me has ganado...
-Dialogue: 0,0:18:31.72,0:18:35.03,Gokuh,,0,0,0,,Ha sido un error utilizar el Thunder\NFlash tres veces seguidas.
-Dialogue: 0,0:18:35.28,0:18:39.59,Gokuh,,0,0,0,,He podido ver perfectamente\Ntus movimientos a la tercera.
+Dialogue: 0,0:18:31.72,0:18:35.03,Default,,0,0,0,,Ha sido un error utilizar el Thunder\NFlash tres veces seguidas.
+Dialogue: 0,0:18:35.28,0:18:39.59,Default,,0,0,0,,He podido ver perfectamente\Ntus movimientos a la tercera.
 Dialogue: 0,0:18:42.40,0:18:45.35,Pikkon,,0,0,0,,Ya entiendo.\NEres un fuera de serie.
 Dialogue: 0,0:18:46.28,0:18:49.07,Pikkon,,0,0,0,,Suerte con el entrenamiento\Nde Dai Kaioh.
 Dialogue: 0,0:18:49.60,0:18:53.43,Pikkon,,0,0,0,,Yo seguiré entrenando por mi\Ncuenta y la próxima vez te ganaré.
-Dialogue: 0,0:18:53.46,0:18:56.47,Gokuh,,0,0,0,,Pues yo no pienso perder.
-Dialogue: 0,0:19:00.20,0:19:03.00,Kaioh,,0,0,0,,¡Gokuh ha ganado!\N¡Gokuh ha ganado!
-Dialogue: 0,0:19:07.12,0:19:10.35,Kaioh,,0,0,0,,¿Te acuerdas de nuestra apuesta?
+Dialogue: 0,0:18:53.46,0:18:56.47,Default,,0,0,0,,Pues yo no pienso perder.
+Dialogue: 0,0:19:00.20,0:19:03.00,Default,,0,0,0,,¡Gokú ha ganado!\N¡Gokú ha ganado!
+Dialogue: 0,0:19:07.12,0:19:10.35,Default,,0,0,0,,¿Te acuerdas de nuestra apuesta?
 Dialogue: 0,0:19:11.84,0:19:13.19,Kaioh del Oeste,,0,0,0,,¡Ya lo sé!
-Dialogue: 0,0:19:13.29,0:19:19.06,Reportero torneo,,0,0,0,,¿Sería tan amable de\Nacercarse el campeón Gokuh?
+Dialogue: 0,0:19:13.29,0:19:19.06,Default,,0,0,0,,¿Sería tan amable de\Nacercarse el campeón Gokú?
 Dialogue: 0,0:19:19.24,0:19:20.85,Dai Kaioh,,0,0,0,,¡Un momento!
 Dialogue: 0,0:19:22.40,0:19:25.87,Dai Kaioh,,0,0,0,,Han violado una regla\Ndurante este combate.
-Dialogue: 0,0:19:26.08,0:19:30.07,Dai Kaioh,,0,0,0,,Gokuh y Paikuhan\Nquedan descalificados.
-Dialogue: 0,0:19:34.32,0:19:41.93,Dai Kaioh,,0,0,0,,Tanto Gokuh como Paikuhan han\Ntocado el techo con los pies, ¿verdad?
-Dialogue: 0,0:19:42.24,0:19:43.51,Gokuh,,0,0,0,,¿El techo?
-Dialogue: 0,0:19:49.36,0:19:51.31,Gokuh,,0,0,0,,Oh, sí que lo hemos hecho.
+Dialogue: 0,0:19:26.08,0:19:30.07,Dai Kaioh,,0,0,0,,Gokú y Paikuhan\Nquedan descalificados.
+Dialogue: 0,0:19:34.32,0:19:41.93,Dai Kaioh,,0,0,0,,Tanto Gokú como Paikuhan han\Ntocado el techo con los pies, ¿verdad?
+Dialogue: 0,0:19:42.24,0:19:43.51,Default,,0,0,0,,¿El techo?
+Dialogue: 0,0:19:49.36,0:19:51.31,Default,,0,0,0,,Oh, sí que lo hemos hecho.
 Dialogue: 0,0:19:51.64,0:19:57.42,Dai Kaioh,,0,0,0,,Pues de acuerdo con el artículo 1351\Ndel libro de reglas del Gran Torneo
 Dialogue: 0,0:19:57.42,0:20:02.60,Dai Kaioh,,0,0,0,,de Artes Marciales del Más Allá,\Nel techo es igual que el suelo,
 Dialogue: 0,0:20:02.61,0:20:08.23,Dai Kaioh,,0,0,0,,porque si damos la vuelta al estadio,\Nel techo se convierte en el suelo.
-Dialogue: 0,0:20:08.26,0:20:14.11,Reportero torneo,,0,0,0,,Dai Kaioh, ¿no le parece que\Neso es demasiado estricto?
-Dialogue: 0,0:20:14.25,0:20:16.70,Kaioh,,0,0,0,,¡N-No puede ser!
+Dialogue: 0,0:20:08.26,0:20:14.11,Default,,0,0,0,,Dai Kaioh, ¿no le parece que\Neso es demasiado estricto?
+Dialogue: 0,0:20:14.25,0:20:16.70,Default,,0,0,0,,¡N-No puede ser!
 Dialogue: 0,0:20:16.72,0:20:19.23,Kaioh del Oeste,,0,0,0,,¡Qué regla más esplendida!
 Dialogue: 0,0:20:20.11,0:20:22.19,Kaioh del Oeste,,0,0,0,,¡Descalificados! ¡Descalificados!
-Dialogue: 0,0:20:22.36,0:20:23.55,Gokuh,,0,0,0,,Vaya...
-Dialogue: 0,0:20:23.65,0:20:26.04,Gokuh,,0,0,0,,Supongo que las reglas\Nson las reglas.
+Dialogue: 0,0:20:22.36,0:20:23.55,Default,,0,0,0,,Vaya...
+Dialogue: 0,0:20:23.65,0:20:26.04,Default,,0,0,0,,Supongo que las reglas\Nson las reglas.
 Dialogue: 0,0:20:26.68,0:20:32.78,Dai Kaioh,,0,0,0,,Los dos han luchado muy bien,\Nasí que es posible que los entrene
 Dialogue: 0,0:20:32.80,0:20:35.24,Dai Kaioh,,0,0,0,,dentro de 300 años.
-Dialogue: 0,0:20:35.52,0:20:37.40,Gokuh,,0,0,0,,¿Dentro de 300 años?
-Dialogue: 0,0:20:37.64,0:20:40.15,Gokuh,,0,0,0,,¡Vamos! ¡Lo estoy deseando!
+Dialogue: 0,0:20:35.52,0:20:37.40,Default,,0,0,0,,¿Dentro de 300 años?
+Dialogue: 0,0:20:37.64,0:20:40.15,Default,,0,0,0,,¡Vamos! ¡Lo estoy deseando!
 Dialogue: 0,0:20:40.42,0:20:44.51,Dai Kaioh,,0,0,0,,Menos mal... he descuidado\Nmi entrenamiento últimamente
 Dialogue: 0,0:20:44.52,0:20:48.51,Dai Kaioh,,0,0,0,,y si tengo que enfrentarme a\NGokuh, seguro que me canso.
-Dialogue: 0,0:20:51.56,0:20:59.03,Narrador,,0,0,0,,De esta forma, Gokuh siguió pasándoselo\Nbien entrenando en el Más Allá.
-Dialogue: 0,0:21:07.28,0:21:10.98,Narrador,,0,0,0,,Y así, pasaron siete años.
-Dialogue: 0,0:21:20.36,0:21:21.95,Son Gohan,,0,0,0,,¡Me voy ya, mamá!
-Dialogue: 0,0:21:23.28,0:21:25.63,Chichi,,0,0,0,,¡Espera un momento, Gohan!
-Dialogue: 0,0:21:27.60,0:21:30.31,Chichi,,0,0,0,,Toma, te olvidabas esto.
-Dialogue: 0,0:21:32.00,0:21:36.15,Chichi,,0,0,0,,Vaya, a veces eres tan\Ndespistado como Gokuh.
-Dialogue: 0,0:21:38.28,0:21:39.42,Son Gohan,,0,0,0,,Bueno, mamá.
-Dialogue: 0,0:21:40.08,0:21:41.06,Son Gohan,,0,0,0,,Me voy.
-Dialogue: 0,0:21:41.14,0:21:44.35,Chichi,,0,0,0,,Venga, presta mucha atención\Na los profesores.
-Dialogue: 0,0:21:44.48,0:21:45.23,Son Gohan,,0,0,0,,Sí.
-Dialogue: 0,0:21:45.87,0:21:47.87,Son Gohan,,0,0,0,,¡Kinton!
-Dialogue: 0,0:21:52.64,0:21:55.20,Chichi,,0,0,0,,¡No corras mucho que es peligroso!
-Dialogue: 0,0:22:05.92,0:22:11.49,Narrador,,0,0,0,,Al vivir en el campo y no\Ntener ninguna escuela cerca,
-Dialogue: 0,0:22:11.49,0:22:17.90,Narrador,,0,0,0,,Son Gohan ha estudiado en\Ncasa hasta ahora.
-Dialogue: 0,0:22:18.56,0:22:24.19,Narrador,,0,0,0,,Pero ahora la preocupación de su\Nmadre Chichi por los estudios
-Dialogue: 0,0:22:24.19,0:22:27.92,Narrador,,0,0,0,,la ha llevado a matricularlo,\Nen el Instituto de Satan City.
-Dialogue: 0,0:22:44.58,0:22:48.32,Ending Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
-Dialogue: 0,0:22:44.58,0:22:48.32,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:22:48.53,0:22:53.92,Ending Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
-Dialogue: 0,0:22:48.53,0:22:53.92,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:22:54.43,0:22:56.41,Ending Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
-Dialogue: 0,0:22:54.43,0:22:56.41,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:00.10,0:23:07.26,Ending Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
-Dialogue: 0,0:23:00.10,0:23:07.26,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:07.42,0:23:11.89,Ending Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
-Dialogue: 0,0:23:07.42,0:23:11.89,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:11.89,0:23:15.62,Ending Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
-Dialogue: 0,0:23:11.89,0:23:15.62,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:15.81,0:23:19.38,Ending Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
-Dialogue: 0,0:23:15.81,0:23:19.38,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:19.38,0:23:21.51,Ending Español,,0,0,0,,Ahí está... ven, ven, ven
-Dialogue: 0,0:23:19.38,0:23:21.51,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:23.73,0:23:30.86,Ending Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
-Dialogue: 0,0:23:23.73,0:23:30.86,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:31.56,0:23:33.28,Ending Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
-Dialogue: 0,0:23:31.56,0:23:33.28,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:33.53,0:23:35.31,Ending Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
-Dialogue: 0,0:23:33.53,0:23:35.31,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:35.53,0:23:37.54,Ending Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
-Dialogue: 0,0:23:35.53,0:23:37.54,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:37.54,0:23:39.41,Ending Español,,0,0,0,,¡Qué dolor!
-Dialogue: 0,0:23:37.54,0:23:39.41,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:39.41,0:23:44.43,Ending Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
-Dialogue: 0,0:23:39.41,0:23:44.43,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:45.10,0:23:46.11,Ending Español,,0,0,0,,Lo siento.
-Dialogue: 0,0:23:45.10,0:23:46.11,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:47.36,0:23:52.28,Ending Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
-Dialogue: 0,0:23:47.36,0:23:52.28,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:55.21,0:24:01.12,Ending Español,,0,0,0,,¡Sal, increíble poder Zenkai!
-Dialogue: 0,0:23:55.21,0:24:01.12,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:24:08.46,0:24:10.92,Titulos,,0,0,0,,{\pos(348.619,110.81)}Avance
-Dialogue: 0,0:24:11.79,0:24:13.56,Gokuh,,0,0,0,,¡Hola, soy Gokuh!
-Dialogue: 0,0:24:13.56,0:24:15.29,Gokuh,,0,0,0,,Seguro que has crecido, Gohan.
-Dialogue: 0,0:24:15.29,0:24:17.40,Gokuh,,0,0,0,,He oído que hoy empiezas a ir\Nal Instituto, en la ciudad.
-Dialogue: 0,0:24:22.03,0:24:25.54,Chichi,,0,0,0,,Vete directo al Instituto,\Ny estudia mucho.
-Dialogue: 0,0:24:17.40,0:24:20.24,Chichi,,0,0,0,,Gohan, no tienes por qué\Nperseguir a ladrones de bancos,
-Dialogue: 0,0:24:20.24,0:24:22.03,Chichi,,0,0,0,,ni hacer otras cosas peligrosas.
-Dialogue: 0,0:24:25.54,0:24:27.67,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
-Dialogue: 0,0:24:27.67,0:24:31.38,Gokuh,,0,0,0,,¡Han pasado siete años!\NAhora soy estudiante de Instituto
-Dialogue: 0,0:24:31.38,0:24:34.91,Son Gohan,,0,0,0,,Es difícil ser normal, sin que\Nla gente sepa quién soy.
-Dialogue: 0,0:24:34.49,0:24:37.95,Titulos,,0,0,0,,
-Dialogue: 0,0:24:34.49,0:24:37.95,Titulos,,0,0,0,,
-Dialogue: 0,0:24:34.49,0:24:37.95,Titulos,,0,0,0,,
+Dialogue: 0,0:20:51.56,0:20:59.03,Default,,0,0,0,,De esta forma, Gokú siguió pasándoselo\Nbien entrenando en el Más Allá.
+Dialogue: 0,0:21:07.28,0:21:10.98,Default,,0,0,0,,Y así, pasaron siete años.
+Dialogue: 0,0:21:20.36,0:21:21.95,Default,,0,0,0,,¡Me voy ya, mamá!
+Dialogue: 0,0:21:23.28,0:21:25.63,Default,,0,0,0,,¡Espera un momento, Gohan!
+Dialogue: 0,0:21:27.60,0:21:30.31,Default,,0,0,0,,Toma, te olvidabas esto.
+Dialogue: 0,0:21:32.00,0:21:36.15,Default,,0,0,0,,Vaya, a veces eres tan\Ndespistado como Gokú.
+Dialogue: 0,0:21:38.28,0:21:39.42,Default,,0,0,0,,Bueno, mamá.
+Dialogue: 0,0:21:40.08,0:21:41.06,Default,,0,0,0,,Me voy.
+Dialogue: 0,0:21:41.14,0:21:44.35,Default,,0,0,0,,Venga, presta mucha atención\Na los profesores.
+Dialogue: 0,0:21:44.48,0:21:45.23,Default,,0,0,0,,Sí.
+Dialogue: 0,0:21:45.87,0:21:47.87,Default,,0,0,0,,¡Kinton!
+Dialogue: 0,0:21:52.64,0:21:55.20,Default,,0,0,0,,¡No corras mucho que es peligroso!
+Dialogue: 0,0:22:05.92,0:22:11.49,Default,,0,0,0,,Al vivir en el campo y no\Ntener ninguna escuela cerca,
+Dialogue: 0,0:22:11.49,0:22:17.90,Default,,0,0,0,,Son Gohan ha estudiado en\Ncasa hasta ahora.
+Dialogue: 0,0:22:18.56,0:22:24.19,Default,,0,0,0,,Pero ahora la preocupación de su\Nmadre Chichi por los estudios
+Dialogue: 0,0:22:24.19,0:22:27.92,Default,,0,0,0,,la ha llevado a matricularlo,\Nen el Instituto de Satan City.
+Dialogue: 0,0:22:44.58,0:22:48.32,Karaoke Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.58,0:22:48.32,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:48.53,0:22:53.92,Karaoke Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.53,0:22:53.92,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:54.43,0:22:56.41,Karaoke Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.43,0:22:56.41,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:00.10,0:23:07.26,Karaoke Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.10,0:23:07.26,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:07.42,0:23:11.89,Karaoke Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.42,0:23:11.89,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:11.89,0:23:15.62,Karaoke Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:11.89,0:23:15.62,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:15.81,0:23:19.38,Karaoke Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:15.81,0:23:19.38,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:19.38,0:23:21.51,Karaoke Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.38,0:23:21.51,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:23.73,0:23:30.86,Karaoke Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:23.73,0:23:30.86,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:31.56,0:23:33.28,Karaoke Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.56,0:23:33.28,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:33.53,0:23:35.31,Karaoke Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.53,0:23:35.31,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:35.53,0:23:37.54,Karaoke Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.53,0:23:37.54,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:37.54,0:23:39.41,Karaoke Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.54,0:23:39.41,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:39.41,0:23:44.43,Karaoke Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.41,0:23:44.43,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:45.10,0:23:46.11,Karaoke Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.10,0:23:46.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:47.36,0:23:52.28,Karaoke Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.36,0:23:52.28,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:55.21,0:24:01.12,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.21,0:24:01.12,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:24:08.46,0:24:10.92,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:11.79,0:24:13.56,Default,,0,0,0,,¡Hola, soy Gokú!
+Dialogue: 0,0:24:13.56,0:24:15.29,Default,,0,0,0,,Seguro que has crecido, Gohan.
+Dialogue: 0,0:24:15.29,0:24:17.40,Default,,0,0,0,,He oído que hoy empiezas a ir\Nal Instituto, en la ciudad.
+Dialogue: 0,0:24:22.03,0:24:25.54,Default,,0,0,0,,Vete directo al Instituto,\Ny estudia mucho.
+Dialogue: 0,0:24:17.40,0:24:20.24,Default,,0,0,0,,Gohan, no tienes por qué\Nperseguir a ladrones de bancos,
+Dialogue: 0,0:24:20.24,0:24:22.03,Default,,0,0,0,,ni hacer otras cosas peligrosas.
+Dialogue: 0,0:24:25.54,0:24:27.67,Default,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:27.67,0:24:31.38,Default,,0,0,0,,¡Han pasado siete años!\NAhora soy estudiante de Instituto
+Dialogue: 0,0:24:31.38,0:24:34.91,Default,,0,0,0,,Es difícil ser normal, sin que\Nla gente sepa quién soy.
+Dialogue: 0,0:24:34.49,0:24:37.95,Default,,0,0,0,,
+Dialogue: 0,0:24:34.49,0:24:37.95,Default,,0,0,0,,
+Dialogue: 0,0:24:34.49,0:24:37.95,Default,,0,0,0,,

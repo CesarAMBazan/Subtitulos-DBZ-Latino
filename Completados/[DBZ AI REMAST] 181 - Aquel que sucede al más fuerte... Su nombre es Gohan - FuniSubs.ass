@@ -64,227 +64,227 @@ Dialogue: 0,0:01:33.93,0:01:37.15,Karaoke Español,,0,0,0,,hoy también estoy\Na
 Dialogue: 0,0:01:33.93,0:01:37.15,Karaoke Japones,,0,0,0,,
 Dialogue: 0,0:01:37.16,0:01:38.69,Karaoke Español,,0,0,0,,¡Comenzando!
 Dialogue: 0,0:01:37.16,0:01:38.69,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:02:08.77,0:02:12.52,Narrador,,0,0,0,,El Kame Hame Ha a máxima potencia\Nde Gokuh ha fracasado.
-Dialogue: 0,0:02:12.53,0:02:14.28,Narrador,,0,0,0,,Cell ha revivido.
-Dialogue: 0,0:02:14.97,0:02:18.64,Narrador,,0,0,0,,De esa forma, su intensa\Nbatalla se reanuda.
-Dialogue: 0,0:02:50.77,0:02:55.76,Célula,,0,0,0,,Son Gokuh, tu ataque me ha obligado\Na levantar una barrera protectora.
-Dialogue: 0,0:02:56.01,0:02:58.72,Célula,,0,0,0,,Has conseguido hacerme daño.
-Dialogue: 0,0:03:02.52,0:03:03.60,Gokuh,,0,0,0,,He perdido.
-Dialogue: 0,0:03:03.89,0:03:05.00,Gokuh,,0,0,0,,Me rindo.
-Dialogue: 0,0:03:05.17,0:03:06.97,Narrador,,0,0,0,,¡¿Qué?! ¡¿Cómo?!
-Dialogue: 0,0:03:06.97,0:03:09.48,Narrador,,0,0,0,,¡El mundo entero se encuentra\Nen estado de shock!
-Dialogue: 0,0:03:09.49,0:03:11.80,Narrador,,0,0,0,,¡Son Gokuh ha perdido!
-Dialogue: 0,0:03:15.53,0:03:20.47,Titulos,,0,0,0,,
-Dialogue: 0,0:03:46.90,0:03:48.36,Trunks,,0,0,0,,Gokuh...
-Dialogue: 0,0:03:48.53,0:03:50.80,Yamcha,,0,0,0,,No puedo creerlo...
-Dialogue: 0,0:03:58.52,0:04:00.20,Célula,,0,0,0,,¿Dices que te rindes?
-Dialogue: 0,0:04:00.97,0:04:05.20,Célula,,0,0,0,,Son Gokuh, ¿acaso quieres\Nponer fin a este duelo?
-Dialogue: 0,0:04:06.20,0:04:07.28,Gokuh,,0,0,0,,Eso mismo.
-Dialogue: 0,0:04:07.45,0:04:08.92,Gokuh,,0,0,0,,He perdido.
-Dialogue: 0,0:04:11.86,0:04:15.35,Reportero torneo,,0,0,0,,Oye, ¿qué es lo que\Nha dicho ese joven?
+Dialogue: 0,0:02:08.77,0:02:12.52,Default,,0,0,0,,El Kame Hame Ha a máxima potencia\Nde Gokú ha fracasado.
+Dialogue: 0,0:02:12.53,0:02:14.28,Default,,0,0,0,,Cell ha revivido.
+Dialogue: 0,0:02:14.97,0:02:18.64,Default,,0,0,0,,De esa forma, su intensa\Nbatalla se reanuda.
+Dialogue: 0,0:02:50.77,0:02:55.76,Default,,0,0,0,,Son Gokú, tu ataque me ha obligado\Na levantar una barrera protectora.
+Dialogue: 0,0:02:56.01,0:02:58.72,Default,,0,0,0,,Has conseguido hacerme daño.
+Dialogue: 0,0:03:02.52,0:03:03.60,Default,,0,0,0,,He perdido.
+Dialogue: 0,0:03:03.89,0:03:05.00,Default,,0,0,0,,Me rindo.
+Dialogue: 0,0:03:05.17,0:03:06.97,Default,,0,0,0,,¡¿Qué?! ¡¿Cómo?!
+Dialogue: 0,0:03:06.97,0:03:09.48,Default,,0,0,0,,¡El mundo entero se encuentra\Nen estado de shock!
+Dialogue: 0,0:03:09.49,0:03:11.80,Default,,0,0,0,,¡Son Gokú ha perdido!
+Dialogue: 0,0:03:15.53,0:03:20.47,Default,,0,0,0,,
+Dialogue: 0,0:03:46.90,0:03:48.36,Default,,0,0,0,,Gokú...
+Dialogue: 0,0:03:48.53,0:03:50.80,Default,,0,0,0,,No puedo creerlo...
+Dialogue: 0,0:03:58.52,0:04:00.20,Default,,0,0,0,,¿Dices que te rindes?
+Dialogue: 0,0:04:00.97,0:04:05.20,Default,,0,0,0,,Son Gokú, ¿acaso quieres\Nponer fin a este duelo?
+Dialogue: 0,0:04:06.20,0:04:07.28,Default,,0,0,0,,Eso mismo.
+Dialogue: 0,0:04:07.45,0:04:08.92,Default,,0,0,0,,He perdido.
+Dialogue: 0,0:04:11.86,0:04:15.35,Default,,0,0,0,,Oye, ¿qué es lo que\Nha dicho ese joven?
 Dialogue: 0,0:04:15.57,0:04:18.84,Default,,0,0,0,,Por el micro me ha parecido\Noír que se rendía.
-Dialogue: 0,0:04:19.37,0:04:24.64,Mr. Satan,,0,0,0,,Bueno, ha hecho un buen trabajo.\NEse joven ha dado todo lo que tenía.
-Dialogue: 0,0:04:25.36,0:04:27.60,Personaje Secundario 3,,0,0,0,,Tiene toda la razón, Mr. Satan.
-Dialogue: 0,0:04:27.77,0:04:30.56,Personaje Secundario 3,,0,0,0,,Sabía que al final\Ndependeríamos de usted.
-Dialogue: 0,0:04:31.82,0:04:36.36,Célula,,0,0,0,,Son Gokuh, ¿eres consciente del\Nsignificado de esas palabras?
-Dialogue: 0,0:04:37.49,0:04:38.36,Gokuh,,0,0,0,,Sí.
-Dialogue: 0,0:04:38.49,0:04:41.10,Célula,,0,0,0,,Si no queda nadie más para\Nluchar en el Cell Game,
-Dialogue: 0,0:04:41.12,0:04:46.20,Célula,,0,0,0,,toda la gente de la Tierra morirá.\NLos mataré con mis propias manos.
-Dialogue: 0,0:04:46.45,0:04:49.08,Gokuh,,0,0,0,,Cell, no te equivoques.
-Dialogue: 0,0:04:49.21,0:04:52.04,Gokuh,,0,0,0,,Esto no significa que la\Nlucha haya acabado.
-Dialogue: 0,0:04:53.06,0:04:54.49,Célula,,0,0,0,,Es lo mismo.
-Dialogue: 0,0:04:58.98,0:05:04.16,Célula,,0,0,0,,Vegeta, Piccolo y Trunks,\Npor mucho que hayan mejorado
-Dialogue: 0,0:05:04.18,0:05:06.48,Célula,,0,0,0,,siguen siendo muy inferiores a ti.
-Dialogue: 0,0:05:07.50,0:05:09.38,Célula,,0,0,0,,No son rivales para mí.
-Dialogue: 0,0:05:14.17,0:05:19.16,Reportero torneo,,0,0,0,,¡Adelante, Mr. Satan, le ha\Nllegado otra vez el turno!
-Dialogue: 0,0:05:22.85,0:05:25.01,Reportero torneo,,0,0,0,,Ha dispuesto de tiempo\Nsuficiente para descansar.
-Dialogue: 0,0:05:25.05,0:05:28.24,Reportero torneo,,0,0,0,,¡Esta vez le rogamos que\Naplaste por completo a Cell!
-Dialogue: 0,0:05:29.04,0:05:31.85,Personaje Secundario 3,,0,0,0,,¡Mr. Satan, queremos ver otra\Nde sus luchas memorables!
-Dialogue: 0,0:05:31.86,0:05:33.72,Personaje Secundario 2,,0,0,0,,¡Eso es, maestro!
-Dialogue: 0,0:05:35.37,0:05:37.16,Mr. Satan,,0,0,0,,Muy bien.
-Dialogue: 0,0:05:37.37,0:05:40.60,Mr. Satan,,0,0,0,,Vamos a meterle un poco\Nde miedo en el cuerpo.
-Dialogue: 0,0:05:42.77,0:05:45.07,Mr. Satan,,0,0,0,,¡Ay, ay, ay!
-Dialogue: 0,0:05:46.13,0:05:48.78,Reportero torneo,,0,0,0,,Mr. Satan...
-Dialogue: 0,0:05:49.25,0:05:51.82,Personaje Secundario 3,,0,0,0,,Mr. Satan, ¿qué le ocurre?
-Dialogue: 0,0:05:51.94,0:05:55.34,Mr. Satan,,0,0,0,,¡Ay! ¡Ay! ¡Qué dolor de estómago!
-Dialogue: 0,0:05:55.37,0:06:00.89,Mr. Satan,,0,0,0,,¡Yo quiero luchar! ¡A ese tipo\Nlo derroto en un momento!
-Dialogue: 0,0:06:00.90,0:06:05.72,Mr. Satan,,0,0,0,,¡Ay! ¡Ay! ¡Ay!\N¡Pero con este dolor de estómago...!
-Dialogue: 0,0:06:07.04,0:06:09.57,Personaje Secundario 3,,0,0,0,,No se preocupe, Mr. Satan.
-Dialogue: 0,0:06:09.69,0:06:12.68,Personaje Secundario 3,,0,0,0,,Esto es una medicina\Nespecial contra la indigestión.
-Dialogue: 0,0:06:12.81,0:06:17.01,Personaje Secundario 3,,0,0,0,,Tome una cápsula y se encontrará\Nbien en cuestión de segundos.
-Dialogue: 0,0:06:18.34,0:06:19.56,Mr. Satan,,0,0,0,,No seas idiota.
-Dialogue: 0,0:06:19.92,0:06:21.56,Mr. Satan,,0,0,0,,No servirá de nada.
-Dialogue: 0,0:06:21.58,0:06:26.10,Mr. Satan,,0,0,0,,¡Ay! ¡Ay! ¡Ay! ¡Cómo me duele!\N¡Es insoportable!
-Dialogue: 0,0:06:26.89,0:06:31.32,Mr. Satan,,0,0,0,,¡Si no fuera por este dolor de estómago,\Nle daría una paliza a Cell!
-Dialogue: 0,0:06:38.38,0:06:42.20,Gokuh,,0,0,0,,¿Puedo elegir yo al siguiente\Nen luchar contra ti?
-Dialogue: 0,0:06:43.54,0:06:46.56,Célula,,0,0,0,,¿Realmente tienes\Nintención de rendirte?
-Dialogue: 0,0:06:47.21,0:06:52.29,Vegeta,,0,0,0,,¿Se puede saber qué se propone?\N¡No hay nadie capaz de derrotar a Cell!
-Dialogue: 0,0:06:54.14,0:06:58.20,Gokuh,,0,0,0,,Lo más seguro es que el siguiente\Ncombate ponga fin al Cell Game.
-Dialogue: 0,0:06:58.92,0:07:02.12,Gokuh,,0,0,0,,Porque si él pierde, no quedará\Nnadie que pueda ganarte.
-Dialogue: 0,0:07:14.94,0:07:19.64,Gokuh,,0,0,0,,Mientras luchaba contra ti, me he dado\Ncuenta de que él puede ganarte.
-Dialogue: 0,0:07:19.81,0:07:21.16,Célula,,0,0,0,,¿Cómo?
-Dialogue: 0,0:07:21.41,0:07:25.48,Gokuh,,0,0,0,,Por eso me he rendido, para\Ntraspasarle toda la responsabilidad.
-Dialogue: 0,0:07:25.82,0:07:31.48,Célula,,0,0,0,,¿Estás sugiriendo que existe alguien\Nmás fuerte que tú y que yo?
-Dialogue: 0,0:07:32.37,0:07:33.27,Gokuh,,0,0,0,,Sí.
-Dialogue: 0,0:07:35.49,0:07:39.76,Célula,,0,0,0,,¡Imposible! No existe\Nnadie más fuerte que yo.
-Dialogue: 0,0:07:41.08,0:07:43.00,Gokuh,,0,0,0,,Pues yo creo que sí.
-Dialogue: 0,0:07:43.70,0:07:48.53,Célula,,0,0,0,,Entonces, dime el nombre de ese poderoso\Nguerrero que no creo que exista.
+Dialogue: 0,0:04:19.37,0:04:24.64,Default,,0,0,0,,Bueno, ha hecho un buen trabajo.\NEse joven ha dado todo lo que tenía.
+Dialogue: 0,0:04:25.36,0:04:27.60,Default,,0,0,0,,Tiene toda la razón, Mr. Satan.
+Dialogue: 0,0:04:27.77,0:04:30.56,Default,,0,0,0,,Sabía que al final\Ndependeríamos de usted.
+Dialogue: 0,0:04:31.82,0:04:36.36,Default,,0,0,0,,Son Gokú, ¿eres consciente del\Nsignificado de esas palabras?
+Dialogue: 0,0:04:37.49,0:04:38.36,Default,,0,0,0,,Sí.
+Dialogue: 0,0:04:38.49,0:04:41.10,Default,,0,0,0,,Si no queda nadie más para\Nluchar en el Cell Game,
+Dialogue: 0,0:04:41.12,0:04:46.20,Default,,0,0,0,,toda la gente de la Tierra morirá.\NLos mataré con mis propias manos.
+Dialogue: 0,0:04:46.45,0:04:49.08,Default,,0,0,0,,Cell, no te equivoques.
+Dialogue: 0,0:04:49.21,0:04:52.04,Default,,0,0,0,,Esto no significa que la\Nlucha haya acabado.
+Dialogue: 0,0:04:53.06,0:04:54.49,Default,,0,0,0,,Es lo mismo.
+Dialogue: 0,0:04:58.98,0:05:04.16,Default,,0,0,0,,Vegeta, Píkoro y Trunks,\Npor mucho que hayan mejorado
+Dialogue: 0,0:05:04.18,0:05:06.48,Default,,0,0,0,,siguen siendo muy inferiores a ti.
+Dialogue: 0,0:05:07.50,0:05:09.38,Default,,0,0,0,,No son rivales para mí.
+Dialogue: 0,0:05:14.17,0:05:19.16,Default,,0,0,0,,¡Adelante, Mr. Satan, le ha\Nllegado otra vez el turno!
+Dialogue: 0,0:05:22.85,0:05:25.01,Default,,0,0,0,,Ha dispuesto de tiempo\Nsuficiente para descansar.
+Dialogue: 0,0:05:25.05,0:05:28.24,Default,,0,0,0,,¡Esta vez le rogamos que\Naplaste por completo a Cell!
+Dialogue: 0,0:05:29.04,0:05:31.85,Default,,0,0,0,,¡Mr. Satan, queremos ver otra\Nde sus luchas memorables!
+Dialogue: 0,0:05:31.86,0:05:33.72,Default,,0,0,0,,¡Eso es, maestro!
+Dialogue: 0,0:05:35.37,0:05:37.16,Default,,0,0,0,,Muy bien.
+Dialogue: 0,0:05:37.37,0:05:40.60,Default,,0,0,0,,Vamos a meterle un poco\Nde miedo en el cuerpo.
+Dialogue: 0,0:05:42.77,0:05:45.07,Default,,0,0,0,,¡Ay, ay, ay!
+Dialogue: 0,0:05:46.13,0:05:48.78,Default,,0,0,0,,Mr. Satan...
+Dialogue: 0,0:05:49.25,0:05:51.82,Default,,0,0,0,,Mr. Satan, ¿qué le ocurre?
+Dialogue: 0,0:05:51.94,0:05:55.34,Default,,0,0,0,,¡Ay! ¡Ay! ¡Qué dolor de estómago!
+Dialogue: 0,0:05:55.37,0:06:00.89,Default,,0,0,0,,¡Yo quiero luchar! ¡A ese tipo\Nlo derroto en un momento!
+Dialogue: 0,0:06:00.90,0:06:05.72,Default,,0,0,0,,¡Ay! ¡Ay! ¡Ay!\N¡Pero con este dolor de estómago...!
+Dialogue: 0,0:06:07.04,0:06:09.57,Default,,0,0,0,,No se preocupe, Mr. Satan.
+Dialogue: 0,0:06:09.69,0:06:12.68,Default,,0,0,0,,Esto es una medicina\Nespecial contra la indigestión.
+Dialogue: 0,0:06:12.81,0:06:17.01,Default,,0,0,0,,Tome una cápsula y se encontrará\Nbien en cuestión de segundos.
+Dialogue: 0,0:06:18.34,0:06:19.56,Default,,0,0,0,,No seas idiota.
+Dialogue: 0,0:06:19.92,0:06:21.56,Default,,0,0,0,,No servirá de nada.
+Dialogue: 0,0:06:21.58,0:06:26.10,Default,,0,0,0,,¡Ay! ¡Ay! ¡Ay! ¡Cómo me duele!\N¡Es insoportable!
+Dialogue: 0,0:06:26.89,0:06:31.32,Default,,0,0,0,,¡Si no fuera por este dolor de estómago,\Nle daría una paliza a Cell!
+Dialogue: 0,0:06:38.38,0:06:42.20,Default,,0,0,0,,¿Puedo elegir yo al siguiente\Nen luchar contra ti?
+Dialogue: 0,0:06:43.54,0:06:46.56,Default,,0,0,0,,¿Realmente tienes\Nintención de rendirte?
+Dialogue: 0,0:06:47.21,0:06:52.29,Default,,0,0,0,,¿Se puede saber qué se propone?\N¡No hay nadie capaz de derrotar a Cell!
+Dialogue: 0,0:06:54.14,0:06:58.20,Default,,0,0,0,,Lo más seguro es que el siguiente\Ncombate ponga fin al Cell Game.
+Dialogue: 0,0:06:58.92,0:07:02.12,Default,,0,0,0,,Porque si él pierde, no quedará\Nnadie que pueda ganarte.
+Dialogue: 0,0:07:14.94,0:07:19.64,Default,,0,0,0,,Mientras luchaba contra ti, me he dado\Ncuenta de que él puede ganarte.
+Dialogue: 0,0:07:19.81,0:07:21.16,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:07:21.41,0:07:25.48,Default,,0,0,0,,Por eso me he rendido, para\Ntraspasarle toda la responsabilidad.
+Dialogue: 0,0:07:25.82,0:07:31.48,Default,,0,0,0,,¿Estás sugiriendo que existe alguien\Nmás fuerte que tú y que yo?
+Dialogue: 0,0:07:32.37,0:07:33.27,Default,,0,0,0,,Sí.
+Dialogue: 0,0:07:35.49,0:07:39.76,Default,,0,0,0,,¡Imposible! No existe\Nnadie más fuerte que yo.
+Dialogue: 0,0:07:41.08,0:07:43.00,Default,,0,0,0,,Pues yo creo que sí.
+Dialogue: 0,0:07:43.70,0:07:48.53,Default,,0,0,0,,Entonces, dime el nombre de ese poderoso\Nguerrero que no creo que exista.
 Dialogue: 0,0:08:18.89,0:08:20.60,Default,,0,0,0,,Ahora dirá el nombre.
-Dialogue: 0,0:08:20.73,0:08:22.04,Reportero torneo,,0,0,0,,Muy bien...
-Dialogue: 0,0:08:26.33,0:08:30.24,Mr. Satan,,0,0,0,,Seguro que dice Mr. Satan.
-Dialogue: 0,0:08:32.37,0:08:33.43,Mr. Satan,,0,0,0,,Oye...
-Dialogue: 0,0:08:34.53,0:08:39.80,Mr. Satan,,0,0,0,,Ve y dile que tengo dolor de\Nestómago y no puedo luchar.
-Dialogue: 0,0:08:40.33,0:08:41.74,Personaje Secundario 3,,0,0,0,,Sí...
-Dialogue: 0,0:08:51.60,0:08:53.12,Gokuh,,0,0,0,,Es tu turno...
-Dialogue: 0,0:08:53.65,0:08:54.28,Gokuh,,0,0,0,,¡Gohan!
-Dialogue: 0,0:08:59.65,0:09:01.00,Vegeta,,0,0,0,,¿Qué?
-Dialogue: 0,0:09:03.45,0:09:07.44,Piccolo,,0,0,0,,Ese idiota... ¿es que quiere\Nmatar a su propio hijo?
-Dialogue: 0,0:09:26.10,0:09:29.18,Chichi,,0,0,0,,¡Gokuh, ¿se puede saber qué haces?!
-Dialogue: 0,0:09:29.49,0:09:31.58,Abuelo Gohan - Gyuumaoh,,0,0,0,,¡Gokuh!
-Dialogue: 0,0:09:31.61,0:09:36.24,Chichi,,0,0,0,,¡¿G-Gokuh, es qué quieres que Gohan...\Nqué Gohan se enfrente a ese terrible oponente?!
-Dialogue: 0,0:09:36.29,0:09:39.56,Chichi,,0,0,0,,¡¿Es que quieres que lo maten?!\N¡Gohan! ¡Gohan!
+Dialogue: 0,0:08:20.73,0:08:22.04,Default,,0,0,0,,Muy bien...
+Dialogue: 0,0:08:26.33,0:08:30.24,Default,,0,0,0,,Seguro que dice Mr. Satan.
+Dialogue: 0,0:08:32.37,0:08:33.43,Default,,0,0,0,,Oye...
+Dialogue: 0,0:08:34.53,0:08:39.80,Default,,0,0,0,,Ve y dile que tengo dolor de\Nestómago y no puedo luchar.
+Dialogue: 0,0:08:40.33,0:08:41.74,Default,,0,0,0,,Sí...
+Dialogue: 0,0:08:51.60,0:08:53.12,Default,,0,0,0,,Es tu turno...
+Dialogue: 0,0:08:53.65,0:08:54.28,Default,,0,0,0,,¡Gohan!
+Dialogue: 0,0:08:59.65,0:09:01.00,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:09:03.45,0:09:07.44,Default,,0,0,0,,Ese idiota... ¿es que quiere\Nmatar a su propio hijo?
+Dialogue: 0,0:09:26.10,0:09:29.18,Default,,0,0,0,,¡Gokú, ¿se puede saber qué haces?!
+Dialogue: 0,0:09:29.49,0:09:31.58,Abuelo Gohan - Gyuumaoh,,0,0,0,,¡Gokú!
+Dialogue: 0,0:09:31.61,0:09:36.24,Default,,0,0,0,,¡¿G-Gokú, es qué quieres que Gohan...\Nqué Gohan se enfrente a ese terrible oponente?!
+Dialogue: 0,0:09:36.29,0:09:39.56,Default,,0,0,0,,¡¿Es que quieres que lo maten?!\N¡Gohan! ¡Gohan!
 Dialogue: 0,0:09:37.98,0:09:39.56,Abuelo Gohan - Gyuumaoh,,0,0,0,,¡Cálmate, Chichi!
 Dialogue: 0,0:09:39.56,0:09:39.84,Abuelo Gohan - Gyuumaoh,,0,0,0,,¡Cálmate, Chichi!
 Dialogue: 0,0:09:42.45,0:09:47.05,Default,,0,0,0,,Ha dicho que es el turno de Gohan.
-Dialogue: 0,0:09:48.76,0:09:56.64,Notas traducción,,0,0,0,,Gohan: {\c&Hffffff&\3c&H000000&\4c&H5D5D63&}arroz cocido, en japonés.
-Dialogue: 0,0:09:48.76,0:09:52.45,Reportero torneo,,0,0,0,,Claro... van a hacer un\Ndescanso para comer.
-Dialogue: 0,0:09:52.50,0:09:56.64,Reportero torneo,,0,0,0,,¿Cómo pueden pensar en comer\Nen un momento como éste?
-Dialogue: 0,0:10:02.98,0:10:04.60,Gokuh,,0,0,0,,Puedes hacerlo, Gohan.
-Dialogue: 0,0:10:05.36,0:10:08.72,Son Gohan,,0,0,0,,¿Yo contra Cell?
-Dialogue: 0,0:10:09.25,0:10:11.20,Célula,,0,0,0,,Debe de ser una broma.
-Dialogue: 0,0:10:11.33,0:10:14.76,Célula,,0,0,0,,Se me habían ocurrido algunos\Nnombres, pero... ¿Son Gohan?
-Dialogue: 0,0:10:15.65,0:10:19.24,Piccolo,,0,0,0,,¡Deja de decir tonterías, Gokuh!\N¡No puede luchar contra él!
-Dialogue: 0,0:10:19.65,0:10:23.44,Piccolo,,0,0,0,,¡Es cierto que Gohan ha mejorado\Nmucho, pero su adversario es Cell,
-Dialogue: 0,0:10:23.77,0:10:26.52,Piccolo,,0,0,0,,contra el que tú mismo has perdido!
-Dialogue: 0,0:10:27.40,0:10:33.59,Gokuh,,0,0,0,,Piccolo, Gohan es mucho más fuerte\Nde lo que imaginamos.
-Dialogue: 0,0:10:34.33,0:10:35.88,Gokuh,,0,0,0,,Piénsalo un poco.
-Dialogue: 0,0:10:37.21,0:10:41.80,Gokuh,,0,0,0,,Ha estado luchando a nuestro\Nnivel desde que era muy pequeño.
-Dialogue: 0,0:10:44.57,0:10:49.59,Gokuh,,0,0,0,,Cuando yo tenía su edad, no\Nera tan fuerte ni por asomo.
-Dialogue: 0,0:10:50.54,0:10:55.16,Krilin,,0,0,0,,Pero por mucho que ahora sea\Nun Súper Saiyajin y todo...
-Dialogue: 0,0:10:55.29,0:10:58.16,Krilin,,0,0,0,,Es un poco precipitado... ¿no?
-Dialogue: 0,0:10:59.25,0:11:03.16,Gokuh,,0,0,0,,En la Sala del Espíritu y el Tiempo\Ncomenzó a despertar el poder latente
-Dialogue: 0,0:11:03.33,0:11:06.24,Gokuh,,0,0,0,,que se encontraba dormido\Nen lo más profundo de él.
-Dialogue: 0,0:11:11.97,0:11:16.04,Gokuh,,0,0,0,,¿Qué me dices, Gohan? Cuando nos\Nhas visto luchar a Cell y a mí,
-Dialogue: 0,0:11:16.48,0:11:19.28,Gokuh,,0,0,0,,¿te ha parecido que era\Nalgo fuera de tu alcance?
-Dialogue: 0,0:11:21.78,0:11:24.52,Son Gohan,,0,0,0,,No me ha parecido tanto.
-Dialogue: 0,0:11:25.28,0:11:29.57,Gokuh,,0,0,0,,Pero eso era, por qué tú y Cell no\Nluchaban en serio, ¿verdad?
-Dialogue: 0,0:11:32.61,0:11:36.48,Gokuh,,0,0,0,,No sé Cell, pero yo luchaba a fondo.
-Dialogue: 0,0:11:39.13,0:11:43.28,Gokuh,,0,0,0,,Así que te ha parecido que no luchábamos\Ncon todas nuestras fuerzas, ¿no?
-Dialogue: 0,0:11:47.08,0:11:49.31,Piccolo,,0,0,0,,¡¿Es eso cierto, Gohan?!
-Dialogue: 0,0:11:51.01,0:11:52.15,Son Gohan,,0,0,0,,Sí...
-Dialogue: 0,0:11:54.66,0:12:00.80,Vegeta,,0,0,0,,¿Qué dice...?\N¡Es imposible que ese mocoso...!
-Dialogue: 0,0:12:06.34,0:12:07.88,Célula,,0,0,0,,Estúpidos.
-Dialogue: 0,0:12:10.98,0:12:15.52,Gokuh,,0,0,0,,Hazlo, Gohan. Tienes que luchar\Npor la paz del mundo.
-Dialogue: 0,0:12:15.77,0:12:18.28,Gokuh,,0,0,0,,Quieres ser un gran científico, ¿no?
-Dialogue: 0,0:12:25.21,0:12:26.48,Son Gohan,,0,0,0,,Entendido.
-Dialogue: 0,0:12:27.02,0:12:28.08,Son Gohan,,0,0,0,,Lo intentaré.
-Dialogue: 0,0:12:36.25,0:12:37.52,Krilin,,0,0,0,,Gohan...
-Dialogue: 0,0:12:41.13,0:12:43.68,Chichi,,0,0,0,,¡Gohan!
-Dialogue: 0,0:13:31.34,0:13:32.53,Célula,,0,0,0,,Idiotas.
-Dialogue: 0,0:13:33.09,0:13:36.06,Reportero torneo,,0,0,0,,¿Se puede saber a qué viene este\Ninesperado giro de acontecimientos?
-Dialogue: 0,0:13:36.57,0:13:39.40,Reportero torneo,,0,0,0,,Han dicho que iban a parar para comer,\Npero acaba de saltar al campo de batalla
-Dialogue: 0,0:13:39.40,0:13:40.54,Reportero torneo,,0,0,0,,un niño desconocido.
-Dialogue: 0,0:13:41.45,0:13:45.46,Mr. Satan,,0,0,0,,¡Ya sé! ¡Es el repartidor!
-Dialogue: 0,0:13:49.37,0:13:51.46,Mr. Satan,,0,0,0,,¡Ay! ¡Ay! ¡Ay!
-Dialogue: 0,0:13:52.44,0:13:58.05,Reportero torneo,,0,0,0,,Tiene sentido. Como es la hora de\Ncomer, ha llegado el repartidor.
-Dialogue: 0,0:13:58.66,0:14:02.96,Reportero torneo,,0,0,0,,¡El repartidor!\N¡Ha llegado el repartidor!
+Dialogue: 0,0:09:48.76,0:09:56.64,Default,,0,0,0,,Gohan: {\c&Hffffff&\3c&H000000&\4c&H5D5D63&}arroz cocido, en japonés.
+Dialogue: 0,0:09:48.76,0:09:52.45,Default,,0,0,0,,Claro... van a hacer un\Ndescanso para comer.
+Dialogue: 0,0:09:52.50,0:09:56.64,Default,,0,0,0,,¿Cómo pueden pensar en comer\Nen un momento como éste?
+Dialogue: 0,0:10:02.98,0:10:04.60,Default,,0,0,0,,Puedes hacerlo, Gohan.
+Dialogue: 0,0:10:05.36,0:10:08.72,Default,,0,0,0,,¿Yo contra Cell?
+Dialogue: 0,0:10:09.25,0:10:11.20,Default,,0,0,0,,Debe de ser una broma.
+Dialogue: 0,0:10:11.33,0:10:14.76,Default,,0,0,0,,Se me habían ocurrido algunos\Nnombres, pero... ¿Son Gohan?
+Dialogue: 0,0:10:15.65,0:10:19.24,Default,,0,0,0,,¡Deja de decir tonterías, Gokú!\N¡No puede luchar contra él!
+Dialogue: 0,0:10:19.65,0:10:23.44,Default,,0,0,0,,¡Es cierto que Gohan ha mejorado\Nmucho, pero su adversario es Cell,
+Dialogue: 0,0:10:23.77,0:10:26.52,Default,,0,0,0,,contra el que tú mismo has perdido!
+Dialogue: 0,0:10:27.40,0:10:33.59,Default,,0,0,0,,Píkoro, Gohan es mucho más fuerte\Nde lo que imaginamos.
+Dialogue: 0,0:10:34.33,0:10:35.88,Default,,0,0,0,,Piénsalo un poco.
+Dialogue: 0,0:10:37.21,0:10:41.80,Default,,0,0,0,,Ha estado luchando a nuestro\Nnivel desde que era muy pequeño.
+Dialogue: 0,0:10:44.57,0:10:49.59,Default,,0,0,0,,Cuando yo tenía su edad, no\Nera tan fuerte ni por asomo.
+Dialogue: 0,0:10:50.54,0:10:55.16,Default,,0,0,0,,Pero por mucho que ahora sea\Nun Súper Saiyajin y todo...
+Dialogue: 0,0:10:55.29,0:10:58.16,Default,,0,0,0,,Es un poco precipitado... ¿no?
+Dialogue: 0,0:10:59.25,0:11:03.16,Default,,0,0,0,,En la Sala del Espíritu y el Tiempo\Ncomenzó a despertar el poder latente
+Dialogue: 0,0:11:03.33,0:11:06.24,Default,,0,0,0,,que se encontraba dormido\Nen lo más profundo de él.
+Dialogue: 0,0:11:11.97,0:11:16.04,Default,,0,0,0,,¿Qué me dices, Gohan? Cuando nos\Nhas visto luchar a Cell y a mí,
+Dialogue: 0,0:11:16.48,0:11:19.28,Default,,0,0,0,,¿te ha parecido que era\Nalgo fuera de tu alcance?
+Dialogue: 0,0:11:21.78,0:11:24.52,Default,,0,0,0,,No me ha parecido tanto.
+Dialogue: 0,0:11:25.28,0:11:29.57,Default,,0,0,0,,Pero eso era, por qué tú y Cell no\Nluchaban en serio, ¿verdad?
+Dialogue: 0,0:11:32.61,0:11:36.48,Default,,0,0,0,,No sé Cell, pero yo luchaba a fondo.
+Dialogue: 0,0:11:39.13,0:11:43.28,Default,,0,0,0,,Así que te ha parecido que no luchábamos\Ncon todas nuestras fuerzas, ¿no?
+Dialogue: 0,0:11:47.08,0:11:49.31,Default,,0,0,0,,¡¿Es eso cierto, Gohan?!
+Dialogue: 0,0:11:51.01,0:11:52.15,Default,,0,0,0,,Sí...
+Dialogue: 0,0:11:54.66,0:12:00.80,Default,,0,0,0,,¿Qué dice...?\N¡Es imposible que ese mocoso...!
+Dialogue: 0,0:12:06.34,0:12:07.88,Default,,0,0,0,,Estúpidos.
+Dialogue: 0,0:12:10.98,0:12:15.52,Default,,0,0,0,,Hazlo, Gohan. Tienes que luchar\Npor la paz del mundo.
+Dialogue: 0,0:12:15.77,0:12:18.28,Default,,0,0,0,,Quieres ser un gran científico, ¿no?
+Dialogue: 0,0:12:25.21,0:12:26.48,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:12:27.02,0:12:28.08,Default,,0,0,0,,Lo intentaré.
+Dialogue: 0,0:12:36.25,0:12:37.52,Default,,0,0,0,,Gohan...
+Dialogue: 0,0:12:41.13,0:12:43.68,Default,,0,0,0,,¡Gohan!
+Dialogue: 0,0:13:31.34,0:13:32.53,Default,,0,0,0,,Idiotas.
+Dialogue: 0,0:13:33.09,0:13:36.06,Default,,0,0,0,,¿Se puede saber a qué viene este\Ninesperado giro de acontecimientos?
+Dialogue: 0,0:13:36.57,0:13:39.40,Default,,0,0,0,,Han dicho que iban a parar para comer,\Npero acaba de saltar al campo de batalla
+Dialogue: 0,0:13:39.40,0:13:40.54,Default,,0,0,0,,un niño desconocido.
+Dialogue: 0,0:13:41.45,0:13:45.46,Default,,0,0,0,,¡Ya sé! ¡Es el repartidor!
+Dialogue: 0,0:13:49.37,0:13:51.46,Default,,0,0,0,,¡Ay! ¡Ay! ¡Ay!
+Dialogue: 0,0:13:52.44,0:13:58.05,Default,,0,0,0,,Tiene sentido. Como es la hora de\Ncomer, ha llegado el repartidor.
+Dialogue: 0,0:13:58.66,0:14:02.96,Default,,0,0,0,,¡El repartidor!\N¡Ha llegado el repartidor!
 Dialogue: 0,0:14:03.12,0:14:09.92,Default,,0,0,0,,Mira, ¿ése no es el hijo de Chichi?\N¿Sabías que trabajaba de repartidor?
 Dialogue: 0,0:14:09.92,0:14:14.03,Default,,0,0,0,,Con la ilusión que tenía Chichi con\Nque de mayor fuera un gran científico.
 Dialogue: 0,0:14:14.16,0:14:18.48,Default,,0,0,0,,Se ha teñido el pelo\Nigual que su padre.
 Dialogue: 0,0:14:18.64,0:14:23.99,Default,,0,0,0,,Me sabe mal por Chichi.\NPadre e hijo han ido por el mal camino.
 Dialogue: 0,0:14:24.04,0:14:25.67,Default,,0,0,0,,Y que lo digas.
-Dialogue: 0,0:14:29.52,0:14:31.66,Mutenroshi,,0,0,0,,¿Gohan?
-Dialogue: 0,0:14:33.46,0:14:37.21,Mutenroshi,,0,0,0,,Me da igual lo que digan, no es lo\Nbastante fuerte para enfrentarse a Cell.
-Dialogue: 0,0:14:39.61,0:14:43.91,Gokuh,,0,0,0,,Krilin, ¿tienes las senzu?\N¿Me puedes dar una?
-Dialogue: 0,0:14:45.69,0:14:46.51,Krilin,,0,0,0,,Claro.
-Dialogue: 0,0:14:47.85,0:14:49.27,Gokuh,,0,0,0,,Gracias.
-Dialogue: 0,0:14:51.57,0:14:52.35,Gokuh,,0,0,0,,¡Cell!
-Dialogue: 0,0:15:02.24,0:15:05.07,Gokuh,,0,0,0,,Es una senzu. Cómetela.
-Dialogue: 0,0:15:05.50,0:15:09.35,Krilin,,0,0,0,,¡Gokuh, eres un idiota!\N¡¿Se puede saber qué haces?!
-Dialogue: 0,0:15:09.80,0:15:13.91,Gokuh,,0,0,0,,No pasa nada. Él también\Nha perdido mucho poder.
-Dialogue: 0,0:15:14.38,0:15:17.15,Gokuh,,0,0,0,,No sería justo si Gohan ganara\Nen estas condiciones.
-Dialogue: 0,0:15:17.32,0:15:19.46,Yamcha,,0,0,0,,Pero, ¿qué dices?
-Dialogue: 0,0:15:20.04,0:15:22.49,Yamcha,,0,0,0,,En un momento como éste, no importa\Nlo que es justo y lo que no.
-Dialogue: 0,0:15:25.73,0:15:28.47,Célula,,0,0,0,,Idiota. Eres demasiado creído.
-Dialogue: 0,0:15:28.68,0:15:32.75,Célula,,0,0,0,,Parece que no comprendes que tu\Ncompasión puede costarte la vida.
-Dialogue: 0,0:15:35.40,0:15:39.11,Célula,,0,0,0,,En cualquier caso, acepto sin\Nreparos esta senzu.
-Dialogue: 0,0:15:39.76,0:15:44.83,Célula,,0,0,0,,¡Son Gokuh, pronto te\Narrepentirás de tu estupidez!
-Dialogue: 0,0:16:00.21,0:16:02.19,Yamcha,,0,0,0,,¡Mierda...!
-Dialogue: 0,0:16:08.12,0:16:11.95,Célula,,0,0,0,,Ya veo. Va muy bien.
-Dialogue: 0,0:16:12.68,0:16:15.83,Krilin,,0,0,0,,Ya verás lo que pasa ahora...
-Dialogue: 0,0:16:16.72,0:16:21.11,Piccolo,,0,0,0,,Gokuh, acabas de cometer\Nuna imprudencia imperdonable.
-Dialogue: 0,0:16:56.36,0:17:00.87,Personaje Secundario 2,,0,0,0,,Yo diría que no es el repartidor...
-Dialogue: 0,0:17:06.72,0:17:11.35,Kaioh,,0,0,0,,¡Oh! ¿Ésa es... la energía de Gohan?
-Dialogue: 0,0:17:13.48,0:17:17.95,Kaioh,,0,0,0,,Probablemente ha sobrepasado a Gokuh.
-Dialogue: 0,0:17:24.52,0:17:26.11,Piccolo,,0,0,0,,Ese Gohan...
-Dialogue: 0,0:18:11.24,0:18:13.83,Piccolo,,0,0,0,,¿Ése es Gohan?
-Dialogue: 0,0:18:14.16,0:18:16.35,Piccolo,,0,0,0,,¿El pacífico Gohan?
-Dialogue: 0,0:18:17.09,0:18:19.47,Vegeta,,0,0,0,,¡Ese mocoso...!
-Dialogue: 0,0:18:20.40,0:18:23.78,Vegeta,,0,0,0,,¿Cómo diablos ha incrementado\Ntanto su fuerza de combate?
-Dialogue: 0,0:18:25.28,0:18:29.92,Célula,,0,0,0,,Supongo que lo que decía Son Gokuh\Nno era una fanfarronada.
-Dialogue: 0,0:18:30.96,0:18:36.42,Célula,,0,0,0,,Sin embargo, exageraba cuando\Nha dicho que podría derrotarme.
-Dialogue: 0,0:18:49.84,0:18:53.75,Célula,,0,0,0,,Qué mocoso tan insolente.\NParece dispuesto a ganarme.
-Dialogue: 0,0:18:54.12,0:19:00.78,Célula,,0,0,0,,Eres muy afortunado. Morirás justo\Ndespués de conocer el verdadero terror.
-Dialogue: 0,0:19:29.45,0:19:31.17,Gokuh,,0,0,0,,¡Vamos, Gohan!
-Dialogue: 0,0:19:39.48,0:19:40.67,Krilin,,0,0,0,,Gohan...
-Dialogue: 0,0:19:41.40,0:19:42.62,Trunks,,0,0,0,,¡Gohan!
-Dialogue: 0,0:19:43.60,0:19:47.94,Reportero torneo,,0,0,0,,¡El repartidor ha comenzado a luchar!
-Dialogue: 0,0:19:48.54,0:19:52.99,Reportero torneo,,0,0,0,,¡Parece que se defiende bien, pero no\Npodemos olvidar que se enfrenta a Cell!
-Dialogue: 0,0:19:53.16,0:19:55.81,Reportero torneo,,0,0,0,,¿Conseguirá aguantar\Nmás de un minuto?
-Dialogue: 0,0:20:16.56,0:20:18.45,Célula,,0,0,0,,Parece que el pequeño es rápido.
-Dialogue: 0,0:20:20.04,0:20:22.61,Célula,,0,0,0,,Así que me concentraré\Nen la velocidad.
-Dialogue: 0,0:20:36.84,0:20:38.81,Piccolo,,0,0,0,,Sabía que no era buena idea...
-Dialogue: 0,0:20:40.84,0:20:42.48,Krilin,,0,0,0,,¡Gokuh...!
-Dialogue: 0,0:20:55.45,0:20:57.78,Chichi,,0,0,0,,¡Gohan! ¡Gohan!\N{\c&H181819&\3c&H00EADD&\4c&HFFFFFF&} ¡Cálmate, Chichi!
-Dialogue: 0,0:20:57.78,0:21:00.50,Chichi,,0,0,0,,¡Deja de hacer eso, deja de hacer eso!\N{\c&H181819&\3c&H00EADD&\4c&HFFFFFF&} ¡Para, Chichi!
-Dialogue: 0,0:21:17.14,0:21:18.11,Trunks,,0,0,0,,¡Gokuh!
-Dialogue: 0,0:21:19.10,0:21:20.35,Krilin,,0,0,0,,¡Oye, Gokuh...!
-Dialogue: 0,0:21:20.52,0:21:21.71,Krilin,,0,0,0,,¡Oye!
-Dialogue: 0,0:22:18.92,0:22:23.78,Narrador,,0,0,0,,Gokuh ha elegido a Gohan para que\Nocupe su lugar en el Cell Game.
-Dialogue: 0,0:22:24.08,0:22:29.28,Narrador,,0,0,0,,Gokuh, ¿seguro que Gohan\Npuede derrotar a Cell?
-Dialogue: 0,0:22:44.93,0:22:48.67,Ending Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
-Dialogue: 0,0:22:44.93,0:22:48.67,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:22:48.88,0:22:54.27,Ending Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
-Dialogue: 0,0:22:48.88,0:22:54.27,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:22:54.78,0:22:56.76,Ending Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
-Dialogue: 0,0:22:54.78,0:22:56.76,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:00.45,0:23:07.61,Ending Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
-Dialogue: 0,0:23:00.45,0:23:07.61,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:07.77,0:23:12.24,Ending Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
-Dialogue: 0,0:23:07.77,0:23:12.24,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:12.24,0:23:15.97,Ending Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
-Dialogue: 0,0:23:12.24,0:23:15.97,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:16.16,0:23:19.73,Ending Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
-Dialogue: 0,0:23:16.16,0:23:19.73,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:19.73,0:23:21.86,Ending Español,,0,0,0,,Ahí está... ven, ven, ven
-Dialogue: 0,0:23:19.73,0:23:21.86,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:24.08,0:23:31.21,Ending Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
-Dialogue: 0,0:23:24.08,0:23:31.21,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:31.91,0:23:33.63,Ending Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
-Dialogue: 0,0:23:31.91,0:23:33.63,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:33.88,0:23:35.66,Ending Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
-Dialogue: 0,0:23:33.88,0:23:35.66,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:35.88,0:23:37.89,Ending Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
-Dialogue: 0,0:23:35.88,0:23:37.89,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:37.89,0:23:39.76,Ending Español,,0,0,0,,¡Qué dolor!
-Dialogue: 0,0:23:37.89,0:23:39.76,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:39.76,0:23:44.78,Ending Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
-Dialogue: 0,0:23:39.76,0:23:44.78,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:45.45,0:23:46.46,Ending Español,,0,0,0,,Lo siento.
-Dialogue: 0,0:23:45.45,0:23:46.46,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:47.71,0:23:52.63,Ending Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
-Dialogue: 0,0:23:47.71,0:23:52.63,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:23:55.56,0:24:01.47,Ending Español,,0,0,0,,¡Sal, increíble poder Zenkai!
-Dialogue: 0,0:23:55.56,0:24:01.47,Ending Japones 2,,0,0,0,,
-Dialogue: 0,0:24:08.80,0:24:11.59,Titulos,,0,0,0,,{\pos(348.619,110.81)}Avance
-Dialogue: 0,0:24:12.43,0:24:14.53,Gokuh,,0,0,0,,¡Hola, soy Gokuh!
-Dialogue: 0,0:24:14.53,0:24:18.27,Gokuh,,0,0,0,,¡Enfádate, Gohan! ¡Si queremos derrotar a Cell, con lo único que podemos contar ahora...
-Dialogue: 0,0:24:18.27,0:24:20.27,Gokuh,,0,0,0,,es con la energía que liberas\Ncuándo estás enfadado!
-Dialogue: 0,0:24:20.27,0:24:22.21,Célula,,0,0,0,,¡Mira lo equivocado qué estabas, Son Gokuh!
-Dialogue: 0,0:24:22.21,0:24:27.91,Célula,,0,0,0,,¡Gracias a tus teorías erróneas...\N tu querido hijo morirá!
-Dialogue: 0,0:24:27.91,0:24:30.08,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
-Dialogue: 0,0:24:30.08,0:24:33.58,Gokuh,,0,0,0,,¡Enfádate, Gohan! Libera el\Npoder dormido en tu interior
-Dialogue: 0,0:24:33.58,0:24:36.03,Son Gohan,,0,0,0,,En realidad, no quiero luchar.
-Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,
-Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,
-Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,
+Dialogue: 0,0:14:29.52,0:14:31.66,Default,,0,0,0,,¿Gohan?
+Dialogue: 0,0:14:33.46,0:14:37.21,Default,,0,0,0,,Me da igual lo que digan, no es lo\Nbastante fuerte para enfrentarse a Cell.
+Dialogue: 0,0:14:39.61,0:14:43.91,Default,,0,0,0,,Krilin, ¿tienes las senzu?\N¿Me puedes dar una?
+Dialogue: 0,0:14:45.69,0:14:46.51,Default,,0,0,0,,Claro.
+Dialogue: 0,0:14:47.85,0:14:49.27,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:14:51.57,0:14:52.35,Default,,0,0,0,,¡Cell!
+Dialogue: 0,0:15:02.24,0:15:05.07,Default,,0,0,0,,Es una senzu. Cómetela.
+Dialogue: 0,0:15:05.50,0:15:09.35,Default,,0,0,0,,¡Gokú, eres un idiota!\N¡¿Se puede saber qué haces?!
+Dialogue: 0,0:15:09.80,0:15:13.91,Default,,0,0,0,,No pasa nada. Él también\Nha perdido mucho poder.
+Dialogue: 0,0:15:14.38,0:15:17.15,Default,,0,0,0,,No sería justo si Gohan ganara\Nen estas condiciones.
+Dialogue: 0,0:15:17.32,0:15:19.46,Default,,0,0,0,,Pero, ¿qué dices?
+Dialogue: 0,0:15:20.04,0:15:22.49,Default,,0,0,0,,En un momento como éste, no importa\Nlo que es justo y lo que no.
+Dialogue: 0,0:15:25.73,0:15:28.47,Default,,0,0,0,,Idiota. Eres demasiado creído.
+Dialogue: 0,0:15:28.68,0:15:32.75,Default,,0,0,0,,Parece que no comprendes que tu\Ncompasión puede costarte la vida.
+Dialogue: 0,0:15:35.40,0:15:39.11,Default,,0,0,0,,En cualquier caso, acepto sin\Nreparos esta senzu.
+Dialogue: 0,0:15:39.76,0:15:44.83,Default,,0,0,0,,¡Son Gokú, pronto te\Narrepentirás de tu estupidez!
+Dialogue: 0,0:16:00.21,0:16:02.19,Default,,0,0,0,,¡Mierda...!
+Dialogue: 0,0:16:08.12,0:16:11.95,Default,,0,0,0,,Ya veo. Va muy bien.
+Dialogue: 0,0:16:12.68,0:16:15.83,Default,,0,0,0,,Ya verás lo que pasa ahora...
+Dialogue: 0,0:16:16.72,0:16:21.11,Default,,0,0,0,,Gokú, acabas de cometer\Nuna imprudencia imperdonable.
+Dialogue: 0,0:16:56.36,0:17:00.87,Default,,0,0,0,,Yo diría que no es el repartidor...
+Dialogue: 0,0:17:06.72,0:17:11.35,Default,,0,0,0,,¡Oh! ¿Ésa es... la energía de Gohan?
+Dialogue: 0,0:17:13.48,0:17:17.95,Default,,0,0,0,,Probablemente ha sobrepasado a Gokú.
+Dialogue: 0,0:17:24.52,0:17:26.11,Default,,0,0,0,,Ese Gohan...
+Dialogue: 0,0:18:11.24,0:18:13.83,Default,,0,0,0,,¿Ése es Gohan?
+Dialogue: 0,0:18:14.16,0:18:16.35,Default,,0,0,0,,¿El pacífico Gohan?
+Dialogue: 0,0:18:17.09,0:18:19.47,Default,,0,0,0,,¡Ese mocoso...!
+Dialogue: 0,0:18:20.40,0:18:23.78,Default,,0,0,0,,¿Cómo diablos ha incrementado\Ntanto su fuerza de combate?
+Dialogue: 0,0:18:25.28,0:18:29.92,Default,,0,0,0,,Supongo que lo que decía Son Gokú\Nno era una fanfarronada.
+Dialogue: 0,0:18:30.96,0:18:36.42,Default,,0,0,0,,Sin embargo, exageraba cuando\Nha dicho que podría derrotarme.
+Dialogue: 0,0:18:49.84,0:18:53.75,Default,,0,0,0,,Qué mocoso tan insolente.\NParece dispuesto a ganarme.
+Dialogue: 0,0:18:54.12,0:19:00.78,Default,,0,0,0,,Eres muy afortunado. Morirás justo\Ndespués de conocer el verdadero terror.
+Dialogue: 0,0:19:29.45,0:19:31.17,Default,,0,0,0,,¡Vamos, Gohan!
+Dialogue: 0,0:19:39.48,0:19:40.67,Default,,0,0,0,,Gohan...
+Dialogue: 0,0:19:41.40,0:19:42.62,Default,,0,0,0,,¡Gohan!
+Dialogue: 0,0:19:43.60,0:19:47.94,Default,,0,0,0,,¡El repartidor ha comenzado a luchar!
+Dialogue: 0,0:19:48.54,0:19:52.99,Default,,0,0,0,,¡Parece que se defiende bien, pero no\Npodemos olvidar que se enfrenta a Cell!
+Dialogue: 0,0:19:53.16,0:19:55.81,Default,,0,0,0,,¿Conseguirá aguantar\Nmás de un minuto?
+Dialogue: 0,0:20:16.56,0:20:18.45,Default,,0,0,0,,Parece que el pequeño es rápido.
+Dialogue: 0,0:20:20.04,0:20:22.61,Default,,0,0,0,,Así que me concentraré\Nen la velocidad.
+Dialogue: 0,0:20:36.84,0:20:38.81,Default,,0,0,0,,Sabía que no era buena idea...
+Dialogue: 0,0:20:40.84,0:20:42.48,Default,,0,0,0,,¡Gokú...!
+Dialogue: 0,0:20:55.45,0:20:57.78,Default,,0,0,0,,¡Gohan! ¡Gohan!\N{\c&H181819&\3c&H00EADD&\4c&HFFFFFF&} ¡Cálmate, Chichi!
+Dialogue: 0,0:20:57.78,0:21:00.50,Default,,0,0,0,,¡Deja de hacer eso, deja de hacer eso!\N{\c&H181819&\3c&H00EADD&\4c&HFFFFFF&} ¡Para, Chichi!
+Dialogue: 0,0:21:17.14,0:21:18.11,Default,,0,0,0,,¡Gokú!
+Dialogue: 0,0:21:19.10,0:21:20.35,Default,,0,0,0,,¡Oye, Gokú...!
+Dialogue: 0,0:21:20.52,0:21:21.71,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:22:18.92,0:22:23.78,Default,,0,0,0,,Gokú ha elegido a Gohan para que\Nocupe su lugar en el Cell Game.
+Dialogue: 0,0:22:24.08,0:22:29.28,Default,,0,0,0,,Gokú, ¿seguro que Gohan\Npuede derrotar a Cell?
+Dialogue: 0,0:22:44.93,0:22:48.67,Karaoke Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.93,0:22:48.67,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:48.88,0:22:54.27,Karaoke Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.88,0:22:54.27,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:54.78,0:22:56.76,Karaoke Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.78,0:22:56.76,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:00.45,0:23:07.61,Karaoke Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.45,0:23:07.61,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:07.77,0:23:12.24,Karaoke Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.77,0:23:12.24,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:12.24,0:23:15.97,Karaoke Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.24,0:23:15.97,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:16.16,0:23:19.73,Karaoke Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:16.16,0:23:19.73,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:19.73,0:23:21.86,Karaoke Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.73,0:23:21.86,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:24.08,0:23:31.21,Karaoke Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:24.08,0:23:31.21,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:31.91,0:23:33.63,Karaoke Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.91,0:23:33.63,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:33.88,0:23:35.66,Karaoke Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.88,0:23:35.66,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:35.88,0:23:37.89,Karaoke Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.88,0:23:37.89,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:37.89,0:23:39.76,Karaoke Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.89,0:23:39.76,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:39.76,0:23:44.78,Karaoke Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.76,0:23:44.78,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:45.45,0:23:46.46,Karaoke Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.45,0:23:46.46,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:47.71,0:23:52.63,Karaoke Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.71,0:23:52.63,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:23:55.56,0:24:01.47,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.56,0:24:01.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:24:08.80,0:24:11.59,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:12.43,0:24:14.53,Default,,0,0,0,,¡Hola, soy Gokú!
+Dialogue: 0,0:24:14.53,0:24:18.27,Default,,0,0,0,,¡Enfádate, Gohan! ¡Si queremos derrotar a Cell, con lo único que podemos contar ahora...
+Dialogue: 0,0:24:18.27,0:24:20.27,Default,,0,0,0,,es con la energía que liberas\Ncuándo estás enfadado!
+Dialogue: 0,0:24:20.27,0:24:22.21,Default,,0,0,0,,¡Mira lo equivocado qué estabas, Son Gokú!
+Dialogue: 0,0:24:22.21,0:24:27.91,Default,,0,0,0,,¡Gracias a tus teorías erróneas...\N tu querido hijo morirá!
+Dialogue: 0,0:24:27.91,0:24:30.08,Default,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:30.08,0:24:33.58,Default,,0,0,0,,¡Enfádate, Gohan! Libera el\Npoder dormido en tu interior
+Dialogue: 0,0:24:33.58,0:24:36.03,Default,,0,0,0,,En realidad, no quiero luchar.
+Dialogue: 0,0:24:35.16,0:24:38.62,Default,,0,0,0,,
+Dialogue: 0,0:24:35.16,0:24:38.62,Default,,0,0,0,,
+Dialogue: 0,0:24:35.16,0:24:38.62,Default,,0,0,0,,
