@@ -1,0 +1,272 @@
+﻿[Script Info]
+; Estado = Incompleto
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.17,0:00:14.92,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.17,0:00:14.92,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:14.92,0:00:17.50,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:14.92,0:00:17.50,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.50,0:00:23.95,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.50,0:00:23.95,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.67,0:00:27.24,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.67,0:00:27.24,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.24,0:00:29.95,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.24,0:00:29.95,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:29.97,0:00:35.66,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:29.97,0:00:35.66,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:36.78,0:00:42.46,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:36.78,0:00:42.46,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.34,0:00:51.56,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.34,0:00:51.56,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.32,0:00:55.28,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.32,0:00:55.28,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:55.75,0:01:04.08,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:55.75,0:01:04.08,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:04.75,0:01:07.88,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:04.75,0:01:07.88,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.34,0:01:11.86,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.34,0:01:11.86,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.03,0:01:14.13,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.03,0:01:14.13,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.14,0:01:17.30,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.14,0:01:17.30,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:17.74,0:01:24.92,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:17.74,0:01:24.92,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.60,0:01:29.77,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.60,0:01:29.77,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.23,0:01:33.89,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.23,0:01:33.89,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:33.89,0:01:37.11,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:33.89,0:01:37.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.12,0:01:38.65,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.12,0:01:38.65,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:54.45,0:01:56.56,Célula,,0,0,0,,¡Qué combate tan extraordinario!
+Dialogue: 0,0:01:56.73,0:02:00.55,Célula,,0,0,0,,Sería una lástima que acabara porque\Nuno de los dos saliera fuera del ring.
+Dialogue: 0,0:02:02.61,0:02:09.04,Célula,,0,0,0,,Vamos a eliminar esa regla.\NNo tiene ningún sentido para nosotros.
+Dialogue: 0,0:02:16.97,0:02:22.58,Narrador,,0,0,0,,Con el ring destruido, la violenta batalla\Nentre Son Gokuh y Cell se reanuda.
+Dialogue: 0,0:02:49.33,0:02:50.52,Gokuh Kame Hame,,0,0,0,,
+Dialogue: 0,0:02:50.65,0:02:52.08,Gokuh Kame Hame,,0,0,0,,
+Dialogue: 0,0:02:58.09,0:03:01.20,Célula,,0,0,0,,No puedes utilizar el Kame Hame Ha\Ncon tanta potencia.
+Dialogue: 0,0:03:01.33,0:03:03.76,Célula,,0,0,0,,Si fallas, la Tierra correrá peligro.
+Dialogue: 0,0:03:06.04,0:03:07.08,Gokuh Kame Hame,,0,0,0,,
+Dialogue: 0,0:03:07.25,0:03:08.74,Gokuh Kame Hame,,0,0,0,,
+Dialogue: 0,0:03:09.89,0:03:11.03,Célula,,0,0,0,,¡Ey!
+Dialogue: 0,0:03:17.12,0:03:18.12,Célula,,0,0,0,,¡Imposible!
+Dialogue: 0,0:03:22.69,0:03:24.04,Célula,,0,0,0,,¡Maldic...!
+Dialogue: 0,0:03:24.21,0:03:27.28,Gokuh Kame Hame,,0,0,0,,
+Dialogue: 0,0:03:27.60,0:03:32.04,Narrador,,0,0,0,,Finalmente, Gokuh ha lanzado su\NKame Hame Ha a máxima potencia.
+Dialogue: 0,0:03:35.49,0:03:40.80,Titulos,,0,0,0,,
+Dialogue: 0,0:04:10.61,0:04:12.44,Yamcha,,0,0,0,,Gokuh...
+Dialogue: 0,0:04:24.85,0:04:28.63,Reportero torneo,,0,0,0,,¡Increíble...! ¿Qué ha pasado?
+Dialogue: 0,0:04:48.57,0:04:51.00,Yamcha,,0,0,0,,¡Sí! ¡Lo ha conseguido!
+Dialogue: 0,0:04:51.53,0:04:54.72,Yamcha,,0,0,0,,¡Claro! ¡Ha usado\Nel Movimiento Instantáneo!
+Dialogue: 0,0:04:54.93,0:04:58.40,Yamcha,,0,0,0,,¡Eh, lo ha conseguido!\N¡Al final, Gokuh ha ganado!
+Dialogue: 0,0:05:09.57,0:05:12.88,Yamcha,,0,0,0,,¿Qué les pasa a todos?\N¿No se alegran?
+Dialogue: 0,0:05:13.17,0:05:17.48,Reportero torneo,,0,0,0,,Mr. Satan, parece que ese\Nindividuo ha derrotado a Cell.
+Dialogue: 0,0:05:21.93,0:05:23.64,Personaje Secundario 3,,0,0,0,,¡Mr. Satan!
+Dialogue: 0,0:05:25.17,0:05:28.64,Mr. Satan,,0,0,0,,Sí, claro.\NNo lo ha hecho del todo mal.
+Dialogue: 0,0:05:28.77,0:05:33.76,Mr. Satan,,0,0,0,,Sin embargo, es una verdadera lástima.\NYo también quería mi oportunidad.
+Dialogue: 0,0:05:34.64,0:05:40.24,Personaje Secundario 3,,0,0,0,,Es verdad, Mr. Satan se moría de ganas\Nde mostrar sus espléndidas y portentosas
+Dialogue: 0,0:05:40.26,0:05:43.76,Personaje Secundario 3,,0,0,0,,técnicas al mundo. ¿No es así?
+Dialogue: 0,0:05:43.89,0:05:44.87,Reportero torneo,,0,0,0,,Sí.
+Dialogue: 0,0:05:45.61,0:05:49.71,Reportero torneo,,0,0,0,,Damas y caballeros del mundo,\Nes una verdadera lástima.
+Dialogue: 0,0:05:49.71,0:05:53.40,Reportero torneo,,0,0,0,,Antes de que Mr. Satan pudiera subir\Nal ring y reclamar la victoria,
+Dialogue: 0,0:05:53.42,0:05:57.72,Reportero torneo,,0,0,0,,ese joven anónimo ha\Nconseguido derrotar a Cell.
+Dialogue: 0,0:06:07.62,0:06:10.04,Default,,0,0,0,,¿Ya ha terminado?
+Dialogue: 0,0:06:10.28,0:06:13.12,Default,,0,0,0,,La verdad, esperaba algo más.
+Dialogue: 0,0:06:13.15,0:06:16.80,Default,,0,0,0,,Oye, mamá, ¿no sale Mr. Satan?
+Dialogue: 0,0:06:17.37,0:06:19.16,Default,,0,0,0,,Parece que no.
+Dialogue: 0,0:06:25.66,0:06:27.60,Gokuh,,0,0,0,,¿Qué significa esto?
+Dialogue: 0,0:06:29.55,0:06:33.51,Gokuh,,0,0,0,,Está destrozado, pero\Nconserva su energía.
+Dialogue: 0,0:06:36.29,0:06:41.68,Krilin,,0,0,0,,¡Ten cuidado, Gokuh!\N¡Creo que Cell revivirá!
+Dialogue: 0,0:06:41.75,0:06:43.28,Yamcha,,0,0,0,,¿Cómo?
+Dialogue: 0,0:06:54.09,0:06:58.28,Reportero torneo,,0,0,0,,¿Qué es esto? ¡La mitad del\Ncuerpo de Cell se ha puesto en pie!
+Dialogue: 0,0:07:24.13,0:07:28.08,Reportero torneo,,0,0,0,,¡Ha revivido! ¡Cell ha revivido!
+Dialogue: 0,0:07:28.37,0:07:31.40,Reportero torneo,,0,0,0,,¿Esto también es alguna\Nclase de truco, Mr. Satan?
+Dialogue: 0,0:07:32.04,0:07:35.06,Personaje Secundario 3,,0,0,0,,¡Por supuesto que es un truco!
+Dialogue: 0,0:07:42.97,0:07:46.12,Gokuh,,0,0,0,,Así que puedes regenerarte, ¿no?
+Dialogue: 0,0:07:46.37,0:07:49.40,Célula,,0,0,0,,Exactamente. Igual que Piccolo.
+Dialogue: 0,0:07:49.77,0:07:51.76,Piccolo,,0,0,0,,¡Desgraciado de mierda!
+Dialogue: 0,0:07:52.61,0:07:56.04,Gokuh,,0,0,0,,Ya me parecía que te había\Nganado muy fácilmente,
+Dialogue: 0,0:07:56.06,0:08:00.20,Gokuh,,0,0,0,,pero al menos tu energía\Nha disminuido bastante.
+Dialogue: 0,0:08:00.97,0:08:05.24,Célula,,0,0,0,,Igual que la tuya. Estás más cansado\Na cada minuto que pasa.
+Dialogue: 0,0:08:05.41,0:08:07.16,Célula,,0,0,0,,Vamos a continuar.
+Dialogue: 0,0:08:07.29,0:08:11.55,Célula,,0,0,0,,Pero te aviso que no podrás volver\Na utilizar esa técnica contra mí.
+Dialogue: 0,0:08:11.62,0:08:16.95,Célula,,0,0,0,,Así que no malgastes tu energía\Ncon técnicas inútiles.
+Dialogue: 0,0:08:17.46,0:08:18.46,Gokuh,,0,0,0,,¡Ya lo sé!
+Dialogue: 0,0:08:20.35,0:08:22.12,Célula,,0,0,0,,¿Estás seguro?
+Dialogue: 0,0:08:58.28,0:09:01.64,Reportero torneo,,0,0,0,,¡Ha comenzado otro round\Nde este violento combate!
+Dialogue: 0,0:09:01.68,0:09:04.00,Reportero torneo,,0,0,0,,¡Cell ataca y el joven\Nanónimo contraataca!
+Dialogue: 0,0:09:17.02,0:09:18.46,Saichoro - Gran Anciano Namek,,0,0,0,,¡Todo está temblando!
+Dialogue: 0,0:09:18.46,0:09:21.31,Reportero torneo,,0,0,0,,¡Incluso el lugar en el\Nque nos encontramos!
+Dialogue: 0,0:09:21.73,0:09:25.08,Reportero torneo,,0,0,0,,Nos preguntamos qué\Nsucederá a continuación.
+Dialogue: 0,0:09:26.57,0:09:28.24,Mutenroshi,,0,0,0,,Ese Gokuh...
+Dialogue: 0,0:09:28.81,0:09:30.40,Mutenroshi,,0,0,0,,¿Por qué?
+Dialogue: 0,0:09:32.17,0:09:33.64,Bulma,,0,0,0,,¡Hola!
+Dialogue: 0,0:09:34.06,0:09:35.64,Mutenroshi,,0,0,0,,Oh, Bulma.
+Dialogue: 0,0:09:35.77,0:09:37.56,Bulma,,0,0,0,,¿Aún siguen luchando?
+Dialogue: 0,0:09:37.73,0:09:40.64,Bulma,,0,0,0,,He pensado que sería mejor verlo\Nacompañada de un experto
+Dialogue: 0,0:09:40.64,0:09:43.12,Bulma,,0,0,0,,que quedarme en casa sola.
+Dialogue: 0,0:09:46.44,0:09:50.04,Bulma,,0,0,0,,Ya está, ya está, ya está...\N¿Qué pasa, Trunks?
+Dialogue: 0,0:10:33.06,0:10:38.00,Piccolo,,0,0,0,,Desde ese último Kame Hame Ha, sus\Nenergías han descendido bastante.
+Dialogue: 0,0:10:39.17,0:10:43.08,Piccolo,,0,0,0,,Y a pesar de eso, siguen\Nluchando a este nivel.
+Dialogue: 0,0:11:20.81,0:11:23.76,Célula,,0,0,0,,¿Qué pasa, Gokuh?\N¿Ya no puedes más?
+Dialogue: 0,0:11:24.49,0:11:25.63,Gokuh,,0,0,0,,Mierda...
+Dialogue: 0,0:11:58.33,0:11:59.60,Krilin,,0,0,0,,¡Ya es tuyo!
+Dialogue: 0,0:12:04.73,0:12:07.36,Trunks,,0,0,0,,¡Está funcionando!\N¡Sigue así, Gokuh!
+Dialogue: 0,0:12:49.85,0:12:54.64,Krilin,,0,0,0,,¡Bien hecho, Gokuh! ¡Un poco más!\N¡Un poco más y ganarás a Cell!
+Dialogue: 0,0:12:59.55,0:13:00.75,Son Gohan,,0,0,0,,Papá...
+Dialogue: 0,0:13:03.48,0:13:07.40,Reportero torneo,,0,0,0,,¡El joven anónimo lanza\Nun ataque a gran escala!
+Dialogue: 0,0:13:07.73,0:13:12.48,Reportero torneo,,0,0,0,,¡Cell se encuentra en\Nserias dificultades!
+Dialogue: 0,0:13:12.73,0:13:17.40,Reportero torneo,,0,0,0,,¡Pero debido al humo de las explosiones,\Nno podemos informar de nada!
+Dialogue: 0,0:13:18.41,0:13:21.52,Default,,0,0,0,,¡No se ve! ¡No se ve nada!
+Dialogue: 0,0:13:21.81,0:13:23.68,Default,,0,0,0,,¿Qué está pasando?
+Dialogue: 0,0:13:23.81,0:13:28.80,Default,,0,0,0,,¡No, no es una avería!\N¡Estamos haciendo todo lo que podemos!
+Dialogue: 0,0:13:28.80,0:13:29.91,Default,,0,0,0,,¡En serio!
+Dialogue: 0,0:13:33.80,0:13:36.08,Default,,0,0,0,,¡Todos, corten las líneas!
+Dialogue: 0,0:13:43.81,0:13:46.44,Krilin,,0,0,0,,¡Puedes ganar!\N¡Gokuh, puedes ganar!
+Dialogue: 0,0:13:46.44,0:13:47.52,Trunks,,0,0,0,,¡Gokuh!
+Dialogue: 0,0:13:47.81,0:13:49.12,Yamcha,,0,0,0,,¡Ya es tuyo!
+Dialogue: 0,0:13:52.57,0:13:53.63,Piccolo,,0,0,0,,Gokuh...
+Dialogue: 0,0:14:40.81,0:14:43.64,Personaje Secundario 1,,0,0,0,,¿Se encuentra bien, Mr. Satan?
+Dialogue: 0,0:14:43.89,0:14:49.51,Mr. Satan,,0,0,0,,¡Sí, claro!\N¡Sólo estaba calentando un poco!
+Dialogue: 0,0:14:51.15,0:14:56.53,Personaje Secundario 3,,0,0,0,,¡Impresionante! ¡Nunca se relaja en\Nlos acontecimientos de una gran lucha!
+Dialogue: 0,0:14:56.53,0:15:00.00,Personaje Secundario 3,,0,0,0,,¡Era de esperar del campeón\Nmundial, Mr. Satan!
+Dialogue: 0,0:15:00.25,0:15:03.51,Mr. Satan,,0,0,0,,Sí, claro...
+Dialogue: 0,0:15:05.26,0:15:10.22,Reportero torneo,,0,0,0,,Un reportero jamás suelta su micro,\Nni siquiera a las puertas de la muerte.
+Dialogue: 0,0:15:10.49,0:15:14.36,Reportero torneo,,0,0,0,,Pero, ¿se puede saber qué\Nes esa esfera enorme?
+Dialogue: 0,0:15:32.21,0:15:39.73,Célula,,0,0,0,,Son Gokuh, tu ataque me ha obligado\Na levantar una barrera protectora.
+Dialogue: 0,0:15:39.81,0:15:43.04,Célula,,0,0,0,,Has conseguido hacerme daño.
+Dialogue: 0,0:15:49.77,0:15:51.16,Default,,0,0,0,,Increíble...
+Dialogue: 0,0:15:52.45,0:15:57.00,Default,,0,0,0,,No entiendo lo que está pasando.\NPero aún y así es increíble.
+Dialogue: 0,0:15:57.09,0:16:01.48,Default,,0,0,0,,Oye, mamá, es una película, ¿no?
+Dialogue: 0,0:16:05.41,0:16:10.62,Default,,0,0,0,,Querido, ¿ése de ahí no es\Nel marido de Chichi?
+Dialogue: 0,0:16:10.65,0:16:14.72,Default,,0,0,0,,Ahora que lo recuerdo decían\Nque se había teñido el pelo.
+Dialogue: 0,0:16:16.37,0:16:19.20,Default,,0,0,0,,Sí, se parece a él.
+Dialogue: 0,0:16:19.73,0:16:23.86,Default,,0,0,0,,Sí, siempre lleva esa\Nropa tan llamativa.
+Dialogue: 0,0:16:26.81,0:16:29.40,Chichi,,0,0,0,,Parece que alguien\Nestá hablando de mí.
+Dialogue: 0,0:16:31.73,0:16:34.11,Chichi,,0,0,0,,¡Ánimo, Gokuh!
+Dialogue: 0,0:16:35.11,0:16:39.77,Bulma,,0,0,0,,¡Qué lástima!\N¡Ya casi lo tenía!
+Dialogue: 0,0:16:39.85,0:16:42.60,Mutenroshi,,0,0,0,,No ha sido así en absoluto.
+Dialogue: 0,0:16:43.55,0:16:47.33,Mutenroshi,,0,0,0,,Es cierto que ambos\Nparecían igualados.
+Dialogue: 0,0:16:47.41,0:16:51.24,Mutenroshi,,0,0,0,,Pero al contrario que Gokuh,\NCell tiene aún más poder.
+Dialogue: 0,0:16:51.42,0:16:53.91,Bulma,,0,0,0,,¿Eh? ¿Tú crees?
+Dialogue: 0,0:16:54.85,0:16:57.80,Mutenroshi,,0,0,0,,Es una lástima, pero Gokuh\Nno puede ganar.
+Dialogue: 0,0:16:57.97,0:17:04.11,Mutenroshi,,0,0,0,,Y me da la impresión de que Gokuh lo\Nsabe y aún así continúa luchando.
+Dialogue: 0,0:17:04.57,0:17:07.20,Mutenroshi,,0,0,0,,No sé qué tendrá en mente...
+Dialogue: 0,0:17:34.33,0:17:36.16,Piccolo,,0,0,0,,Cell está debilitado...
+Dialogue: 0,0:17:38.21,0:17:41.88,Piccolo,,0,0,0,,Pero la energía de Gokuh\Nse agota rápidamente.
+Dialogue: 0,0:17:45.84,0:17:50.13,Célula,,0,0,0,,Parece que has agotado\Ntodo tu poder, Son Gokuh.
+Dialogue: 0,0:17:52.64,0:17:55.28,Célula,,0,0,0,,Cómete una de esas senzu.
+Dialogue: 0,0:17:55.45,0:17:59.15,Célula,,0,0,0,,Así podremos seguir adelante\Ncon este excelente combate.
+Dialogue: 0,0:18:02.24,0:18:04.11,Trunks,,0,0,0,,¡Es nuestra oportunidad!
+Dialogue: 0,0:18:05.28,0:18:09.40,Trunks,,0,0,0,,¡Ya han oído lo que ha dicho Cell,\Nle daremos una senzu a Gokuh!
+Dialogue: 0,0:18:09.40,0:18:11.52,Trunks,,0,0,0,,¡Así podrá derrotar a Cell!
+Dialogue: 0,0:18:12.31,0:18:14.28,Yamcha,,0,0,0,,¡Eso es! ¡Buena idea!
+Dialogue: 0,0:18:16.69,0:18:17.88,Trunks,,0,0,0,,¡Krilin!
+Dialogue: 0,0:18:42.73,0:18:45.56,Trunks,,0,0,0,,¡Krilin, rápido, una senzu!
+Dialogue: 0,0:18:46.22,0:18:48.24,Vegeta,,0,0,0,,¡Cállate, Trunks!
+Dialogue: 0,0:18:50.48,0:18:53.97,Vegeta,,0,0,0,,Al parecer careces del\Norgullo de los Saiyajines.
+Dialogue: 0,0:18:54.08,0:18:58.76,Vegeta,,0,0,0,,Si tiene que ganar de esa manera,\N él probablemente prefería morir.
+Dialogue: 0,0:19:01.25,0:19:05.88,Vegeta,,0,0,0,,Ahora mismo no está luchando por\Nproteger el planeta o nada parecido.
+Dialogue: 0,0:19:06.24,0:19:08.95,Vegeta,,0,0,0,,Más vale que lo recuerdes bien.
+Dialogue: 0,0:19:09.44,0:19:13.44,Trunks,,0,0,0,,Pero, en ese caso...
+Dialogue: 0,0:19:18.29,0:19:21.36,Vegeta,,0,0,0,,Seguro que pierde.
+Dialogue: 0,0:19:27.75,0:19:32.56,Vegeta,,0,0,0,,Me pone furioso tener que admitirlo,\Npero después de un entrenamiento
+Dialogue: 0,0:19:32.60,0:19:36.28,Vegeta,,0,0,0,,intensivo no he sido capaz\Nde superar a Kakarotto...
+Dialogue: 0,0:19:36.65,0:19:38.55,Vegeta,,0,0,0,,Ese idiota es un genio...
+Dialogue: 0,0:19:39.29,0:19:45.08,Vegeta,,0,0,0,,¡Pero Cell es infinitamente\Nsuperior a Kakarotto!
+Dialogue: 0,0:19:46.06,0:19:50.67,Trunks,,0,0,0,,Entonces, ¿qué podemos hacer?\N¿Quedarnos mirando de brazos cruzados?
+Dialogue: 0,0:19:51.08,0:19:53.17,Vegeta,,0,0,0,,Tú mismo lo decías.
+Dialogue: 0,0:19:53.28,0:19:56.28,Vegeta,,0,0,0,,Debe de tener algún plan secreto\Npara ganar esta batalla.
+Dialogue: 0,0:19:56.84,0:19:58.96,Vegeta,,0,0,0,,Esperemos que sea uno bueno.
+Dialogue: 0,0:20:05.41,0:20:11.16,Trunks,,0,0,0,,Gokuh, ¿qué clase de plan tienes?
+Dialogue: 0,0:20:14.77,0:20:19.36,Célula,,0,0,0,,¿Qué pasa? ¿Tu orgullo te impide\Ncomerte una senzu?
+Dialogue: 0,0:20:24.49,0:20:28.75,Célula,,0,0,0,,Ahora mi poder está bajo mínimos.
+Dialogue: 0,0:20:28.86,0:20:35.02,Célula,,0,0,0,,Con tu poder completo, tienes una\Nmínima posibilidad de derrotarme.
+Dialogue: 0,0:20:40.69,0:20:46.06,Célula,,0,0,0,,Quiero seguir saboreando esta\Nbatalla contra ti más y más.
+Dialogue: 0,0:21:23.57,0:21:24.79,Gokuh,,0,0,0,,He perdido.
+Dialogue: 0,0:21:29.57,0:21:30.92,Gokuh,,0,0,0,,Me rindo.
+Dialogue: 0,0:21:31.45,0:21:36.73,Gokuh,,0,0,0,,He comprendido lo fuerte que eres, Cell.\NAsí que abandono.
+Dialogue: 0,0:21:39.95,0:21:41.66,Vegeta,,0,0,0,,¿Cómo?
+Dialogue: 0,0:21:42.77,0:21:44.16,Krilin,,0,0,0,,¿Se rinde?
+Dialogue: 0,0:21:44.29,0:21:45.72,Trunks,,0,0,0,,¡No puede ser!
+Dialogue: 0,0:21:46.01,0:21:48.31,Ten Shin Han,,0,0,0,,¿Qué ha dicho Gokuh?
+Dialogue: 0,0:21:49.46,0:21:51.76,Yamcha,,0,0,0,,¡Nunca antes había pasado...!
+Dialogue: 0,0:21:53.71,0:21:55.26,Son Gohan,,0,0,0,,Papá...
+Dialogue: 0,0:21:56.35,0:21:59.22,Piccolo,,0,0,0,,¡¿Qué es lo que está tramando?!
+Dialogue: 0,0:22:03.95,0:22:08.72,Bulma,,0,0,0,,¿A qué viene eso? Gokuh nunca había\Ndemostrado ninguna debilidad antes.
+Dialogue: 0,0:22:08.89,0:22:11.64,Bulma,,0,0,0,,¿Por qué se rinde?
+Dialogue: 0,0:22:17.17,0:22:19.93,Narrador,,0,0,0,,Gokuh ha sido derrotado.
+Dialogue: 0,0:22:22.45,0:22:26.72,Narrador,,0,0,0,,¿Qué destino le espera\Nahora a la Tierra?
+Dialogue: 0,0:22:44.99,0:22:48.73,Ending Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.99,0:22:48.73,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:48.94,0:22:54.33,Ending Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.94,0:22:54.33,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:54.84,0:22:56.82,Ending Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.84,0:22:56.82,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:00.51,0:23:07.67,Ending Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.51,0:23:07.67,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:07.83,0:23:12.30,Ending Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.83,0:23:12.30,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:12.30,0:23:16.03,Ending Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.30,0:23:16.03,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:16.22,0:23:19.79,Ending Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:16.22,0:23:19.79,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:19.79,0:23:21.92,Ending Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.79,0:23:21.92,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:24.14,0:23:31.27,Ending Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:24.14,0:23:31.27,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:31.97,0:23:33.69,Ending Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.97,0:23:33.69,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:33.94,0:23:35.72,Ending Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.94,0:23:35.72,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:35.94,0:23:37.95,Ending Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.94,0:23:37.95,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:37.95,0:23:39.82,Ending Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.95,0:23:39.82,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:39.82,0:23:44.84,Ending Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.82,0:23:44.84,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:45.51,0:23:46.52,Ending Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.51,0:23:46.52,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:47.77,0:23:52.69,Ending Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.77,0:23:52.69,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:55.62,0:24:01.53,Ending Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.62,0:24:01.53,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:24:08.80,0:24:11.59,Titulos,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:12.19,0:24:14.16,Gokuh,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:14.16,0:24:17.78,Gokuh,,0,0,0,,El Cell Game finalizará después\Nde que luche la siguiente persona.
+Dialogue: 0,0:24:17.78,0:24:20.30,Gokuh,,0,0,0,,No existe nadie más\Nque pueda vencer a Cell.
+Dialogue: 0,0:24:20.30,0:24:22.50,Gokuh,,0,0,0,,¡Gohan, es tu turno!
+Dialogue: 0,0:24:22.50,0:24:25.32,Piccolo,,0,0,0,,Eso es absurdo, ¡Gokuh!\N ¡¿En qué demonios estás pensando?!
+Dialogue: 0,0:24:25.32,0:24:27.80,Piccolo,,0,0,0,,¡¿Acaso quieres que maten a tu hijo?!
+Dialogue: 0,0:24:27.80,0:24:29.67,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:29.67,0:24:32.74,Gokuh,,0,0,0,,Aquel que sucede al más fuerte...\NSu nombre es Gohan
+Dialogue: 0,0:24:32.74,0:24:35.81,Son Gohan,,0,0,0,,¿De verdad seré capaz\Nde derrotar a Cell?
+Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,
+Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,
+Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,

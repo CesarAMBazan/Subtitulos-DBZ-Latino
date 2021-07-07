@@ -1,0 +1,279 @@
+﻿[Script Info]
+; Estado = Incompleto
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.21,0:00:14.96,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.21,0:00:14.96,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:14.96,0:00:17.54,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:14.96,0:00:17.54,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.54,0:00:23.99,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.54,0:00:23.99,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.71,0:00:27.28,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.71,0:00:27.28,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.28,0:00:29.99,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.28,0:00:29.99,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:30.01,0:00:35.70,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:30.01,0:00:35.70,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:36.82,0:00:42.50,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:36.82,0:00:42.50,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.38,0:00:51.60,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.38,0:00:51.60,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.36,0:00:55.32,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.36,0:00:55.32,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:55.79,0:01:04.12,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:55.79,0:01:04.12,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:04.79,0:01:07.92,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:04.79,0:01:07.92,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.38,0:01:11.90,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.38,0:01:11.90,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.07,0:01:14.17,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.07,0:01:14.17,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.18,0:01:17.34,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.18,0:01:17.34,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:17.78,0:01:24.96,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:17.78,0:01:24.96,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.64,0:01:29.81,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.64,0:01:29.81,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.27,0:01:33.93,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.27,0:01:33.93,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:33.93,0:01:37.15,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:33.93,0:01:37.15,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.16,0:01:38.69,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.16,0:01:38.69,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:54.72,0:01:58.68,Narrador,,0,0,0,,Son Gohan contra Cell, el combate que\Ndeterminará el destino de la Tierra,
+Dialogue: 0,0:01:58.68,0:02:01.58,Narrador,,0,0,0,,comienza decantándose claramente\Na favor de Cell.
+Dialogue: 0,0:02:14.40,0:02:15.38,Piccolo,,0,0,0,,¡Gokuh...!
+Dialogue: 0,0:02:17.36,0:02:21.84,Piccolo,,0,0,0,,¡Es culpa tuya!\N¡Has sido demasiado optimista!
+Dialogue: 0,0:02:22.22,0:02:24.59,Piccolo,,0,0,0,,¡No has hecho caso de nadie\Ncuando te hemos advertido!
+Dialogue: 0,0:02:24.62,0:02:26.67,Gokuh,,0,0,0,,No te pongas nervioso, Piccolo.
+Dialogue: 0,0:02:27.18,0:02:29.67,Gokuh,,0,0,0,,La energía de Gohan no ha\Ndisminuido lo más mínimo.
+Dialogue: 0,0:02:29.88,0:02:30.99,Célula,,0,0,0,,¿Cómo?
+Dialogue: 0,0:02:46.42,0:02:51.12,Son Gohan,,0,0,0,,Cuando me enfado de verdad, mi poder se eleva hasta
+Dialogue: 0,0:02:51.12,0:02:53.80,Son Gohan,,0,0,0,,límites insospechados y lucho como un poseido.
+Dialogue: 0,0:02:55.76,0:02:59.54,Son Gohan,,0,0,0,,Si eso ocurre, soy capaz de matarte.
+Dialogue: 0,0:03:00.76,0:03:05.70,Célula,,0,0,0,,¿Pensabas que semejante\Nhistoria me asustaría?
+Dialogue: 0,0:03:07.52,0:03:09.24,Célula,,0,0,0,,No eres más que un mocoso.
+Dialogue: 0,0:03:09.32,0:03:13.32,Célula,,0,0,0,,¡Sin embargo, ahora no puedo evitar hacerte enfadar!
+Dialogue: 0,0:03:13.68,0:03:16.88,Célula,,0,0,0,,¡Quiero ver ese extraordinario poder qué tienes!
+Dialogue: 0,0:03:53.20,0:03:57.67,Célula,,0,0,0,,Son Gohan, tengo que hacerte\Nenfadar como sea.
+Dialogue: 0,0:03:59.32,0:04:04.74,Titulos,,0,0,0,,
+Dialogue: 0,0:04:29.12,0:04:32.32,Gokuh,,0,0,0,,¡Gohan, enfádate! ¡Enfurécete!
+Dialogue: 0,0:04:32.60,0:04:35.59,Gokuh,,0,0,0,,Sólo de esa forma sacarás\Ntu verdadera fuerza.
+Dialogue: 0,0:04:37.12,0:04:40.66,Personaje Secundario 3,,0,0,0,,¿Qué va a pasar, Mr. Satan?
+Dialogue: 0,0:04:42.00,0:04:46.78,Mr. Satan,,0,0,0,,¡Es una locura!\N¡Es absurdo hacer luchar a un niño!
+Dialogue: 0,0:04:48.24,0:04:51.28,Reportero torneo,,0,0,0,,A menos que alguien lo derrote en\Neste Cell Game, Cell aniquilará
+Dialogue: 0,0:04:51.32,0:04:54.18,Reportero torneo,,0,0,0,,a toda la gente del planeta.
+Dialogue: 0,0:04:54.28,0:04:59.66,Reportero torneo,,0,0,0,,Sin embargo, parece ser que ese joven\Nes el único que se enfrenta a Cell.
+Dialogue: 0,0:04:59.74,0:05:01.79,Reportero torneo,,0,0,0,,¿Es que no hay nadie más\Ncon el valor necesario?
+Dialogue: 0,0:05:02.48,0:05:05.63,Reportero torneo,,0,0,0,,Mr. Satan, ¿cómo va su estómago?
+Dialogue: 0,0:05:07.88,0:05:09.19,Mr. Satan,,0,0,0,,Aún me duele...
+Dialogue: 0,0:05:11.84,0:05:16.70,Reportero torneo,,0,0,0,,Nuestra única esperanza, Mr. Satan,\Nsufre un terrible dolor de estómago.
+Dialogue: 0,0:05:17.22,0:05:20.70,Reportero torneo,,0,0,0,,¿No habrá nadie capaz\Nde salvar la Tierra?
+Dialogue: 0,0:05:23.20,0:05:27.91,Célula,,0,0,0,,Son Gohan, muéstrame tu poder oculto.
+Dialogue: 0,0:05:38.96,0:05:41.95,Krilin,,0,0,0,,¡Ésa es la técnica de Freeza!
+Dialogue: 0,0:05:48.96,0:05:50.79,Yamcha,,0,0,0,,¡Gohan, aguanta!
+Dialogue: 0,0:06:08.00,0:06:12.15,Célula,,0,0,0,,¿Qué te pasa? ¿Te duele?\NEntonces, enfádate.
+Dialogue: 0,0:06:12.28,0:06:14.99,Célula,,0,0,0,,No querrás morir así, ¿verdad?
+Dialogue: 0,0:06:22.96,0:06:25.46,Piccolo,,0,0,0,,¡Mierda! ¡Gohan!
+Dialogue: 0,0:06:30.28,0:06:36.28,Célula,,0,0,0,,Vamos, ¿qué te pasa? ¿A qué esperas?\N¡Te romperé los huesos!
+Dialogue: 0,0:06:37.00,0:06:40.28,Célula,,0,0,0,,No existe ninguna razón\Npara soportar este dolor
+Dialogue: 0,0:06:40.28,0:06:42.27,Célula,,0,0,0,,cuando puedes enfrentarte a mí.
+Dialogue: 0,0:06:45.20,0:06:48.95,Reportero torneo,,0,0,0,,¡Oh, el joven no puede\Nliberarse de la presa!
+Dialogue: 0,0:06:49.26,0:06:52.80,Reportero torneo,,0,0,0,,¡Está sufriendo mucho!\N¡Seguro que se rinde!
+Dialogue: 0,0:06:52.88,0:06:57.06,Reportero torneo,,0,0,0,,¿Qué será del futuro de la Tierra?\N¿Qué será de todos nosotros?
+Dialogue: 0,0:07:01.44,0:07:04.70,Piccolo,,0,0,0,,¡Mierda! ¡Ya no puedo más!
+Dialogue: 0,0:07:05.20,0:07:10.32,Piccolo,,0,0,0,,¡Gokuh, me da igual lo que\Ndigas, voy a ayudar a Gohan!
+Dialogue: 0,0:07:10.56,0:07:15.40,Gokuh,,0,0,0,,¡Quieto, Piccolo!\NNo puedes hacer nada para ayudarlo.
+Dialogue: 0,0:07:16.06,0:07:18.88,Gokuh,,0,0,0,,Sólo un poco más...\Nespera sólo un poco más...
+Dialogue: 0,0:07:19.00,0:07:19.90,Piccolo,,0,0,0,,¿Que espere?
+Dialogue: 0,0:07:20.04,0:07:24.75,Piccolo,,0,0,0,,¿Y hasta cuándo quieres que espere?\N¡¿Hasta que lo mate?!
+Dialogue: 0,0:07:25.48,0:07:27.91,Gokuh,,0,0,0,,Espera a que Gohan se enfade.
+Dialogue: 0,0:07:28.56,0:07:32.70,Gokuh,,0,0,0,,Cuando se enfade liberará su\Nverdadera fuerza y nos mostrará
+Dialogue: 0,0:07:32.84,0:07:35.47,Gokuh,,0,0,0,,lo terrible que puede ser.
+Dialogue: 0,0:07:37.96,0:07:43.43,Gokuh,,0,0,0,,Sólo hay una forma de derrotar a Cell.\NTenemos que confiar en la rabia de Gohan.
+Dialogue: 0,0:07:46.20,0:07:50.83,Vegeta,,0,0,0,,¿Qué dice...?\N¿Tanta fuerza tiene ese mocoso?
+Dialogue: 0,0:07:57.08,0:07:58.30,Célula,,0,0,0,,Enfádate.
+Dialogue: 0,0:07:58.60,0:07:59.66,Célula,,0,0,0,,¿Aún no?
+Dialogue: 0,0:08:00.08,0:08:01.59,Célula,,0,0,0,,Te duele, ¿no?
+Dialogue: 0,0:08:01.80,0:08:04.07,Célula,,0,0,0,,Eso te pone furioso, ¿no?
+Dialogue: 0,0:08:04.96,0:08:07.70,Piccolo,,0,0,0,,¡Gokuh! ¡Te equivocas!
+Dialogue: 0,0:08:09.52,0:08:12.99,Piccolo,,0,0,0,,¡A Gohan no le gusta\Nluchar tanto como a ti!
+Dialogue: 0,0:08:13.36,0:08:18.48,Piccolo,,0,0,0,,¡¿Sabe los planes que tenías para él?!\N¡¿Has hablado con él de esto?!
+Dialogue: 0,0:08:20.52,0:08:23.19,Piccolo,,0,0,0,,¡¿Sabes lo que estará\Npensando en este momento?!
+Dialogue: 0,0:08:23.84,0:08:25.55,Piccolo,,0,0,0,,¡Yo te lo diré!
+Dialogue: 0,0:08:25.72,0:08:27.07,Piccolo,,0,0,0,,¡No piensa en enfadarse!
+Dialogue: 0,0:08:27.44,0:08:31.22,Piccolo,,0,0,0,,¡Se está preguntando por qué su padre\Nse queda mirando de brazos cruzados
+Dialogue: 0,0:08:31.50,0:08:32.82,Piccolo,,0,0,0,,mientras él sufre!
+Dialogue: 0,0:08:32.90,0:08:36.12,Piccolo,,0,0,0,,¡Debe de pensar que a ti te\Npreocupa más la lucha que su vida!
+Dialogue: 0,0:08:37.18,0:08:38.35,Piccolo,,0,0,0,,¡No lo olvides!
+Dialogue: 0,0:08:38.60,0:08:43.50,Piccolo,,0,0,0,,¡Es posible que sea el número uno,\Npero sigue siendo un niño!
+Dialogue: 0,0:08:47.76,0:08:50.43,Piccolo,,0,0,0,,¡Me da igual si me mata! ¡Yo voy!
+Dialogue: 0,0:09:03.92,0:09:06.63,Gokuh,,0,0,0,,¡Krilin, dame una senzu!
+Dialogue: 0,0:09:06.76,0:09:07.87,Krilin,,0,0,0,,¡Sí!
+Dialogue: 0,0:09:26.00,0:09:32.18,Célula,,0,0,0,,Qué terco es. Por algún motivo,\Nel dolor físico no le hace enfadarse.
+Dialogue: 0,0:09:32.96,0:09:37.07,Célula,,0,0,0,,Bueno, en ese caso discutiré\Nla cuestión con tus amigos.
+Dialogue: 0,0:09:41.40,0:09:42.54,Son Gohan,,0,0,0,,¡No lo hagas!
+Dialogue: 0,0:09:45.04,0:09:47.47,Reportero torneo,,0,0,0,,¡Oh, Cell despega de nuevo!
+Dialogue: 0,0:10:01.08,0:10:03.79,Célula,,0,0,0,,Las senzu están aquí, ¿verdad?
+Dialogue: 0,0:10:04.24,0:10:07.07,Célula,,0,0,0,,Me las quedaré para que\Nno sean un fastidio.
+Dialogue: 0,0:10:07.20,0:10:08.51,Gokuh,,0,0,0,,Maldición...
+Dialogue: 0,0:10:09.16,0:10:10.51,Piccolo,,0,0,0,,¡Mierda...!
+Dialogue: 0,0:10:18.44,0:10:22.71,Célula,,0,0,0,,No pienso rebajarme a luchar\Ncontra unos adversarios tan patéticos.
+Dialogue: 0,0:10:24.44,0:10:26.51,Son Gohan,,0,0,0,,¿Qué piensas hacer?
+Dialogue: 0,0:10:27.16,0:10:29.80,Célula,,0,0,0,,¡Haré lo que sea necesario para\Nque te enfades y saques
+Dialogue: 0,0:10:29.84,0:10:32.68,Célula,,0,0,0,,la fuerza oculta en tu interior!
+Dialogue: 0,0:10:32.70,0:10:37.43,Célula,,0,0,0,,Si te aguantas la rabia,\Ntus amigos sufrirán mucho.
+Dialogue: 0,0:10:37.88,0:10:43.07,Son Gohan,,0,0,0,,¡No lo hagas!\N¡No es algo que yo pueda controlar!
+Dialogue: 0,0:10:43.56,0:10:44.83,Son Gohan,,0,0,0,,¡Es por eso!
+Dialogue: 0,0:10:46.44,0:10:52.07,Célula,,0,0,0,,Por eso precisamente haré sufrir a tus amigos\N para sacar la fuerza que llevas dentro.
+Dialogue: 0,0:10:52.36,0:10:55.03,Piccolo,,0,0,0,,¡Prepárense! Está tramando algo.
+Dialogue: 0,0:10:57.00,0:11:00.03,Gokuh,,0,0,0,,Tendría que haberme comido\Nla senzu antes.
+Dialogue: 0,0:11:06.36,0:11:07.50,Son Gohan,,0,0,0,,¡Mierda!
+Dialogue: 0,0:11:11.88,0:11:14.71,Célula,,0,0,0,,¡Si te vas a enfadar,\Nque sea en serio!
+Dialogue: 0,0:11:19.04,0:11:20.47,Célula,,0,0,0,,¡Nº 16!
+Dialogue: 0,0:11:26.00,0:11:29.51,Reportero torneo,,0,0,0,,¡Ha intervenido otro luchador\Nanónimo en el combate!
+Dialogue: 0,0:11:29.68,0:11:33.38,Reportero torneo,,0,0,0,,¿Será él nuestro salvador?
+Dialogue: 0,0:11:33.84,0:11:34.90,Gokuh,,0,0,0,,Nº 16...
+Dialogue: 0,0:11:35.04,0:11:38.51,Piccolo,,0,0,0,,¡Es un Androide!\N¡Por eso no ha detectado su presencia!
+Dialogue: 0,0:11:38.80,0:11:41.56,Krilin,,0,0,0,,¡Nº 16 quiere acabar con Cell!
+Dialogue: 0,0:11:41.58,0:11:44.40,Trunks,,0,0,0,,¡Él solo no tiene\Nninguna posibilidad!
+Dialogue: 0,0:11:44.68,0:11:46.14,Piccolo,,0,0,0,,¡Vamos a ayudarlo!
+Dialogue: 0,0:11:47.04,0:11:49.32,Androide 16 - Verde,,0,0,0,,¡Quietos! ¡No se acerquen!
+Dialogue: 0,0:11:50.80,0:11:53.96,Androide 16 - Verde,,0,0,0,,¡Voy a explotar junto con Cell!
+Dialogue: 0,0:12:07.16,0:12:08.51,Gokuh,,0,0,0,,¿Qué?
+Dialogue: 0,0:12:08.68,0:12:12.71,Androide 16 - Verde,,0,0,0,,Llevo incorporado un poderoso mecanismo\Nde autodestrucción en mi cuerpo
+Dialogue: 0,0:12:12.88,0:12:15.83,Androide 16 - Verde,,0,0,0,,para utilizarlo como último recurso.
+Dialogue: 0,0:12:16.40,0:12:20.46,Androide 16 - Verde,,0,0,0,,Perdónenme por convertirlos en\Nvíctimas colaterales de esto.
+Dialogue: 0,0:12:31.04,0:12:36.35,Androide 16 - Verde,,0,0,0,,¡Cell, por muy fuerte que seas, a esta\Ndistancia, quedarás reducido a polvo!
+Dialogue: 0,0:12:57.86,0:13:02.76,Androide 16 - Verde,,0,0,0,,Éste es el fin, Cell.\N¡Ambos vamos a volar en pedazos!
+Dialogue: 0,0:13:08.34,0:13:13.40,Androide 16 - Verde,,0,0,0,,Aquí es dónde los planes del Dr. Gero,\Nqué creo a los androides...
+Dialogue: 0,0:13:13.40,0:13:16.84,Androide 16 - Verde,,0,0,0,,con la idea de conquistar\Nel Mundo, se desmoronan.
+Dialogue: 0,0:13:26.92,0:13:29.03,Yamcha,,0,0,0,,¡Nº 16...!
+Dialogue: 0,0:13:37.02,0:13:38.22,Androide 16 - Verde,,0,0,0,,¡Vamos!
+Dialogue: 0,0:13:57.94,0:14:00.24,Mr. Satan,,0,0,0,,¡Ustedes, protéganme!
+Dialogue: 0,0:14:02.36,0:14:03.82,Personaje Secundario 3,,0,0,0,,¡Ni hablar!
+Dialogue: 0,0:14:03.84,0:14:06.61,Mr. Satan,,0,0,0,,¡Soy su maestro! ¡Protéganme!
+Dialogue: 0,0:14:15.46,0:14:17.76,Reportero torneo,,0,0,0,,¡Mamá!
+Dialogue: 0,0:14:36.80,0:14:38.37,Yamcha,,0,0,0,,¿Qué ha pasado...?
+Dialogue: 0,0:14:52.94,0:14:57.49,Androide 16 - Verde,,0,0,0,,¿Por qué...? ¿Por qué no he explotado?
+Dialogue: 0,0:14:58.62,0:15:00.29,Krilin,,0,0,0,,¡Nº 16!
+Dialogue: 0,0:15:02.10,0:15:05.50,Krilin,,0,0,0,,¡Ya no tienes el mecanismo\Nde autodestrucción!
+Dialogue: 0,0:15:10.54,0:15:16.60,Krilin,,0,0,0,,Bulma me explicó que el profesor\Ndescubrió que te habían instalado
+Dialogue: 0,0:15:16.66,0:15:20.69,Krilin,,0,0,0,,una bomba muy potente en el\Ncuerpo y te la extrajo.
+Dialogue: 0,0:15:22.86,0:15:24.08,Mutenroshi,,0,0,0,,¿Cómo?
+Dialogue: 0,0:15:24.34,0:15:27.05,Mutenroshi,,0,0,0,,¿Es eso cierto, Bulma?
+Dialogue: 0,0:15:29.94,0:15:31.62,Bulma,,0,0,0,,En aquel momento...
+Dialogue: 0,0:15:41.22,0:15:43.90,Padre Bulma,,0,0,0,,Vaya... ¿eso es...?
+Dialogue: 0,0:15:47.98,0:15:52.97,Padre Bulma,,0,0,0,,Bulma, ¿puedes ampliar\Nla zona del corazón?
+Dialogue: 0,0:15:53.14,0:15:54.33,Bulma,,0,0,0,,No hay problema.
+Dialogue: 0,0:16:09.66,0:16:12.53,Padre Bulma,,0,0,0,,Parece que es un mecanismo\Nde autodestrucción...
+Dialogue: 0,0:16:12.66,0:16:15.25,Bulma,,0,0,0,,Y no es una bomba normal\Ny corriente, ¿verdad?
+Dialogue: 0,0:16:15.58,0:16:17.73,Bulma,,0,0,0,,Podría destruirlo todo.
+Dialogue: 0,0:16:18.86,0:16:23.78,Padre Bulma,,0,0,0,,Probablemente... Me pregunto por qué\Nel Dr. Gero instalaría semejante
+Dialogue: 0,0:16:23.78,0:16:25.72,Padre Bulma,,0,0,0,,dispositivo en Nº 16.
+Dialogue: 0,0:16:26.06,0:16:29.29,Bulma,,0,0,0,,Seguramente, para acabar con Gokuh.
+Dialogue: 0,0:16:31.42,0:16:34.29,Padre Bulma,,0,0,0,,En cualquier caso,\Nsea cual sea la razón...
+Dialogue: 0,0:16:36.26,0:16:37.24,Padre Bulma,,0,0,0,,es peligroso.
+Dialogue: 0,0:16:37.42,0:16:39.17,Padre Bulma,,0,0,0,,Deberíamos extraerlo.
+Dialogue: 0,0:16:40.86,0:16:45.69,Bulma,,0,0,0,,Es cierto. En ese momento,\Npapá se lo quitó.
+Dialogue: 0,0:16:49.02,0:16:53.52,Krilin,,0,0,0,,¡Nº 16! ¡Ya no puedes autodestruirte!
+Dialogue: 0,0:16:59.10,0:17:01.66,Célula,,0,0,0,,Qué lástima, Nº 16.
+Dialogue: 0,0:17:02.42,0:17:06.85,Célula,,0,0,0,,Si te sirve de consuelo, no creo que\Nla explosión me hubiera destruido.
+Dialogue: 0,0:17:25.94,0:17:27.08,Bulma,,0,0,0,,¡Nº 16!
+Dialogue: 0,0:17:42.54,0:17:48.45,Célula,,0,0,0,,Nº 16, después de todo no eras más\Nque un experimento fallido del Dr. Gero.
+Dialogue: 0,0:18:07.34,0:18:10.28,Personaje Secundario 3,,0,0,0,,Mr. Satan, todos nos están mirando.
+Dialogue: 0,0:18:12.38,0:18:14.41,Personaje Secundario 3,,0,0,0,,Compórtese, Mr. Satan.
+Dialogue: 0,0:18:15.86,0:18:18.92,Mr. Satan,,0,0,0,,Caroni, anda, ve a agarrar eso.
+Dialogue: 0,0:18:20.52,0:18:21.73,Personaje Secundario 1,,0,0,0,,Sí...
+Dialogue: 0,0:18:27.78,0:18:29.53,Personaje Secundario 1,,0,0,0,,Qué disgusto que da...
+Dialogue: 0,0:18:42.98,0:18:46.73,Célula,,0,0,0,,¡Vamos, ustedes serán\Nlos siguientes!
+Dialogue: 0,0:18:50.46,0:18:52.29,Vegeta,,0,0,0,,¡Desgraciado de mierda...!
+Dialogue: 0,0:18:57.86,0:19:02.25,Célula,,0,0,0,,Son Gohan, parece que\Naún no estás listo.
+Dialogue: 0,0:19:03.06,0:19:06.17,Célula,,0,0,0,,Pero haré lo que sea necesario\Npara hacerte enfadar.
+Dialogue: 0,0:19:08.50,0:19:15.05,Célula,,0,0,0,,Uno... dos... tres... cuatro...\Ncinco... seis... siete...
+Dialogue: 0,0:19:16.34,0:19:18.33,Célula,,0,0,0,,Son siete en total.
+Dialogue: 0,0:19:19.30,0:19:20.33,Célula,,0,0,0,,¡Vamos!
+Dialogue: 0,0:19:27.42,0:19:30.41,Vegeta,,0,0,0,,¿Y ahora qué es lo que pretende?
+Dialogue: 0,0:20:13.82,0:20:15.85,Piccolo,,0,0,0,,¿Qué es eso...?
+Dialogue: 0,0:20:18.94,0:20:21.37,Reportero torneo,,0,0,0,,¡Han aparecido más\Ncriaturas extrañas!
+Dialogue: 0,0:20:22.10,0:20:29.60,Reportero torneo,,0,0,0,,Uno, dos, tres, cuatro,\Ncinco, seis y siete.
+Dialogue: 0,0:20:30.62,0:20:32.16,Reportero torneo,,0,0,0,,¡Hay siete en total!
+Dialogue: 0,0:20:32.24,0:20:37.21,Reportero torneo,,0,0,0,,¡Siete extrañas criaturas han surgido\Nde la espalda de Cell! ¡¿Qué son?!
+Dialogue: 0,0:20:59.46,0:21:04.74,Célula,,0,0,0,,Vamos, Cells Jr., sus adversarios\Nson esos siete de ahí arriba.
+Dialogue: 0,0:21:04.78,0:21:09.49,Célula,,0,0,0,,Háganlos sufrir.\NMe da igual si los matan.
+Dialogue: 0,0:21:14.18,0:21:15.24,Célula,,0,0,0,,¡Adelante!
+Dialogue: 0,0:21:19.78,0:21:23.96,Gokuh,,0,0,0,,¡Cuidado! ¡Tienen un poder inmenso!
+Dialogue: 0,0:21:25.82,0:21:26.88,Vegeta,,0,0,0,,¡Insectos!
+Dialogue: 0,0:21:35.50,0:21:38.25,Célula,,0,0,0,,Es inútil. Jamás les podrán ganar.
+Dialogue: 0,0:21:38.46,0:21:41.30,Célula,,0,0,0,,Puede que sean pequeños,\Npero son mis hijos.
+Dialogue: 0,0:22:07.10,0:22:09.89,Narrador,,0,0,0,,El poder de Cell es\Ninimaginablemente terrorífico.
+Dialogue: 0,0:22:10.06,0:22:15.69,Narrador,,0,0,0,,¿Cómo de poderosos serán estos Cells Jr.\Na los que ha dado nacimiento?
+Dialogue: 0,0:22:44.99,0:22:48.73,Ending Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.99,0:22:48.73,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:48.94,0:22:54.33,Ending Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.94,0:22:54.33,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:54.84,0:22:56.82,Ending Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.84,0:22:56.82,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:00.51,0:23:07.67,Ending Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.51,0:23:07.67,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:07.83,0:23:12.30,Ending Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.83,0:23:12.30,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:12.30,0:23:16.03,Ending Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.30,0:23:16.03,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:16.22,0:23:19.79,Ending Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:16.22,0:23:19.79,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:19.79,0:23:21.92,Ending Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.79,0:23:21.92,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:24.14,0:23:31.27,Ending Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:24.14,0:23:31.27,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:31.97,0:23:33.69,Ending Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.97,0:23:33.69,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:33.94,0:23:35.72,Ending Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.94,0:23:35.72,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:35.94,0:23:37.95,Ending Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.94,0:23:37.95,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:37.95,0:23:39.82,Ending Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.95,0:23:39.82,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:39.82,0:23:44.84,Ending Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.82,0:23:44.84,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:45.51,0:23:46.52,Ending Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.51,0:23:46.52,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:47.77,0:23:52.69,Ending Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.77,0:23:52.69,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:55.62,0:24:01.53,Ending Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.62,0:24:01.53,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:24:08.80,0:24:11.59,Titulos,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:12.33,0:24:14.26,Gokuh,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:14.26,0:24:17.74,Gokuh,,0,0,0,,Lo siento, chicos.\NTodos están en peligro por mi culpa.
+Dialogue: 0,0:24:17.74,0:24:21.87,Androide 16 - Verde,,0,0,0,,Son Gohan, no tiene nada de malo,\Nluchar por lo correcto.
+Dialogue: 0,0:24:21.87,0:24:26.01,Androide 16 - Verde,,0,0,0,,No tienes por qué seguir conteniéndote.\NLibera tu ira.
+Dialogue: 0,0:24:26.01,0:24:28.45,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:28.45,0:24:32.92,Gokuh,,0,0,0,,¡El atroz final de Nº 16!\NSúper Gohan estalla de rabia
+Dialogue: 0,0:24:32.92,0:24:35.85,Son Gohan,,0,0,0,,¡Cell, te aseguro que pagarás por esto!
+Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,
+Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,
+Dialogue: 0,0:24:35.16,0:24:38.62,Titulos,,0,0,0,,

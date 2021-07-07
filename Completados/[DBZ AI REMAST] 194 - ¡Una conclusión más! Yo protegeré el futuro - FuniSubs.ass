@@ -1,0 +1,281 @@
+﻿[Script Info]
+; Estado = Incompleto
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:50.34,0:01:51.40,Gokuh,,0,0,0,,¡Ahora!
+Dialogue: 0,0:02:01.24,0:02:02.77,Célula,,0,0,0,,¡¿Cómo?!
+Dialogue: 0,0:02:05.00,0:02:06.68,Célula,,0,0,0,,¡No puede ser...!
+Dialogue: 0,0:02:15.63,0:02:18.86,Narrador,,0,0,0,,Finalmente, Gohan ha\Nderrotado a Cell.
+Dialogue: 0,0:02:19.39,0:02:23.46,Narrador,,0,0,0,,La batalla ha terminado y la\Npaz ha vuelto a la Tierra.
+Dialogue: 0,0:02:36.55,0:02:40.09,Yamcha,,0,0,0,,Por favor, resucita a todos los\Nque fueron asesinados por Cell.
+Dialogue: 0,0:02:40.31,0:02:42.66,Shenron,,0,0,0,,Les concederé su deseo.
+Dialogue: 0,0:02:48.17,0:02:51.86,Narrador,,0,0,0,,Pero Gokuh no regresa a la vida.
+Dialogue: 0,0:02:58.64,0:03:02.14,Gokuh,,0,0,0,,¡Ya nos veremos cuando mueran!
+Dialogue: 0,0:03:02.55,0:03:03.77,Gokuh,,0,0,0,,¡Bye bye!
+Dialogue: 0,0:03:16.06,0:03:23.38,Narrador,,0,0,0,,Y Trunks utiliza la máquina del\Ntiempo para regresar a su futuro.
+Dialogue: 0,0:03:31.27,0:03:37.26,Titulos,,0,0,0,,
+Dialogue: 0,0:03:41.07,0:03:43.63,Narrador,,0,0,0,,La paz ha vuelto a la Tierra.
+Dialogue: 0,0:03:43.91,0:03:48.14,Narrador,,0,0,0,,Sin embargo, en el futuro del\Nque proviene Trunks,
+Dialogue: 0,0:03:48.17,0:03:52.38,Narrador,,0,0,0,,la amenaza de los Androides\NNº 17 y Nº 18 continúa.
+Dialogue: 0,0:04:56.91,0:04:58.98,Trunks,,0,0,0,,Mamá, ya estoy en casa.
+Dialogue: 0,0:04:59.15,0:05:00.29,Bulma,,0,0,0,,Bienvenido, Trunks.
+Dialogue: 0,0:05:04.43,0:05:05.86,Bulma,,0,0,0,,Vaya...
+Dialogue: 0,0:05:07.71,0:05:11.33,Bulma,,0,0,0,,¿Qué ha pasado aquí?\NParece que has crecido, ¿no?
+Dialogue: 0,0:05:11.47,0:05:12.15,Trunks,,0,0,0,,Sí.
+Dialogue: 0,0:05:12.17,0:05:16.70,Trunks,,0,0,0,,Mamá, en el Palacio de Kami Sama, hay un\Nsitio que se llama la Sala del Espíritu
+Dialogue: 0,0:05:16.71,0:05:20.70,Trunks,,0,0,0,,y el Tiempo en el que puedes pasar\Ntodo un año en un solo día.
+Dialogue: 0,0:05:21.63,0:05:24.86,Bulma,,0,0,0,,No acabo de entenderlo,\Npero en cualquier caso,
+Dialogue: 0,0:05:24.91,0:05:29.06,Bulma,,0,0,0,,me alegra que hayas vuelto de\Nuna pieza. ¿Cómo te ha ido?
+Dialogue: 0,0:05:29.35,0:05:32.18,Bulma,,0,0,0,,A juzgar por tu cara,\Nme imagino que bien.
+Dialogue: 0,0:05:32.35,0:05:33.46,Tortuga,,0,0,0,,Sí.
+Dialogue: 0,0:05:41.91,0:05:44.06,Bulma,,0,0,0,,Debe de haber sido duro.
+Dialogue: 0,0:05:45.15,0:05:49.02,Bulma,,0,0,0,,Ya veo... así que Gokuh\Nmurió igualmente, ¿no?
+Dialogue: 0,0:05:49.19,0:05:52.02,Bulma,,0,0,0,,Pero Gohan lo vengó, ¿verdad?
+Dialogue: 0,0:05:52.31,0:05:53.62,Trunks,,0,0,0,,Sí.
+Dialogue: 0,0:05:55.91,0:05:58.47,Trunks,,0,0,0,,Y también he luchado al lado de papá.
+Dialogue: 0,0:06:00.31,0:06:01.82,Bulma,,0,0,0,,¿Con Vegeta?
+Dialogue: 0,0:06:01.95,0:06:08.86,Trunks,,0,0,0,,Resulta que papá no era una persona\Ntan fría. Cuando Cell me mató...
+Dialogue: 0,0:06:17.59,0:06:20.08,Vegeta,,0,0,0,,¡Mierda!
+Dialogue: 0,0:06:37.15,0:06:39.82,Trunks,,0,0,0,,Se puso furioso y luchó\Ncon todas sus fuerzas.
+Dialogue: 0,0:06:39.86,0:06:45.38,Bulma,,0,0,0,,Claro... ¿no es lo que yo te decía?
+Dialogue: 0,0:06:45.71,0:06:46.69,Trunks,,0,0,0,,Sí.
+Dialogue: 0,0:06:48.67,0:06:52.21,Bulma,,0,0,0,,¿Vegeta hizo eso?\Nasí que tenía un lado bueno...
+Dialogue: 0,0:06:53.95,0:06:57.42,Default,,0,0,0,,Interrumpimos la programación\Npara informarles de los Androides.
+Dialogue: 0,0:06:58.11,0:07:00.49,Default,,0,0,0,,Nº 17 y Nº 18 han\Nvuelto a aparecer.
+Dialogue: 0,0:07:00.63,0:07:04.41,Default,,0,0,0,,En estos momentos atacan el\Npunto BBN-49, Parsley City.
+Dialogue: 0,0:07:06.11,0:07:08.74,Trunks,,0,0,0,,¡Malditos Androides...! ¡Esta vez...!
+Dialogue: 0,0:07:09.27,0:07:10.54,Bulma,,0,0,0,,Trunks...
+Dialogue: 0,0:07:11.11,0:07:12.17,Trunks,,0,0,0,,No te preocupes.
+Dialogue: 0,0:07:12.17,0:07:16.18,Trunks,,0,0,0,,Ésa es la razón por la que fui al\Npasado a ver a Gokuh y a los otros.
+Dialogue: 0,0:07:16.99,0:07:20.51,Trunks,,0,0,0,,Esta vez, seguro que vengaré\Na Gohan y a todos los demás.
+Dialogue: 0,0:07:27.87,0:07:29.38,Trunks,,0,0,0,,No se trata sólo del pasado...
+Dialogue: 0,0:07:29.51,0:07:31.40,Trunks,,0,0,0,,Tengo que traer la paz a\Nesta época también.
+Dialogue: 0,0:07:31.97,0:07:35.94,Bulma,,0,0,0,,Ten cuidado, Trunks.\NNo hagas tonterías.
+Dialogue: 0,0:07:36.71,0:07:37.44,Trunks,,0,0,0,,¡Sí!
+Dialogue: 0,0:08:00.11,0:08:02.57,Androide 17 - Moreno,,0,0,0,,Te estás comportando como una niña.
+Dialogue: 0,0:08:02.57,0:08:05.34,Androide 17 - Moreno,,0,0,0,,Mira que ponerte así por\Nperder en un videojuego.
+Dialogue: 0,0:08:05.62,0:08:08.40,Androide 18 - Rubia,,0,0,0,,¡Cierra el pico!\N¡Métete en tus asuntos!
+Dialogue: 0,0:08:16.40,0:08:19.68,Default,,0,0,0,,Esos dos mataron a mi\Nmujer y a mis hijos...
+Dialogue: 0,0:08:28.15,0:08:29.37,Default,,0,0,0,,Mierda...
+Dialogue: 0,0:08:49.39,0:08:52.35,Androide 17 - Moreno,,0,0,0,,Tienes buena puntería,\N¿eh, vejestorio?
+Dialogue: 0,0:08:56.59,0:08:58.22,Androide 17 - Moreno,,0,0,0,,¿Quieres tu premio?
+Dialogue: 0,0:08:58.39,0:09:00.17,Androide 17 - Moreno,,0,0,0,,¿Verdad que lo quieres?
+Dialogue: 0,0:09:05.95,0:09:07.58,Default,,0,0,0,,¡Diablo...!
+Dialogue: 0,0:09:16.88,0:09:17.77,Androide 17 - Moreno,,0,0,0,,¿Quién eres?
+Dialogue: 0,0:09:20.55,0:09:21.60,Androide 17 - Moreno,,0,0,0,,¿Trunks?
+Dialogue: 0,0:09:21.95,0:09:26.20,Trunks,,0,0,0,,¡Nº 17! ¡Nº 18!\NHasta aquí han llegado.
+Dialogue: 0,0:09:26.22,0:09:27.98,Trunks,,0,0,0,,Voy a acabar con ustedes.
+Dialogue: 0,0:09:28.19,0:09:30.24,Androide 17 - Moreno,,0,0,0,,Mira por donde... ¿aún sigues vivo?
+Dialogue: 0,0:09:30.24,0:09:33.98,Androide 17 - Moreno,,0,0,0,,No conozco a nadie más idiota\Ne imprudente que tú.
+Dialogue: 0,0:09:34.15,0:09:40.33,Androide 18 - Rubia,,0,0,0,,¡Nº 17! ¡Estoy de muy mal humor!\NPuedo matarlo, ¿verdad?
+Dialogue: 0,0:09:41.11,0:09:42.90,Androide 18 - Rubia,,0,0,0,,¡Estoy harta de él!
+Dialogue: 0,0:09:43.07,0:09:46.69,Androide 17 - Moreno,,0,0,0,,Será una cosa menos con la que\Ndivertirnos, pero bueno...
+Dialogue: 0,0:09:46.83,0:09:48.74,Androide 17 - Moreno,,0,0,0,,Haz lo que quieras, Nº 18.
+Dialogue: 0,0:09:50.31,0:09:53.85,Androide 18 - Rubia,,0,0,0,,Esto será más divertido\Nque un videojuego.
+Dialogue: 0,0:10:00.39,0:10:01.86,Androide 17 - Moreno,,0,0,0,,¡Cuidado, Nº 18!
+Dialogue: 0,0:10:09.63,0:10:10.69,Androide 18 - Rubia,,0,0,0,,¡Mierda...!
+Dialogue: 0,0:10:11.99,0:10:13.82,Androide 18 - Rubia,,0,0,0,,¡Tú te lo has buscado!
+Dialogue: 0,0:10:29.43,0:10:32.50,Androide 17 - Moreno,,0,0,0,,¿Qué pasa?\NNo pareces muy en forma, Nº 18.
+Dialogue: 0,0:10:33.19,0:10:36.58,Androide 18 - Rubia,,0,0,0,,¡Mierda! ¡Vas a pagar por esto!
+Dialogue: 0,0:10:36.79,0:10:38.54,Androide 17 - Moreno,,0,0,0,,Has mejorado un poco, ¿no?
+Dialogue: 0,0:10:38.67,0:10:41.58,Androide 17 - Moreno,,0,0,0,,Ahora puedes hacer enfadar de\Nverdad a Nº 18 y todo.
+Dialogue: 0,0:10:41.71,0:10:46.62,Trunks,,0,0,0,,En el pasado al que fui con la máquina\Ndel tiempo, no eran mala gente.
+Dialogue: 0,0:10:46.87,0:10:50.91,Trunks,,0,0,0,,Pero aquí en esta época siguen\Ndestruyendo ciudades y atormentando
+Dialogue: 0,0:10:50.91,0:10:52.68,Trunks,,0,0,0,,a la gente sin ningún motivo.
+Dialogue: 0,0:10:55.51,0:10:57.42,Trunks,,0,0,0,,¡No puedo permitir que\Nsigan haciéndolo!
+Dialogue: 0,0:10:58.28,0:11:00.82,Androide 17 - Moreno,,0,0,0,,¿Se puede saber qué tonterías dices?
+Dialogue: 0,0:11:00.84,0:11:03.25,Androide 18 - Rubia,,0,0,0,,¡Acabemos con él, Nº 17!
+Dialogue: 0,0:11:42.73,0:11:45.14,Androide 17 - Moreno,,0,0,0,,No puede ser...
+Dialogue: 0,0:11:49.07,0:11:51.24,Androide 17 - Moreno,,0,0,0,,¿Cómo puedes haber acabado...?
+Dialogue: 0,0:11:51.24,0:11:54.06,Trunks,,0,0,0,,Eso ha sido por todos\Nlos amigos que murieron.
+Dialogue: 0,0:11:55.27,0:11:56.74,Trunks,,0,0,0,,Y esto...
+Dialogue: 0,0:11:57.75,0:11:59.68,Trunks,,0,0,0,,¡Es para vengar a Gohan!
+Dialogue: 0,0:12:06.19,0:12:07.74,Trunks,,0,0,0,,¡Desaparece!
+Dialogue: 0,0:12:26.59,0:12:28.02,Trunks,,0,0,0,,Ha terminado.
+Dialogue: 0,0:12:30.63,0:12:32.38,Trunks,,0,0,0,,No, aún no...
+Dialogue: 0,0:12:33.43,0:12:35.58,Trunks,,0,0,0,,Aún queda el más importante.
+Dialogue: 0,0:13:12.11,0:13:14.71,Narrador,,0,0,0,,Y así, pasaron los meses.
+Dialogue: 0,0:13:14.75,0:13:20.66,Narrador,,0,0,0,,Con la desaparición de Nº 17 y Nº 18,\Nla paz regresaba poco a poco.
+Dialogue: 0,0:13:20.75,0:13:23.53,Narrador,,0,0,0,,En las ciudades, la\Nreconstrucción había comenzado.
+Dialogue: 0,0:13:24.95,0:13:28.48,Narrador,,0,0,0,,Y entonces, finalmente se reunió\Nla energía necesaria para un viaje
+Dialogue: 0,0:13:28.48,0:13:30.93,Narrador,,0,0,0,,al pasado con la máquina del tiempo.
+Dialogue: 0,0:13:31.39,0:13:36.75,Trunks,,0,0,0,,Mamá, voy a decirles a todos que\Nhe derrotado a Nº 17 y a Nº 18.
+Dialogue: 0,0:13:36.79,0:13:40.78,Bulma,,0,0,0,,Trunks, ten mucho cuidado.\NSaluda a todos de mi parte.
+Dialogue: 0,0:13:40.95,0:13:42.17,Trunks,,0,0,0,,Sí, mamá.
+Dialogue: 0,0:13:45.55,0:13:48.35,Trunks,,0,0,0,,Mamá, métete dentro de casa.
+Dialogue: 0,0:13:48.42,0:13:50.98,Bulma,,0,0,0,,¿Qué? ¿Tenemos visita?
+Dialogue: 0,0:13:53.91,0:14:00.91,Bulma,,0,0,0,,así que has conseguido una novia, ¿no?\NQué escondido que lo tenías...
+Dialogue: 0,0:14:08.23,0:14:10.66,Trunks,,0,0,0,,¡Sé que estás aquí, Cell!
+Dialogue: 0,0:14:12.15,0:14:16.66,Trunks,,0,0,0,,Planeas matarme, subir a bordo de mi\Nmáquina del tiempo convertido en larva
+Dialogue: 0,0:14:16.66,0:14:20.90,Trunks,,0,0,0,,y regresar al pasado para absorber\Na Nº 17 y a Nº 18.
+Dialogue: 0,0:14:21.46,0:14:23.37,Trunks,,0,0,0,,Todo para alcanzar la forma perfecta.
+Dialogue: 0,0:14:23.51,0:14:26.70,Célula,,0,0,0,,¡¿Cómo?! ¿Cómo puedes saber eso?
+Dialogue: 0,0:14:26.91,0:14:31.57,Trunks,,0,0,0,,No podrás llevar a cabo tus planes.\NY entonces todo habrá acabado.
+Dialogue: 0,0:14:52.71,0:14:55.33,Célula,,0,0,0,,¿Dices que no podré llevar\Na cabo mis planes?
+Dialogue: 0,0:14:55.83,0:14:57.66,Célula,,0,0,0,,¿Tú me lo impedirás?
+Dialogue: 0,0:14:58.11,0:15:02.62,Trunks,,0,0,0,,Cell, en tu forma perfecta\Neras terriblemente fuerte.
+Dialogue: 0,0:15:03.35,0:15:07.00,Trunks,,0,0,0,,Pero tal y como eres ahora...\N¡yo mismo puedo derrotarte!
+Dialogue: 0,0:15:07.91,0:15:11.73,Célula,,0,0,0,,así que es eso... has viajado\Nal pasado, ¿no es así?
+Dialogue: 0,0:15:12.75,0:15:14.02,Célula,,0,0,0,,Comprendo.
+Dialogue: 0,0:15:14.23,0:15:17.18,Célula,,0,0,0,,Eso explica porqué estás\Ntan bien informado.
+Dialogue: 0,0:15:18.31,0:15:23.06,Célula,,0,0,0,,Pero aparte de eso, no veo ninguna\Nforma de que puedas derrotarme.
+Dialogue: 0,0:15:24.23,0:15:28.86,Célula,,0,0,0,,Trunks, un robot espía me ha\Nproporcionado todos los datos sobre ti.
+Dialogue: 0,0:15:28.99,0:15:31.42,Célula,,0,0,0,,Con tu poder, ni siquiera puedes\Nderrotar a Nº 17 y a Nº 18,
+Dialogue: 0,0:15:31.42,0:15:34.24,Célula,,0,0,0,,¿cómo vas a derrotarme a mí?
+Dialogue: 0,0:15:35.19,0:15:39.74,Trunks,,0,0,0,,Entonces, ¿por qué Nº 17 y\NNº 18 han desaparecido del mapa?
+Dialogue: 0,0:15:41.59,0:15:43.18,Célula,,0,0,0,,Así que es eso.
+Dialogue: 0,0:15:43.63,0:15:47.78,Célula,,0,0,0,,Entonces, tú eres la razón por la\Nque esos dos han desaparecido.
+Dialogue: 0,0:15:49.07,0:15:53.82,Célula,,0,0,0,,Mierda... ¡¿quién te mandó a\Neliminar a Nº 17 y a Nº 18?!
+Dialogue: 0,0:15:54.43,0:16:00.86,Célula,,0,0,0,,¡Por tu culpa, no puedo alcanzar\Nla forma perfecta en esta era!
+Dialogue: 0,0:16:00.91,0:16:03.62,Célula,,0,0,0,,Voy a tener que matarte\Nde todos modos.
+Dialogue: 0,0:16:03.91,0:16:07.91,Célula,,0,0,0,,¡Te mataré y entonces usaré la máquina\Ndel tiempo para viajar al pasado
+Dialogue: 0,0:16:07.95,0:16:11.08,Célula,,0,0,0,,y absorber a Nº 17 y\Na Nº 18 allá!
+Dialogue: 0,0:16:11.35,0:16:14.10,Trunks,,0,0,0,,No estaría bien luchar en\Nla Capital del Oeste.
+Dialogue: 0,0:16:14.35,0:16:19.08,Trunks,,0,0,0,,Está costando mucho reconstruirla.\NCambiaremos de lugar.
+Dialogue: 0,0:16:50.79,0:16:54.91,Célula,,0,0,0,,Menudo novato. Puede que\Nhayas mejorado un poco.
+Dialogue: 0,0:16:54.95,0:16:58.22,Célula,,0,0,0,,Pero eres un estúpido si\Ncrees que puedes derrotarme.
+Dialogue: 0,0:16:58.71,0:17:03.40,Célula,,0,0,0,,Soy el Androide definitivo\Ncreado por el Dr. Gero.
+Dialogue: 0,0:17:03.95,0:17:07.55,Célula,,0,0,0,,No hay nadie en el mundo\Nque pueda derrotarme.
+Dialogue: 0,0:17:07.64,0:17:08.94,Trunks,,0,0,0,,Ya lo veremos.
+Dialogue: 0,0:17:22.44,0:17:25.24,Trunks,,0,0,0,,¡No pienso dejarte volver al pasado!
+Dialogue: 0,0:17:25.35,0:17:27.06,Célula,,0,0,0,,¡Ya es suficiente!
+Dialogue: 0,0:17:46.11,0:17:52.55,Célula,,0,0,0,,Esto no es como debería ser...\Nmierda... soy el Androide definitivo.
+Dialogue: 0,0:17:52.67,0:17:55.66,Célula,,0,0,0,,Es inconcebible que pueda\Nperder contra ese muchacho.
+Dialogue: 0,0:18:19.15,0:18:21.53,Trunks,,0,0,0,,¡Cell, no puedo permitirlo!
+Dialogue: 0,0:18:21.95,0:18:25.86,Trunks,,0,0,0,,¡Por el bien de la Tierra,\Nno puedo permitir tu existencia!
+Dialogue: 0,0:18:59.91,0:19:04.77,Célula,,0,0,0,,Maldito... ¡si es lo que quieres,\Nacabaré contigo con esta técnica!
+Dialogue: 0,0:19:05.46,0:19:06.73,Célula Kame Hame,,0,0,0,,
+Dialogue: 0,0:19:06.73,0:19:08.57,Célula Kame Hame,,0,0,0,,
+Dialogue: 0,0:19:08.57,0:19:09.73,Célula Kame Hame,,0,0,0,,
+Dialogue: 0,0:19:09.73,0:19:11.02,Célula Kame Hame,,0,0,0,,
+Dialogue: 0,0:19:17.99,0:19:21.04,Trunks,,0,0,0,,¡Desaparece para siempre, Cell!
+Dialogue: 0,0:19:25.19,0:19:27.40,Célula,,0,0,0,,¡Mierda!
+Dialogue: 0,0:19:27.48,0:19:30.20,Célula,,0,0,0,,¡Mierda!
+Dialogue: 0,0:19:41.99,0:19:44.86,Trunks,,0,0,0,,Ahora todo ha terminado.
+Dialogue: 0,0:19:45.07,0:19:50.80,Trunks,,0,0,0,,Gracias a todos.\NGracias, Gokuh.
+Dialogue: 0,0:20:23.39,0:20:29.42,Gokuh,,0,0,0,,¡Vamos, Bubbles, Gregory!\N¡Traten de agarrarme!
+Dialogue: 0,0:20:58.79,0:21:04.00,Gokuh,,0,0,0,,No tienen remedio, parece que últimamente\Nno han hecho mucho ejercicio.
+Dialogue: 0,0:21:04.06,0:21:06.02,Kaioh,,0,0,0,,¡Ya estoy!
+Dialogue: 0,0:21:09.55,0:21:11.80,Gokuh Kaioh Ken,,0,0,0,,Es increíble, Kaioh.
+Dialogue: 0,0:21:25.82,0:21:29.26,Gokuh,,0,0,0,,No quería, Kaioh...\Nlo siento, lo siento...
+Dialogue: 0,0:21:33.79,0:21:37.00,Kaioh,,0,0,0,,No tengo moral para\Nempezar de nuevo...
+Dialogue: 0,0:21:37.11,0:21:39.86,Gokuh,,0,0,0,,Kaioh, míralo por el lado bueno...
+Dialogue: 0,0:21:39.95,0:21:43.04,Gokuh,,0,0,0,,A mí no me gustaba este\Nsitio desde un principio.
+Dialogue: 0,0:21:43.08,0:21:44.84,Gokuh,,0,0,0,,Vamos a otra parte.
+Dialogue: 0,0:21:46.03,0:21:49.86,Gokuh,,0,0,0,,¡Ya sé! ¿Dónde están esos\Nluchadores del Más Allá?
+Dialogue: 0,0:21:51.15,0:21:53.61,Kaioh,,0,0,0,,¿Los luchadores del Más Allá?
+Dialogue: 0,0:21:56.40,0:21:57.53,Gokuh,,0,0,0,,¡No es justo!
+Dialogue: 0,0:21:57.55,0:22:02.08,Gokuh,,0,0,0,,Me prometiste que me llevarías donde\Nestuvieran los luchadores del Más Allá.
+Dialogue: 0,0:22:02.15,0:22:04.70,Gokuh,,0,0,0,,¿O es que no sabes dónde están?
+Dialogue: 0,0:22:04.83,0:22:10.66,Kaioh,,0,0,0,,No, claro que sé dónde están.\NPero, Gokuh, es que allá...
+Dialogue: 0,0:22:12.19,0:22:13.91,Gokuh,,0,0,0,,¡Vamos!
+Dialogue: 0,0:22:13.95,0:22:17.14,Gokuh,,0,0,0,,¡Quiero conocer a esos luchadores\Ndel Más Allá enseguida!
+Dialogue: 0,0:22:17.99,0:22:23.51,Narrador,,0,0,0,,Y así comienza el viaje de\NGokuh y Kaioh por el Más Allá.
+Dialogue: 0,0:22:23.83,0:22:28.46,Narrador,,0,0,0,,¿Cómo serán esos luchadores del Más Allá\Nque tanto quiere conocer Gokuh?
+Dialogue: 0,0:22:44.75,0:22:48.49,Ending Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.75,0:22:48.49,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:48.70,0:22:54.09,Ending Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.70,0:22:54.09,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:54.60,0:22:56.58,Ending Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.60,0:22:56.58,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:00.27,0:23:07.43,Ending Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.27,0:23:07.43,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:07.59,0:23:12.06,Ending Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.59,0:23:12.06,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:12.06,0:23:15.79,Ending Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.06,0:23:15.79,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:15.98,0:23:19.55,Ending Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:15.98,0:23:19.55,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:19.55,0:23:21.68,Ending Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.55,0:23:21.68,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:23.90,0:23:31.03,Ending Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:23.90,0:23:31.03,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:31.73,0:23:33.45,Ending Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.73,0:23:33.45,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:33.70,0:23:35.48,Ending Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.70,0:23:35.48,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:35.70,0:23:37.71,Ending Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.70,0:23:37.71,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:37.71,0:23:39.58,Ending Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.71,0:23:39.58,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:39.58,0:23:44.60,Ending Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.58,0:23:44.60,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:45.27,0:23:46.28,Ending Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.27,0:23:46.28,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:47.53,0:23:52.45,Ending Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.53,0:23:52.45,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:55.38,0:24:01.29,Ending Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.38,0:24:01.29,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:24:08.63,0:24:11.26,Titulos,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:12.11,0:24:13.95,Gokuh,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:13.95,0:24:17.60,Gokuh,,0,0,0,,Dime Kaioh, ¿qué clase de muchacho es\Nel número uno del Más Allá?
+Dialogue: 0,0:24:17.60,0:24:20.82,Kaioh,,0,0,0,,¡Oye, tú! \N¡No puedes referirte a él como "muchacho"!
+Dialogue: 0,0:24:20.82,0:24:24.93,Kaioh,,0,0,0,,Es el Dai Kaioh, el hombre\Nmás distinguido del Más Allá.
+Dialogue: 0,0:24:24.93,0:24:26.79,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:26.79,0:24:30.26,Gokuh,,0,0,0,,¡Gran conmoción!\NLa gente increíble del Más Allá
+Dialogue: 0,0:24:30.26,0:24:34.60,Son Gohan,,0,0,0,,¿Eh? Papá, ¿vas a ir al infierno, con uno de\Nlos otros luchadores, para acabar con Cell? 
+Dialogue: 0,0:24:34.82,0:24:38.28,Titulos,,0,0,0,,
+Dialogue: 0,0:24:34.82,0:24:38.28,Titulos,,0,0,0,,
+Dialogue: 0,0:24:34.82,0:24:38.28,Titulos,,0,0,0,,

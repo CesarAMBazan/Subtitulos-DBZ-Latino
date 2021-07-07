@@ -1,0 +1,269 @@
+﻿[Script Info]
+; Estado = Incompleto
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.34,0:00:15.09,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.34,0:00:15.09,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:15.09,0:00:17.67,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:15.09,0:00:17.67,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.67,0:00:24.12,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.67,0:00:24.12,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.84,0:00:27.41,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.84,0:00:27.41,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.41,0:00:30.12,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.41,0:00:30.12,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:30.14,0:00:35.83,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:30.14,0:00:35.83,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:36.95,0:00:42.63,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:36.95,0:00:42.63,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.51,0:00:51.73,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.51,0:00:51.73,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.49,0:00:55.45,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.49,0:00:55.45,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:55.92,0:01:04.25,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:55.92,0:01:04.25,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:04.92,0:01:08.05,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:04.92,0:01:08.05,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.51,0:01:12.03,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.51,0:01:12.03,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.20,0:01:14.30,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.20,0:01:14.30,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.31,0:01:17.47,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.31,0:01:17.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:17.91,0:01:25.09,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:17.91,0:01:25.09,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.77,0:01:29.94,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.77,0:01:29.94,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.40,0:01:34.06,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.40,0:01:34.06,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:34.06,0:01:37.28,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:34.06,0:01:37.28,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.29,0:01:38.82,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.29,0:01:38.82,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:02:49.78,0:02:53.31,Narrador,,0,0,0,,Tras un duro combate, Gokuh se ha\Nclasificado para las semifinales
+Dialogue: 0,0:02:53.31,0:02:56.41,Narrador,,0,0,0,,del Gran Torneo de Artes\NMarciales del Más Allá.
+Dialogue: 0,0:02:56.62,0:03:04.62,Narrador,,0,0,0,,Por su parte, Olibu y Paikuhan\Ndisputan un combate extraordinario.
+Dialogue: 0,0:03:27.55,0:03:31.04,Reportero torneo,,0,0,0,,¡El ganador es Paikuhan!
+Dialogue: 0,0:03:44.54,0:03:47.49,Gokuh,,0,0,0,,Estoy tan emocionado de\Npoder luchar contra ellos...
+Dialogue: 0,0:03:51.00,0:03:57.03,Titulos,,0,0,0,,
+Dialogue: 0,0:04:19.68,0:04:23.77,Kaioh,,0,0,0,,¡A por él, Gokuh!\N¡Túmbale con un solo golpe!
+Dialogue: 0,0:04:23.77,0:04:30.43,Kaioh del Sur,,0,0,0,,¡Maraiko, no te contengas!\N¡Demuéstrale todo tu poder!
+Dialogue: 0,0:04:30.64,0:04:34.63,Default,,0,0,0,,El nuevo ha conseguido\Nmeterse en semifinales.
+Dialogue: 0,0:04:34.67,0:04:38.22,Default,,0,0,0,,Pero esta vez no ganará.
+Dialogue: 0,0:04:38.35,0:04:42.44,Default,,0,0,0,,No... tiene posibilidades de convertirse\Nen el primer luchador del Norte
+Dialogue: 0,0:04:42.46,0:04:46.11,Default,,0,0,0,,de la Galaxia en ser\Nentrenado por Dai Kaioh.
+Dialogue: 0,0:04:46.84,0:04:47.92,Default,,0,0,0,,¿Tú crees?
+Dialogue: 0,0:04:48.20,0:04:52.08,Reportero torneo,,0,0,0,,¡A continuación dará comienzo el primer\Ncombate de semifinales del Gran Torneo
+Dialogue: 0,0:04:52.09,0:04:57.28,Reportero torneo,,0,0,0,,de Artes Marciales del Más Allá\Nen memoria del Kaioh del Norte!
+Dialogue: 0,0:04:57.52,0:04:59.37,Reportero torneo,,0,0,0,,¡El contendiente: Maraiko!
+Dialogue: 0,0:04:59.76,0:05:01.24,Reportero torneo,,0,0,0,,¡El contendiente: Gokuh!
+Dialogue: 0,0:05:01.28,0:05:03.15,Reportero torneo,,0,0,0,,¡Que empiece el combate!
+Dialogue: 0,0:05:36.57,0:05:40.83,Pikkon,,0,0,0,,Esquiva sus ataques\Nsin ningún esfuerzo.
+Dialogue: 0,0:05:51.60,0:05:55.98,Reportero torneo,,0,0,0,,¡Increíble! ¡Gokuh ha salido volando\Ntras recibir un impacto directo!
+Dialogue: 0,0:05:56.25,0:06:01.90,Reportero torneo,,0,0,0,,¡No puede frenar! ¡Cuidado!\N¡¿Se encontrará bien?!
+Dialogue: 0,0:06:15.28,0:06:17.39,Personaje Secundario 2,,0,0,0,,Vamos, ahora por la victoria.
+Dialogue: 0,0:06:28.35,0:06:29.32,Personaje Secundario 2,,0,0,0,,¿Cómo?
+Dialogue: 0,0:06:47.00,0:06:49.10,Kaioh del Sur,,0,0,0,,¡Maraiko!
+Dialogue: 0,0:06:49.76,0:06:51.47,Kaioh,,0,0,0,,¡Gokuh!
+Dialogue: 0,0:06:54.92,0:06:56.39,Personaje Secundario 2,,0,0,0,,¡Vamos allá...!
+Dialogue: 0,0:07:00.44,0:07:01.71,Personaje Secundario 2,,0,0,0,,¡Toma esto!
+Dialogue: 0,0:07:18.60,0:07:21.08,Reportero torneo,,0,0,0,,¿Dónde está Maraiko?
+Dialogue: 0,0:07:31.76,0:07:32.90,Gokuh,,0,0,0,,¡Ahí está!
+Dialogue: 0,0:08:00.16,0:08:02.75,Reportero torneo,,0,0,0,,¡Maraiko ha salido del ring!
+Dialogue: 0,0:08:03.28,0:08:06.51,Reportero torneo,,0,0,0,,¡El ganador y primer\Nfinalista es Son Gokuh!
+Dialogue: 0,0:08:12.80,0:08:16.12,Kaioh,,0,0,0,,¡Bien hecho, Gokuh!\N¡Sabía que tú podías!
+Dialogue: 0,0:08:26.80,0:08:31.55,Pikkon,,0,0,0,,Es más fuerte que la\Nprimera vez que nos vimos.
+Dialogue: 0,0:08:32.30,0:08:35.95,Pikkon,,0,0,0,,No puede ser... ¿cómo ha aumentado\Nde poder en tan poco tiempo?
+Dialogue: 0,0:08:36.76,0:08:39.72,Gokuh,,0,0,0,,¡Sí! ¡Gracias!
+Dialogue: 0,0:08:44.59,0:08:46.16,Pikkon,,0,0,0,,Ansío que\Nllegue el momento.
+Dialogue: 0,0:08:47.28,0:08:52.72,Kaioh,,0,0,0,,Ese Gokuh... ha conseguido\Nmeterse en la final.
+Dialogue: 0,0:08:53.12,0:08:56.19,Kaioh,,0,0,0,,Ahora ya nada podrá detenerlo.
+Dialogue: 0,0:08:56.28,0:08:57.99,Kaioh del Oeste,,0,0,0,,Serás idiota...
+Dialogue: 0,0:08:58.06,0:08:59.19,Kaioh,,0,0,0,,¿Cómo?
+Dialogue: 0,0:08:59.64,0:09:05.26,Kaioh del Oeste,,0,0,0,,Más vale que te limites a\Ndisfrutar del momento, atontado.
+Dialogue: 0,0:09:05.63,0:09:06.91,Kaioh,,0,0,0,,¡¿Cómo?!
+Dialogue: 0,0:09:06.91,0:09:10.27,Kaioh del Oeste,,0,0,0,,¿No lo comprendes? Puede que tu muchacho\Nhaya tenido suerte hasta ahora,
+Dialogue: 0,0:09:10.44,0:09:13.31,Kaioh del Oeste,,0,0,0,,pero en la final tendrá que enfrentarse\Nal luchador estrella del Oeste
+Dialogue: 0,0:09:13.31,0:09:15.27,Kaioh del Oeste,,0,0,0,,de la Galaxia, Paikuhan.
+Dialogue: 0,0:09:15.31,0:09:18.11,Kaioh del Oeste,,0,0,0,,No puede ganar de ninguna\Nmanera.
+Dialogue: 0,0:09:18.24,0:09:22.35,Kaioh,,0,0,0,,No sabes lo que dices.\NEstoy convencido de que Gokuh ganará.
+Dialogue: 0,0:09:22.43,0:09:25.35,Kaioh,,0,0,0,,Sé perfectamente lo fuerte que es.
+Dialogue: 0,0:09:25.68,0:09:28.03,Kaioh del Oeste,,0,0,0,,¡Pero, ¿qué dices?!\N¡Ganará Paikuhan!
+Dialogue: 0,0:09:28.06,0:09:29.03,Kaioh,,0,0,0,,¡Ganará Gokuh!
+Dialogue: 0,0:09:29.05,0:09:30.80,Kaioh del Oeste,,0,0,0,,¡Paikuhan!\N
+Dialogue: 0,0:09:30.80,0:09:32.11,Kaioh del Oeste,,0,0,0,,¡Paikuhan!\N
+Dialogue: 0,0:09:32.11,0:09:33.34,Kaioh del Oeste,,0,0,0,,¡Paikuhan!\N
+Dialogue: 0,0:09:33.34,0:09:34.36,Kaioh del Oeste,,0,0,0,,¡Paikuhan!\N
+Dialogue: 0,0:09:34.36,0:09:35.23,Kaioh del Oeste,,0,0,0,,¡Paikuhan!\N
+Dialogue: 0,0:09:35.23,0:09:36.03,Kaioh del Oeste,,0,0,0,,¡Paikuhan!\N
+Dialogue: 0,0:09:48.00,0:09:50.41,Kaioh del Oeste,,0,0,0,,Si tan seguro estás,\N¿por qué no apostamos algo?
+Dialogue: 0,0:09:50.41,0:09:51.64,Kaioh,,0,0,0,,¿Apostar?
+Dialogue: 0,0:09:51.66,0:09:55.85,Kaioh del Oeste,,0,0,0,,En el improbable caso de que\NPaikuhan pierda,
+Dialogue: 0,0:09:55.85,0:09:58.91,Kaioh del Oeste,,0,0,0,,puedes quedarte con mi planeta de Kaioh.
+Dialogue: 0,0:09:58.92,0:10:01.63,Kaioh,,0,0,0,,¿Qué? ¿El planeta de Kaioh?
+Dialogue: 0,0:10:03.79,0:10:07.98,Kaioh del Oeste,,0,0,0,,¿Y si Gokuh pierde qué me darás tú?
+Dialogue: 0,0:10:08.01,0:10:12.01,Kaioh,,0,0,0,,Vamos, te daré mi planeta de Kaioh.
+Dialogue: 0,0:10:12.04,0:10:15.86,Kaioh del Oeste,,0,0,0,,Pero allí ya no hay nada...
+Dialogue: 0,0:10:15.95,0:10:17.77,Kaioh del Oeste,,0,0,0,,¿Qué sucede?
+Dialogue: 0,0:10:18.56,0:10:20.30,Kaioh,,0,0,0,,Es que...
+Dialogue: 0,0:10:20.72,0:10:23.43,Kaioh del Oeste,,0,0,0,,¿Ésa es la confianza que tienes?
+Dialogue: 0,0:10:23.45,0:10:26.07,Kaioh,,0,0,0,,Es que eso no puede ser.
+Dialogue: 0,0:10:26.09,0:10:32.60,Kaioh,,0,0,0,,Vamos, si Gokuh pierde, me convertiré\Nen tu sirviente, o en lo que quieras.
+Dialogue: 0,0:10:32.96,0:10:34.77,Kaioh del Oeste,,0,0,0,,Me gusta la idea.
+Dialogue: 0,0:10:34.77,0:10:37.77,Kaioh del Oeste,,0,0,0,,Está bien, si Gokuh pierde,\Ndurante el resto de tu vida...
+Dialogue: 0,0:10:37.77,0:10:40.97,Kaioh del Oeste,,0,0,0,,...aunque en realidad ya estás muerto...
+Dialogue: 0,0:10:41.00,0:10:44.49,Kaioh del Oeste,,0,0,0,,Bueno da igual,\Nserás mi sirviente, ¿de acuerdo?
+Dialogue: 0,0:10:44.62,0:10:48.39,Kaioh,,0,0,0,,Por supuesto, te doy\Nmi palabra de Kaioh.
+Dialogue: 0,0:10:49.36,0:10:51.35,Kaioh,,0,0,0,,Has estado muy bien.
+Dialogue: 0,0:10:51.48,0:10:52.35,Gokuh,,0,0,0,,Gracias.
+Dialogue: 0,0:10:52.48,0:10:53.67,Gokuh,,0,0,0,,Pero...
+Dialogue: 0,0:10:53.92,0:10:55.75,Kaioh,,0,0,0,,¿Pero qué?
+Dialogue: 0,0:10:59.36,0:11:01.11,Kaioh del Sur,,0,0,0,,¿Qué es ese ruido?
+Dialogue: 0,0:11:01.76,0:11:03.83,Gokuh,,0,0,0,,Ha sido mi estómago...
+Dialogue: 0,0:11:11.00,0:11:13.83,Dai Kaioh,,0,0,0,,Me gusta tu forma de ser, Gokuh...
+Dialogue: 0,0:11:15.64,0:11:19.00,Dai Kaioh,,0,0,0,,He pedido que preparen\Nun banquete para ti.
+Dialogue: 0,0:11:21.08,0:11:23.54,Gokuh,,0,0,0,,¡Me muero de hambre!
+Dialogue: 0,0:11:24.32,0:11:26.03,Gokuh,,0,0,0,,¡Dai Kaioh...!
+Dialogue: 0,0:11:26.04,0:11:27.50,Kaioh,,0,0,0,,Espera un momento.
+Dialogue: 0,0:11:29.29,0:11:31.39,Gokuh,,0,0,0,,¿Qué pasa, Kaioh del Norte?
+Dialogue: 0,0:11:31.56,0:11:33.68,Kaioh,,0,0,0,,No es momento de comer.
+Dialogue: 0,0:11:33.84,0:11:35.72,Kaioh,,0,0,0,,Está a punto de comenzar\Nel combate de Paikuhan.
+Dialogue: 0,0:11:35.74,0:11:37.24,Kaioh,,0,0,0,,¿No deberías verlo?
+Dialogue: 0,0:11:37.53,0:11:41.82,Reportero torneo,,0,0,0,,¡La segunda semifinal\Nenfrenta a Torbi...!
+Dialogue: 0,0:11:44.36,0:11:46.55,Reportero torneo,,0,0,0,,¡Y a Paikuhan!
+Dialogue: 0,0:11:59.31,0:12:00.99,Gokuh,,0,0,0,,No hace falta.
+Dialogue: 0,0:12:01.36,0:12:03.63,Kaioh,,0,0,0,,¿No hace falta?
+Dialogue: 0,0:12:05.08,0:12:07.46,Kaioh del Oeste,,0,0,0,,¡Qué tipo más arrogante!
+Dialogue: 0,0:12:09.00,0:12:12.43,Gokuh,,0,0,0,,Ya sé quién va a ganar.
+Dialogue: 0,0:12:13.96,0:12:16.22,Kaioh,,0,0,0,,¿Ya lo sabes?
+Dialogue: 0,0:12:17.04,0:12:18.75,Kaioh del Oeste,,0,0,0,,¿Quién ganará?
+Dialogue: 0,0:12:19.08,0:12:21.19,Gokuh,,0,0,0,,¡No puedo aguantar más!
+Dialogue: 0,0:12:21.80,0:12:23.67,Gokuh,,0,0,0,,¡Qué aproveche!
+Dialogue: 0,0:12:52.84,0:12:55.08,Default,,0,0,0,,¡Uno, dos!\N¡Uno, dos!
+Dialogue: 0,0:12:55.08,0:12:58.40,Default,,0,0,0,,¡Uno, dos!\N¡Uno, dos!
+Dialogue: 0,0:12:58.62,0:13:02.22,Default,,0,0,0,,¡Uno, dos! ¡Uno, dos!
+Dialogue: 0,0:12:58.62,0:13:02.22,Default,,0,0,0,,¡Uno, dos! ¡Uno, dos!
+Dialogue: 0,0:13:02.22,0:13:03.61,Default,,0,0,0,,¡Uno, dos! ¡Uno, dos!
+Dialogue: 0,0:13:03.61,0:13:06.44,Kaioh del Este,,0,0,0,,¡A ver si corren con más ganas!
+Dialogue: 0,0:13:03.61,0:13:06.44,Default,,0,0,0,,¡Uno, dos! ¡Uno, dos!
+Dialogue: 0,0:13:06.84,0:13:10.03,Kaioh del Este,,0,0,0,,¡Ninguno de ustedes se\Nha metido en semifinales!
+Dialogue: 0,0:13:10.16,0:13:13.07,Kaioh del Este,,0,0,0,,¡No saben el ridículo que\Nme han hecho pasar!
+Dialogue: 0,0:13:13.12,0:13:18.08,Kaioh del Este,,0,0,0,,¡Si no corren más, tendrán\Nque dar 100.000 vueltas más!
+Dialogue: 0,0:13:22.04,0:13:24.71,Kaioh del Este,,0,0,0,,¿En qué están pensando, idiotas?
+Dialogue: 0,0:13:55.68,0:13:56.79,Gokuh,,0,0,0,,Otro.
+Dialogue: 0,0:13:58.00,0:14:00.30,Reportero torneo,,0,0,0,,¡El ganador es Paikuhan!
+Dialogue: 0,0:14:16.00,0:14:20.32,Reportero torneo,,0,0,0,,¡Y a continuación, la gran final!
+Dialogue: 0,0:14:22.76,0:14:28.04,Reportero torneo,,0,0,0,,¡Los finalistas son Paikuhan\Ndel Oeste de la Vía Láctea!
+Dialogue: 0,0:14:32.22,0:14:37.60,Reportero torneo,,0,0,0,,¡Y Son Gokuh del Norte\Nde la Vía Láctea!
+Dialogue: 0,0:14:39.55,0:14:43.93,Reportero torneo,,0,0,0,,¡Son Gokuh, haga el favor de\Nsubir al ring de inmediato!
+Dialogue: 0,0:14:46.78,0:14:50.05,Kaioh,,0,0,0,,¡Deja ya de comer!\N¿Cómo puedes ser tan despreocupado?
+Dialogue: 0,0:14:50.06,0:14:52.25,Kaioh,,0,0,0,,¡Tienes que disputar la final!
+Dialogue: 0,0:14:53.18,0:14:57.21,Reportero torneo,,0,0,0,,¡Parece que Gokuh estaba comiendo!
+Dialogue: 0,0:14:57.21,0:14:59.72,Kaioh del Oeste,,0,0,0,,¡Qué tipo más raro!
+Dialogue: 0,0:15:00.22,0:15:04.69,Gokuh,,0,0,0,,Espera un momento... aún no he\Nacabado...
+Dialogue: 0,0:15:05.26,0:15:10.28,Pikkon,,0,0,0,,¿Realmente está así de tranquilo\No es un completo idiota?
+Dialogue: 0,0:15:11.94,0:15:14.75,Default,,0,0,0,,Uno, dos... Uno, dos... Uno, dos...
+Dialogue: 0,0:15:14.75,0:15:16.89,Kaioh del Este,,0,0,0,,¡Vamos! ¡Vamos! ¡Vamos!
+Dialogue: 0,0:15:22.98,0:15:25.44,Kaioh del Este,,0,0,0,,Parece que la final ha empezado.
+Dialogue: 0,0:15:25.45,0:15:29.92,Kaioh del Este,,0,0,0,,¡Sigan corriendo!\N¡Si hacen trampas, los castigaré!
+Dialogue: 0,0:15:56.81,0:15:59.53,Reportero torneo,,0,0,0,,¡Que empiece el combate!
+Dialogue: 0,0:16:15.32,0:16:17.73,Gokuh,,0,0,0,,¿Por qué no me esquivas?
+Dialogue: 0,0:16:20.62,0:16:25.29,Gokuh,,0,0,0,,Ya veo... crees que mis puñetazos\Nno son lo bastante fuertes.
+Dialogue: 0,0:16:28.10,0:16:31.49,Gokuh,,0,0,0,,Pero yo tampoco estaba\Nluchando en serio.
+Dialogue: 0,0:16:33.56,0:16:35.58,Pikkon,,0,0,0,,¡Demuéstramelo!
+Dialogue: 0,0:17:42.08,0:17:43.49,Gokuh,,0,0,0,,¡Vamos!
+Dialogue: 0,0:18:40.76,0:18:44.30,Kaioh del Oeste,,0,0,0,,¡Paikuhan, quiere sacarte del ring!\N¡Ten cuidado!
+Dialogue: 0,0:18:44.30,0:18:46.97,Kaioh,,0,0,0,,¡Gokuh, échalo fuera!
+Dialogue: 0,0:18:51.18,0:18:52.97,Dai Kaioh,,0,0,0,,No está nada mal.
+Dialogue: 0,0:19:06.78,0:19:09.89,Pikkon,,0,0,0,,¿Ése es todo el poder\Nque tienes, Gokuh?
+Dialogue: 0,0:19:10.42,0:19:11.40,Gokuh,,0,0,0,,¿Cómo?
+Dialogue: 0,0:19:11.66,0:19:13.45,Pikkon,,0,0,0,,Ahora es mi turno.
+Dialogue: 0,0:19:21.14,0:19:22.45,Pikkon,,0,0,0,,No se mueve.
+Dialogue: 0,0:19:26.34,0:19:27.61,Pikkon,,0,0,0,,Es imposible...
+Dialogue: 0,0:19:57.78,0:20:00.37,Pikkon,,0,0,0,,Eres más fuerte de lo\Nque pensaba, Gokuh.
+Dialogue: 0,0:20:00.94,0:20:04.72,Gokuh,,0,0,0,,Tú también. Estoy muy emocionado.
+Dialogue: 0,0:20:12.38,0:20:13.89,Reportero torneo,,0,0,0,,¡Atención!
+Dialogue: 0,0:20:14.58,0:20:17.29,Reportero torneo,,0,0,0,,Paikuhan se está desprendiendo\Nde parte de su vestimenta.
+Dialogue: 0,0:20:17.29,0:20:19.77,Reportero torneo,,0,0,0,,¿Qué intenciones tiene?
+Dialogue: 0,0:20:41.04,0:20:42.24,Gokuh,,0,0,0,,¡Es...!
+Dialogue: 0,0:20:47.13,0:20:51.37,Gokuh,,0,0,0,,Ya entiendo. Esto era sólo\Nel calentamiento, ¿no?
+Dialogue: 0,0:20:54.58,0:20:57.73,Gokuh,,0,0,0,,Te pareces mucho a Piccolo.
+Dialogue: 0,0:20:58.82,0:21:00.13,Pikkon,,0,0,0,,¿Piccolo?
+Dialogue: 0,0:21:00.19,0:21:05.05,Gokuh,,0,0,0,,Sí, un luchador que me\Nemociona tanto como tú.
+Dialogue: 0,0:21:21.71,0:21:23.33,Pikkon,,0,0,0,,No está nada mal.
+Dialogue: 0,0:21:28.17,0:21:29.85,Gokuh,,0,0,0,,Como quieras.
+Dialogue: 0,0:21:55.66,0:21:58.61,Gokuh,,0,0,0,,Ahora ya podemos empezar.
+Dialogue: 0,0:22:01.87,0:22:08.62,Narrador,,0,0,0,,¿Qué...? ¿Paikuhan aún no ha\Nmostrado su verdadera fuerza?
+Dialogue: 0,0:22:09.56,0:22:14.91,Narrador,,0,0,0,,Y ahora, Gokuh se ha\Nconvertido en Súper Saiyajin.
+Dialogue: 0,0:22:14.91,0:22:18.76,Narrador,,0,0,0,,¿La verdadera fuerza de Gokuh\No la de Paikuhan?
+Dialogue: 0,0:22:20.50,0:22:24.25,Narrador,,0,0,0,,¿Cuál de las dos se\Nalzará con la victoria?
+Dialogue: 0,0:22:44.74,0:22:48.48,Ending Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:44.74,0:22:48.48,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:48.69,0:22:54.08,Ending Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:48.69,0:22:54.08,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:54.59,0:22:56.57,Ending Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:54.59,0:22:56.57,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:00.26,0:23:07.42,Ending Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.26,0:23:07.42,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:07.58,0:23:12.05,Ending Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:07.58,0:23:12.05,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:12.05,0:23:15.78,Ending Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.05,0:23:15.78,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:15.97,0:23:19.54,Ending Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:15.97,0:23:19.54,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:19.54,0:23:21.67,Ending Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.54,0:23:21.67,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:23.89,0:23:31.02,Ending Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:23.89,0:23:31.02,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:31.72,0:23:33.44,Ending Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:31.72,0:23:33.44,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:33.69,0:23:35.47,Ending Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:33.69,0:23:35.47,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:35.69,0:23:37.70,Ending Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:35.69,0:23:37.70,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:37.70,0:23:39.57,Ending Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:37.70,0:23:39.57,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:39.57,0:23:44.59,Ending Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:39.57,0:23:44.59,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:45.26,0:23:46.27,Ending Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.26,0:23:46.27,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:47.52,0:23:52.44,Ending Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.52,0:23:52.44,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:55.37,0:24:01.28,Ending Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.37,0:24:01.28,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:24:08.63,0:24:11.09,Titulos,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:11.70,0:24:13.53,Gokuh,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:13.53,0:24:17.24,Gokuh,,0,0,0,,Mierda, los ataques de Paikuhan son\Nmuy rápidos para poder verlos.
+Dialogue: 0,0:24:17.24,0:24:21.21,Gokuh,,0,0,0,,¡Es capaz de esquivar mi Kamehame-Ha,\Nincluso de frente! ¿Qué puedo hacer?
+Dialogue: 0,0:24:21.21,0:24:23.53,Kaioh,,0,0,0,,Gokuh, ¿qué estás haciendo?
+Dialogue: 0,0:24:23.53,0:24:26.58,Kaioh,,0,0,0,,¡Si no ganas, estoy jodido!
+Dialogue: 0,0:24:26.58,0:24:28.71,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:28.71,0:24:32.42,Gokuh,,0,0,0,,¡Qué no se escape la victoria! El decisivo\N Kame Hame Ha, a supervelocidad
+Dialogue: 0,0:24:32.42,0:24:35.56,Son Gohan,,0,0,0,,Cuando se trata de tener coraje,\N¡seguro que gana papá!
+Dialogue: 0,0:24:34.66,0:24:38.12,Titulos,,0,0,0,,
+Dialogue: 0,0:24:34.66,0:24:38.12,Titulos,,0,0,0,,
+Dialogue: 0,0:24:34.66,0:24:38.12,Titulos,,0,0,0,,

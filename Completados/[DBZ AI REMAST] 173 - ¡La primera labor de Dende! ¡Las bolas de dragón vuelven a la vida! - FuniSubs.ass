@@ -1,0 +1,340 @@
+﻿[Script Info]
+; Estado = Incompleto
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.43,0:00:15.18,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.43,0:00:15.18,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:15.18,0:00:17.76,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:15.18,0:00:17.76,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.76,0:00:24.21,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.76,0:00:24.21,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.93,0:00:27.50,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.93,0:00:27.50,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.50,0:00:30.21,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.50,0:00:30.21,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:30.23,0:00:35.92,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:30.23,0:00:35.92,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:37.04,0:00:42.72,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:37.04,0:00:42.72,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.60,0:00:51.82,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.60,0:00:51.82,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.58,0:00:55.54,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.58,0:00:55.54,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:56.01,0:01:04.34,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:56.01,0:01:04.34,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:05.01,0:01:08.14,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:05.01,0:01:08.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.60,0:01:12.12,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.60,0:01:12.12,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.29,0:01:14.39,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.29,0:01:14.39,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.40,0:01:17.56,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.40,0:01:17.56,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:18.00,0:01:25.18,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:18.00,0:01:25.18,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.86,0:01:30.03,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.86,0:01:30.03,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.49,0:01:34.15,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.49,0:01:34.15,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:34.15,0:01:37.37,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:34.15,0:01:37.37,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.38,0:01:38.91,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.38,0:01:38.91,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:56.19,0:01:59.05,Narrador,,0,0,0,,Al final, el Ejército ha iniciado\Nun ataque contra Cell.
+Dialogue: 0,0:02:00.36,0:02:02.31,Default,,0,0,0,,¡Al ataque!
+Dialogue: 0,0:02:25.35,0:02:28.82,Célula,,0,0,0,,Estos idiotas se merecen\Nun buen castigo.
+Dialogue: 0,0:02:34.47,0:02:35.61,Gokuh,,0,0,0,,¡Detente!
+Dialogue: 0,0:02:41.51,0:02:45.55,Narrador,,0,0,0,,Pero parece que nada consigue\Nacabar con el monstruo.
+Dialogue: 0,0:02:47.51,0:02:49.26,Narrador,,0,0,0,,Mientras tanto, Gokuh...
+Dialogue: 0,0:02:50.27,0:02:52.02,Gokuh,,0,0,0,,He tenido una idea.
+Dialogue: 0,0:02:52.35,0:02:55.54,Gokuh,,0,0,0,,Podemos encontrar un nuevo\NKami Sama en el planeta Namek.
+Dialogue: 0,0:02:56.03,0:02:59.34,Gokuh,,0,0,0,,¡Kami Sama resucitará y las\Nbolas de dragón con él!
+Dialogue: 0,0:02:59.39,0:03:02.74,Narrador,,0,0,0,,Gokuh viaja con la Teletransportación\NInstantánea al planeta de Kaioh,
+Dialogue: 0,0:03:02.91,0:03:05.47,Narrador,,0,0,0,,desde donde espera encontrar\Nel Nuevo Namek.
+Dialogue: 0,0:03:12.31,0:03:13.70,Kaioh,,0,0,0,,¿Gokuh?
+Dialogue: 0,0:03:15.15,0:03:20.94,Titulos,,0,0,0,,
+Dialogue: 0,0:03:24.59,0:03:25.65,Son Gohan,,0,0,0,,¡Hola!
+Dialogue: 0,0:03:25.79,0:03:28.54,Mutenroshi,,0,0,0,,¡Me alegro de verlos por aquí!
+Dialogue: 0,0:03:32.99,0:03:36.41,Chichi,,0,0,0,,Gokuh nos ha dejado tirados\Nde camino hacia aquí.
+Dialogue: 0,0:03:36.82,0:03:39.01,Chichi,,0,0,0,,A veces no sé qué es lo\Nque tiene en la cabeza.
+Dialogue: 0,0:03:41.63,0:03:48.44,Default,,0,0,0,,Ciudadanos del mundo,\Nles habla su Presidente.
+Dialogue: 0,0:03:48.46,0:03:54.98,Default,,0,0,0,,Como acaban de ver, nuestras fuerzas\Narmadas han sido aniquiladas por Cell.
+Dialogue: 0,0:03:55.43,0:04:00.97,Default,,0,0,0,,Asumo toda la responsabilidad.\NY lo lamento profundamente.
+Dialogue: 0,0:04:01.00,0:04:04.46,Default,,0,0,0,,Pero hemos hecho todo lo que\Nestaba en nuestras manos.
+Dialogue: 0,0:04:04.48,0:04:07.93,Default,,0,0,0,,Para serles franco,\Nno sabemos qué más hacer.
+Dialogue: 0,0:04:07.97,0:04:11.50,Default,,0,0,0,,Pero, por favor, no se dejen\Nllevar por el pánico.
+Dialogue: 0,0:04:12.11,0:04:17.40,Default,,0,0,0,,Es posible que aparezca un salvador,\Ncomo el joven que hace muchos años
+Dialogue: 0,0:04:17.44,0:04:19.64,Default,,0,0,0,,derrotó a Piccolo Daimaoh.
+Dialogue: 0,0:04:27.67,0:04:30.42,Default,,0,0,0,,Sólo nos queda rezar a Kami Sama.
+Dialogue: 0,0:04:31.47,0:04:35.78,Krilin,,0,0,0,,Por mucho que recemos,\NKami Sama ya no existe.
+Dialogue: 0,0:04:39.07,0:04:46.75,Kaioh,,0,0,0,,Ya comprendo. El Androide Cell, ¿eh?\NDesde luego, es algo terrible.
+Dialogue: 0,0:04:47.11,0:04:52.94,Kaioh,,0,0,0,,Pero, después de todo, en tu mundo\Nno paran de pasar cosas terribles.
+Dialogue: 0,0:04:53.07,0:04:54.18,Gokuh,,0,0,0,,Sí.
+Dialogue: 0,0:04:54.68,0:04:58.46,Gokuh,,0,0,0,,Por eso quiero encontrar un\Nnamek que sea el nuevo Kami Sama
+Dialogue: 0,0:04:58.77,0:05:01.80,Gokuh,,0,0,0,,para que las bolas de\Ndragón puedan resucitar.
+Dialogue: 0,0:05:04.19,0:05:09.10,Gokuh,,0,0,0,,¿Puedes ayudarme a encontrar\Nel planeta Namek?
+Dialogue: 0,0:05:11.31,0:05:13.86,Kaioh,,0,0,0,,Entendido. Lo intentaremos.
+Dialogue: 0,0:05:32.55,0:05:34.82,Gokuh,,0,0,0,,Espero que lo consigas.
+Dialogue: 0,0:05:35.87,0:05:40.46,Gokuh,,0,0,0,,El Sr. Popo se siente\Nmuy solo sin Kami Sama.
+Dialogue: 0,0:05:41.07,0:05:47.70,Gokuh,,0,0,0,,Y no lo culpo. Debe ser aburrido\Nvivir solo en el Palacio de Kami Sama...
+Dialogue: 0,0:05:47.70,0:05:52.02,Gokuh,,0,0,0,,¡Cállate! ¡No puedo concentrarme!
+Dialogue: 0,0:05:56.53,0:06:02.40,Kaioh,,0,0,0,,¡Ah...! ¡Ah...! ¡A, e, i, o, u!
+Dialogue: 0,0:06:05.39,0:06:07.62,Gokuh,,0,0,0,,Haz el favor de concentrarte.
+Dialogue: 0,0:06:09.31,0:06:10.90,Kaioh,,0,0,0,,Perdona, perdona...
+Dialogue: 0,0:06:12.27,0:06:13.82,Kaioh,,0,0,0,,Ya los tengo, ya los tengo...
+Dialogue: 0,0:06:13.82,0:06:16.82,Kaioh,,0,0,0,,Ahora están en aquella dirección.
+Dialogue: 0,0:06:17.11,0:06:18.62,Gokuh,,0,0,0,,¿En serio? ¡Gracias!
+Dialogue: 0,0:06:20.91,0:06:22.86,Gokuh,,0,0,0,,Vamos, en esa dirección.
+Dialogue: 0,0:06:22.99,0:06:25.62,Gokuh,,0,0,0,,Por muy lejos que estén,\Nsi sé en qué dirección buscar,
+Dialogue: 0,0:06:25.75,0:06:27.66,Gokuh,,0,0,0,,podré encontrar sus energías.
+Dialogue: 0,0:06:27.66,0:06:30.18,Kaioh,,0,0,0,,¡Increíble! El movimiento\Ninstantáneo, ¿eh?
+Dialogue: 0,0:06:30.66,0:06:32.82,Kaioh,,0,0,0,,¿Dónde aprendiste ese\Nmaravilloso truco?
+Dialogue: 0,0:06:32.99,0:06:38.31,Kaioh,,0,0,0,,¡Ya sé! El Movimiento Instantáneo\Nes la técnica favorita de los yadrats.
+Dialogue: 0,0:06:38.43,0:06:41.51,Kaioh,,0,0,0,,Apuesto a que te\Nla enseñaron ellos.
+Dialogue: 0,0:06:42.44,0:06:46.42,Kaioh,,0,0,0,,Ya comprendo.\NEs de lo más conveniente.
+Dialogue: 0,0:06:47.59,0:06:49.60,Gokuh,,0,0,0,,¿Quieres hacer el favor de callarte?
+Dialogue: 0,0:06:50.75,0:06:52.48,Kaioh,,0,0,0,,¡Te la he devuelto!
+Dialogue: 0,0:06:57.55,0:06:59.42,Gokuh,,0,0,0,,¡Ya está! ¡Esa energía...!
+Dialogue: 0,0:06:59.71,0:07:02.09,Gokuh,,0,0,0,,¡No hay duda de que es la\Nenergía de los nameks!
+Dialogue: 0,0:07:02.27,0:07:03.82,Gokuh,,0,0,0,,¡Gracias, Kaioh!
+Dialogue: 0,0:07:12.95,0:07:14.01,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:07:19.75,0:07:21.94,Gokuh,,0,0,0,,¡Hay muchos Piccolos!
+Dialogue: 0,0:07:24.11,0:07:26.33,Default,,0,0,0,,¡Saichoro!
+Dialogue: 0,0:07:28.19,0:07:31.02,Saichoro - Gran Anciano Namek,,0,0,0,,¿Quién eres tú?
+Dialogue: 0,0:07:31.42,0:07:33.02,Gokuh,,0,0,0,,Pues...
+Dialogue: 0,0:07:33.27,0:07:36.70,Gokuh,,0,0,0,,Soy Son Gokuh y vengo de la Tierra.
+Dialogue: 0,0:07:37.95,0:07:44.26,Saichoro - Gran Anciano Namek,,0,0,0,,¡Tú eres el Gokuh que se enfrentó\Na Freeza en Namek y nos salvó!
+Dialogue: 0,0:07:45.63,0:07:48.30,Gokuh,,0,0,0,,Aunque Namek explotó...
+Dialogue: 0,0:07:50.19,0:07:53.89,Saichoro - Gran Anciano Namek,,0,0,0,,Parece que la Tierra\Ncorre un gran peligro.
+Dialogue: 0,0:07:54.23,0:07:57.58,Gokuh,,0,0,0,,¿Entonces ya sabes lo de Cell?
+Dialogue: 0,0:07:57.91,0:08:05.18,Saichoro - Gran Anciano Namek,,0,0,0,,Ignoro los detalles, pero siento una gran\Nmaldad que proviene de esa dirección.
+Dialogue: 0,0:08:05.84,0:08:07.86,Gokuh,,0,0,0,,Así me ahorro explicaciones.
+Dialogue: 0,0:08:08.07,0:08:14.02,Gokuh,,0,0,0,,Busco a algún namek que haga de Kami Sama\Nporque necesitamos las bolas de dragón
+Dialogue: 0,0:08:14.04,0:08:17.30,Gokuh,,0,0,0,,para resucitar a toda la\Ngente asesinada por Cell.
+Dialogue: 0,0:08:19.07,0:08:23.57,Gokuh,,0,0,0,,De hecho, Piccolo también\Nes del Planeta Namek.
+Dialogue: 0,0:08:23.79,0:08:27.98,Saichoro - Gran Anciano Namek,,0,0,0,,¿Piccolo? ¡Ah, el hijo de Kattatsu!
+Dialogue: 0,0:08:28.31,0:08:33.33,Gokuh,,0,0,0,,¿Alguno de ustedes quiere venir\Na la Tierra para ser Kami Sama?
+Dialogue: 0,0:08:33.71,0:08:35.38,Default,,0,0,0,,A la Tierra...
+Dialogue: 0,0:08:35.40,0:08:37.35,Default,,0,0,0,,¿La Tierra?
+Dialogue: 0,0:08:38.27,0:08:43.02,Saichoro - Gran Anciano Namek,,0,0,0,,Comprendo. Creo que tenemos\Na la persona adecuada.
+Dialogue: 0,0:08:43.06,0:08:44.30,Gokuh,,0,0,0,,¿En serio?
+Dialogue: 0,0:08:45.91,0:08:48.18,Saichoro - Gran Anciano Namek,,0,0,0,,¡Eh, Dende!
+Dialogue: 0,0:08:51.51,0:08:53.44,Saichoro - Gran Anciano Namek,,0,0,0,,Hazme el favor de venir aquí.
+Dialogue: 0,0:08:53.68,0:08:55.22,Dende,,0,0,0,,¡Sí!
+Dialogue: 0,0:08:59.19,0:09:05.66,Saichoro - Gran Anciano Namek,,0,0,0,,Éste es Dende. Es un buen amigo\Nde tu hijo Gohan y de Krilin.
+Dialogue: 0,0:09:07.99,0:09:11.53,Saichoro - Gran Anciano Namek,,0,0,0,,Extraña mucho la Tierra.
+Dialogue: 0,0:09:11.79,0:09:15.70,Saichoro - Gran Anciano Namek,,0,0,0,,Siempre dice que le gustaría volver\Na ver a Gohan y a los otros.
+Dialogue: 0,0:09:15.87,0:09:20.62,Gokuh,,0,0,0,,Es genial, pero debería saber\Nutilizar las bolas de dragón.
+Dialogue: 0,0:09:20.75,0:09:22.10,Saichoro - Gran Anciano Namek,,0,0,0,,No hay problema.
+Dialogue: 0,0:09:22.27,0:09:25.70,Saichoro - Gran Anciano Namek,,0,0,0,,Dende es un miembro destacado\Nde la familia de los dragones.
+Dialogue: 0,0:09:26.71,0:09:29.06,Saichoro - Gran Anciano Namek,,0,0,0,,Será un gran Kami Sama.
+Dialogue: 0,0:09:29.27,0:09:33.74,Gokuh,,0,0,0,,¿Ah, sí? Está bien.\NEncantado de contar contigo, Dende.
+Dialogue: 0,0:09:33.99,0:09:36.17,Dende,,0,0,0,,Igualmente.
+Dialogue: 0,0:09:36.71,0:09:38.80,Gokuh,,0,0,0,,¿Nos vamos ya?
+Dialogue: 0,0:09:38.82,0:09:40.26,Dende,,0,0,0,,Sí...
+Dialogue: 0,0:09:42.71,0:09:47.88,Gokuh,,0,0,0,,Gracias. Pueden estar tranquilos,\Ncuidaremos bien de Dende.
+Dialogue: 0,0:09:48.19,0:09:49.68,Dende,,0,0,0,,Adiós a todos.
+Dialogue: 0,0:09:49.68,0:09:50.81,Default,,0,0,0,,¡Cuídate!
+Dialogue: 0,0:09:51.03,0:09:53.22,Saichoro - Gran Anciano Namek,,0,0,0,,Esfuérzate al máximo, Dende.
+Dialogue: 0,0:09:54.11,0:09:57.62,Saichoro - Gran Anciano Namek,,0,0,0,,Gokuh, rezaremos por\Nla paz de la Tierra.
+Dialogue: 0,0:09:57.79,0:09:59.26,Gokuh,,0,0,0,,Sí, gracias.
+Dialogue: 0,0:10:03.51,0:10:08.33,Gokuh,,0,0,0,,Kaioh, todo ha ido como lo planeado.\NÉste es el nuevo Kami Sama de la Tierra.
+Dialogue: 0,0:10:08.37,0:10:09.66,Gokuh,,0,0,0,,Adiós, nos vemos.
+Dialogue: 0,0:10:13.15,0:10:16.48,Gokuh,,0,0,0,,¡Ey! He ido a Nuevo Namek.
+Dialogue: 0,0:10:16.75,0:10:18.06,Piccolo,,0,0,0,,¡Dende!
+Dialogue: 0,0:10:18.23,0:10:20.74,Popo,,0,0,0,,¿Él es el nuevo Kami Sama?
+Dialogue: 0,0:10:21.15,0:10:22.02,Gokuh,,0,0,0,,Sí.
+Dialogue: 0,0:10:23.71,0:10:27.06,Piccolo,,0,0,0,,¿Seguro que Dende está preparado\Npara ser el nuevo Dios?
+Dialogue: 0,0:10:28.63,0:10:30.26,Gokuh,,0,0,0,,Claro que sí.
+Dialogue: 0,0:10:30.43,0:10:34.02,Gokuh,,0,0,0,,Espera un momento, iré a\Nbuscar a Gohan y a Krilin.
+Dialogue: 0,0:10:34.03,0:10:35.14,Gokuh,,0,0,0,,Vamos.
+Dialogue: 0,0:10:40.23,0:10:44.93,Default,,0,0,0,,Damas y caballeros, tenemos\Nnoticias sensacionales.
+Dialogue: 0,0:10:45.03,0:10:52.66,Default,,0,0,0,,El gran experto en artes marciales Satan\Nha decidido tomar parte en el Cell Game.
+Dialogue: 0,0:10:57.03,0:10:59.62,Default,,0,0,0,,¡El superhéroe Satan!
+Dialogue: 0,0:11:08.15,0:11:11.94,Default,,0,0,0,,¡Satan! ¡Satan!
+Dialogue: 0,0:11:14.19,0:11:15.86,Mutenroshi,,0,0,0,,¿Quién es ese tipo?
+Dialogue: 0,0:11:16.03,0:11:18.28,Yamcha,,0,0,0,,El campeón mundial de lucha libre...
+Dialogue: 0,0:11:18.91,0:11:21.50,Default,,0,0,0,,¿Cree que podrá superarle, Mr. Satan?
+Dialogue: 0,0:11:21.67,0:11:25.82,Default,,0,0,0,,¿A Cell que ha aniquilado\Na todo un ejército?
+Dialogue: 0,0:11:26.95,0:11:31.94,Mr. Satan,,0,0,0,,Eso no ha sido más que un truco.\NHabía colocado explosivos de antemano.
+Dialogue: 0,0:11:32.07,0:11:38.17,Mr. Satan,,0,0,0,,Alguien como yo lo ve enseguida.\NNo tiene ni idea de artes marciales.
+Dialogue: 0,0:11:38.91,0:11:44.35,Mr. Satan,,0,0,0,,¡Estoy seguro de que puedo\Nderrotar a ese estafador!
+Dialogue: 0,0:11:44.88,0:11:47.93,Mr. Satan,,0,0,0,,¿No les parece, ciudadanos\Nde la Tierra?
+Dialogue: 0,0:11:50.55,0:11:54.00,Default,,0,0,0,,¡Satan! ¡Satan!
+Dialogue: 0,0:11:54.63,0:11:57.30,Krilin,,0,0,0,,Menudo imbécil.
+Dialogue: 0,0:12:00.15,0:12:03.24,Chichi,,0,0,0,,¡Gokuh, ¿dónde te habías metido?!
+Dialogue: 0,0:12:03.24,0:12:05.29,Chichi,,0,0,0,,¡¿Cómo te atreves a\Ndejarnos tirados así?!
+Dialogue: 0,0:12:05.43,0:12:07.08,Gokuh,,0,0,0,,¡Espera un momento, Chichi!
+Dialogue: 0,0:12:07.15,0:12:11.73,Gokuh,,0,0,0,,Gohan, Krilin, vengan un momento conmigo.\NHe traído conmigo al nuevo Kami Sama.
+Dialogue: 0,0:12:11.87,0:12:15.02,Gokuh,,0,0,0,,Conocen a Dende, ¿no?\NEl de Namek...
+Dialogue: 0,0:12:15.35,0:12:16.77,Son Gohan,,0,0,0,,¿Dende?
+Dialogue: 0,0:12:21.39,0:12:23.95,Dende,,0,0,0,,¡Gohan! ¡Krilin!
+Dialogue: 0,0:12:24.27,0:12:26.18,Krilin,,0,0,0,,¡Es verdad! ¡Es Dende!
+Dialogue: 0,0:12:42.48,0:12:46.20,Krilin,,0,0,0,,Ha pasado mucho tiempo.\NMe alegro de volver a verte, Dende.
+Dialogue: 0,0:12:46.75,0:12:49.71,Son Gohan,,0,0,0,,Oye, ¿es verdad que serás\Nel nuevo Kami Sama de la Tierra?
+Dialogue: 0,0:12:49.71,0:12:50.82,Dende,,0,0,0,,Sí...
+Dialogue: 0,0:12:51.27,0:12:55.51,Krilin,,0,0,0,,Ya sabía que llegarías lejos.
+Dialogue: 0,0:12:55.55,0:12:58.34,Son Gohan,,0,0,0,,A partir de ahora, podremos\Nvernos cada día.
+Dialogue: 0,0:12:58.99,0:13:00.38,Piccolo,,0,0,0,,Por cierto, Dende...
+Dialogue: 0,0:13:02.31,0:13:05.46,Piccolo,,0,0,0,,¿Realmente eres capaz de\Nutilizar las bolas de dragón?
+Dialogue: 0,0:13:06.39,0:13:10.66,Gokuh,,0,0,0,,No te preocupes. Un viejo de namek\Nha dicho que es un miembro excepcional
+Dialogue: 0,0:13:10.66,0:13:13.21,Gokuh,,0,0,0,,de la familia de los dragones.
+Dialogue: 0,0:13:13.55,0:13:14.82,Son Gohan,,0,0,0,,¿Un viejo?
+Dialogue: 0,0:13:14.99,0:13:17.18,Dende,,0,0,0,,Se refiere al Saichoro.
+Dialogue: 0,0:13:17.31,0:13:23.30,Gokuh,,0,0,0,,Eso, eso... y estoy seguro de que\Nese Saichoro no se equivocaba.
+Dialogue: 0,0:13:24.07,0:13:28.14,Dende,,0,0,0,,Tardaré unos cien días crear\Nlas bolas de dragón.
+Dialogue: 0,0:13:28.31,0:13:32.01,Gokuh,,0,0,0,,¿Cien días? ¿Tanto se tarda?
+Dialogue: 0,0:13:39.71,0:13:43.46,Dende,,0,0,0,,¡Ya sé! Si tienen la maqueta de las\Nbolas de dragón, puedo resucitar
+Dialogue: 0,0:13:43.59,0:13:47.13,Dende,,0,0,0,,a su dragón ahora mismo.
+Dialogue: 0,0:13:47.17,0:13:48.13,Gokuh,,0,0,0,,¿En serio?
+Dialogue: 0,0:13:48.27,0:13:51.37,Piccolo,,0,0,0,,Esas bolas de dragón se han convertido\Nen piedras y se han esparcido
+Dialogue: 0,0:13:51.37,0:13:52.97,Piccolo,,0,0,0,,por toda la Tierra.
+Dialogue: 0,0:13:53.43,0:13:56.58,Popo,,0,0,0,,El Sr. Popo tiene la\Nmaqueta del dragón.
+Dialogue: 0,0:13:57.55,0:14:00.17,Krilin,,0,0,0,,¡Muy bien!\N¡Entonces ya lo tenemos todo!
+Dialogue: 0,0:14:00.20,0:14:01.37,Son Gohan,,0,0,0,,¡Genial!
+Dialogue: 0,0:14:01.59,0:14:07.10,Krilin,,0,0,0,,Oye, ¿y podremos pedir tres deseos\Ncomo cuando estábamos en Namek?
+Dialogue: 0,0:14:07.23,0:14:08.10,Dende,,0,0,0,,Sí.
+Dialogue: 0,0:14:08.31,0:14:10.34,Piccolo,,0,0,0,,¿Y funcionarán como antes?
+Dialogue: 0,0:14:10.51,0:14:14.78,Piccolo,,0,0,0,,¿Se podrá resucitar a mucha\Ngente con un solo deseo?
+Dialogue: 0,0:14:15.31,0:14:20.06,Piccolo,,0,0,0,,Por ejemplo, resucitar a toda\Nla gente asesinada por Cell.
+Dialogue: 0,0:14:21.67,0:14:27.15,Dende,,0,0,0,,Es posible siempre y cuando se\Ndeje claro desde un principio.
+Dialogue: 0,0:14:27.22,0:14:30.70,Dende,,0,0,0,,Pero entonces sólo\Ntendrán dos deseos.
+Dialogue: 0,0:14:31.15,0:14:33.66,Son Gohan,,0,0,0,,¿Puedes hacer que funcionen así?
+Dialogue: 0,0:14:33.95,0:14:35.09,Dende,,0,0,0,,Sí.
+Dialogue: 0,0:14:35.51,0:14:39.05,Piccolo,,0,0,0,,Muy bien, entonces que así sea.
+Dialogue: 0,0:14:39.87,0:14:43.26,Dende,,0,0,0,,Entendido. ¿Dónde está\Nla maqueta del dragón?
+Dialogue: 0,0:14:43.39,0:14:45.95,Piccolo,,0,0,0,,Sr. Popo, trae la maqueta.
+Dialogue: 0,0:14:46.11,0:14:47.17,Popo,,0,0,0,,Sí.
+Dialogue: 0,0:14:53.11,0:14:56.06,Popo,,0,0,0,,Es obra del Sr. Popo.
+Dialogue: 0,0:14:57.35,0:15:00.10,Dende,,0,0,0,,El dragón tiene una forma\Nmuy interesante.
+Dialogue: 0,0:15:00.31,0:15:02.02,Dende,,0,0,0,,Vamos, voy a intentarlo.
+Dialogue: 0,0:15:02.23,0:15:03.62,Son Gohan,,0,0,0,,¡Ánimo, Dende!
+Dialogue: 0,0:15:03.64,0:15:05.06,Krilin,,0,0,0,,¡Relájate!
+Dialogue: 0,0:15:05.23,0:15:06.42,Dende,,0,0,0,,¡Sí!
+Dialogue: 0,0:16:45.51,0:16:50.34,Dende,,0,0,0,,Creo que las bolas de dragón convertidas\Nen piedra ya han resucitado.
+Dialogue: 0,0:16:50.47,0:16:51.42,Gokuh,,0,0,0,,¿Ya?
+Dialogue: 0,0:16:51.63,0:16:52.90,Son Gohan,,0,0,0,,¡Fantástico!
+Dialogue: 0,0:16:53.19,0:16:54.33,Piccolo,,0,0,0,,Sorprendente.
+Dialogue: 0,0:16:54.40,0:16:57.74,Piccolo,,0,0,0,,Tiene mucho potencial.
+Dialogue: 0,0:16:58.35,0:17:03.55,Gokuh,,0,0,0,,Le pediré prestado el Dragon\NRadar a Bulma para buscar las bolas.
+Dialogue: 0,0:17:03.75,0:17:05.14,Piccolo,,0,0,0,,Cuento contigo, Gokuh.
+Dialogue: 0,0:17:05.31,0:17:06.10,Gokuh,,0,0,0,,Sí.
+Dialogue: 0,0:17:06.27,0:17:10.80,Gokuh,,0,0,0,,Gohan, no hay necesidad de más\Nentrenamientos antes del Cell Game.
+Dialogue: 0,0:17:10.88,0:17:12.50,Gokuh,,0,0,0,,Pásatelo bien con Dende.
+Dialogue: 0,0:17:13.23,0:17:14.77,Son Gohan,,0,0,0,,Pero...
+Dialogue: 0,0:17:15.07,0:17:18.10,Gokuh,,0,0,0,,No pasa nada, no te preocupes.
+Dialogue: 0,0:17:18.71,0:17:20.88,Trunks,,0,0,0,,Oye, Gokuh, ¿puedo preguntarte algo?
+Dialogue: 0,0:17:20.91,0:17:21.90,Gokuh,,0,0,0,,¿Qué?
+Dialogue: 0,0:17:22.07,0:17:23.54,Trunks,,0,0,0,,Se te ve muy relajado.
+Dialogue: 0,0:17:23.67,0:17:28.35,Trunks,,0,0,0,,¿No será que has descubierto\Nel punto débil de Cell?
+Dialogue: 0,0:17:28.46,0:17:32.53,Gokuh,,0,0,0,,No. Creo que no tiene ninguno.
+Dialogue: 0,0:17:34.35,0:17:36.14,Gokuh,,0,0,0,,Bueno, me voy.
+Dialogue: 0,0:17:47.15,0:17:51.14,Bulma,,0,0,0,,¡Oh, Gokuh! La estructura de\Neste Androide es muy avanzada.
+Dialogue: 0,0:17:51.27,0:17:55.98,Bulma,,0,0,0,,Aunque el Dr. Gero fuera malvado,\Nse ha de reconocer que era un genio.
+Dialogue: 0,0:17:57.67,0:18:01.18,Gokuh,,0,0,0,,Oye, Bulma.\N¿Puedes prestarme el Dragon Radar?
+Dialogue: 0,0:18:01.31,0:18:04.14,Gokuh,,0,0,0,,He traído otro Kami Sama de Namek.
+Dialogue: 0,0:18:04.59,0:18:08.18,Bulma,,0,0,0,,Es fabuloso.\NEl radar lo tienes ahí en ese cajón.
+Dialogue: 0,0:18:08.35,0:18:09.41,Gokuh,,0,0,0,,Gracias.
+Dialogue: 0,0:18:11.03,0:18:12.09,Gokuh,,0,0,0,,¡Ahí está!
+Dialogue: 0,0:18:18.35,0:18:20.48,Gokuh,,0,0,0,,Parece que aún funciona.
+Dialogue: 0,0:18:20.48,0:18:24.30,Gokuh,,0,0,0,,Me dirá dónde están exactamente\Nlas bolas de dragón.
+Dialogue: 0,0:18:26.07,0:18:27.82,Gokuh,,0,0,0,,Gracias por todo.
+Dialogue: 0,0:18:28.17,0:18:29.17,Bulma,,0,0,0,,¡Espera!
+Dialogue: 0,0:18:29.67,0:18:34.00,Bulma,,0,0,0,,Qué lástima. Quería saber\Ncómo le iba a Trunks.
+Dialogue: 0,0:18:34.13,0:18:36.02,Bulma,,0,0,0,,Bueno, seguro que está bien.
+Dialogue: 0,0:18:46.63,0:18:48.22,Gokuh,,0,0,0,,Tiene que ser por aquí...
+Dialogue: 0,0:18:57.83,0:19:00.13,Gokuh,,0,0,0,,Eso es, está aquí mismo.
+Dialogue: 0,0:19:06.15,0:19:08.46,Gokuh,,0,0,0,,Este sitio es enorme.
+Dialogue: 0,0:19:13.59,0:19:17.21,Trunks,,0,0,0,,Gohan, ¿tú sabes de qué va todo esto?
+Dialogue: 0,0:19:17.87,0:19:23.34,Trunks,,0,0,0,,Gokuh dice que Cell es más fuerte que él\Ny que no tiene ningún punto débil.
+Dialogue: 0,0:19:24.15,0:19:26.94,Trunks,,0,0,0,,Entonces, ¿por qué está\Ntan tranquilo?
+Dialogue: 0,0:19:27.19,0:19:29.90,Son Gohan,,0,0,0,,Papá tampoco me ha dicho nada.
+Dialogue: 0,0:19:30.20,0:19:32.78,Son Gohan,,0,0,0,,Sólo dice que desea\N que llegue el momento.
+Dialogue: 0,0:19:33.19,0:19:34.94,Trunks,,0,0,0,,¿Deseando que llegue?
+Dialogue: 0,0:19:35.15,0:19:41.06,Krilin,,0,0,0,,Creo que el hecho de que desee que\Nllegue el momento es buena señal.
+Dialogue: 0,0:19:41.51,0:19:44.38,Piccolo,,0,0,0,,O a lo mejor es que no\Nhay nada que hacer.
+Dialogue: 0,0:19:50.43,0:19:54.10,Gokuh,,0,0,0,,Tiene que estar en este sitio...
+Dialogue: 0,0:20:06.99,0:20:10.91,Default,,0,0,0,,¡Eh, señor!\N¡Viene una tormenta de arena!
+Dialogue: 0,0:20:10.93,0:20:12.22,Default,,0,0,0,,¡Tenga cuidado!
+Dialogue: 0,0:20:15.19,0:20:20.74,Gokuh,,0,0,0,,¡Claro! La tormenta de arena debe de\Nhaber enterrado la bola en lo más hondo.
+Dialogue: 0,0:20:20.91,0:20:23.17,Gokuh,,0,0,0,,¡Gracias!
+Dialogue: 0,0:20:25.39,0:20:26.45,Gokuh,,0,0,0,,¡Vamos!
+Dialogue: 0,0:20:44.22,0:20:50.24,Default,,0,0,0,,¿Qué es lo que pasa?\N¿Un tornado? ¡Socorro!
+Dialogue: 0,0:21:02.71,0:21:06.49,Gokuh,,0,0,0,,Ya la tengo. Realmente vuelven\Na ser bolas de dragón.
+Dialogue: 0,0:21:07.27,0:21:10.34,Narrador,,0,0,0,,Las bolas de dragón han resucitado.
+Dialogue: 0,0:21:16.15,0:21:19.42,Narrador,,0,0,0,,Todos están entrenando\Nduro por su cuenta.
+Dialogue: 0,0:21:19.55,0:21:21.90,Narrador,,0,0,0,,Los días pasan volando.
+Dialogue: 0,0:21:56.71,0:21:58.54,Gokuh,,0,0,0,,¡Ya tengo la segunda!
+Dialogue: 0,0:22:07.51,0:22:11.18,Narrador,,0,0,0,,El Cell Game dará\Ncomienzo muy pronto.
+Dialogue: 0,0:22:20.11,0:22:21.50,Célula,,0,0,0,,Qué aburrimiento.
+Dialogue: 0,0:22:21.67,0:22:24.70,Célula,,0,0,0,,Los diez días se me están\Nhaciendo muy largos...
+Dialogue: 0,0:22:45.17,0:22:48.91,Ending Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:45.17,0:22:48.91,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:49.12,0:22:54.51,Ending Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:49.12,0:22:54.51,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:55.02,0:22:57.00,Ending Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:55.02,0:22:57.00,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:00.69,0:23:07.85,Ending Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.69,0:23:07.85,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:08.01,0:23:12.48,Ending Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:08.01,0:23:12.48,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:12.48,0:23:16.21,Ending Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.48,0:23:16.21,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:16.40,0:23:19.97,Ending Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:16.40,0:23:19.97,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:19.97,0:23:22.10,Ending Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:19.97,0:23:22.10,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:24.32,0:23:31.45,Ending Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:24.32,0:23:31.45,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:32.15,0:23:33.87,Ending Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:32.15,0:23:33.87,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:34.12,0:23:35.90,Ending Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:34.12,0:23:35.90,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:36.12,0:23:38.13,Ending Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:36.12,0:23:38.13,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:38.13,0:23:40.00,Ending Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:38.13,0:23:40.00,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:40.00,0:23:45.02,Ending Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:40.00,0:23:45.02,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:45.69,0:23:46.70,Ending Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.69,0:23:46.70,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:47.95,0:23:52.87,Ending Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:47.95,0:23:52.87,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:55.80,0:24:01.71,Ending Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:55.80,0:24:01.71,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:24:08.96,0:24:11.93,Titulos,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:12.63,0:24:14.53,Gokuh,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:14.53,0:24:18.40,Gokuh,,0,0,0,,El puzzle de las anillas, ¿eh?\NNo soy muy bueno en esto.
+Dialogue: 0,0:24:18.42,0:24:20.16,Gokuh,,0,0,0,,No sirve tirar de ellas.
+Dialogue: 0,0:24:20.22,0:24:23.31,Krilin,,0,0,0,,¡Ey, Gokuh! ¿Qué haces jugando\N al puzzle de las anillas?
+Dialogue: 0,0:24:23.31,0:24:26.04,Krilin,,0,0,0,,¡Están huyendo con todas\Nlas bolas de dragón!
+Dialogue: 0,0:24:26.04,0:24:28.15,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:28.15,0:24:31.38,Gokuh,,0,0,0,,¿Un problema difícil para Gokuh?\NLa búsqueda de las bolas de dragón
+Dialogue: 0,0:24:31.38,0:24:35.80,Son Gohan,,0,0,0,,Es realmente difícil reunir\Ntodas las bolas de dragón.
+Dialogue: 0,0:24:35.49,0:24:38.95,Titulos,,0,0,0,,
+Dialogue: 0,0:24:35.49,0:24:38.95,Titulos,,0,0,0,,
+Dialogue: 0,0:24:35.49,0:24:38.95,Titulos,,0,0,0,,

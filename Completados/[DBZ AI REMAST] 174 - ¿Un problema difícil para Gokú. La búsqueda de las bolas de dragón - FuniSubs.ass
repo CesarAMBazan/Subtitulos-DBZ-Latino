@@ -1,0 +1,304 @@
+﻿[Script Info]
+; Estado = Incompleto
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,¡Comenzando!
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:01:52.86,0:01:56.77,Narrador,,0,0,0,,Gokuh ha traído a Dende desde el nuevo\Nplaneta Namek para que se convierta
+Dialogue: 0,0:01:56.80,0:01:58.97,Narrador,,0,0,0,,en el Kami Sama de la Tierra.
+Dialogue: 0,0:02:11.86,0:02:14.61,Narrador,,0,0,0,,Las bolas de dragón han\Nvuelto a la vida.
+Dialogue: 0,0:02:15.46,0:02:17.97,Gokuh,,0,0,0,,Vamos, me voy a buscarlas.
+Dialogue: 0,0:02:27.50,0:02:29.13,Gokuh,,0,0,0,,¡Ya tengo dos!
+Dialogue: 0,0:02:32.94,0:02:37.21,Célula,,0,0,0,,Qué aburrimiento. Los diez días\Nse me están haciendo muy largos...
+Dialogue: 0,0:02:37.58,0:02:43.25,Narrador,,0,0,0,,Falta muy poco para que dé\Ncomienzo el terrible Cell Game.
+Dialogue: 0,0:02:47.46,0:02:53.41,Titulos,,0,0,0,,
+Dialogue: 0,0:03:14.26,0:03:18.26,Krilin,,0,0,0,,Gohan, ¿estás estudiando?
+Dialogue: 0,0:03:18.32,0:03:25.13,Son Gohan,,0,0,0,,Sí, le prometí a mamá que estudiaría\Nsiempre que tuviera tiempo.
+Dialogue: 0,0:03:25.38,0:03:28.37,Krilin,,0,0,0,,Vaya, qué responsable...
+Dialogue: 0,0:03:28.74,0:03:34.53,Dende,,0,0,0,,Ahora que lo pienso, yo también he\Ntraído deberes. Voy a ponerme a hacerlos.
+Dialogue: 0,0:03:35.78,0:03:38.57,Krilin,,0,0,0,,¿En Namek también tienen deberes?
+Dialogue: 0,0:03:38.70,0:03:39.92,Dende,,0,0,0,,Claro que sí.
+Dialogue: 0,0:03:40.44,0:03:44.89,Dende,,0,0,0,,Se ha de estudiar mucho para llegar a ser\Nalguien en la familia de los dragones.
+Dialogue: 0,0:03:45.18,0:03:48.08,Krilin,,0,0,0,,No entiendo ni jota del idioma namek.
+Dialogue: 0,0:03:50.94,0:03:52.41,Krilin,,0,0,0,,No tiene ninguna gracia.
+Dialogue: 0,0:03:52.44,0:03:57.53,Krilin,,0,0,0,,Al ponerse a estudiar así de golpe,\Nme dejan a mí como un perezoso.
+Dialogue: 0,0:04:08.45,0:04:11.09,Krilin,,0,0,0,,Creo que me voy a la Kame House.
+Dialogue: 0,0:04:15.98,0:04:19.05,Popo,,0,0,0,,El Cell Game comenzará muy pronto.
+Dialogue: 0,0:04:19.18,0:04:22.88,Popo,,0,0,0,,¿Conseguirá Gokuh reunir las\Nbolas de dragón a tiempo?
+Dialogue: 0,0:04:27.38,0:04:29.76,Reportero torneo,,0,0,0,,¡Damas y caballeros!
+Dialogue: 0,0:04:30.78,0:04:37.46,Reportero torneo,,0,0,0,,¡Va a comenzar la demostración del\Ncampeón mundial de artes marciales, Mr. Satan!
+Dialogue: 0,0:04:47.82,0:04:53.69,Default,,0,0,0,,¡Satan! ¡Satan! ¡Satan!
+Dialogue: 0,0:04:55.06,0:05:00.65,Reportero torneo,,0,0,0,,¡Nuestro salvador, Mr. Satan,\Nse dispone a entrar en el escenario!
+Dialogue: 0,0:05:26.66,0:05:30.22,Reportero torneo,,0,0,0,,¡Satan arrastra cuatro autobuses\Nsin ayuda de nadie!
+Dialogue: 0,0:05:31.50,0:05:34.61,Reportero torneo,,0,0,0,,¡Su fuerza no tiene parangón!
+Dialogue: 0,0:05:39.42,0:05:41.53,Yamcha,,0,0,0,,Otra vez ese tipo...
+Dialogue: 0,0:05:43.32,0:05:49.24,Default,,0,0,0,,¡Satan! ¡Satan! ¡Satan!
+Dialogue: 0,0:05:50.06,0:05:55.65,Reportero torneo,,0,0,0,,Parece que Mr. Satan ha traído algo.\N¿Con qué nos sorprenderá esta vez?
+Dialogue: 0,0:05:56.14,0:06:01.26,Reportero torneo,,0,0,0,,¡Increíble! ¡Son guías telefónicas!\N¡Tiene tres de ellas!
+Dialogue: 0,0:06:01.58,0:06:04.04,Reportero torneo,,0,0,0,,¿Qué es lo que planea\Nhacer con las guías?
+Dialogue: 0,0:06:07.90,0:06:09.29,Reportero torneo,,0,0,0,,¡No puede ser...!
+Dialogue: 0,0:06:09.46,0:06:12.50,Reportero torneo,,0,0,0,,¿Es que acaso pretende desgarrarlas\Ncon las manos desnudas?
+Dialogue: 0,0:06:25.06,0:06:28.56,Reportero torneo,,0,0,0,,¡Lo ha conseguido!\N¡Las ha destrozado!
+Dialogue: 0,0:06:37.30,0:06:42.13,Reportero torneo,,0,0,0,,Disculpe, Mr. Satan, ¿qué posibilidades\Ncree que tiene de ganar el Cell Game?
+Dialogue: 0,0:06:46.06,0:06:48.90,Mr. Satan,,0,0,0,,¡Escucha, Cell!\N¡Juro que te arrepentirás!
+Dialogue: 0,0:06:48.92,0:06:52.48,Mr. Satan,,0,0,0,,¡Acabarás igual que este autobús!
+Dialogue: 0,0:06:56.10,0:07:00.50,Reportero torneo,,0,0,0,,¡Increíble, Mr. Satan!\N¡Es nuestra última esperanza!
+Dialogue: 0,0:07:00.50,0:07:04.17,Reportero torneo,,0,0,0,,¡No cabe duda de que acabará con\NCell y nos salvará a todos!
+Dialogue: 0,0:07:12.62,0:07:14.33,Mr. Satan,,0,0,0,,No puedo sacarla...
+Dialogue: 0,0:07:17.46,0:07:21.37,Default,,0,0,0,,¡Satan! ¡Satan! ¡Satan!
+Dialogue: 0,0:07:23.22,0:07:24.97,Mutenroshi,,0,0,0,,Menudo imbécil...
+Dialogue: 0,0:07:26.50,0:07:29.60,Chichi,,0,0,0,,Mira que hay gente rara en el mundo...
+Dialogue: 0,0:07:36.73,0:07:38.53,Gokuh,,0,0,0,,¡Ya tengo cuatro!
+Dialogue: 0,0:07:59.30,0:08:02.05,Trunks,,0,0,0,,Padre, ¿cómo te ha ido?
+Dialogue: 0,0:08:22.42,0:08:26.69,Gokuh,,0,0,0,,¿Y esto? Hay dos bolas\Nmoviéndose juntas.
+Dialogue: 0,0:08:57.58,0:08:58.69,Default,,0,0,0,,¿Quién es?
+Dialogue: 0,0:08:58.82,0:08:59.93,Tao Pai Pai,,0,0,0,,Soy yo.
+Dialogue: 0,0:09:00.09,0:09:04.37,Default,,0,0,0,,Oh, maestro Tao Pai Pai.\NLo estaba esperando.
+Dialogue: 0,0:09:13.34,0:09:17.97,Default,,0,0,0,,Maestro, ¿trae los objetos\Nde valor que le pedí?
+Dialogue: 0,0:09:19.80,0:09:21.06,Tao Pai Pai,,0,0,0,,Aquí están.
+Dialogue: 0,0:09:24.66,0:09:29.60,Tao Pai Pai,,0,0,0,,¿Así que éstas son las legendarias bolas\Nde dragón que conceden cualquier deseo?
+Dialogue: 0,0:09:30.02,0:09:34.49,Tao Pai Pai,,0,0,0,,Me ha costado mucho conseguirlas.\NSerán suyas por cien millones cada una.
+Dialogue: 0,0:09:35.62,0:09:41.17,Default,,0,0,0,,Gracias a ellas, aunque Cell destruya\Nla Tierra, yo, Walker,
+Dialogue: 0,0:09:41.30,0:09:46.49,Default,,0,0,0,,el emperador del crimen,\Nsobreviviré para contarlo.
+Dialogue: 0,0:09:46.74,0:09:48.45,Tao Pai Pai,,0,0,0,,En efecto.
+Dialogue: 0,0:09:48.82,0:09:53.57,Default,,0,0,0,,Ya veo... cuando Cell ya no esté,\Nutilizaré las bolas de dragón
+Dialogue: 0,0:09:53.57,0:09:56.48,Default,,0,0,0,,para crear un imperio del crimen.
+Dialogue: 0,0:09:58.18,0:10:00.70,Default,,0,0,0,,En todas las épocas hay\Npersonas importantes.
+Dialogue: 0,0:10:00.70,0:10:03.45,Default,,0,0,0,,Me refiero a aquellos\Ncon dinero y poder.
+Dialogue: 0,0:10:03.58,0:10:07.20,Default,,0,0,0,,¿Para cuándo cree que podré\Ntener el resto de bolas de dragón?
+Dialogue: 0,0:10:08.62,0:10:12.24,Tao Pai Pai,,0,0,0,,Relájese. Se las traeré muy pronto.
+Dialogue: 0,0:10:12.50,0:10:15.81,Default,,0,0,0,,¿De veras? Confío en usted, maestro.
+Dialogue: 0,0:10:18.22,0:10:21.69,Tao Pai Pai,,0,0,0,,En realidad, he encontrado\Nesas dos por casualidad...
+Dialogue: 0,0:10:34.50,0:10:36.80,Gokuh,,0,0,0,,Parece que están por aquí.
+Dialogue: 0,0:10:50.10,0:10:51.69,Default,,0,0,0,,¿Y ése quién es?
+Dialogue: 0,0:10:58.93,0:11:00.33,Tao Pai Pai,,0,0,0,,¡Bolas de dragón!
+Dialogue: 0,0:11:00.34,0:11:01.53,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 0,0:11:01.98,0:11:03.89,Gokuh,,0,0,0,,Fijo que están dentro.
+Dialogue: 0,0:11:04.02,0:11:07.05,Tao Pai Pai,,0,0,0,,Parece que el pato ha\Nvenido a nosotros.
+Dialogue: 0,0:11:08.34,0:11:09.53,Default,,0,0,0,,¿Un pato?
+Dialogue: 0,0:11:10.90,0:11:12.21,Default,,0,0,0,,¿Dónde?
+Dialogue: 0,0:11:14.10,0:11:16.37,Tao Pai Pai,,0,0,0,,lré a ocuparme de él.
+Dialogue: 0,0:11:16.50,0:11:19.10,Default,,0,0,0,,¡Ah, claro!
+Dialogue: 0,0:11:21.30,0:11:22.46,Default,,0,0,0,,¿Un pato...?
+Dialogue: 0,0:11:27.58,0:11:28.61,Gokuh,,0,0,0,,Vaya...
+Dialogue: 0,0:11:31.82,0:11:33.61,Gokuh,,0,0,0,,¿Se puede pasar?
+Dialogue: 0,0:11:39.02,0:11:43.21,Default,,0,0,0,,Vamos a darle una lección por\Nhaber entrado sin permiso.
+Dialogue: 0,0:11:54.10,0:11:55.41,Default,,0,0,0,,¡Lo hemos conseguido!
+Dialogue: 0,0:11:55.42,0:11:58.82,Default,,0,0,0,,¡Hurra! ¡Hurra! ¡Hurra!
+Dialogue: 0,0:12:01.14,0:12:05.33,Gokuh,,0,0,0,,Vaya... lo he roto. Me sabe muy mal.
+Dialogue: 0,0:12:25.56,0:12:27.76,Default,,0,0,0,,¿Se puede saber qué ha pasado?
+Dialogue: 0,0:12:28.64,0:12:31.77,Tao Pai Pai,,0,0,0,,Probablemente se trate de\Nun fallo de mantenimiento.
+Dialogue: 0,0:12:32.10,0:12:33.50,Default,,0,0,0,,¡¿Las han revisado?!
+Dialogue: 0,0:12:33.68,0:12:34.66,Default,,0,0,0,,¡No!
+Dialogue: 0,0:12:35.08,0:12:36.08,Default,,0,0,0,,¡Imbéciles!
+Dialogue: 0,0:12:36.20,0:12:38.85,Default,,0,0,0,,¡Si no se revisan de vez en cuando,\Nluego no sirven de nada
+Dialogue: 0,0:12:38.86,0:12:40.48,Default,,0,0,0,,en caso de emergencia!
+Dialogue: 0,0:12:40.61,0:12:42.17,Default,,0,0,0,,¡Lo sentimos!
+Dialogue: 0,0:12:42.28,0:12:48.58,Default,,0,0,0,,Lo atraeremos hasta esta habitación\Ny le robaremos las bolas de dragón.
+Dialogue: 0,0:12:49.16,0:12:51.15,Gokuh,,0,0,0,,Están muy cerca.
+Dialogue: 0,0:12:55.72,0:12:59.84,Default,,0,0,0,,Has sido muy hábil al\Ndar con esta habitación.
+Dialogue: 0,0:13:01.28,0:13:04.93,Default,,0,0,0,,¡Ey! ¡Aquí!
+Dialogue: 0,0:13:05.36,0:13:06.13,Gokuh,,0,0,0,,¿Qué?
+Dialogue: 0,0:13:07.01,0:13:08.49,Default,,0,0,0,,¡Ven! ¡Ven!
+Dialogue: 0,0:13:13.88,0:13:15.35,Gokuh,,0,0,0,,¡Bolas de dragón!
+Dialogue: 0,0:13:17.84,0:13:21.48,Default,,0,0,0,,Se ha de tener valor para\Nentrar en esta habitación.
+Dialogue: 0,0:13:21.48,0:13:25.84,Tao Pai Pai,,0,0,0,,Si no quieres que te hagamos daño,\Nentréganos las bolas de dragón
+Dialogue: 0,0:13:25.84,0:13:27.27,Tao Pai Pai,,0,0,0,,y lárgate de aquí.
+Dialogue: 0,0:13:32.20,0:13:34.54,Gokuh,,0,0,0,,¿Tú no eres Tao Pai Pai?
+Dialogue: 0,0:13:34.64,0:13:35.30,Tao Pai Pai,,0,0,0,,¿Cómo?
+Dialogue: 0,0:13:35.82,0:13:38.70,Gokuh,,0,0,0,,¡Soy yo! ¡Son Gokuh!
+Dialogue: 0,0:13:38.89,0:13:40.72,Tao Pai Pai,,0,0,0,,¿Son Gokuh?
+Dialogue: 0,0:13:41.09,0:13:44.63,Gokuh,,0,0,0,,Eras mala persona, pero\Nya hace mucho tiempo de eso.
+Dialogue: 0,0:14:06.76,0:14:08.15,Tao Pai Pai,,0,0,0,,Maldi... ción.
+Dialogue: 0,0:14:21.66,0:14:26.56,Default,,0,0,0,,¿Dónde escondes ese pato?\N¿Lo has traído contigo?
+Dialogue: 0,0:14:27.17,0:14:28.15,Gokuh,,0,0,0,,¿Pato?
+Dialogue: 0,0:14:28.28,0:14:29.89,Default,,0,0,0,,¿Pato?
+Dialogue: 0,0:14:31.20,0:14:34.47,Default,,0,0,0,,¡No te hagas el tonto!\N¡A mí nadie me engaña!
+Dialogue: 0,0:14:35.10,0:14:37.38,Gokuh,,0,0,0,,No sé de quién me hablas.
+Dialogue: 0,0:14:39.80,0:14:43.12,Default,,0,0,0,,¡No importa, entréganos\Nesas bolas de dragón!
+Dialogue: 0,0:14:43.20,0:14:44.46,Gokuh,,0,0,0,,¿Qué haces?
+Dialogue: 0,0:14:46.72,0:14:47.81,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:14:49.84,0:14:52.19,Default,,0,0,0,,¡Acaba con ese desgraciado!
+Dialogue: 0,0:14:52.36,0:14:55.20,Gokuh,,0,0,0,,Yo no quería... se me ha\Nido un poco la mano.
+Dialogue: 0,0:14:55.20,0:14:56.67,Default,,0,0,0,,¡Dispara!
+Dialogue: 0,0:15:08.20,0:15:10.62,Default,,0,0,0,,¡Es un monstruo!
+Dialogue: 0,0:15:12.56,0:15:14.75,Gokuh,,0,0,0,,Lo siento. ¿Estás bien?
+Dialogue: 0,0:15:17.16,0:15:18.50,Default,,0,0,0,,¡Jefe!
+Dialogue: 0,0:15:18.80,0:15:21.44,Default,,0,0,0,,¡Que no te entre el pánico, imbécil!
+Dialogue: 0,0:15:21.46,0:15:24.87,Default,,0,0,0,,¡Tengo preparado un dispositivo\Nespecial para casos de emergencia!
+Dialogue: 0,0:15:31.66,0:15:34.36,Default,,0,0,0,,¡Jefe!
+Dialogue: 0,0:15:34.64,0:15:36.64,Default,,0,0,0,,¡Rápido! ¡Rápido!
+Dialogue: 0,0:15:39.32,0:15:41.14,Default,,0,0,0,,Oh, te has salvado...
+Dialogue: 0,0:15:41.14,0:15:42.47,Default,,0,0,0,,¡Sí, jefe!
+Dialogue: 0,0:15:47.32,0:15:49.59,Default,,0,0,0,,¿Sabes lo que es esto?
+Dialogue: 0,0:15:52.72,0:15:54.31,Default,,0,0,0,,Es una...
+Dialogue: 0,0:15:56.01,0:15:57.93,Default,,0,0,0,,barrera.
+Dialogue: 0,0:15:58.44,0:16:01.75,Default,,0,0,0,,¡Ni siquiera tú puedes atravesarla!
+Dialogue: 0,0:16:03.56,0:16:04.95,Default,,0,0,0,,He ganado.
+Dialogue: 0,0:16:17.04,0:16:21.24,Default,,0,0,0,,¡Maestro! ¡Necesito su ayuda!
+Dialogue: 0,0:16:21.48,0:16:25.71,Tao Pai Pai,,0,0,0,,No. Hoy... me siento...\Nalgo... indispuesto.
+Dialogue: 0,0:16:25.84,0:16:28.30,Gokuh,,0,0,0,,No saben lo mal que me sienta.
+Dialogue: 0,0:16:28.30,0:16:30.62,Gokuh,,0,0,0,,Es que me hacen mucha falta\Nlas bolas de dragón.
+Dialogue: 0,0:16:30.76,0:16:33.77,Gokuh,,0,0,0,,Pero parece que a ustedes les\Nha costado mucho conseguirlas.
+Dialogue: 0,0:16:34.52,0:16:37.31,Gokuh,,0,0,0,,Y no tengo nada que\Nofrecerles a cambio.
+Dialogue: 0,0:16:39.72,0:16:43.50,Tao Pai Pai,,0,0,0,,Está bien, Gokuh.\N¿Qué te parece esto?
+Dialogue: 0,0:16:51.57,0:16:53.60,Tao Pai Pai,,0,0,0,,Esto son tres puzzles\Nde anillas chinas.
+Dialogue: 0,0:16:53.61,0:16:56.60,Tao Pai Pai,,0,0,0,,Si puedes resolverlos antes del\Namanecer, dejaremos que te quedes
+Dialogue: 0,0:16:56.66,0:16:58.63,Tao Pai Pai,,0,0,0,,con nuestras bolas de dragón.
+Dialogue: 0,0:16:58.76,0:17:03.58,Tao Pai Pai,,0,0,0,,Y si no lo consigues, nos quedaremos\Ncon tus bolas de dragón.
+Dialogue: 0,0:17:06.52,0:17:08.31,Gokuh,,0,0,0,,¿anillas chinas?
+Dialogue: 0,0:17:09.29,0:17:14.98,Default,,0,0,0,,¡Qué sabio es el maestro Tao Pai Pai!\N¡Ya venía preparado para esta situación!
+Dialogue: 0,0:17:15.28,0:17:19.31,Tao Pai Pai,,0,0,0,,Por supuesto, nunca sabes lo\Nque te puedes encontrar.
+Dialogue: 0,0:17:21.56,0:17:26.35,Gokuh,,0,0,0,,¡Está bien! Lo único que tengo que hacer\Nes resolverlo antes del amanecer.
+Dialogue: 0,0:17:26.52,0:17:28.03,Tao Pai Pai,,0,0,0,,Entonces, trato hecho.
+Dialogue: 0,0:17:28.40,0:17:33.50,Tao Pai Pai,,0,0,0,,Traigan una silla para\Nque Gokuh esté cómodo.
+Dialogue: 0,0:17:33.52,0:17:35.46,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:17:37.60,0:17:41.04,Tao Pai Pai,,0,0,0,,Quítate la chaqueta y relájate.
+Dialogue: 0,0:17:50.76,0:17:52.07,Gokuh,,0,0,0,,¡Vamos!
+Dialogue: 0,0:17:53.56,0:17:57.90,Tao Pai Pai,,0,0,0,,No queremos desconcentrarte con nuestra\Npresencia. Te esperaremos fuera.
+Dialogue: 0,0:17:58.30,0:17:59.35,Gokuh,,0,0,0,,Sí.
+Dialogue: 0,0:17:59.76,0:18:04.51,Tao Pai Pai,,0,0,0,,Él se quedará aquí. Si necesitas algo,\Nsólo tienes que decírselo.
+Dialogue: 0,0:18:07.88,0:18:09.02,Tao Pai Pai,,0,0,0,,Hasta ahora.
+Dialogue: 0,0:18:22.48,0:18:23.42,Default,,0,0,0,,¡Espérenme!
+Dialogue: 0,0:18:35.84,0:18:37.83,Gokuh,,0,0,0,,Es muy difícil...
+Dialogue: 0,0:18:47.60,0:18:50.28,Tao Pai Pai,,0,0,0,,Ahora sólo tenemos que alejarnos\Ntodo lo que podamos.
+Dialogue: 0,0:18:50.72,0:18:53.22,Default,,0,0,0,,Ha estado genial,\Nmaestro Tao Pai Pai.
+Dialogue: 0,0:18:57.60,0:18:59.35,Gokuh,,0,0,0,,¡Lo he conseguido!
+Dialogue: 0,0:19:01.56,0:19:03.43,Gokuh,,0,0,0,,Ahora sólo faltan dos.
+Dialogue: 0,0:19:17.84,0:19:19.71,Gokuh,,0,0,0,,Qué difícil...
+Dialogue: 0,0:19:34.80,0:19:37.14,Default,,0,0,0,,Oye, si lo haces así...
+Dialogue: 0,0:19:37.37,0:19:41.04,Gokuh,,0,0,0,,Calla. Tengo que hacerlo yo solo.
+Dialogue: 0,0:19:42.16,0:19:43.60,Default,,0,0,0,,Sí...
+Dialogue: 0,0:19:43.96,0:19:45.63,Gokuh,,0,0,0,,Sólo falta uno.
+Dialogue: 0,0:19:57.32,0:19:58.79,Gokuh,,0,0,0,,Lo he conseguido...
+Dialogue: 0,0:19:59.40,0:20:01.25,Gokuh,,0,0,0,,¡Lo he conseguido!
+Dialogue: 0,0:20:01.24,0:20:03.86,Default,,0,0,0,,¡Enhorabuena!
+Dialogue: 0,0:20:13.84,0:20:17.23,Tao Pai Pai,,0,0,0,,Hemos llegado tan lejos que\NGokuh jamás nos encontrará.
+Dialogue: 0,0:20:18.12,0:20:21.70,Default,,0,0,0,,Todo gracias a su buen\Nhacer, maestro.
+Dialogue: 0,0:20:22.96,0:20:23.99,Gokuh,,0,0,0,,¿Y esto?
+Dialogue: 0,0:20:25.08,0:20:28.60,Default,,0,0,0,,¿Dónde se habrán metido\Nel jefe y los otros?
+Dialogue: 0,0:20:28.64,0:20:30.59,Gokuh,,0,0,0,,Es igual, no te preocupes.
+Dialogue: 0,0:20:40.80,0:20:43.01,Default,,0,0,0,,¡Son Gokuh!
+Dialogue: 0,0:20:43.64,0:20:45.83,Gokuh,,0,0,0,,Miren, las he desenredado.
+Dialogue: 0,0:20:45.96,0:20:47.75,Tao Pai Pai,,0,0,0,,Sí, en efecto...
+Dialogue: 0,0:20:48.04,0:20:51.10,Gokuh,,0,0,0,,Ahora puedo quedarme con\Nlas bolas de dragón, ¿verdad?
+Dialogue: 0,0:20:51.45,0:20:53.31,Default,,0,0,0,,Sí, tú mismo.
+Dialogue: 0,0:20:53.88,0:20:55.15,Gokuh,,0,0,0,,Gracias.
+Dialogue: 0,0:21:15.40,0:21:17.23,Bulma,,0,0,0,,Al fin hemos acabado.
+Dialogue: 0,0:21:37.50,0:21:39.83,Gokuh,,0,0,0,,¡Ya tengo las siete!
+Dialogue: 0,0:21:40.80,0:21:44.31,Narrador,,0,0,0,,Y así los diez días pasaron volando.
+Dialogue: 0,0:21:44.56,0:21:49.31,Narrador,,0,0,0,,Al fin ha llegado el día en el que se\Ndecidirá el destino de la Tierra.
+Dialogue: 0,0:21:58.44,0:22:01.59,Reportero torneo,,0,0,0,,¡Sólo queda una hora para\Nque dé comienzo el Cell Game!
+Dialogue: 0,0:22:01.76,0:22:05.46,Reportero torneo,,0,0,0,,¡Estamos dispuestos a morir si es necesario\Na fin de traerles en exclusiva,
+Dialogue: 0,0:22:05.52,0:22:08.60,Reportero torneo,,0,0,0,,la retransmisión en directo,\N de la batalla contra Cell!
+Dialogue: 0,0:22:08.82,0:22:11.61,Reportero torneo,,0,0,0,,¡Como pueden ver, Cell permanece\Ninmóvil en el centro del ring!
+Dialogue: 0,0:22:14.36,0:22:19.97,Narrador,,0,0,0,,¿Será Cell el que gane el Cell Game?\N¿O será Gokuh, que parece tan confiado?
+Dialogue: 0,0:22:19.97,0:22:21.47,Narrador,,0,0,0,,¿O tal vez...?
+Dialogue: 0,0:22:24.41,0:22:27.74,Narrador,,0,0,0,,Sólo queda una hora para que\Ndé comienzo la batalla.
+Dialogue: 0,0:22:45.47,0:22:49.21,Ending Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:45.47,0:22:49.21,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:49.42,0:22:54.81,Ending Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:49.42,0:22:54.81,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:22:55.32,0:22:57.30,Ending Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:55.32,0:22:57.30,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:00.99,0:23:08.15,Ending Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:00.99,0:23:08.15,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:08.31,0:23:12.78,Ending Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:08.31,0:23:12.78,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:12.78,0:23:16.51,Ending Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:12.78,0:23:16.51,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:16.70,0:23:20.27,Ending Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:16.70,0:23:20.27,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:20.27,0:23:22.40,Ending Español,,0,0,0,,Ahí está... ven, ven, ven
+Dialogue: 0,0:23:20.27,0:23:22.40,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:24.62,0:23:31.75,Ending Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:24.62,0:23:31.75,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:32.45,0:23:34.17,Ending Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
+Dialogue: 0,0:23:32.45,0:23:34.17,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:34.42,0:23:36.20,Ending Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:34.42,0:23:36.20,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:36.42,0:23:38.43,Ending Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:36.42,0:23:38.43,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:38.43,0:23:40.30,Ending Español,,0,0,0,,¡Qué dolor!
+Dialogue: 0,0:23:38.43,0:23:40.30,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:40.30,0:23:45.32,Ending Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:40.30,0:23:45.32,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:45.99,0:23:47.00,Ending Español,,0,0,0,,Lo siento.
+Dialogue: 0,0:23:45.99,0:23:47.00,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:48.25,0:23:53.17,Ending Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:48.25,0:23:53.17,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:23:56.10,0:24:02.01,Ending Español,,0,0,0,,¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:23:56.10,0:24:02.01,Ending Japones 2,,0,0,0,,
+Dialogue: 0,0:24:09.30,0:24:12.26,Titulos,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:13.10,0:24:15.20,Gokuh,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:15.20,0:24:17.97,Gokuh,,0,0,0,,Por fin, comienza el Cell Game.
+Dialogue: 0,0:24:17.97,0:24:20.07,Gokuh,,0,0,0,,Seré el primero en\Nenfrentarme a él.
+Dialogue: 0,0:24:20.07,0:24:21.72,Mr. Satan,,0,0,0,,¡Son una banda de aficionados!
+Dialogue: 0,0:24:21.72,0:24:24.61,Mr. Satan,,0,0,0,,¡No pueden dejar fuera al campeón\Ndel mundo, Mr. Satan!
+Dialogue: 0,0:24:24.61,0:24:27.81,Mr. Satan,,0,0,0,,¡No decidan el orden por su cuenta!
+Dialogue: 0,0:24:27.81,0:24:29.91,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:29.91,0:24:33.38,Gokuh,,0,0,0,,¡Aquellos que desafían a Cell!\NEl comienzo de la batalla definitiva
+Dialogue: 0,0:24:33.38,0:24:37.84,Son Gohan,,0,0,0,,¿Eh? ¿de verdad piensa, ese tal Satan,\Nluchar contra Cell?
+Dialogue: 0,0:24:35.82,0:24:39.29,Titulos,,0,0,0,,
+Dialogue: 0,0:24:35.82,0:24:39.29,Titulos,,0,0,0,,
+Dialogue: 0,0:24:35.82,0:24:39.29,Titulos,,0,0,0,,
