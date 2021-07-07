@@ -91,7 +91,7 @@ Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0
 {\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 {\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 ; Español
-{\blur1.8}Ahí viene corriendo,\Nun monstruo color manzana
+{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
 {\blur.8}Ahi viendo volando,\Nun alien con olor nuez
 {\blur.8}Al encontrarles,\Npalpita mi corazón
 {\blur.8}La galaxia es como una ducha\Nde brillantes palomitas
