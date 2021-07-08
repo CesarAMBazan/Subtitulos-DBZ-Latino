@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Incompleto
+; Estado = Faltan correcciones
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -23,64 +23,62 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
 Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
 Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
-
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
-Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
-Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
-Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
-Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
-Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
-Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
-Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
-Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
-Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
-Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
-Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
-Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
-Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
-Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
-Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
-Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
-Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
-Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,¡Comenzando!
-Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:49.76,0:01:52.34,Default,,0,0,0,,
-Dialogue: 0,0:01:52.73,0:01:54.56,Default,,0,0,0,,
-Dialogue: 0,0:01:54.92,0:01:56.53,Default,,0,0,0,,
-Dialogue: 0,0:01:58.78,0:02:00.25,Default,,0,0,0,,
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,{\blur.8}Atravieso las brillantes nubes y
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,{\blur.8}Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,{\blur.8}Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,{\blur.8}La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,{\blur.8}se enfurece (se enfurece)
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,{\blur.8}¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,{\blur.8}Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,{\blur.8}hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,{\blur.8}¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,{\blur.8}No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,{\blur.8}¡La Genki-dama rugirá!
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,{\blur.8}¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,{\blur.8}¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,{\blur.8}hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,{\blur.8}¡Comenzando!
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,{\blur.8}hikaru kumo wo tsukuinuke
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,{\blur.8}Fly Away  < Fly Away >
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,{\blur.8}karadajuu ni hirogaru panorama
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,{\blur.8}kao wo kerareta chikyuu ga
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,{\blur.8}okotte < okotte >
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,{\blur.8}kazan wo bakuhatsu saseru
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,{\blur.8}toketa koori no naka ni
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,{\blur.8}kyouryuu ga itara tamanori shikomitai ne
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,{\blur.8}nani ga okite mo kibun wa heno heno kappa
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA mune ga
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,{\blur.8}pachi{\fs30}-{\fs}pachi suru hodo sawagu
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,{\blur.8}Genki Dama
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,{\blur.8}atama karappo no hou ga yume tsumekomeru
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,{\blur.8}egao urutora Z de
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+Dialogue: 0,0:01:49.76,0:01:52.34,Default,,0,0,0,,¡Ka!
+Dialogue: 0,0:01:52.73,0:01:54.56,Default,,0,0,0,,¡Me!
+Dialogue: 0,0:01:54.92,0:01:56.53,Default,,0,0,0,,¡Ha!
+Dialogue: 0,0:01:58.78,0:02:00.25,Default,,0,0,0,,¡Me!
 Dialogue: 0,0:02:03.94,0:02:07.29,Default,,0,0,0,,¡Prepárate!\N¡Es un Kame Hame Ha a plena potencia!
-Dialogue: 0,0:02:10.00,0:02:12.40,Default,,0,0,0,,{\k220}¡Ha!{\k20}
-Dialogue: 0,0:02:16.28,0:02:17.34,Default,,0,0,0,,
-Dialogue: 0,0:02:17.96,0:02:19.18,Default,,0,0,0,,
-Dialogue: 0,0:02:19.80,0:02:20.99,Default,,0,0,0,,
-Dialogue: 0,0:02:21.68,0:02:23.27,Default,,0,0,0,,
-Dialogue: 0,0:02:23.48,0:02:26.07,Default,,0,0,0,,
+Dialogue: 0,0:02:10.00,0:02:12.40,Default,,0,0,0,,¡Ha!
+Dialogue: 0,0:02:16.28,0:02:17.34,Default,,0,0,0,,Ka
+Dialogue: 0,0:02:17.96,0:02:19.18,Default,,0,0,0,,Me
+Dialogue: 0,0:02:19.80,0:02:20.99,Default,,0,0,0,,Ha
+Dialogue: 0,0:02:21.68,0:02:23.27,Default,,0,0,0,,Me
+Dialogue: 0,0:02:23.48,0:02:26.07,Default,,0,0,0,,¡Ha!
 Dialogue: 0,0:02:37.93,0:02:43.70,Default,,0,0,0,,El enorme Kame Hame Ha de Cell\Nes contrarrestado por otro
 Dialogue: 0,0:02:43.70,0:02:45.53,Default,,0,0,0,,aún más enorme de Gohan.
 Dialogue: 0,0:02:55.73,0:02:57.89,Default,,0,0,0,,¡No perderé contra ti!
 Dialogue: 0,0:02:58.80,0:03:03.66,Default,,0,0,0,,¡Mientras tenga mi forma perfecta\Njamás perderé contra ti!
 Dialogue: 0,0:03:24.42,0:03:28.99,Default,,0,0,0,,La victoria de Gohan parece\Ninminente. Pero...
-Dialogue: 0,0:03:30.94,0:03:37.26,Default,,0,0,0,,
 Dialogue: 0,0:03:55.76,0:03:56.66,Default,,0,0,0,,¡Nº 18!
 Dialogue: 0,0:03:56.68,0:03:57.66,Default,,0,0,0,,¡Espera!
 Dialogue: 0,0:04:20.65,0:04:26.07,Default,,0,0,0,,¡Increíble! ¡El joven repartidor\Nha conseguido derrotar a Cell!
@@ -208,40 +206,39 @@ Dialogue: 0,0:21:25.90,0:21:27.64,Default,,0,0,0,,¡Oh, no!
 Dialogue: 0,0:21:59.18,0:22:02.69,Default,,0,0,0,,¿A quién le he dado? ¿A Trunks?
 Dialogue: 0,0:22:19.89,0:22:23.17,Default,,0,0,0,,¿Cómo es posible? Cell no ha muerto.
 Dialogue: 0,0:22:23.74,0:22:27.41,Default,,0,0,0,,Esta vez, la Tierra está\Nen grave peligro.
-Dialogue: 0,0:22:44.75,0:22:48.49,Karaoke Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
-Dialogue: 0,0:22:44.75,0:22:48.49,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:22:48.70,0:22:54.09,Karaoke Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
-Dialogue: 0,0:22:48.70,0:22:54.09,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:22:54.60,0:22:56.58,Karaoke Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
-Dialogue: 0,0:22:54.60,0:22:56.58,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:00.27,0:23:07.43,Karaoke Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
-Dialogue: 0,0:23:00.27,0:23:07.43,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:07.59,0:23:12.06,Karaoke Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
-Dialogue: 0,0:23:07.59,0:23:12.06,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:12.06,0:23:15.79,Karaoke Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
-Dialogue: 0,0:23:12.06,0:23:15.79,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:15.98,0:23:19.55,Karaoke Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
-Dialogue: 0,0:23:15.98,0:23:19.55,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:19.55,0:23:21.68,Karaoke Español,,0,0,0,,Ahí está... ven, ven, ven
-Dialogue: 0,0:23:19.55,0:23:21.68,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:23.90,0:23:31.03,Karaoke Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
-Dialogue: 0,0:23:23.90,0:23:31.03,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:31.73,0:23:33.45,Karaoke Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
-Dialogue: 0,0:23:31.73,0:23:33.45,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:33.70,0:23:35.48,Karaoke Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
-Dialogue: 0,0:23:33.70,0:23:35.48,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:35.70,0:23:37.71,Karaoke Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
-Dialogue: 0,0:23:35.70,0:23:37.71,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:37.71,0:23:39.58,Karaoke Español,,0,0,0,,¡Qué dolor!
-Dialogue: 0,0:23:37.71,0:23:39.58,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:39.58,0:23:44.60,Karaoke Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
-Dialogue: 0,0:23:39.58,0:23:44.60,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:45.27,0:23:46.28,Karaoke Español,,0,0,0,,Lo siento.
-Dialogue: 0,0:23:45.27,0:23:46.28,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:47.53,0:23:52.45,Karaoke Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
-Dialogue: 0,0:23:47.53,0:23:52.45,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:55.38,0:24:01.29,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
-Dialogue: 0,0:23:55.38,0:24:01.29,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:44.75,0:22:48.49,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:48.70,0:22:54.09,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:54.60,0:22:56.58,Karaoke Español,,0,0,0,,{\blur.8}Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:23:00.27,0:23:07.43,Karaoke Español,,0,0,0,,{\blur.8}La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:07.59,0:23:12.06,Karaoke Español,,0,0,0,,{\blur.8}Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:12.06,0:23:15.79,Karaoke Español,,0,0,0,,{\blur.8}Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:15.98,0:23:19.55,Karaoke Español,,0,0,0,,{\blur.8}Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:19.55,0:23:21.68,Karaoke Español,,0,0,0,,{\blur.8}Ahí está... ven, ven, ven
+Dialogue: 0,0:23:23.90,0:23:31.03,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:31.73,0:23:33.45,Karaoke Español,,0,0,0,,{\blur.8}La hambrienta y traviesa\Nnube voladora,
+Dialogue: 0,0:23:33.70,0:23:35.48,Karaoke Español,,0,0,0,,{\blur.8}Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:35.70,0:23:37.71,Karaoke Español,,0,0,0,,{\blur.8}Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:37.71,0:23:39.58,Karaoke Español,,0,0,0,,{\blur.8}¡Qué dolor!
+Dialogue: 0,0:23:39.58,0:23:44.60,Karaoke Español,,0,0,0,,{\blur.8}¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:45.27,0:23:46.28,Karaoke Español,,0,0,0,,{\blur.8}Lo siento.
+Dialogue: 0,0:23:47.53,0:23:52.45,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:55.38,0:24:01.29,Karaoke Español,,0,0,0,,{\blur.8}¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:22:44.75,0:22:48.49,Karaoke Japones,,0,0,0,,{\blur.8}kakete kuru yo appuru iro monsutaa
+Dialogue: 0,0:22:48.70,0:22:54.09,Karaoke Japones,,0,0,0,,{\blur.8}tonde kuru yo nattsu no kaori eirian
+Dialogue: 0,0:22:54.60,0:22:56.58,Karaoke Japones,,0,0,0,,{\blur.8}deatte dokkin{\fs30}-{\fs}dokkin
+Dialogue: 0,0:23:00.27,0:23:07.43,Karaoke Japones,,0,0,0,,{\blur.8}pika{\fs30}-{\fs}pika ginga wa poppukoon shawaa
+Dialogue: 0,0:23:07.59,0:23:12.06,Karaoke Japones,,0,0,0,,{\blur.8}kinou ni bai{\fs30} • {\fs}bai{\fs30} • {\fs}bai (Go{\fs30} • {\fs}ha{\fs30} • {\fs}n)
+Dialogue: 0,0:23:12.06,0:23:15.79,Karaoke Japones,,0,0,0,,{\blur.8}fu{\fs30} • {\fs}shi{\fs30} • {\fs}gi (ip{\fs30} • {\fs}pa{\fs30} • {\fs}i)
+Dialogue: 0,0:23:15.98,0:23:19.55,Karaoke Japones,,0,0,0,,{\blur.8}chikara o komete (okawari OK)
+Dialogue: 0,0:23:19.55,0:23:21.68,Karaoke Japones,,0,0,0,,{\blur.8}kochira e rai{\fs30} • {\fs}rai{\fs30} • {\fs}rai
+Dialogue: 0,0:23:23.90,0:23:31.03,Karaoke Japones,,0,0,0,,{\blur.8}Woh... mirakuru ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:31.73,0:23:33.45,Karaoke Japones,,0,0,0,,{\blur.8}haraheri wanpaku Kinto'un
+Dialogue: 0,0:23:33.70,0:23:35.48,Karaoke Japones,,0,0,0,,{\blur.8}yama hodo takusan suiheisen
+Dialogue: 0,0:23:35.70,0:23:39.58,Karaoke Japones,,0,0,0,,{\blur.8}deatte wakarete deatte wakarete ta{\fs30} • {\fs}i{\fs30} • {\fs}he{\fs30} • {\fs}n
+Dialogue: 0,0:23:39.58,0:23:44.60,Karaoke Japones,,0,0,0,,{\blur.8}Ah mou Kami{\fs30}-{\fs}sama mo tsurai yo ne{\fs35\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+Dialogue: 0,0:23:45.27,0:23:46.28,Karaoke Japones,,0,0,0,,{\blur.8}... go{\fs30} • {\fs}men
+Dialogue: 0,0:23:47.53,0:23:52.45,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:55.38,0:24:01.29,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:24:08.63,0:24:11.26,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
 Dialogue: 0,0:24:12.23,0:24:14.40,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:14.40,0:24:17.03,Default,,0,0,0,,¿Quieres decir que Cell aun está vivo?
@@ -251,6 +248,3 @@ Dialogue: 0,0:24:21.27,0:24:26.98,Default,,0,0,0,,y eso ha incrementado mi poder
 Dialogue: 0,0:24:26.98,0:24:28.98,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:28.98,0:24:32.58,Default,,0,0,0,,¡Pesadilla a la luz del día! El terrorífico regreso\Nde la forma perfecta
 Dialogue: 0,0:24:32.58,0:24:37.02,Default,,0,0,0,,¡Esta vez, me aseguraré de vengar\Na mi papá, de una vez por todas!
-Dialogue: 0,0:24:34.66,0:24:38.28,Default,,0,0,0,,
-Dialogue: 0,0:24:34.66,0:24:38.28,Default,,0,0,0,,
-Dialogue: 0,0:24:34.66,0:24:38.28,Default,,0,0,0,,
