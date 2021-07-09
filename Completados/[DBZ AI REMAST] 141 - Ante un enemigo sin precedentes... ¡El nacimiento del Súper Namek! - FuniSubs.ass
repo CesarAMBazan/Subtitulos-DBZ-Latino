@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -96,7 +96,7 @@ Dialogue: 0,0:05:12.36,0:05:14.54,Default,,0,0,0,,Qué miedo...
 Dialogue: 0,0:05:21.64,0:05:26.44,Default,,0,0,0,,¿Oiga, policía? ¡Me han robado!\N¡Van en una camioneta!
 Dialogue: 0,0:05:40.26,0:05:41.80,Default,,0,0,0,,Otra vez la policía.
 Dialogue: 0,0:05:42.20,0:05:44.58,Default,,0,0,0,,Mira que llegan a ser pesados.
-Dialogue: 0,0:06:41.34,0:06:45.22,Default,,0,0,0,,¿No os parece que duele\Ndemasiado para ser un sueño?
+Dialogue: 0,0:06:41.34,0:06:45.22,Default,,0,0,0,,¿No les parece que duele\Ndemasiado para ser un sueño?
 Dialogue: 0,0:06:54.28,0:06:58.83,Default,,0,0,0,,Interrumpimos el programa para\Nofrecerles una noticia de última hora.
 Dialogue: 0,0:06:59.12,0:07:03.72,Default,,0,0,0,,Hace aproximadamente una hora,\Nhemos recibido un gran número
 Dialogue: 0,0:07:03.78,0:07:09.31,Default,,0,0,0,,de llamadas de Gingertown, un área\Nsuburbana de la Capital del Oeste.
@@ -110,7 +110,7 @@ Dialogue: 0,0:07:45.60,0:07:47.15,Default,,0,0,0,,¿Sí, hola?
 Dialogue: 0,0:07:47.40,0:07:51.10,Default,,0,0,0,,Hola, soy Bulma.\N¿Quién eres? ¿Krilin?
 Dialogue: 0,0:07:51.72,0:07:53.51,Default,,0,0,0,,Sí, soy Krilin.
 Dialogue: 0,0:07:54.72,0:07:57.68,Default,,0,0,0,,¿Gohan y Trunks?\NNo, no han vuelto todavía.
-Dialogue: 0,0:07:58.24,0:08:00.50,Default,,0,0,0,,Vale, encended vuestra\Ntele ahora mismo.
+Dialogue: 0,0:07:58.24,0:08:00.50,Default,,0,0,0,,Vale, enciendan su\Ntele ahora mismo.
 Dialogue: 0,0:08:00.56,0:08:03.58,Default,,0,0,0,,Seguramente a estas alturas\Nlo dan en todos los canales,
 Dialogue: 0,0:08:03.60,0:08:05.87,Default,,0,0,0,,yo lo estoy viendo en el 872.
 Dialogue: 0,0:08:06.04,0:08:07.99,Default,,0,0,0,,¿Ha pasado algo?
@@ -147,7 +147,7 @@ Dialogue: 0,0:09:43.00,0:09:47.60,Default,,0,0,0,,Gokú duerme tranquilo.\NParec
 Dialogue: 0,0:09:54.88,0:09:56.31,Default,,0,0,0,,¡Mutenroshi!
 Dialogue: 0,0:09:57.44,0:09:58.91,Default,,0,0,0,,Con permiso.
 Dialogue: 0,0:10:04.08,0:10:05.30,Default,,0,0,0,,¿Krilin?
-Dialogue: 0,0:10:05.96,0:10:09.99,Default,,0,0,0,,Chicos... Venid a ver las\Nnoticias y aclaradnos esto.
+Dialogue: 0,0:10:05.96,0:10:09.99,Default,,0,0,0,,Chicos... Vengan a ver las\Nnoticias y aclárennos esto.
 Dialogue: 0,0:10:10.02,0:10:11.26,Default,,0,0,0,,¿Las noticias?
 Dialogue: 0,0:10:17.80,0:10:19.35,Default,,0,0,0,,¿Qué ha sido eso?
 Dialogue: 0,0:10:20.64,0:10:23.11,Default,,0,0,0,,¡Acabamos de escuchar un grito!
@@ -174,7 +174,7 @@ Dialogue: 0,0:12:43.28,0:12:47.66,Default,,0,0,0,,Venga, habla. ¿Qué clase de\
 Dialogue: 0,0:12:49.12,0:12:52.03,Default,,0,0,0,,No hay necesidad de hablar.
 Dialogue: 0,0:12:52.16,0:12:53.34,Default,,0,0,0,,¿Cómo dices?
 Dialogue: 0,0:12:54.52,0:13:00.06,Default,,0,0,0,,Cuando nos fusionemos y volvamos a\Nser uno, sabrás todo lo que he visto.
-Dialogue: 0,0:13:01.12,0:13:02.71,Default,,0,0,0,,Dios...
+Dialogue: 0,0:13:01.12,0:13:02.71,Default,,0,0,0,,Kami sama...
 Dialogue: 0,0:13:03.96,0:13:09.48,Default,,0,0,0,,Así que finalmente te has decidido, ¿eh?\NDebe de ser un monstruo terrible.
 Dialogue: 0,0:13:11.96,0:13:13.23,Default,,0,0,0,,Démonos prisa.
 Dialogue: 0,0:13:14.52,0:13:17.78,Default,,0,0,0,,No podemos permitir que\Naumente el número de víctimas.
@@ -184,21 +184,21 @@ Dialogue: 0,0:13:24.80,0:13:32.19,Default,,0,0,0,,Me parece bien, eres mucho má
 Dialogue: 0,0:13:34.04,0:13:39.99,Default,,0,0,0,,Yo tan sólo serviré para aumentarte el\Npoder y concederte toda mi sabiduría.
 Dialogue: 0,0:14:05.56,0:14:09.68,Default,,0,0,0,,Ahora, como tú vas a servir de base,\Ncoloca la mano sobre mí.
 Dialogue: 0,0:14:10.32,0:14:11.59,Default,,0,0,0,,Venga...
-Dialogue: 0,0:14:16.46,0:14:17.86,Default,,0,0,0,,D-Dios...
-Dialogue: 0,0:14:18.60,0:14:21.39,Default,,0,0,0,,Ha llegado el momento, Sr. Popo.
+Dialogue: 0,0:14:16.46,0:14:17.86,Default,,0,0,0,,K-Kami sama...
+Dialogue: 0,0:14:18.60,0:14:21.39,Default,,0,0,0,,Ha llegado el momento, Mr. Popo.
 Dialogue: 0,0:14:21.68,0:14:28.79,Default,,0,0,0,,Lo que necesita la Tierra ahora no\Nes un Dios, si no al más poderoso.
 Dialogue: 0,0:14:32.36,0:14:34.51,Default,,0,0,0,,Píkoro ha cambiado.
 Dialogue: 0,0:14:34.76,0:14:38.71,Default,,0,0,0,,La maldad de su corazón ha\Ndesaparecido casi por completo.
 Dialogue: 0,0:14:38.84,0:14:44.35,Default,,0,0,0,,Una vez nos unamos, ya no tendremos\Nnecesidad de volver a separarnos.
-Dialogue: 0,0:14:49.64,0:14:53.82,Default,,0,0,0,,Me has servido muy bien, Sr. Popo.
-Dialogue: 0,0:14:57.12,0:14:58.79,Default,,0,0,0,,¡Dios!
-Dialogue: 0,0:16:42.08,0:16:46.35,Default,,0,0,0,,Adiós, Dios. No muera.
-Dialogue: 0,0:16:47.72,0:16:50.23,Default,,0,0,0,,Ya no soy ni Dios ni Píkoro.
-Dialogue: 0,0:16:50.52,0:16:54.18,Default,,0,0,0,,Sólo un namek que hace mucho\Nque olvidó su nombre.
+Dialogue: 0,0:14:49.64,0:14:53.82,Default,,0,0,0,,Me has servido muy bien, Mr. Popo.
+Dialogue: 0,0:14:57.12,0:14:58.79,Default,,0,0,0,,¡Kami sama!
+Dialogue: 0,0:16:42.08,0:16:46.35,Default,,0,0,0,,Adiós, Kami sama. No muera.
+Dialogue: 0,0:16:47.72,0:16:50.23,Default,,0,0,0,,Ya no soy ni Kami sama ni Píkoro.
+Dialogue: 0,0:16:50.52,0:16:54.18,Default,,0,0,0,,Sólo un namekuseijin que hace mucho\Nque olvidó su nombre.
 Dialogue: 0,0:17:05.28,0:17:07.92,Default,,0,0,0,,Bueno, tengo que irme.
 Dialogue: 0,0:18:09.68,0:18:12.64,Default,,0,0,0,,No hemos recibido más noticias\Ndel lugar de los hechos.
 Dialogue: 0,0:18:12.80,0:18:17.34,Default,,0,0,0,,Creemos que nuestro equipo puede\Nestar atrapado en el mismo incidente.
-Dialogue: 0,0:18:17.62,0:18:21.44,Default,,0,0,0,,Entonces, ¿creéis que ha podido ser el\Nmonstruo que salió de ese caparazón?
+Dialogue: 0,0:18:17.62,0:18:21.44,Default,,0,0,0,,Entonces, ¿creen que ha podido ser el\Nmonstruo que salió de ese caparazón?
 Dialogue: 0,0:18:21.64,0:18:26.59,Default,,0,0,0,,Sí, seguramente. Eso es lo que creo.\NAdemás, está muy cerca.
 Dialogue: 0,0:18:36.14,0:18:38.96,Default,,0,0,0,,Voy a ir a comprobarlo.
 Dialogue: 0,0:18:39.80,0:18:40.59,Default,,0,0,0,,¡Oye!
@@ -212,7 +212,7 @@ Dialogue: 0,0:19:01.22,0:19:03.79,Default,,0,0,0,,¡¿Por qué no te comportas u
 Dialogue: 0,0:19:03.84,0:19:07.54,Default,,0,0,0,,Mamá, precisamente porque papá\Nestá enfermo, tengo que...
 Dialogue: 0,0:19:07.56,0:19:12.95,Default,,0,0,0,,¡Aunque el Universo vaya a volar en\Npedazos, te quedarás a mi lado!
 Dialogue: 0,0:19:13.48,0:19:14.95,Default,,0,0,0,,Es que...
-Dialogue: 0,0:19:17.16,0:19:25.38,Default,,0,0,0,,lré yo solo. Gohan y los demás tenéis\Nque quedaros aquí para proteger a Gokú
+Dialogue: 0,0:19:17.16,0:19:25.38,Default,,0,0,0,,lré yo solo. Gohan y los demás tienen\Nque quedarse aquí para proteger a Gokú
 Dialogue: 0,0:19:25.42,0:19:27.83,Default,,0,0,0,,en caso de que vengan los Androides.
 Dialogue: 0,0:19:28.68,0:19:30.91,Default,,0,0,0,,Sí, entendido.
 Dialogue: 0,0:19:31.28,0:19:33.35,Default,,0,0,0,,Oye, no hagas locuras.
