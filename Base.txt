@@ -108,3 +108,70 @@ Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0
 {\blur.8}Lo siento.
 {\blur.8}¡Uhh... Saciante Poder Zenkai!
 {\blur.8}¡Sal, increíble poder Zenkai!
+;Opening 2
+; Japones
+{\blur.8}hachamecha ga oshiyosete kuru
+{\blur.8}naite'ru ba'ai ja nai
+{\blur.8}waku{{\fs30}-{\fs}waku wo  hyaku{\fs30}-{\fs}bai ni shite
+{\blur.8}paatii no shuyaku ni naroo
+{\blur.8}muchuu ni naneru mono ga
+{\blur.8}itsu ka kimi wo sugee yatsu ni suru n da
+{\blur.8}NO{\fs30} • • • {\fs}TEN  P{\fs30}-{\fs}KAN sora wa  harete
+{\blur.8}IPPAI  OPPAI boku  genki
+{\blur.8}toraburu to asobe yancha{\fs30} • {\fs}booi
+{\blur.8}We gotta power{\fax-0.3} !
+{\blur.8}Doragon Booru Z
+{\blur.8}NO{\fs30} • • • {\fs}TEN  P{\fs30}-{\fs}KAN atama saete
+{\blur.8}RA{\fs30}-{\fs}MEN  ROPPAI haha nonki
+{\blur.8}seikimatsu  hashage ochame{\fs30} • {\fs}gaaru
+{\blur.8}We gotta power{\fax-0.3} !
+{\blur.8}Doragon Booru Z
+; Español
+{\blur.8}El caos nos está alcanzado
+{\blur.8}No es momento de llorar
+{\blur.8}Multiplicando nuestra emoción por cien
+{\blur.8}Nos convertiremos en el alma de la fiesta
+{\blur.8}Las cosas en las que te puedes perder
+{\blur.8}Algún día harán de ti alguien increíble
+{\blur.8}NO-TEN P-KAN El cielo está azul
+{\blur.8}IPPAI OPPAI Me siento bien
+{\blur.8}Juega con problemas,\Nchico travieso
+{\blur.8}¡Tenemos el poder!
+{\blur.8}Dragon Ball Z
+{\blur.8}NO-TEN P-KAN Tengo la cabeza despejada
+{\blur.8}RA-MEN ROPPAI A mamá le da igual
+{\blur.8}Es el final del siglo, así que divirtámonos, chica traviesa
+{\blur.8}¡Tenemos el poder!
+{\blur.8}Dragon Ball Z
+;Ending 2
+; Japones
+{\blur.8}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • •
+{\blur.8}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • •
+{\blur.8}toki ni uzumoreta kioku no kanata
+{\blur.8}sou sa boku{\fsp-1\fscx80\fscy85}-{\fsp\fscx\fscy}tachi wa tenshi datta
+{\blur.8}sora no ue kara ai no tane o makichirashite
+{\blur.8}kono hoshi kara kanashimi keshitakatta
+{\blur.8}nee hiroi buruu{\fs30} • {\fs}sukai
+{\blur.8}miagete iru to yuuki ga wakanai ka{\fs30} • • • {\fs}
+{\blur.8}ima de mo {\fs45\fnWolf Sans\fax-0.3\fscx85\fscy75}?
+{\blur.8}TO MY FRIENDS senaka no hane wa nakushita keredo
+{\blur.8}mada fushigi na chikara nokotte 'ru
+{\blur.8}TO MY FRIENDS hikari o daite yume o miyou yo
+{\blur.8}hora kimi no hitomi ni niji ga kakaru
+{\blur.8}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • •
+; Español
+{\blur.8}Ángel... Ángel... Ángel...
+{\blur.8}Ángel... Ángel... Ángel...
+{\blur.8}En lo más profundo, de los recuerdos\Nsepultados por el tiempo
+{\blur.8}En efecto, nosotros fuimos ángeles
+{\blur.8}Desde lo alto del cielo,\Nesparcimos semillas de amor
+{\blur.8}Quisimos librar al mundo de la tristeza
+{\blur.8}Dime, si alzas la vista
+{\blur.8}y ves el gran Cielo Azul, ¿no te llena de valor...
+{\blur.8}incluso ahora?
+{\blur.8}A mis amigos: pensé que habíamos perdido\Nlas alas de nuestras espaldas
+{\blur.8}Pero aún persiste\Nun poder maravilloso
+{\blur.8}A mis amigos: abracemos la luz\Ny sigamos soñando
+{\blur.8}Mira, hay un arcoiris flotando en tus ojos
+{\blur.8}Ángel... Ángel... Ángel...
+{\blur.8}Mira, hay un arcoiris flotando en tus ojos
