@@ -143,7 +143,7 @@ Dialogue: 0,0:09:28.28,0:09:33.43,Default,,0,0,0,,¿Tiene algo que ver con\Nla o
 Dialogue: 0,0:09:33.80,0:09:36.26,Default,,0,0,0,,No me cabe la menor duda.
 Dialogue: 0,0:09:36.52,0:09:39.82,Default,,0,0,0,,Diles a Gohan y a Trunks que te lo\Ncuenten todo cuando lleguen ahí.
 Dialogue: 0,0:09:41.32,0:09:42.15,Default,,0,0,0,,Sí...
-Dialogue: 0,0:09:43.00,0:09:47.60,Default,,0,0,0,,Gokuh duerme tranquilo.\NParece que ya se encuentra mejor.
+Dialogue: 0,0:09:43.00,0:09:47.60,Default,,0,0,0,,Gokú duerme tranquilo.\NParece que ya se encuentra mejor.
 Dialogue: 0,0:09:54.88,0:09:56.31,Default,,0,0,0,,¡Mutenroshi!
 Dialogue: 0,0:09:57.44,0:09:58.91,Default,,0,0,0,,Con permiso.
 Dialogue: 0,0:10:04.08,0:10:05.30,Default,,0,0,0,,¿Krilin?
@@ -187,13 +187,13 @@ Dialogue: 0,0:14:10.32,0:14:11.59,Default,,0,0,0,,Venga...
 Dialogue: 0,0:14:16.46,0:14:17.86,Default,,0,0,0,,D-Dios...
 Dialogue: 0,0:14:18.60,0:14:21.39,Default,,0,0,0,,Ha llegado el momento, Sr. Popo.
 Dialogue: 0,0:14:21.68,0:14:28.79,Default,,0,0,0,,Lo que necesita la Tierra ahora no\Nes un Dios, si no al más poderoso.
-Dialogue: 0,0:14:32.36,0:14:34.51,Default,,0,0,0,,Piccolo ha cambiado.
+Dialogue: 0,0:14:32.36,0:14:34.51,Default,,0,0,0,,Píkoro ha cambiado.
 Dialogue: 0,0:14:34.76,0:14:38.71,Default,,0,0,0,,La maldad de su corazón ha\Ndesaparecido casi por completo.
 Dialogue: 0,0:14:38.84,0:14:44.35,Default,,0,0,0,,Una vez nos unamos, ya no tendremos\Nnecesidad de volver a separarnos.
 Dialogue: 0,0:14:49.64,0:14:53.82,Default,,0,0,0,,Me has servido muy bien, Sr. Popo.
 Dialogue: 0,0:14:57.12,0:14:58.79,Default,,0,0,0,,¡Dios!
 Dialogue: 0,0:16:42.08,0:16:46.35,Default,,0,0,0,,Adiós, Dios. No muera.
-Dialogue: 0,0:16:47.72,0:16:50.23,Default,,0,0,0,,Ya no soy ni Dios ni Piccolo.
+Dialogue: 0,0:16:47.72,0:16:50.23,Default,,0,0,0,,Ya no soy ni Dios ni Píkoro.
 Dialogue: 0,0:16:50.52,0:16:54.18,Default,,0,0,0,,Sólo un namek que hace mucho\Nque olvidó su nombre.
 Dialogue: 0,0:17:05.28,0:17:07.92,Default,,0,0,0,,Bueno, tengo que irme.
 Dialogue: 0,0:18:09.68,0:18:12.64,Default,,0,0,0,,No hemos recibido más noticias\Ndel lugar de los hechos.
@@ -207,12 +207,12 @@ Dialogue: 0,0:18:42.48,0:18:46.83,Default,,0,0,0,,No pasa nada.\NPuedo convertir
 Dialogue: 0,0:18:47.44,0:18:51.14,Default,,0,0,0,,Los que deberían asustarnos\Nde verdad son los Androides.
 Dialogue: 0,0:18:51.28,0:18:54.07,Default,,0,0,0,,Puede que sí, pero...
 Dialogue: 0,0:18:54.44,0:18:56.07,Default,,0,0,0,,¡Yo también voy!
-Dialogue: 0,0:18:56.88,0:19:01.04,Default,,0,0,0,,¡No puedes ir!\N¡Gokuh sigue en cama ahí arriba!
+Dialogue: 0,0:18:56.88,0:19:01.04,Default,,0,0,0,,¡No puedes ir!\N¡Gokú sigue en cama ahí arriba!
 Dialogue: 0,0:19:01.22,0:19:03.79,Default,,0,0,0,,¡¿Por qué no te comportas un poco?!
 Dialogue: 0,0:19:03.84,0:19:07.54,Default,,0,0,0,,Mamá, precisamente porque papá\Nestá enfermo, tengo que...
 Dialogue: 0,0:19:07.56,0:19:12.95,Default,,0,0,0,,¡Aunque el Universo vaya a volar en\Npedazos, te quedarás a mi lado!
 Dialogue: 0,0:19:13.48,0:19:14.95,Default,,0,0,0,,Es que...
-Dialogue: 0,0:19:17.16,0:19:25.38,Default,,0,0,0,,lré yo solo. Gohan y los demás tenéis\Nque quedaros aquí para proteger a Gokuh
+Dialogue: 0,0:19:17.16,0:19:25.38,Default,,0,0,0,,lré yo solo. Gohan y los demás tenéis\Nque quedaros aquí para proteger a Gokú
 Dialogue: 0,0:19:25.42,0:19:27.83,Default,,0,0,0,,en caso de que vengan los Androides.
 Dialogue: 0,0:19:28.68,0:19:30.91,Default,,0,0,0,,Sí, entendido.
 Dialogue: 0,0:19:31.28,0:19:33.35,Default,,0,0,0,,Oye, no hagas locuras.
@@ -256,12 +256,12 @@ Dialogue: 0,0:23:45.40,0:23:46.41,Karaoke Japones,,0,0,0,,{\blur.8}... go{\fs30}
 Dialogue: 0,0:23:47.66,0:23:52.58,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:23:55.51,0:24:01.42,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:24:08.80,0:24:11.55,Default,,0,0,0,,{\pos(340.619,102.81)}Avance
-Dialogue: 0,0:24:12.25,0:24:14.01,Default,,0,0,0,,¡Hola, soy Gokuh!
-Dialogue: 0,0:24:14.01,0:24:16.12,Default,,0,0,0,,¿Hmm? Ese ki es de Freeza...
-Dialogue: 0,0:24:16.25,0:24:18.99,Default,,0,0,0,,Todos, incluso el de Vegeta y Piccolo,\Nforman parte de un sólo ki.
+Dialogue: 0,0:24:12.25,0:24:14.01,Default,,0,0,0,,¡Hola, soy Gokú!
+Dialogue: 0,0:24:14.01,0:24:16.12,Default,,0,0,0,,¿Hmm? Ese ki es de Freezer...
+Dialogue: 0,0:24:16.25,0:24:18.99,Default,,0,0,0,,Todos, incluso el de Vegeta y Píkoro,\Nforman parte de un sólo ki.
 Dialogue: 0,0:24:18.99,0:24:20.32,Default,,0,0,0,,¿Qué demonios está pasando?
 Dialogue: 0,0:24:20.32,0:24:23.32,Default,,0,0,0,,¿Monstruo, qué eres exactamente?
 Dialogue: 0,0:24:23.32,0:24:26.61,Default,,0,0,0,,Aunque tenga que usar la fuerza... \N¡vas a contármelo todo!
 Dialogue: 0,0:24:26.61,0:24:28.63,Default,,0,0,0,,Próximamente en Dragon Ball Z
-Dialogue: 0,0:24:28.63,0:24:32.10,Default,,0,0,0,,¡¿Kame Hame ha?!\NLa energía de Gokuh está en el monstruo
+Dialogue: 0,0:24:28.63,0:24:32.10,Default,,0,0,0,,¡¿Kame Hame ha?!\NLa energía de Gokú está en el monstruo
 Dialogue: 0,0:24:32.10,0:24:35.43,Default,,0,0,0,,¡No puedo creer que esté sintiendo\N el ki de papá desde esa cosa!

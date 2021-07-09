@@ -64,13 +64,13 @@ Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\
 Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,{\blur.8}egao urutora Z de
 Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
 Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
-Dialogue: 0,0:02:11.64,0:02:17.23,Default,,0,0,0,,El nuevo Dios, Dende, ha devuelto\Na la vida las bolas de dragón
-Dialogue: 0,0:02:17.36,0:02:21.08,Default,,0,0,0,,y Gokuh recorre la Tierra\Npara reunirlas.
+Dialogue: 0,0:02:11.64,0:02:17.23,Default,,0,0,0,,El nuevo Dios, Dende, ha devuelto\Na la vida las esferas del dragón
+Dialogue: 0,0:02:17.36,0:02:21.08,Default,,0,0,0,,y Gokú recorre la Tierra\Npara reunirlas.
 Dialogue: 0,0:02:33.12,0:02:36.35,Default,,0,0,0,,¡Ya tengo las siete!
 Dialogue: 0,0:02:36.88,0:02:42.62,Default,,0,0,0,,Mientras, el resto de guerreros\Nse entrenan para el Cell Game.
 Dialogue: 0,0:03:00.84,0:03:05.23,Default,,0,0,0,,Sólo queda un día para que\Ndé comienzo la batalla.
 Dialogue: 0,0:03:30.16,0:03:32.62,Default,,0,0,0,,Venga, me voy.
-Dialogue: 0,0:03:45.44,0:03:49.84,Default,,0,0,0,,¡Ten cuidado, Gokuh!\NNo quiero que mueras.
+Dialogue: 0,0:03:45.44,0:03:49.84,Default,,0,0,0,,¡Ten cuidado, Gokú!\NNo quiero que mueras.
 Dialogue: 0,0:03:50.36,0:03:52.43,Default,,0,0,0,,Sí, entendido.
 Dialogue: 0,0:03:53.04,0:03:55.75,Default,,0,0,0,,Gohan no luchará, ¿verdad?
 Dialogue: 0,0:03:56.92,0:03:58.31,Default,,0,0,0,,Pues...
@@ -86,7 +86,7 @@ Dialogue: 0,0:04:33.92,0:04:36.11,Default,,0,0,0,,Ha decidido adelantarse.
 Dialogue: 0,0:04:36.28,0:04:42.62,Default,,0,0,0,,¿En serio? Parece muy entusiasmado.\NDebe de haber mejorado mucho.
 Dialogue: 0,0:04:52.72,0:04:56.32,Default,,0,0,0,,¿Qué pasa, chicos?\N¿A qué vienen esas caras?
 Dialogue: 0,0:04:56.84,0:04:58.39,Default,,0,0,0,,¿Estáis nerviosos?
-Dialogue: 0,0:04:58.68,0:05:02.51,Default,,0,0,0,,Gokuh, tenemos un problema gordo.
+Dialogue: 0,0:04:58.68,0:05:02.51,Default,,0,0,0,,Gokú, tenemos un problema gordo.
 Dialogue: 0,0:05:04.28,0:05:09.86,Default,,0,0,0,,Recuerdas que pedimos que las bolas de\Ndragón pudieran revivir a mucha gente
 Dialogue: 0,0:05:09.88,0:05:11.28,Default,,0,0,0,,con un solo deseo, ¿verdad?
 Dialogue: 0,0:05:11.28,0:05:12.39,Default,,0,0,0,,Sí.
@@ -96,7 +96,7 @@ Dialogue: 0,0:05:20.68,0:05:25.04,Default,,0,0,0,,Lo siento.\NSi lo hubiera sabi
 Dialogue: 0,0:05:26.80,0:05:32.11,Default,,0,0,0,,Venga, no te preocupes, Dende.\NMientras no nos maten, todo irá bien.
 Dialogue: 0,0:05:32.28,0:05:35.47,Default,,0,0,0,,¿Cómo puedes decir eso?\N¡Vamos a luchar contra Cell!
 Dialogue: 0,0:05:35.68,0:05:40.47,Default,,0,0,0,,No pasa nada, no pasa nada.\NVamos tirando. Ya son casi las doce.
-Dialogue: 0,0:05:51.84,0:05:56.39,Default,,0,0,0,,Al fin ha llegado el día.\NNo tardes, Son Gokuh.
+Dialogue: 0,0:05:51.84,0:05:56.39,Default,,0,0,0,,Al fin ha llegado el día.\NNo tardes, Son Gokú.
 Dialogue: 0,0:06:03.00,0:06:05.62,Default,,0,0,0,,Quedan veinte minutos para\Nque comience el Cell Game,
 Dialogue: 0,0:06:05.64,0:06:07.48,Default,,0,0,0,,¡qué decidirá el destino de La Tierra!
 Dialogue: 0,0:06:08.02,0:06:12.26,Default,,0,0,0,,Probablemente es porque nadie quiere\Nverse involucrado en esta batalla.
@@ -182,7 +182,7 @@ Dialogue: 0,0:15:20.60,0:15:24.27,Default,,0,0,0,,Los únicos capaces de reparar
 Dialogue: 0,0:15:24.72,0:15:26.63,Default,,0,0,0,,Qué pérdida de tiempo...
 Dialogue: 0,0:15:27.56,0:15:33.39,Default,,0,0,0,,Parece que Cell ha murmurado algo.\N¿Sabe quién es ese tipo?
 Dialogue: 0,0:15:33.92,0:15:38.51,Default,,0,0,0,,Ni idea. Pero no parece\Ndemasiado fuerte.
-Dialogue: 0,0:15:46.48,0:15:50.15,Default,,0,0,0,,Al fin llegas, Gokuh.
+Dialogue: 0,0:15:46.48,0:15:50.15,Default,,0,0,0,,Al fin llegas, Gokú.
 Dialogue: 0,0:15:50.76,0:15:52.31,Default,,0,0,0,,Te esperaba.
 Dialogue: 0,0:15:55.84,0:15:58.28,Default,,0,0,0,,Eh, ahí...
 Dialogue: 0,0:15:58.32,0:15:59.27,Default,,0,0,0,,¿Qué?
@@ -204,7 +204,7 @@ Dialogue: 0,0:18:22.96,0:18:26.23,Default,,0,0,0,,Quería agradecértelo.\NMucha
 Dialogue: 0,0:18:26.92,0:18:29.95,Default,,0,0,0,,De no ser por ti,\Nno me hubieran reparado.
 Dialogue: 0,0:18:31.40,0:18:33.59,Default,,0,0,0,,¿En serio? Me alegro.
 Dialogue: 0,0:18:35.68,0:18:38.11,Default,,0,0,0,,Lucharemos en el mismo bando.
-Dialogue: 0,0:18:43.08,0:18:47.83,Default,,0,0,0,,Son Gokuh, me crearon con el\Núnico propósito de matarte.
+Dialogue: 0,0:18:43.08,0:18:47.83,Default,,0,0,0,,Son Gokú, me crearon con el\Núnico propósito de matarte.
 Dialogue: 0,0:18:48.32,0:18:50.70,Default,,0,0,0,,Más vale que no lo olvides.
 Dialogue: 0,0:18:53.04,0:18:55.34,Default,,0,0,0,,Es muy antipático.
 Dialogue: 0,0:19:05.04,0:19:07.60,Default,,0,0,0,,Me están robando protagonismo...
@@ -212,7 +212,7 @@ Dialogue: 0,0:19:11.32,0:19:14.67,Default,,0,0,0,,¿Ya ha comenzado la lucha?
 Dialogue: 0,0:19:16.20,0:19:17.87,Default,,0,0,0,,Creo que aún no.
 Dialogue: 0,0:19:18.28,0:19:19.78,Default,,0,0,0,,Vamos allá.
 Dialogue: 0,0:19:22.36,0:19:26.30,Default,,0,0,0,,Dejad que yo sea el\Nprimero en luchar.
-Dialogue: 0,0:19:26.48,0:19:29.23,Default,,0,0,0,,No tienes que empezar tú, Gokuh.
+Dialogue: 0,0:19:26.48,0:19:29.23,Default,,0,0,0,,No tienes que empezar tú, Gokú.
 Dialogue: 0,0:19:29.72,0:19:31.79,Default,,0,0,0,,¿Te parece bien, Vegeta?
 Dialogue: 0,0:19:32.20,0:19:34.27,Default,,0,0,0,,Haz lo que te dé la gana.
 Dialogue: 0,0:19:34.40,0:19:37.79,Default,,0,0,0,,De todas maneras, yo seré\Nel que lo acabe.
@@ -231,11 +231,11 @@ Dialogue: 0,0:20:43.16,0:20:47.19,Default,,0,0,0,,Muy bien, os haré el favor\Nd
 Dialogue: 0,0:21:04.56,0:21:06.59,Default,,0,0,0,,¿Qué os ha parecido?
 Dialogue: 0,0:21:06.60,0:21:11.58,Default,,0,0,0,,¡Increíble! ¡Mr. Satan es el mejor!\N¿A que es increíble?
 Dialogue: 0,0:21:20.00,0:21:23.15,Default,,0,0,0,,No se sorprenden lo más mínimo...
-Dialogue: 0,0:21:24.40,0:21:28.51,Default,,0,0,0,,Gokuh, no pasa nada.\NDéjale empezar a él.
+Dialogue: 0,0:21:24.40,0:21:28.51,Default,,0,0,0,,Gokú, no pasa nada.\NDéjale empezar a él.
 Dialogue: 0,0:21:28.92,0:21:31.38,Default,,0,0,0,,Está bien, pero...
 Dialogue: 0,0:21:33.40,0:21:34.75,Default,,0,0,0,,Es la hora.
 Dialogue: 0,0:21:35.64,0:21:40.23,Default,,0,0,0,,Finalmente, el terrible torneo conocido\Ncomo Cell Game está a punto de comenzar.
-Dialogue: 0,0:22:18.72,0:22:24.27,Default,,0,0,0,,¿Serán Gokuh y los otros capaces\Nde vencer al malvado Cell?
+Dialogue: 0,0:22:18.72,0:22:24.27,Default,,0,0,0,,¿Serán Gokú y los otros capaces\Nde vencer al malvado Cell?
 Dialogue: 0,0:22:45.13,0:22:48.87,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
 Dialogue: 0,0:22:49.08,0:22:54.47,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
 Dialogue: 0,0:22:54.98,0:22:56.96,Karaoke Español,,0,0,0,,{\blur.8}Al encontrarles,\Npalpita mi corazón
@@ -270,7 +270,7 @@ Dialogue: 0,0:23:45.65,0:23:46.66,Karaoke Japones,,0,0,0,,{\blur.8}... go{\fs30}
 Dialogue: 0,0:23:47.91,0:23:52.83,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:23:55.76,0:24:01.67,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:24:08.96,0:24:11.93,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
-Dialogue: 0,0:24:12.50,0:24:14.63,Default,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:12.50,0:24:14.63,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:14.63,0:24:18.36,Default,,0,0,0,,¿Eh? Aquí vienen más tipos raros.
 Dialogue: 0,0:24:18.36,0:24:20.84,Default,,0,0,0,,¿Los pupilos números\Nuno y dos de Satan?
 Dialogue: 0,0:24:20.84,0:24:24.02,Default,,0,0,0,,¡Y ahora, dos nuevos\Nrivales han llegado!

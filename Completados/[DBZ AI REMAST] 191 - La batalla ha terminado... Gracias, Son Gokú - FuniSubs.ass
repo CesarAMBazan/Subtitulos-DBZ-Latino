@@ -84,7 +84,7 @@ Dialogue: 0,0:03:33.00,0:03:34.84,Default,,0,0,0,,¡Muere!
 Dialogue: 0,0:03:43.82,0:03:45.75,Default,,0,0,0,,¡Esto es peligroso!\N¡Salgamos de aquí!
 Dialogue: 0,0:03:52.30,0:03:53.44,Default,,0,0,0,,Gohan...
 Dialogue: 0,0:05:13.74,0:05:16.41,Default,,0,0,0,,Están destruyendo todo\Nlo que les rodea.
-Dialogue: 0,0:05:17.26,0:05:18.37,Default,,0,0,0,,Mierda...
+Dialogue: 0,0:05:17.26,0:05:18.37,Default,,0,0,0,,Maldición...
 Dialogue: 0,0:05:24.66,0:05:28.09,Default,,0,0,0,,¡No sirve de nada escapar!
 Dialogue: 0,0:05:30.34,0:05:34.13,Default,,0,0,0,,¡Todo se rompe en pedazos\Na nuestro alrededor!
 Dialogue: 0,0:05:34.13,0:05:38.51,Default,,0,0,0,,¡Éste es el fin! ¡Me despido de todos!\N¡Adiós! ¡Adiós!
@@ -122,7 +122,7 @@ Dialogue: 0,0:09:28.04,0:09:29.31,Default,,0,0,0,,¡No puede ser!
 Dialogue: 0,0:09:40.18,0:09:41.89,Default,,0,0,0,,¡Ésto no debería estar...!
 Dialogue: 0,0:09:48.18,0:09:54.09,Default,,0,0,0,,Ya lo entiendo. Gohan, te estás\Nconteniendo para no dañar la Tierra.
 Dialogue: 0,0:09:57.50,0:09:59.53,Default,,0,0,0,,¡No te preocupes por eso!
-Dialogue: 0,0:09:59.55,0:10:02.77,Default,,0,0,0,,¡Podemos revertir cualquier\Ndaño con las bolas de dragón!
+Dialogue: 0,0:09:59.55,0:10:02.77,Default,,0,0,0,,¡Podemos revertir cualquier\Ndaño con las esferas del dragón!
 Dialogue: 0,0:10:03.73,0:10:05.25,Default,,0,0,0,,¡Pero... !
 Dialogue: 0,0:10:08.02,0:10:11.44,Default,,0,0,0,,¡Vamos, vamos, vete al infierno!
 Dialogue: 0,0:10:22.06,0:10:23.00,Default,,0,0,0,,Gohan...
@@ -134,7 +134,7 @@ Dialogue: 0,0:11:02.00,0:11:05.42,Default,,0,0,0,,¡Toma esto, Cell!
 Dialogue: 0,0:11:14.06,0:11:16.24,Default,,0,0,0,,¡No molestes! ¡Piérdete!
 Dialogue: 0,0:11:23.98,0:11:25.01,Default,,0,0,0,,Píkoro...
 Dialogue: 0,0:11:26.14,0:11:27.25,Default,,0,0,0,,¡Píkoro!
-Dialogue: 0,0:11:50.55,0:11:52.64,Default,,0,0,0,,¡Mierda...!
+Dialogue: 0,0:11:50.55,0:11:52.64,Default,,0,0,0,,¡Maldición...!
 Dialogue: 0,0:11:54.75,0:11:55.66,Default,,0,0,0,,Go...
 Dialogue: 0,0:11:56.97,0:11:58.75,Default,,0,0,0,,¡Gohan!
 Dialogue: 0,0:12:03.48,0:12:05.33,Default,,0,0,0,,Ese Píkoro...
@@ -176,7 +176,7 @@ Dialogue: 0,0:15:39.08,0:15:43.59,Default,,0,0,0,,Puede que te haya dejado morir
 Dialogue: 0,0:15:43.76,0:15:46.02,Default,,0,0,0,,muera luchando contra Cell.
 Dialogue: 0,0:15:46.92,0:15:52.77,Default,,0,0,0,,Gokú, Gohan es un muchacho increíble.\NEstá claro que de tal palo tal astilla.
 Dialogue: 0,0:15:53.20,0:15:55.87,Default,,0,0,0,,Estoy orgulloso de haberlos conocido.
-Dialogue: 0,0:15:59.96,0:16:02.94,Default,,0,0,0,,¡Mierda...! ¡No le tengo miedo...!
+Dialogue: 0,0:15:59.96,0:16:02.94,Default,,0,0,0,,¡Maldición...! ¡No le tengo miedo...!
 Dialogue: 0,0:16:09.36,0:16:12.29,Default,,0,0,0,,¡No molesten, insectos!
 Dialogue: 0,0:16:18.12,0:16:22.00,Default,,0,0,0,,¡Gohan! ¡Aumenta tu energía!\N¡Tienes que ganarle!
 Dialogue: 0,0:16:22.52,0:16:24.70,Default,,0,0,0,,¡Mueran!
@@ -251,7 +251,7 @@ Dialogue: 0,0:23:55.58,0:24:01.49,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobik
 Dialogue: 0,0:24:08.80,0:24:11.42,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
 Dialogue: 0,0:24:12.13,0:24:14.33,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:14.33,0:24:15.65,Default,,0,0,0,,Cell ha sido vencido.
-Dialogue: 0,0:24:15.65,0:24:19.62,Default,,0,0,0,,¡Deprisa, debemos usar las bolas de dragón\N para revivir a Trunks y todas las victimas!
+Dialogue: 0,0:24:15.65,0:24:19.62,Default,,0,0,0,,¡Deprisa, debemos usar las esferas del dragón\N para revivir a Trunks y todas las victimas!
 Dialogue: 0,0:24:19.62,0:24:21.94,Default,,0,0,0,,¿Cómo puedes estar\Ntan tranquilo, Gokú?
 Dialogue: 0,0:24:21.94,0:24:25.08,Default,,0,0,0,,En tu situación...\N¡no podrás volver a la vida!
 Dialogue: 0,0:24:25.08,0:24:27.18,Default,,0,0,0,,Próximamente en Dragon Ball Z

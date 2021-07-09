@@ -64,9 +64,9 @@ Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\
 Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,{\blur.8}egao urutora Z de
 Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
 Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
-Dialogue: 0,0:01:52.86,0:01:56.77,Default,,0,0,0,,Gokú ha traído a Dende desde el nuevo\Nplaneta Namek para que se convierta
+Dialogue: 0,0:01:52.86,0:01:56.77,Default,,0,0,0,,Gokú ha traído a Dende desde el nuevo\NNamekusei para que se convierta
 Dialogue: 0,0:01:56.80,0:01:58.97,Default,,0,0,0,,en el Kami Sama de la Tierra.
-Dialogue: 0,0:02:11.86,0:02:14.61,Default,,0,0,0,,Las bolas de dragón han\Nvuelto a la vida.
+Dialogue: 0,0:02:11.86,0:02:14.61,Default,,0,0,0,,Las esferas del dragón han\Nvuelto a la vida.
 Dialogue: 0,0:02:15.46,0:02:17.97,Default,,0,0,0,,Vamos, me voy a buscarlas.
 Dialogue: 0,0:02:27.50,0:02:29.13,Default,,0,0,0,,¡Ya tengo dos!
 Dialogue: 0,0:02:32.94,0:02:37.21,Default,,0,0,0,,Qué aburrimiento. Los diez días\Nse me están haciendo muy largos...
@@ -75,7 +75,7 @@ Dialogue: 0,0:03:14.26,0:03:18.26,Default,,0,0,0,,Gohan, ¿estás estudiando?
 Dialogue: 0,0:03:18.32,0:03:25.13,Default,,0,0,0,,Sí, le prometí a mamá que estudiaría\Nsiempre que tuviera tiempo.
 Dialogue: 0,0:03:25.38,0:03:28.37,Default,,0,0,0,,Vaya, qué responsable...
 Dialogue: 0,0:03:28.74,0:03:34.53,Default,,0,0,0,,Ahora que lo pienso, yo también he\Ntraído deberes. Voy a ponerme a hacerlos.
-Dialogue: 0,0:03:35.78,0:03:38.57,Default,,0,0,0,,¿En Namek también tienen deberes?
+Dialogue: 0,0:03:35.78,0:03:38.57,Default,,0,0,0,,¿En Namekusei también tienen deberes?
 Dialogue: 0,0:03:38.70,0:03:39.92,Default,,0,0,0,,Claro que sí.
 Dialogue: 0,0:03:40.44,0:03:44.89,Default,,0,0,0,,Se ha de estudiar mucho para llegar a ser\Nalguien en la familia de los dragones.
 Dialogue: 0,0:03:45.18,0:03:48.08,Default,,0,0,0,,No entiendo ni jota del idioma namek.
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:50.94,0:03:52.41,Default,,0,0,0,,No tiene ninguna gracia.
 Dialogue: 0,0:03:52.44,0:03:57.53,Default,,0,0,0,,Al ponerse a estudiar así de golpe,\Nme dejan a mí como un perezoso.
 Dialogue: 0,0:04:08.45,0:04:11.09,Default,,0,0,0,,Creo que me voy a la Kame House.
 Dialogue: 0,0:04:15.98,0:04:19.05,Default,,0,0,0,,El Cell Game comenzará muy pronto.
-Dialogue: 0,0:04:19.18,0:04:22.88,Default,,0,0,0,,¿Conseguirá Gokú reunir las\Nbolas de dragón a tiempo?
+Dialogue: 0,0:04:19.18,0:04:22.88,Default,,0,0,0,,¿Conseguirá Gokú reunir las\Nesferas del dragón a tiempo?
 Dialogue: 0,0:04:27.38,0:04:29.76,Default,,0,0,0,,¡Damas y caballeros!
 Dialogue: 0,0:04:30.78,0:04:37.46,Default,,0,0,0,,¡Va a comenzar la demostración del\Ncampeón mundial de artes marciales, Mr. Satan!
 Dialogue: 0,0:04:47.82,0:04:53.69,Default,,0,0,0,,¡Satan! ¡Satan! ¡Satan!
@@ -120,11 +120,11 @@ Dialogue: 0,0:09:30.02,0:09:34.49,Default,,0,0,0,,Me ha costado mucho conseguirl
 Dialogue: 0,0:09:35.62,0:09:41.17,Default,,0,0,0,,Gracias a ellas, aunque Cell destruya\Nla Tierra, yo, Walker,
 Dialogue: 0,0:09:41.30,0:09:46.49,Default,,0,0,0,,el emperador del crimen,\Nsobreviviré para contarlo.
 Dialogue: 0,0:09:46.74,0:09:48.45,Default,,0,0,0,,En efecto.
-Dialogue: 0,0:09:48.82,0:09:53.57,Default,,0,0,0,,Ya veo... cuando Cell ya no esté,\Nutilizaré las bolas de dragón
+Dialogue: 0,0:09:48.82,0:09:53.57,Default,,0,0,0,,Ya veo... cuando Cell ya no esté,\Nutilizaré las esferas del dragón
 Dialogue: 0,0:09:53.57,0:09:56.48,Default,,0,0,0,,para crear un imperio del crimen.
 Dialogue: 0,0:09:58.18,0:10:00.70,Default,,0,0,0,,En todas las épocas hay\Npersonas importantes.
 Dialogue: 0,0:10:00.70,0:10:03.45,Default,,0,0,0,,Me refiero a aquellos\Ncon dinero y poder.
-Dialogue: 0,0:10:03.58,0:10:07.20,Default,,0,0,0,,¿Para cuándo cree que podré\Ntener el resto de bolas de dragón?
+Dialogue: 0,0:10:03.58,0:10:07.20,Default,,0,0,0,,¿Para cuándo cree que podré\Ntener el resto de esferas del dragón?
 Dialogue: 0,0:10:08.62,0:10:12.24,Default,,0,0,0,,Relájese. Se las traeré muy pronto.
 Dialogue: 0,0:10:12.50,0:10:15.81,Default,,0,0,0,,¿De veras? Confío en usted, maestro.
 Dialogue: 0,0:10:18.22,0:10:21.69,Default,,0,0,0,,En realidad, he encontrado\Nesas dos por casualidad...
@@ -153,7 +153,7 @@ Dialogue: 0,0:12:35.08,0:12:36.08,Default,,0,0,0,,¡Imbéciles!
 Dialogue: 0,0:12:36.20,0:12:38.85,Default,,0,0,0,,¡Si no se revisan de vez en cuando,\Nluego no sirven de nada
 Dialogue: 0,0:12:38.86,0:12:40.48,Default,,0,0,0,,en caso de emergencia!
 Dialogue: 0,0:12:40.61,0:12:42.17,Default,,0,0,0,,¡Lo sentimos!
-Dialogue: 0,0:12:42.28,0:12:48.58,Default,,0,0,0,,Lo atraeremos hasta esta habitación\Ny le robaremos las bolas de dragón.
+Dialogue: 0,0:12:42.28,0:12:48.58,Default,,0,0,0,,Lo atraeremos hasta esta habitación\Ny le robaremos las esferas del dragón.
 Dialogue: 0,0:12:49.16,0:12:51.15,Default,,0,0,0,,Están muy cerca.
 Dialogue: 0,0:12:55.72,0:12:59.84,Default,,0,0,0,,Has sido muy hábil al\Ndar con esta habitación.
 Dialogue: 0,0:13:01.28,0:13:04.93,Default,,0,0,0,,¡Ey! ¡Aquí!
@@ -161,7 +161,7 @@ Dialogue: 0,0:13:05.36,0:13:06.13,Default,,0,0,0,,¿Qué?
 Dialogue: 0,0:13:07.01,0:13:08.49,Default,,0,0,0,,¡Ven! ¡Ven!
 Dialogue: 0,0:13:13.88,0:13:15.35,Default,,0,0,0,,¡Bolas de dragón!
 Dialogue: 0,0:13:17.84,0:13:21.48,Default,,0,0,0,,Se ha de tener valor para\Nentrar en esta habitación.
-Dialogue: 0,0:13:21.48,0:13:25.84,Default,,0,0,0,,Si no quieres que te hagamos daño,\Nentréganos las bolas de dragón
+Dialogue: 0,0:13:21.48,0:13:25.84,Default,,0,0,0,,Si no quieres que te hagamos daño,\Nentréganos las esferas del dragón
 Dialogue: 0,0:13:25.84,0:13:27.27,Default,,0,0,0,,y lárgate de aquí.
 Dialogue: 0,0:13:32.20,0:13:34.54,Default,,0,0,0,,¿Tú no eres Tao Pai Pai?
 Dialogue: 0,0:13:34.64,0:13:35.30,Default,,0,0,0,,¿Cómo?
@@ -174,9 +174,9 @@ Dialogue: 0,0:14:27.17,0:14:28.15,Default,,0,0,0,,¿Pato?
 Dialogue: 0,0:14:28.28,0:14:29.89,Default,,0,0,0,,¿Pato?
 Dialogue: 0,0:14:31.20,0:14:34.47,Default,,0,0,0,,¡No te hagas el tonto!\N¡A mí nadie me engaña!
 Dialogue: 0,0:14:35.10,0:14:37.38,Default,,0,0,0,,No sé de quién me hablas.
-Dialogue: 0,0:14:39.80,0:14:43.12,Default,,0,0,0,,¡No importa, entréganos\Nesas bolas de dragón!
+Dialogue: 0,0:14:39.80,0:14:43.12,Default,,0,0,0,,¡No importa, entréganos\Nesas esferas del dragón!
 Dialogue: 0,0:14:43.20,0:14:44.46,Default,,0,0,0,,¿Qué haces?
-Dialogue: 0,0:14:46.72,0:14:47.81,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:14:46.72,0:14:47.81,Default,,0,0,0,,¡Maldición!
 Dialogue: 0,0:14:49.84,0:14:52.19,Default,,0,0,0,,¡Acaba con ese desgraciado!
 Dialogue: 0,0:14:52.36,0:14:55.20,Default,,0,0,0,,Yo no quería... se me ha\Nido un poco la mano.
 Dialogue: 0,0:14:55.20,0:14:56.67,Default,,0,0,0,,¡Dispara!
@@ -197,14 +197,14 @@ Dialogue: 0,0:16:03.56,0:16:04.95,Default,,0,0,0,,He ganado.
 Dialogue: 0,0:16:17.04,0:16:21.24,Default,,0,0,0,,¡Maestro! ¡Necesito su ayuda!
 Dialogue: 0,0:16:21.48,0:16:25.71,Default,,0,0,0,,No. Hoy... me siento...\Nalgo... indispuesto.
 Dialogue: 0,0:16:25.84,0:16:28.30,Default,,0,0,0,,No saben lo mal que me sienta.
-Dialogue: 0,0:16:28.30,0:16:30.62,Default,,0,0,0,,Es que me hacen mucha falta\Nlas bolas de dragón.
+Dialogue: 0,0:16:28.30,0:16:30.62,Default,,0,0,0,,Es que me hacen mucha falta\Nlas esferas del dragón.
 Dialogue: 0,0:16:30.76,0:16:33.77,Default,,0,0,0,,Pero parece que a ustedes les\Nha costado mucho conseguirlas.
 Dialogue: 0,0:16:34.52,0:16:37.31,Default,,0,0,0,,Y no tengo nada que\Nofrecerles a cambio.
 Dialogue: 0,0:16:39.72,0:16:43.50,Default,,0,0,0,,Está bien, Gokú.\N¿Qué te parece esto?
 Dialogue: 0,0:16:51.57,0:16:53.60,Default,,0,0,0,,Esto son tres puzzles\Nde anillas chinas.
 Dialogue: 0,0:16:53.61,0:16:56.60,Default,,0,0,0,,Si puedes resolverlos antes del\Namanecer, dejaremos que te quedes
-Dialogue: 0,0:16:56.66,0:16:58.63,Default,,0,0,0,,con nuestras bolas de dragón.
-Dialogue: 0,0:16:58.76,0:17:03.58,Default,,0,0,0,,Y si no lo consigues, nos quedaremos\Ncon tus bolas de dragón.
+Dialogue: 0,0:16:56.66,0:16:58.63,Default,,0,0,0,,con nuestras esferas del dragón.
+Dialogue: 0,0:16:58.76,0:17:03.58,Default,,0,0,0,,Y si no lo consigues, nos quedaremos\Ncon tus esferas del dragón.
 Dialogue: 0,0:17:06.52,0:17:08.31,Default,,0,0,0,,¿anillas chinas?
 Dialogue: 0,0:17:09.29,0:17:14.98,Default,,0,0,0,,¡Qué sabio es el maestro Tao Pai Pai!\N¡Ya venía preparado para esta situación!
 Dialogue: 0,0:17:15.28,0:17:19.31,Default,,0,0,0,,Por supuesto, nunca sabes lo\Nque te puedes encontrar.
@@ -240,7 +240,7 @@ Dialogue: 0,0:20:28.64,0:20:30.59,Default,,0,0,0,,Es igual, no te preocupes.
 Dialogue: 0,0:20:40.80,0:20:43.01,Default,,0,0,0,,¡Son Gokú!
 Dialogue: 0,0:20:43.64,0:20:45.83,Default,,0,0,0,,Miren, las he desenredado.
 Dialogue: 0,0:20:45.96,0:20:47.75,Default,,0,0,0,,Sí, en efecto...
-Dialogue: 0,0:20:48.04,0:20:51.10,Default,,0,0,0,,Ahora puedo quedarme con\Nlas bolas de dragón, ¿verdad?
+Dialogue: 0,0:20:48.04,0:20:51.10,Default,,0,0,0,,Ahora puedo quedarme con\Nlas esferas del dragón, ¿verdad?
 Dialogue: 0,0:20:51.45,0:20:53.31,Default,,0,0,0,,Sí, tú mismo.
 Dialogue: 0,0:20:53.88,0:20:55.15,Default,,0,0,0,,Gracias.
 Dialogue: 0,0:21:15.40,0:21:17.23,Default,,0,0,0,,Al fin hemos acabado.
