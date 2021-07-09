@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -74,8 +74,8 @@ Dialogue: 0,0:03:04.47,0:03:06.18,Default,,0,0,0,,Es demasiado tarde.
 Dialogue: 0,0:03:06.31,0:03:11.50,Default,,0,0,0,,Cell finalmente ha aparecido para\Nabsorber a los Androides Nº 17 y Nº 18.
 Dialogue: 0,0:03:41.38,0:03:42.54,Default,,0,0,0,,¡Cell!
 Dialogue: 0,0:03:44.43,0:03:48.82,Default,,0,0,0,,¡Maldita sea! Estaba tan concentrado en\Nla lucha, que no he notado su presencia.
-Dialogue: 0,0:03:55.57,0:03:58.34,Default,,0,0,0,,¿Quién es ese tío tan extraño?
-Dialogue: 0,0:04:00.67,0:04:05.53,Default,,0,0,0,,¿Cómo? ¿No le conocen?\NEl Nº 17 y los otros no conocen a Cell...
+Dialogue: 0,0:03:55.57,0:03:58.34,Default,,0,0,0,,¿Quién es ese tipo tan extraño?
+Dialogue: 0,0:04:00.67,0:04:05.53,Default,,0,0,0,,¿Cómo? ¿No lo conocen?\NEl Nº 17 y los otros no conocen a Cell...
 Dialogue: 0,0:04:10.43,0:04:13.66,Default,,0,0,0,,Al fin ha llegado el día\Nque tanto he esperado...
 Dialogue: 0,0:04:13.71,0:04:19.26,Default,,0,0,0,,El día que me combinaré con el Nº 17 y\Nel Nº 18 y alcanzaré la forma perfecta.
 Dialogue: 0,0:04:20.08,0:04:21.66,Default,,0,0,0,,Nº 17...
@@ -84,7 +84,7 @@ Dialogue: 0,0:04:28.63,0:04:30.26,Default,,0,0,0,,¿Y ése quién es?
 Dialogue: 0,0:04:31.15,0:04:35.30,Default,,0,0,0,,A juzgar por el emblema de la Red Ribbon,\Nasumo que debe de tratarse de otro
 Dialogue: 0,0:04:35.31,0:04:38.06,Default,,0,0,0,,de los androides del Dr. Gero.
 Dialogue: 0,0:04:41.03,0:04:44.62,Default,,0,0,0,,Bueno, en cualquier caso,\Nse trata de un modelo antiguo.
-Dialogue: 0,0:04:44.67,0:04:46.30,Default,,0,0,0,,Sólo tengo que ignorarle.
+Dialogue: 0,0:04:44.67,0:04:46.30,Default,,0,0,0,,Sólo tengo que ignorarlo.
 Dialogue: 0,0:06:45.59,0:06:51.53,Default,,0,0,0,,¿Qué es lo que harás, Píkoro?\NEres libre de intervenir si lo deseas.
 Dialogue: 0,0:07:00.62,0:07:07.24,Default,,0,0,0,,¿A cuántas víctimas inocentes has tenido que sacrificar\N para aumentar tu poder hasta tal punto?
 Dialogue: 0,0:07:07.79,0:07:08.93,Default,,0,0,0,,¿Víctimas?
@@ -95,11 +95,11 @@ Dialogue: 0,0:07:36.03,0:07:40.70,Default,,0,0,0,,¿Cómo es posible? La energí
 Dialogue: 0,0:07:44.11,0:07:49.39,Default,,0,0,0,,Esto es el fin. Estamos indefensos.\NNo hay nada que podamos hacer.
 Dialogue: 0,0:07:53.51,0:07:57.74,Default,,0,0,0,,Por muy rápido que vaya, Bulma\Ntardará al menos veinte minutos
 Dialogue: 0,0:07:57.86,0:08:01.06,Default,,0,0,0,,en llegar hasta aquí con el control\Npara desactivar a los Androides.
-Dialogue: 0,0:08:04.23,0:08:08.04,Default,,0,0,0,,En ese caso, podéis ir a\Nbuscarlo vosotros mismos.
-Dialogue: 0,0:08:08.07,0:08:11.39,Default,,0,0,0,,De esa forma, lo tendréis antes\Nque si os quedáis esperando.
+Dialogue: 0,0:08:04.23,0:08:08.04,Default,,0,0,0,,En ese caso, pueden ir a\Nbuscarlo ustedes mismos.
+Dialogue: 0,0:08:08.07,0:08:11.39,Default,,0,0,0,,De esa forma, lo tendrán antes\Nque si se quedan esperando.
 Dialogue: 0,0:08:11.79,0:08:13.13,Default,,0,0,0,,¡Claro!
-Dialogue: 0,0:08:13.27,0:08:15.50,Default,,0,0,0,,Sois unos cabeza huecas.
-Dialogue: 0,0:08:15.54,0:08:18.50,Default,,0,0,0,,Eso os pasa por no saber\Nhacer otra cosa que luchar.
+Dialogue: 0,0:08:13.27,0:08:15.50,Default,,0,0,0,,Son unos cabeza huecas.
+Dialogue: 0,0:08:15.54,0:08:18.50,Default,,0,0,0,,Eso les pasa por no saber\Nhacer otra cosa que luchar.
 Dialogue: 0,0:08:18.51,0:08:20.34,Default,,0,0,0,,¡Iré volando a buscarlo!
 Dialogue: 0,0:08:20.47,0:08:24.46,Default,,0,0,0,,¡A máxima velocidad, soy más\Nrápido que el avión de Bulma!
 Dialogue: 0,0:08:27.95,0:08:29.17,Default,,0,0,0,,Krilin...
@@ -118,23 +118,23 @@ Dialogue: 0,0:10:00.51,0:10:02.98,Default,,0,0,0,,No sé quién eres, pero te\Ni
 Dialogue: 0,0:10:02.99,0:10:07.41,Default,,0,0,0,,Más vale que te largues.\NAhora estoy jugando con él.
 Dialogue: 0,0:10:18.67,0:10:23.47,Default,,0,0,0,,¡Nº 17! ¡Tiene intención\Nde matarte y absorberte!
 Dialogue: 0,0:10:23.51,0:10:24.78,Default,,0,0,0,,¡Escapa!\N{\1c&H607AFB&\3c&H000000&\4a&H32&\4c&H6A4604&}¿Cómo?
-Dialogue: 0,0:10:58.19,0:11:01.62,Default,,0,0,0,,Me ha pillado por sorpresa.\N¿De qué va todo esto?
+Dialogue: 0,0:10:58.19,0:11:01.62,Default,,0,0,0,,Me ha atrapado por sorpresa.\N¿De qué va todo esto?
 Dialogue: 0,0:11:01.79,0:11:05.70,Default,,0,0,0,,¿Dices que ese monstruo\Nquiere absorberme?
 Dialogue: 0,0:11:06.39,0:11:09.71,Default,,0,0,0,,En pocas palabras, su nombre\Nes Cell y es un monstruo creado
-Dialogue: 0,0:11:09.78,0:11:13.06,Default,,0,0,0,,por el ordenador del Dr. Gero.
+Dialogue: 0,0:11:09.78,0:11:13.06,Default,,0,0,0,,por la computadora del Dr. Gero.
 Dialogue: 0,0:11:14.15,0:11:17.68,Default,,0,0,0,,Aún está incompleto, pero una vez\Nos haya absorbido a ti y a la Nº 18,
 Dialogue: 0,0:11:17.74,0:11:19.92,Default,,0,0,0,,alcanzará la forma perfecta.
 Dialogue: 0,0:11:19.96,0:11:21.42,Default,,0,0,0,,¿Cómo dices?
-Dialogue: 0,0:11:22.87,0:11:24.74,Default,,0,0,0,,¡Regocijaos, hermanos!
-Dialogue: 0,0:11:24.91,0:11:29.09,Default,,0,0,0,,Cuando paséis a formar parte de mi\Ncuerpo, dará nacimiento un superser
+Dialogue: 0,0:11:22.87,0:11:24.74,Default,,0,0,0,,¡Regocíjense, hermanos!
+Dialogue: 0,0:11:24.91,0:11:29.09,Default,,0,0,0,,Cuando pasen a formar parte de mi\Ncuerpo, dará nacimiento un superser
 Dialogue: 0,0:11:29.13,0:11:32.46,Default,,0,0,0,,perfecto con un poder más grande\Nque ningún otro conocido.
 Dialogue: 0,0:11:32.51,0:11:36.08,Default,,0,0,0,,Nos convertiremos en el mismísimo\Nguerrero definitivo que el Dr. Gero
 Dialogue: 0,0:11:36.11,0:11:37.96,Default,,0,0,0,,ansió durante tantos años.
-Dialogue: 0,0:11:38.12,0:11:40.26,Default,,0,0,0,,¡Basta de chorradas!
+Dialogue: 0,0:11:38.12,0:11:40.26,Default,,0,0,0,,¡Basta de tonterias!
 Dialogue: 0,0:11:40.43,0:11:43.23,Default,,0,0,0,,¿Crees que alguien se va a\Ndejar absorber por ti?
 Dialogue: 0,0:11:43.91,0:11:47.50,Default,,0,0,0,,Si quieres un guerrero definitivo,\Naquí lo tienes.
 Dialogue: 0,0:11:47.95,0:11:54.38,Default,,0,0,0,,Tu voluntad no cuenta para nada.\NQue serás absorbido por mí es un hecho.
-Dialogue: 0,0:11:54.67,0:11:57.63,Default,,0,0,0,,¡Cierra esa bocaza insolente!
+Dialogue: 0,0:11:54.67,0:11:57.63,Default,,0,0,0,,¡Cierra la boca insolente!
 Dialogue: 0,0:11:58.07,0:11:59.94,Default,,0,0,0,,¡Escapa, Nº 17!
 Dialogue: 0,0:12:01.43,0:12:04.45,Default,,0,0,0,,¡La fuerza de combate del\Nenemigo es demasiado grande!
 Dialogue: 0,0:12:06.39,0:12:08.94,Default,,0,0,0,,¡No podemos permitir que\Nalcance la forma perfecta!
@@ -164,9 +164,9 @@ Dialogue: 0,0:19:16.88,0:19:20.96,Default,,0,0,0,,Parece que me he vuelto\Ndemas
 Dialogue: 0,0:19:21.33,0:19:25.70,Default,,0,0,0,,Eso es porque me he entusiasmado a la\Nhora de absorber energía y he matado
 Dialogue: 0,0:19:25.70,0:19:27.88,Default,,0,0,0,,a más humanos de los necesarios.
 Dialogue: 0,0:19:32.25,0:19:33.72,Default,,0,0,0,,Nos vemos.
-Dialogue: 0,0:19:51.89,0:19:54.12,Default,,0,0,0,,Se lo ha cargado...
+Dialogue: 0,0:19:51.89,0:19:54.12,Default,,0,0,0,,Ha acabado con él...
 Dialogue: 0,0:20:28.37,0:20:32.37,Default,,0,0,0,,Su energía ha desaparecido.\N¿No hemos llegado a tiempo?
-Dialogue: 0,0:20:35.29,0:20:37.01,Default,,0,0,0,,¡Dios!
+Dialogue: 0,0:20:35.29,0:20:37.01,Default,,0,0,0,,¡Kami sama!
 Dialogue: 0,0:20:52.33,0:20:53.10,Default,,0,0,0,,¡Gohan!
 Dialogue: 0,0:20:53.95,0:20:55.40,Default,,0,0,0,,¡Espera, Gohan!
 Dialogue: 0,0:20:57.81,0:21:01.48,Default,,0,0,0,,¡Píkoro! ¡Píkoro!
