@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -81,26 +81,26 @@ Dialogue: 0,0:05:08.80,0:05:12.50,Default,,0,0,0,,Ese monstruo con poder suficie
 Dialogue: 0,0:05:12.52,0:05:15.50,Default,,0,0,0,,población en un pueblo\Nfantasma en un instante.
 Dialogue: 0,0:05:36.00,0:05:39.20,Default,,0,0,0,,¿Hasta cuándo durará este\Nreinado de terror?
 Dialogue: 0,0:05:43.04,0:05:46.67,Default,,0,0,0,,¿Dónde se encuentra en estos momentos\Ny qué es lo que está haciendo?
-Dialogue: 0,0:05:49.48,0:05:53.35,Default,,0,0,0,,Los equipos de investigación están\Npeinando la zona, pero aún no han podido
+Dialogue: 0,0:05:49.48,0:05:53.35,Default,,0,0,0,,Los equipos de investigación están\Ninvestigando la zona, pero aún no han podido
 Dialogue: 0,0:05:53.48,0:05:55.19,Default,,0,0,0,,dar con su paradero.
 Dialogue: 0,0:05:57.32,0:05:59.75,Default,,0,0,0,,Eso es todo desde el\Nlugar de los hechos.
 Dialogue: 0,0:06:00.16,0:06:04.97,Default,,0,0,0,,Sí. Lo que acaban de ver era una\Ntransmisión en directo desde Nickytown.
 Dialogue: 0,0:06:05.07,0:06:08.02,Default,,0,0,0,,Todo parece indicar que\Neste desastre continuará.
 Dialogue: 0,0:06:08.30,0:06:10.30,Default,,0,0,0,,Les rogamos a todos que\Ntengan mucho cuidado.
-Dialogue: 0,0:06:14.32,0:06:17.39,Default,,0,0,0,,¿Que tengan cuidado?\NQué chiste más bueno.
+Dialogue: 0,0:06:14.32,0:06:17.39,Default,,0,0,0,,¿Que tengan cuidado?\NQué buen chiste.
 Dialogue: 0,0:06:46.60,0:06:47.79,Default,,0,0,0,,¿Sientes algo?
 Dialogue: 0,0:06:47.96,0:06:51.97,Default,,0,0,0,,No. Pero estoy seguro de haber\Nsentido su energía hace un momento.
 Dialogue: 0,0:06:52.64,0:06:57.31,Default,,0,0,0,,¡Maldición! ¡Tenemos que impedir\Nque alcance la forma perfecta!
 Dialogue: 0,0:07:20.04,0:07:21.18,Default,,0,0,0,,¡Hermana!
 Dialogue: 0,0:08:14.60,0:08:16.07,Default,,0,0,0,,¿Krilin?
 Dialogue: 0,0:08:16.36,0:08:18.50,Default,,0,0,0,,Has sido muy amable\Nde venir a verme.
-Dialogue: 0,0:08:20.52,0:08:22.85,Default,,0,0,0,,No podía dejar que pincharas\Na esta gente.
+Dialogue: 0,0:08:20.52,0:08:22.85,Default,,0,0,0,,No podía dejar que picaras\Na esta gente.
 Dialogue: 0,0:08:23.96,0:08:28.40,Default,,0,0,0,,Tomo un atajo para volver a la\NKame House y mira lo que me encuentro...
 Dialogue: 0,0:08:28.42,0:08:29.75,Default,,0,0,0,,Esto...
 Dialogue: 0,0:08:31.76,0:08:33.59,Default,,0,0,0,,Muchas gracias.
-Dialogue: 0,0:08:34.45,0:08:37.59,Default,,0,0,0,,No ha sido nada...\NRápido, escapad.
+Dialogue: 0,0:08:34.45,0:08:37.59,Default,,0,0,0,,No ha sido nada...\NRápido, escapen.
 Dialogue: 0,0:08:37.76,0:08:39.51,Default,,0,0,0,,-Sí.\N-¡Gracias!
-Dialogue: 0,0:08:46.32,0:08:48.70,Default,,0,0,0,,A mí ya me está bien.
+Dialogue: 0,0:08:46.32,0:08:48.70,Default,,0,0,0,,Por mi está bien.
 Dialogue: 0,0:08:48.84,0:08:53.67,Default,,0,0,0,,Así podré tomar tu\Nenergía vital primero.
 Dialogue: 0,0:09:00.32,0:09:01.79,Default,,0,0,0,,¡Rápido, sube!
 Dialogue: 0,0:09:21.04,0:09:22.35,Default,,0,0,0,,¡Vamos!
@@ -139,7 +139,7 @@ Dialogue: 0,0:15:14.75,0:15:15.84,Default,,0,0,0,,Padre...
 Dialogue: 0,0:15:17.24,0:15:20.94,Default,,0,0,0,,Mamá, voy a intentar\Nentrenar con mi padre.
 Dialogue: 0,0:15:21.84,0:15:26.22,Default,,0,0,0,,Si él consigue sobrepasar el poder del\NSúper Saiyajin, ¿por qué no voy a poder yo?
 Dialogue: 0,0:15:28.84,0:15:29.95,Default,,0,0,0,,Mamá...
-Dialogue: 0,0:15:39.36,0:15:42.11,Default,,0,0,0,,Maldición... le hemos perdido de nuevo.
+Dialogue: 0,0:15:39.36,0:15:42.11,Default,,0,0,0,,Maldición... lo hemos perdido de nuevo.
 Dialogue: 0,0:15:43.40,0:15:46.99,Default,,0,0,0,,Si es capaz de detectar nuestra\Nenergía y escapar de esta forma,
 Dialogue: 0,0:15:47.12,0:15:49.31,Default,,0,0,0,,nunca lo atraparemos.
 Dialogue: 0,0:16:10.92,0:16:15.27,Default,,0,0,0,,Si continúo absorbiendo energías vitales\Na este ritmo, no tardará en llegar
@@ -148,8 +148,8 @@ Dialogue: 0,0:16:37.40,0:16:40.87,Default,,0,0,0,,¿Es que no hay carreteras\Nde
 Dialogue: 0,0:16:42.08,0:16:44.31,Default,,0,0,0,,Así es más divertido.
 Dialogue: 0,0:16:49.68,0:16:53.19,Default,,0,0,0,,Nº 16, ¿aún falta mucho para\Nllegar a casa de Gokú?
 Dialogue: 0,0:16:53.48,0:16:56.35,Default,,0,0,0,,No. Ya estamos cerca.
-Dialogue: 0,0:16:56.37,0:17:01.95,Default,,0,0,0,,No sé cómo podéis ser tan pasotas.\NHaré las cosas más fáciles.
-Dialogue: 0,0:17:26.28,0:17:28.55,Default,,0,0,0,,¿Veis? Mucho mejor.
+Dialogue: 0,0:16:56.37,0:17:01.95,Default,,0,0,0,,No sé cómo pueden tomarselo tan a la ligera.\NHaré las cosas más fáciles.
+Dialogue: 0,0:17:26.28,0:17:28.55,Default,,0,0,0,,¿Ven? Mucho mejor.
 Dialogue: 0,0:17:29.68,0:17:35.23,Default,,0,0,0,,¿Por qué has tenido que hacer eso?\NAsí no tiene ninguna gracia.
 Dialogue: 0,0:17:35.40,0:17:41.19,Default,,0,0,0,,Eres muy raro. Aún quedan\Ndemasiados rasgos humanos en ti.
 Dialogue: 0,0:17:46.48,0:17:50.67,Default,,0,0,0,,Y de esta forma pasaron uno,\Ndos y hasta tres días.
@@ -165,9 +165,9 @@ Dialogue: 0,0:18:29.64,0:18:33.24,Default,,0,0,0,,Tenemos que acabar con él ant
 Dialogue: 0,0:18:33.42,0:18:34.80,Default,,0,0,0,,y alcance la forma perfecta.
 Dialogue: 0,0:18:35.92,0:18:37.75,Default,,0,0,0,,Ahora podemos conseguirlo.
 Dialogue: 0,0:18:37.88,0:18:39.08,Default,,0,0,0,,Claro que sí.
-Dialogue: 0,0:18:39.08,0:18:43.71,Default,,0,0,0,,Tenemos con nosotros a Píkoro, que se\N ha fusionado con Dios y es increíblemente fuerte.
+Dialogue: 0,0:18:39.08,0:18:43.71,Default,,0,0,0,,Tenemos con nosotros a Píkoro, que se\N ha fusionado con Kami sama y es increíblemente fuerte.
 Dialogue: 0,0:18:43.73,0:18:45.71,Default,,0,0,0,,Cell es muy astuto.
-Dialogue: 0,0:18:46.44,0:18:50.06,Default,,0,0,0,,Por mucho que nos acerquemos,\Nsi se oculta, no le encontraremos.
+Dialogue: 0,0:18:46.44,0:18:50.06,Default,,0,0,0,,Por mucho que nos acerquemos,\Nsi se oculta, no lo encontraremos.
 Dialogue: 0,0:19:03.52,0:19:06.75,Default,,0,0,0,,¿Qué ha sido eso?\N¿Nos están atacando los Androides?
 Dialogue: 0,0:19:12.80,0:19:17.06,Default,,0,0,0,,¿A qué vienen esos gritos? ¿Y por qué\Nme has tirado el agua por encima?
 Dialogue: 0,0:19:21.06,0:19:23.88,Default,,0,0,0,,Hacía mucho que una chica\Nno me hacía sentir así.
@@ -186,19 +186,19 @@ Dialogue: 0,0:20:46.66,0:20:52.02,Default,,0,0,0,,Siento haber hecho que te preo
 Dialogue: 0,0:20:53.44,0:20:55.28,Default,,0,0,0,,¿De verdad que estás bien?
 Dialogue: 0,0:20:56.26,0:20:58.87,Default,,0,0,0,,Sí, compruébalo tú misma.
 Dialogue: 0,0:20:59.04,0:21:00.47,Default,,0,0,0,,¡Gokú!
-Dialogue: 0,0:21:02.22,0:21:03.77,Default,,0,0,0,,¡Anda, déjalo ya!
-Dialogue: 0,0:21:09.00,0:21:11.86,Default,,0,0,0,,Creo que me he pasado un poco.
+Dialogue: 0,0:21:02.22,0:21:03.77,Default,,0,0,0,,¡Ya, detente!
+Dialogue: 0,0:21:09.00,0:21:11.86,Default,,0,0,0,,Creo que me pase un poco.
 Dialogue: 0,0:21:14.92,0:21:16.22,Default,,0,0,0,,¡Gokú!
 Dialogue: 0,0:21:16.22,0:21:17.67,Default,,0,0,0,,Lo siento.
 Dialogue: 0,0:21:18.96,0:21:20.10,Default,,0,0,0,,¡Gokú!
 Dialogue: 0,0:21:20.24,0:21:21.38,Default,,0,0,0,,¡Viejo!
 Dialogue: 0,0:21:21.56,0:21:23.31,Default,,0,0,0,,¿Ya te encuentras bien?
 Dialogue: 0,0:21:23.44,0:21:25.79,Default,,0,0,0,,Sí, estoy perfectamente.
-Dialogue: 0,0:21:26.84,0:21:29.80,Default,,0,0,0,,He escuchado todo lo que\Ndecíais en sueños.
+Dialogue: 0,0:21:26.84,0:21:29.80,Default,,0,0,0,,He escuchado todo lo que\Ndecían en sueños.
 Dialogue: 0,0:21:29.86,0:21:31.86,Default,,0,0,0,,Se más o menos, lo que pasa.
 Dialogue: 0,0:21:32.26,0:21:35.46,Default,,0,0,0,,Parece que las cosas han\Nvuelto a ponerse feas.
 Dialogue: 0,0:21:35.97,0:21:38.37,Default,,0,0,0,,Gokú, ¿no irás a...?
-Dialogue: 0,0:21:38.40,0:21:41.42,Default,,0,0,0,,¡Tienes que estar de broma!\N¿Tienes intención de luchar?.
+Dialogue: 0,0:21:38.40,0:21:41.42,Default,,0,0,0,,¡Tienes que estar bromeando!\N¿Tienes intención de luchar?.
 Dialogue: 0,0:21:41.48,0:21:42.71,Default,,0,0,0,,¡Te matarán!
 Dialogue: 0,0:21:43.40,0:21:46.55,Default,,0,0,0,,No te preocupes, no voy\Na luchar todavía.
 Dialogue: 0,0:21:46.68,0:21:49.71,Default,,0,0,0,,Si Vegeta no puede ganarles,\Nentonces yo tampoco puedo.
@@ -244,9 +244,9 @@ Dialogue: 0,0:24:08.67,0:24:11.26,Default,,0,0,0,,{\pos(340.619,102.81)}Avance
 Dialogue: 0,0:24:12.01,0:24:13.72,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:14.09,0:24:16.16,Default,,0,0,0,,Me llevaré a Gohan e iremos a...
 Dialogue: 0,0:24:16.48,0:24:19.52,Default,,0,0,0,,un lugar en donde puedes hacer\N el entrenamiento de un año en un sólo día.
-Dialogue: 0,0:24:19.52,0:24:21.09,Default,,0,0,0,,¡Vegeta, hacedlo vosotros también!
+Dialogue: 0,0:24:19.52,0:24:21.09,Default,,0,0,0,,¡Vegeta, haganlo ustedes también!
 Dialogue: 0,0:24:21.09,0:24:22.69,Default,,0,0,0,,¡Date prisa y hazlo, Goku!
 Dialogue: 0,0:24:22.69,0:24:26.17,Default,,0,0,0,,Si Cell alcanza su forma perfecta,\N será muy tarde para cualquier cosa.
 Dialogue: 0,0:24:26.59,0:24:28.60,Default,,0,0,0,,Próximamente en Dragon Ball Z
-Dialogue: 0,0:24:28.60,0:24:31.92,Default,,0,0,0,,¡Acelerad el entrenamiento, Saiyajins!\NEn la Sala del Espíritu y el Tiempo...
-Dialogue: 0,0:24:32.27,0:24:36.18,Default,,0,0,0,,¡Está bien, yo también superaré\N el límite de Súper Saiyajin!
+Dialogue: 0,0:24:28.60,0:24:31.92,Default,,0,0,0,,¡Aceleren el entrenamiento, Saiyajins!\NEn la Sala del Espíritu y el Tiempo...
+Dialogue: 0,0:24:32.27,0:24:36.18,Default,,0,0,0,,¡Está bien, yo también superaré\N el límite del Súper Saiyajin!
