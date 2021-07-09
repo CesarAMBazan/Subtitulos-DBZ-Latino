@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -71,16 +71,16 @@ Dialogue: 0,0:02:29.21,0:02:31.07,Default,,0,0,0,,¡Esto no ha hecho más que em
 Dialogue: 0,0:02:34.08,0:02:35.96,Default,,0,0,0,,Esa energía es la de Píkoro.
 Dialogue: 0,0:02:35.98,0:02:39.00,Default,,0,0,0,,Y el único adversario contra el que\Nnecesitaría desplegar tanto poder
 Dialogue: 0,0:02:39.13,0:02:42.53,Default,,0,0,0,,son el Nº 17 y el Nº 18.\N¡Esperadme!
-Dialogue: 0,0:02:42.54,0:02:46.51,Default,,0,0,0,,¡Mi poder ya es más grande\Nque el vuestro!
+Dialogue: 0,0:02:42.54,0:02:46.51,Default,,0,0,0,,¡Mi poder ya es más grande\Nque el suyo!
 Dialogue: 0,0:02:51.53,0:02:57.08,Default,,0,0,0,,En su búsqueda de la forma perfecta,\NCell ha comenzado a moverse.
 Dialogue: 0,0:02:57.89,0:03:02.20,Default,,0,0,0,,Los peores temores están a\Npunto de hacerse realidad.
 Dialogue: 0,0:03:40.01,0:03:43.40,Default,,0,0,0,,Para no ser un androide,\Ntienes un poder extraordinario.
-Dialogue: 0,0:03:44.33,0:03:47.95,Default,,0,0,0,,Parece que es cierto que no eres\NPíkoro Daimaoh.
+Dialogue: 0,0:03:44.33,0:03:47.95,Default,,0,0,0,,Parece que es cierto que no eres\NPíkoro Daimakú.
 Dialogue: 0,0:03:51.37,0:03:55.76,Default,,0,0,0,,Obviamente, no me interesa lo más\Nmínimo saber quién eres.
 Dialogue: 0,0:03:56.37,0:03:58.93,Default,,0,0,0,,Sólo quiero saber dónde\Nestá Son Gokú.
 Dialogue: 0,0:03:59.73,0:04:03.08,Default,,0,0,0,,Supongo que sigues empeñado en\Nno querer decírnoslo, ¿verdad?
-Dialogue: 0,0:04:03.69,0:04:06.84,Default,,0,0,0,,Vuestro objetivo es acabar con Gokú.
-Dialogue: 0,0:04:09.33,0:04:12.52,Default,,0,0,0,,No veo ninguna razón para\Ndeciros dónde está.
+Dialogue: 0,0:04:03.69,0:04:06.84,Default,,0,0,0,,Su objetivo es acabar con Gokú.
+Dialogue: 0,0:04:09.33,0:04:12.52,Default,,0,0,0,,No veo ninguna razón para\Ndecirles dónde está.
 Dialogue: 0,0:04:13.53,0:04:19.20,Default,,0,0,0,,En ese caso, ¿qué te parece si seguimos\Nluchando hasta que hables?
 Dialogue: 0,0:04:23.13,0:04:25.72,Default,,0,0,0,,Esta vez lucharé en serio.
 Dialogue: 0,0:06:09.25,0:06:14.27,Default,,0,0,0,,Tu velocidad es aceptable, pero\Ntus puños carecen de fuerza.
@@ -90,7 +90,7 @@ Dialogue: 0,0:06:21.41,0:06:26.40,Default,,0,0,0,,A mí, el más fuerte de todos
 Dialogue: 0,0:07:16.98,0:07:22.00,Default,,0,0,0,,Es realmente fuerte.\NEstán muy igualados.
 Dialogue: 0,0:07:35.25,0:07:37.28,Default,,0,0,0,,¡Aguanta, Píkoro!
 Dialogue: 0,0:07:38.53,0:07:44.52,Default,,0,0,0,,¡Sigue así, Píkoro! ¡Hasta que Vegeta\Ny Trunks hayan acabado su entrenamiento!
-Dialogue: 0,0:09:45.21,0:09:49.29,Default,,0,0,0,,¿Cuántas islas tenéis que destruir\Nantes de daros por satisfechos?
+Dialogue: 0,0:09:45.21,0:09:49.29,Default,,0,0,0,,¿Cuántas islas tienen que destruir\Npara que esten satisfechos?
 Dialogue: 0,0:10:07.54,0:10:11.84,Default,,0,0,0,,Increíble... parece que Píkoro\Nestá aguantando.
 Dialogue: 0,0:10:15.33,0:10:20.08,Default,,0,0,0,,¡Maldición! ¿Tenemos que quedarnos\Naquí de brazos cruzados?
 Dialogue: 0,0:10:32.61,0:10:34.12,Default,,0,0,0,,¿Cómo es posible?
@@ -111,7 +111,7 @@ Dialogue: 0,0:12:32.33,0:12:34.24,Default,,0,0,0,,Bueno, es que...
 Dialogue: 0,0:12:34.25,0:12:36.20,Default,,0,0,0,,tú eres la madre, ¿no?
 Dialogue: 0,0:12:36.33,0:12:44.28,Default,,0,0,0,,¡A ver si cuidas un poco más de tu\Nmocoso! ¡Ya me estoy hartando!
 Dialogue: 0,0:12:44.45,0:12:51.24,Default,,0,0,0,,Si le prestas tan poca atención, luego\Nque no te extrañe que se vuelva malo.
-Dialogue: 0,0:12:53.69,0:12:57.04,Default,,0,0,0,,¡Chorradas! No hay necesidad\Nde preocuparse por eso.
+Dialogue: 0,0:12:53.69,0:12:57.04,Default,,0,0,0,,¡Tonterias! No hay necesidad\Nde preocuparse por eso.
 Dialogue: 0,0:12:58.21,0:13:02.75,Default,,0,0,0,,Después de todo, Trunks se convertirá\Nen un joven encantador y atractivo.
 Dialogue: 0,0:13:03.85,0:13:05.60,Default,,0,0,0,,¿Verdad, Trunks?
 Dialogue: 0,0:13:05.63,0:13:08.76,Default,,0,0,0,,¿Ahora sí? ¿Ya has terminado?
@@ -122,16 +122,16 @@ Dialogue: 0,0:15:54.81,0:15:57.34,Default,,0,0,0,,¿Y cómo quieres que lo sepa?
 Dialogue: 0,0:15:58.17,0:16:03.63,Default,,0,0,0,,Si ese monstruo Cell absorbe\Na los Androides ahora,
 Dialogue: 0,0:16:03.82,0:16:07.44,Default,,0,0,0,,todas nuestras esperanzas\Nse desvanecerán.
 Dialogue: 0,0:16:07.57,0:16:09.08,Default,,0,0,0,,¡Maldición!
-Dialogue: 0,0:16:11.25,0:16:14.84,Default,,0,0,0,,¡Krilin, Bulma al teléfono\Npara ti! ¡Cógelo!
+Dialogue: 0,0:16:11.25,0:16:14.84,Default,,0,0,0,,¡Krilin, Bulma al teléfono\Npara ti! ¡Contesta!
 Dialogue: 0,0:16:15.77,0:16:19.64,Default,,0,0,0,,¡Dice algo sobre que ha encontrado\Nun punto débil en los Androides!
 Dialogue: 0,0:16:20.13,0:16:21.60,Default,,0,0,0,,¿Cómo dices?
-Dialogue: 0,0:16:22.77,0:16:27.96,Default,,0,0,0,,Eso es. El Nº 17 y el Nº 1 8 tienen un\Ncircuito de desactivación de emergencia
+Dialogue: 0,0:16:22.77,0:16:27.96,Default,,0,0,0,,Eso es. El Nº 17 y el Nº 18 tienen un\Ncircuito de desactivación de emergencia
 Dialogue: 0,0:16:27.98,0:16:29.92,Default,,0,0,0,,incorporado en sus cuerpos.
 Dialogue: 0,0:16:29.93,0:16:33.90,Default,,0,0,0,,Una vez desactivemos la actividad en\Nesos circuitos, entonces por muy
-Dialogue: 0,0:16:33.96,0:16:36.48,Default,,0,0,0,,Androides que sean, podréis\Ndestruirlos fácilmente.
+Dialogue: 0,0:16:33.96,0:16:36.48,Default,,0,0,0,,Androides que sean, podrán\Ndestruirlos fácilmente.
 Dialogue: 0,0:16:37.29,0:16:40.96,Default,,0,0,0,,Acabo de completar un\Ncontrol para hacerlo.
 Dialogue: 0,0:16:41.21,0:16:43.88,Default,,0,0,0,,Di, ¿podemos destruir\Na los Androides?
-Dialogue: 0,0:16:46.73,0:16:49.88,Default,,0,0,0,,Perdona, ¿podrías traérnoslo\Nahora mismo?
+Dialogue: 0,0:16:46.73,0:16:49.88,Default,,0,0,0,,Disculpa, ¿podrías traérnoslo\Nahora mismo?
 Dialogue: 0,0:16:50.01,0:16:53.48,Default,,0,0,0,,En estos momentos, Píkoro está\Nluchando con los Androides.
 Dialogue: 0,0:16:53.77,0:16:55.66,Default,,0,0,0,,Claro. Saldré ahora mismo.
 Dialogue: 0,0:16:57.25,0:17:00.86,Default,,0,0,0,,¡Genial! Si destruimos al Nº 17\Ny a los otros, Cell no podrá
@@ -139,8 +139,8 @@ Dialogue: 0,0:17:00.94,0:17:02.96,Default,,0,0,0,,alcanzar la forma perfecta.
 Dialogue: 0,0:17:15.34,0:17:17.00,Default,,0,0,0,,¿Destruirlos?
 Dialogue: 0,0:17:19.21,0:17:19.98,Default,,0,0,0,,¿Qué?
 Dialogue: 0,0:17:23.41,0:17:24.52,Default,,0,0,0,,Nada...
-Dialogue: 0,0:17:25.57,0:17:28.44,Default,,0,0,0,,Bueno, tengo que irme. Cuidad de él.
-Dialogue: 0,0:17:28.57,0:17:33.92,Default,,0,0,0,,¿Cómo que ''cuidad de él''?\N¡No puedes abandonarlo de esta manera!
+Dialogue: 0,0:17:25.57,0:17:28.44,Default,,0,0,0,,Bueno, tengo que irme. Cuiden de él.
+Dialogue: 0,0:17:28.57,0:17:33.92,Default,,0,0,0,,¿Cómo que ''cuiden de él''?\N¡No puedes abandonarlo de esta manera!
 Dialogue: 0,0:17:33.97,0:17:38.04,Default,,0,0,0,,¡La Tierra está en peligro!\N¡Déjame ir!
 Dialogue: 0,0:17:47.68,0:17:52.40,Default,,0,0,0,,¡Papá! ¡Cell...!\N¡Cell ha comenzado a moverse!
 Dialogue: 0,0:17:53.01,0:17:55.04,Default,,0,0,0,,Si. Ya lo sé.
@@ -187,7 +187,7 @@ Dialogue: 0,0:23:46.71,0:23:51.63,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuk
 Dialogue: 0,0:23:54.56,0:24:00.47,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:24:06.80,0:24:10.09,Default,,0,0,0,,{\pos(340.619,102.81)}Avance
 Dialogue: 0,0:24:10.38,0:24:12.11,Default,,0,0,0,,¡Hola, soy Gokú!
-Dialogue: 0,0:24:12.11,0:24:16.39,Default,,0,0,0,,Joder, vaya ki. Cell ha elevado\N su poder a lo bestia.
+Dialogue: 0,0:24:12.11,0:24:16.39,Default,,0,0,0,,Increible, vaya ki. Cell ha incrementado\Ngrandemente su poder.
 Dialogue: 0,0:24:16.39,0:24:19.12,Default,,0,0,0,,¡Detente, Píkoro!\N ¡Ni siquiera tú, eres rival para él!
 Dialogue: 0,0:24:19.12,0:24:22.66,Default,,0,0,0,,¡Maldito seas, Cell!\N ¡¿A cuántas personas has asesinado?!
 Dialogue: 0,0:24:22.66,0:24:25.13,Default,,0,0,0,,¡De ninguna manera, dejaré\N que alcances tu forma perfecta!
