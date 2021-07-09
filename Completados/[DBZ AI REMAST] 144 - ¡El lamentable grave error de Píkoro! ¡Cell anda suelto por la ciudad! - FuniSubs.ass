@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -72,11 +72,11 @@ Dialogue: 0,0:02:07.00,0:02:08.77,Default,,0,0,0,,¿Cómo es posible?
 Dialogue: 0,0:02:10.88,0:02:13.11,Default,,0,0,0,,¡Ha!
 Dialogue: 0,0:02:13.12,0:02:14.24,Default,,0,0,0,,¡Es el auténtico!
 Dialogue: 0,0:02:21.30,0:02:26.42,Default,,0,0,0,,Antes de absorberme, quiero que me\Ndigas algo. ¿Quién diablos eres?
-Dialogue: 0,0:02:27.54,0:02:33.57,Default,,0,0,0,,Mi nombre es Cell. Soy un Androide\Nconcebido por el ordenador del Dr. Gero.
+Dialogue: 0,0:02:27.54,0:02:33.57,Default,,0,0,0,,Mi nombre es Cell. Soy un Androide\Nconcebido por la computadora del Dr. Gero.
 Dialogue: 0,0:02:35.62,0:02:43.50,Default,,0,0,0,,Después de absorber a los Androides Nº 17\Ny Nº 18 alcanzaré mi forma perfecta.
 Dialogue: 0,0:02:43.50,0:02:47.05,Default,,0,0,0,,Por eso viajé atrás en el\Ntiempo hasta esta época.
 Dialogue: 0,0:02:47.26,0:02:50.41,Default,,0,0,0,,Cell ha resultado ser un\Nmonstruo sorprendente.
-Dialogue: 0,0:02:50.58,0:02:55.33,Default,,0,0,0,,Es necesario detenerle a toda costa\Nantes de que alcance su forma perfecta.
+Dialogue: 0,0:02:50.58,0:02:55.33,Default,,0,0,0,,Es necesario detenerlo a toda costa\Nantes de que alcance su forma perfecta.
 Dialogue: 0,0:02:55.98,0:03:00.49,Default,,0,0,0,,Gracias. Ahora todos los\Nmisterios han quedado resueltos.
 Dialogue: 0,0:03:08.50,0:03:10.93,Default,,0,0,0,,Ha sido de lo más didáctico.
 Dialogue: 0,0:03:12.18,0:03:13.53,Default,,0,0,0,,Tú...
@@ -85,32 +85,32 @@ Dialogue: 0,0:04:41.30,0:04:47.33,Default,,0,0,0,,Cell, incluso teniendo en cuen
 Dialogue: 0,0:04:48.10,0:04:54.13,Default,,0,0,0,,mi poder sigue siendo mucho más\Ngrande que el tuyo. Prepárate.
 Dialogue: 0,0:04:56.54,0:05:02.37,Default,,0,0,0,,Has sido muy listo fingiendo perder\Nun brazo para hacerme hablar.
 Dialogue: 0,0:05:06.90,0:05:10.25,Default,,0,0,0,,Tienes una mente muy aguda.
-Dialogue: 0,0:05:11.54,0:05:15.05,Default,,0,0,0,,Ésa ha sido la sabiduría del\Nque antes era Dios, no la mía.
+Dialogue: 0,0:05:11.54,0:05:15.05,Default,,0,0,0,,Ésa ha sido la sabiduría del\Nque antes era Kami sama, no la mía.
 Dialogue: 0,0:05:15.18,0:05:16.53,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:05:20.42,0:05:21.48,Default,,0,0,0,,Claro...
-Dialogue: 0,0:05:22.02,0:05:25.37,Default,,0,0,0,,¡Eres el resultado de la\Nunión de Píkoro y Dios!
+Dialogue: 0,0:05:22.02,0:05:25.37,Default,,0,0,0,,¡Eres el resultado de la\Nunión de Píkoro y Kami sama!
 Dialogue: 0,0:05:26.22,0:05:30.77,Default,,0,0,0,,Estás en lo cierto.\NAl fin te has dado cuenta, ¿no?
-Dialogue: 0,0:05:31.62,0:05:36.41,Default,,0,0,0,,Eso significa que las bolas de\Ndragón también han desaparecido.
+Dialogue: 0,0:05:31.62,0:05:36.41,Default,,0,0,0,,Eso significa que las esferas del\Ndragón también han desaparecido.
 Dialogue: 0,0:05:37.46,0:05:40.81,Default,,0,0,0,,Una vez alguien muera,\Nno podrá regresar a la vida.
 Dialogue: 0,0:05:43.82,0:05:46.20,Default,,0,0,0,,Qué conveniente...
 Dialogue: 0,0:05:48.06,0:05:50.57,Default,,0,0,0,,No me extraña que seas tan fuerte.
 Dialogue: 0,0:05:50.74,0:05:53.65,Default,,0,0,0,,Aunque sigues teniendo\Nel aspecto de Píkoro.
 Dialogue: 0,0:05:54.98,0:05:58.60,Default,,0,0,0,,Aún no conoces mi auténtica fuerza.
 Dialogue: 0,0:05:58.74,0:06:02.93,Default,,0,0,0,,Deja que te muestre el verdadero\Nalcance de mi poder.
-Dialogue: 0,0:06:26.74,0:06:29.77,Default,,0,0,0,,No hay duda, se ha\Nfusionado con Dios.
+Dialogue: 0,0:06:26.74,0:06:29.77,Default,,0,0,0,,No hay duda, se ha\Nfusionado con Kami sama.
 Dialogue: 0,0:06:31.42,0:06:32.93,Default,,0,0,0,,¿Y quién es ése?
 Dialogue: 0,0:06:38.10,0:06:43.41,Default,,0,0,0,,Seguramente es el monstruo\Nque salió de ese caparazón.
 Dialogue: 0,0:06:44.38,0:06:47.61,Default,,0,0,0,,Trunks... ¿qué está haciendo aquí?
 Dialogue: 0,0:06:47.86,0:06:52.72,Default,,0,0,0,,Claro. Así que él también vino a esta\Népoca con la máquina del tiempo.
 Dialogue: 0,0:07:00.66,0:07:02.21,Default,,0,0,0,,Qué estúpido.
-Dialogue: 0,0:07:03.22,0:07:08.65,Default,,0,0,0,,Le maté en el futuro y ahora viene a\Nesta época para que le vuelva a matar.
+Dialogue: 0,0:07:03.22,0:07:08.65,Default,,0,0,0,,Lo maté en el futuro y ahora viene a\Nesta época para que lo vuelva a matar.
 Dialogue: 0,0:07:21.02,0:07:22.93,Default,,0,0,0,,Es un monstruo...
 Dialogue: 0,0:07:27.02,0:07:30.93,Default,,0,0,0,,¿Él es el que ha matado a\Nla gente de Gingertown?
-Dialogue: 0,0:07:31.10,0:07:37.20,Default,,0,0,0,,Así es. Tened cuidado con su cola.\NLa utiliza para acabar con sus víctimas.
+Dialogue: 0,0:07:31.10,0:07:37.20,Default,,0,0,0,,Así es. Tengan cuidado con su cola.\NLa utiliza para acabar con sus víctimas.
 Dialogue: 0,0:07:38.02,0:07:42.73,Default,,0,0,0,,¿Por qué desprende la energía de Gokú,\NTen Shin Han y los otros?
-Dialogue: 0,0:07:42.86,0:07:47.69,Default,,0,0,0,,Ya os lo contaré más tarde.\NPrimero tenemos que acabar con él.
+Dialogue: 0,0:07:42.86,0:07:47.69,Default,,0,0,0,,Ya se los contaré más tarde.\NPrimero tenemos que acabar con él.
 Dialogue: 0,0:07:48.14,0:07:50.41,Default,,0,0,0,,¿Acabar conmigo, dices?
-Dialogue: 0,0:07:52.02,0:07:55.77,Default,,0,0,0,,¿Creéis que será tan fácil?
+Dialogue: 0,0:07:52.02,0:07:55.77,Default,,0,0,0,,¿Creen que será tan fácil?
 Dialogue: 0,0:07:56.62,0:07:58.77,Default,,0,0,0,,¡Ha hablado!
 Dialogue: 0,0:07:59.14,0:08:04.49,Default,,0,0,0,,En estas circunstancias, no creo que\Ntengas muchas posibilidades de ganar.
 Dialogue: 0,0:08:04.62,0:08:08.57,Default,,0,0,0,,Es cierto, la única opción\Nque me queda es escapar.
@@ -126,9 +126,9 @@ Dialogue: 0,0:08:40.62,0:08:44.02,Default,,0,0,0,,Oh, así que Son Gokú sigue v
 Dialogue: 0,0:08:44.37,0:08:45.89,Default,,0,0,0,,¡Claro que sí!
 Dialogue: 0,0:08:46.18,0:08:49.61,Default,,0,0,0,,Así que sigue vivo...
 Dialogue: 0,0:08:54.22,0:09:00.56,Default,,0,0,0,,Parece que las cosas difieren ligeramente\Nde la historia tal y como yo la conozco.
-Dialogue: 0,0:09:02.98,0:09:07.81,Default,,0,0,0,,¡Os prometo que absorberé\Nal Nº 17 y al Nº 18!
-Dialogue: 0,0:09:11.90,0:09:15.95,Default,,0,0,0,,¡Por mucho que tratéis de evitar\Nque alcance mi forma perfecta,
-Dialogue: 0,0:09:15.95,0:09:17.52,Default,,0,0,0,,no conseguiréis nada!
+Dialogue: 0,0:09:02.98,0:09:07.81,Default,,0,0,0,,¡Les prometo que absorberé\Nal Nº 17 y al Nº 18!
+Dialogue: 0,0:09:11.90,0:09:15.95,Default,,0,0,0,,¡Por mucho que traten de evitar\Nque alcance mi forma perfecta,
+Dialogue: 0,0:09:15.95,0:09:17.52,Default,,0,0,0,,no conseguiran nada!
 Dialogue: 0,0:09:17.52,0:09:20.42,Default,,0,0,0,,¡No mientras el único que pueda\Nenfrentarse con garantías contra
 Dialogue: 0,0:09:20.47,0:09:22.97,Default,,0,0,0,,el Nº 17 y el Nº 18 sea Píkoro!
 Dialogue: 0,0:09:25.67,0:09:26.89,Default,,0,0,0,,¿Cómo?
@@ -149,15 +149,15 @@ Dialogue: 0,0:11:45.83,0:11:49.01,Default,,0,0,0,,¡Chicos! ¡Ha ocurrido algo!
 Dialogue: 0,0:11:51.27,0:11:54.37,Default,,0,0,0,,M-Mutenroshi, Gokú está...
 Dialogue: 0,0:11:54.40,0:11:56.67,Default,,0,0,0,,¿Qué? ¿Qué es lo que pasa?
 Dialogue: 0,0:11:56.84,0:11:58.91,Default,,0,0,0,,Cálmate, mamá.
-Dialogue: 0,0:11:59.08,0:12:01.54,Default,,0,0,0,,¡Subid todos ahora mismo!
+Dialogue: 0,0:11:59.08,0:12:01.54,Default,,0,0,0,,¡Suban todos ahora mismo!
 Dialogue: 0,0:12:07.60,0:12:12.61,Default,,0,0,0,,¿Qué? ¿Qué? ¿Se puede saber\Nqué es lo que pasa?
-Dialogue: 0,0:12:13.20,0:12:14.23,Default,,0,0,0,,No hagáis ruido.
-Dialogue: 0,0:12:25.72,0:12:28.65,Default,,0,0,0,,¿Lo habéis visto?\N¡Gokú está sonriendo!
+Dialogue: 0,0:12:13.20,0:12:14.23,Default,,0,0,0,,No hagan ruido.
+Dialogue: 0,0:12:25.72,0:12:28.65,Default,,0,0,0,,¿Lo han visto?\N¡Gokú está sonriendo!
 Dialogue: 0,0:12:29.35,0:12:30.47,Default,,0,0,0,,Es cierto.
 Dialogue: 0,0:12:30.52,0:12:32.53,Default,,0,0,0,,¡Es verdad! ¡Ha sonreído!
 Dialogue: 0,0:12:32.63,0:12:35.75,Default,,0,0,0,,Eso quiere decir que\Nse está recuperando.
-Dialogue: 0,0:12:35.92,0:12:38.30,Default,,0,0,0,,¿No os parece genial?
-Dialogue: 0,0:12:41.42,0:12:43.40,Default,,0,0,0,,¿Os habéis dado cuenta?
+Dialogue: 0,0:12:35.92,0:12:38.30,Default,,0,0,0,,¿No les parece genial?
+Dialogue: 0,0:12:41.42,0:12:43.40,Default,,0,0,0,,¿Se han dado cuenta?
 Dialogue: 0,0:12:44.40,0:12:48.27,Default,,0,0,0,,He visto esa sonrisa\Nmuchas veces antes.
 Dialogue: 0,0:12:48.37,0:12:53.87,Default,,0,0,0,,Es la que pone antes de enfrentarse\Na alguien especialmente poderoso.
 Dialogue: 0,0:12:55.20,0:12:57.27,Default,,0,0,0,,Ahora que lo dices...
@@ -173,32 +173,32 @@ Dialogue: 0,0:13:24.56,0:13:25.80,Default,,0,0,0,,¿Eh? ¿Qué pasa?
 Dialogue: 0,0:13:28.24,0:13:32.23,Default,,0,0,0,,Esto... Chichi, con eso no\Nquería decir que...
 Dialogue: 0,0:13:32.36,0:13:37.61,Default,,0,0,0,,No voy a permitir que Gokú empiece\Na luchar en cuanto se ponga bien.
 Dialogue: 0,0:13:38.26,0:13:41.88,Default,,0,0,0,,Mamá, Yamcha no lo decía\Ncon esa intención.
-Dialogue: 0,0:13:41.92,0:13:43.59,Default,,0,0,0,,¡Tú, calla!
+Dialogue: 0,0:13:41.92,0:13:43.59,Default,,0,0,0,,¡Tú, callate!
 Dialogue: 0,0:13:43.72,0:13:46.57,Default,,0,0,0,,Me niego a que Gokú tome\Nparte en ninguna lucha
 Dialogue: 0,0:13:46.59,0:13:49.23,Default,,0,0,0,,después de recuperarse\Nde su enfermedad.
 Dialogue: 0,0:13:49.86,0:13:50.91,Default,,0,0,0,,Claro...
-Dialogue: 0,0:13:51.68,0:13:55.70,Default,,0,0,0,,¡Espero que os quede claro a todos!
+Dialogue: 0,0:13:51.68,0:13:55.70,Default,,0,0,0,,¡Espero que les quede claro a todos!
 Dialogue: 0,0:13:55.97,0:13:57.26,Default,,0,0,0,,¡¿Entendido?!
 Dialogue: 0,0:13:58.28,0:13:59.67,Default,,0,0,0,,¡Sí!
-Dialogue: 0,0:14:01.60,0:14:04.91,Default,,0,0,0,,¡En ese caso, sed más considerados!
+Dialogue: 0,0:14:01.60,0:14:04.91,Default,,0,0,0,,¡En ese caso, sean más considerados!
 Dialogue: 0,0:14:21.71,0:14:24.05,Default,,0,0,0,,Gingertown, 50 Km.
 Dialogue: 0,0:14:25.48,0:14:29.06,Default,,0,0,0,,Mientras me oculto de ellos, absorberé\Nla energía vital de tantos humanos
 Dialogue: 0,0:14:29.08,0:14:33.23,Default,,0,0,0,,como me sea posible para ir\Naumentando más y más mi poder.
-Dialogue: 0,0:14:33.48,0:14:40.19,Default,,0,0,0,,Y entonces, cuando mi poder supere al\Ndel Nº 17 y el Nº 18, iré a por ellos.
+Dialogue: 0,0:14:33.48,0:14:40.19,Default,,0,0,0,,Y entonces, cuando mi poder supere al\Ndel Nº 17 y el Nº 18, iré por ellos.
 Dialogue: 0,0:14:41.92,0:14:44.83,Default,,0,0,0,,Así que mi siguiente coto\Nde caza es Nickytown, ¿eh?
 Dialogue: 0,0:14:41.69,0:14:46.69,Default,,0,0,0,,{\move(366.666,257.333,369.333,401.333,24,4987)}Bienvenidos a Nickytown, 30 Km.
 Dialogue: 0,0:15:09.16,0:15:11.07,Default,,0,0,0,,¡Idiota! ¿Es que quieres morir?
 Dialogue: 0,0:15:11.17,0:15:14.48,Default,,0,0,0,,Lo que más me preocupa es la existencia\Nde un control que pueda desactivar
 Dialogue: 0,0:15:14.52,0:15:16.68,Default,,0,0,0,,al Nº 17 y al Nº 18.
-Dialogue: 0,0:15:17.02,0:15:20.71,Default,,0,0,0,,¡Eh, tú! ¡No te quedes ahí plantado!\N¡Quita de en medio!
+Dialogue: 0,0:15:17.02,0:15:20.71,Default,,0,0,0,,¡Eh, tú! ¡No te quedes ahí parado!\N¡Quitate de en medio!
 Dialogue: 0,0:15:20.92,0:15:24.38,Default,,0,0,0,,Una vez desactivados, por mucho que\Nse trate del Nº 17 y el Nº 18,
 Dialogue: 0,0:15:24.42,0:15:27.51,Default,,0,0,0,,les resultará fácil destruirlos.
-Dialogue: 0,0:15:30.48,0:15:34.82,Default,,0,0,0,,Afortunadamente, parece ser que\Nese control ya no existe.
-Dialogue: 0,0:15:35.42,0:15:38.99,Default,,0,0,0,,¿Se puede saber qué pasa ahí fuera?\N¿De qué va ese tío?
+Dialogue: 0,0:15:30.48,0:15:34.82,Default,,0,0,0,,Afortunadamente, parece ser que\Nese control ya no exista.
+Dialogue: 0,0:15:35.42,0:15:38.99,Default,,0,0,0,,¿Se puede saber qué pasa ahí fuera?\N¿De qué va ese tipo?
 Dialogue: 0,0:15:40.42,0:15:44.86,Default,,0,0,0,,¿Quién te piensas que eres con\Nese disfraz tan ridículo?
 Dialogue: 0,0:15:45.28,0:15:47.27,Default,,0,0,0,,Déjanoslo a nosotros.
 Dialogue: 0,0:15:47.84,0:15:50.91,Default,,0,0,0,,Estábamos deseando hacer\Nun poco de ejercicio.
-Dialogue: 0,0:15:51.56,0:15:55.36,Default,,0,0,0,,¡Eh, bicho raro! ¡Aparta si no\Nquieres que te hagamos daño!
+Dialogue: 0,0:15:51.56,0:15:55.36,Default,,0,0,0,,¡Eh, mounstro! ¡Apartate si no\Nquieres que te hagamos daño!
 Dialogue: 0,0:15:56.12,0:15:59.02,Default,,0,0,0,,No es que sirvan para mucho,\Npero incluso éstos contribuirán
 Dialogue: 0,0:15:59.03,0:16:01.75,Default,,0,0,0,,con un poco de energía.
 Dialogue: 0,0:16:02.16,0:16:07.38,Default,,0,0,0,,Y si Píkoro y los otros me descubren,\Nme marcharé a otro lugar.
@@ -221,26 +221,26 @@ Dialogue: 0,0:18:02.92,0:18:03.95,Default,,0,0,0,,¡Vegeta!
 Dialogue: 0,0:18:04.07,0:18:05.01,Default,,0,0,0,,¡Padre!
 Dialogue: 0,0:18:09.10,0:18:13.03,Default,,0,0,0,,¡Cuéntamelo!\N¿Qué es lo que ha pasado aquí?
 Dialogue: 0,0:18:13.80,0:18:17.23,Default,,0,0,0,,Parece que Ten Shin Han también\Nviene hacia aquí.
-Dialogue: 0,0:18:17.84,0:18:19.99,Default,,0,0,0,,En cuanto llegue, os lo\Nexplicaré a todos a la vez.
+Dialogue: 0,0:18:17.84,0:18:19.99,Default,,0,0,0,,En cuanto llegue, se los\Nexplicaré a todos a la vez.
 Dialogue: 0,0:18:20.96,0:18:23.82,Default,,0,0,0,,Pues antes respóndeme a otra cosa.
 Dialogue: 0,0:18:24.84,0:18:26.99,Default,,0,0,0,,¿Realmente eres Píkoro?
 Dialogue: 0,0:18:27.32,0:18:29.99,Default,,0,0,0,,¿De dónde has sacado toda\Nesa fuerza de combate?
 Dialogue: 0,0:18:33.36,0:18:34.63,Default,,0,0,0,,¡Desgraciado!
 Dialogue: 0,0:18:35.51,0:18:36.51,Default,,0,0,0,,Píkoro...
-Dialogue: 0,0:18:38.40,0:18:42.39,Default,,0,0,0,,Píkoro se ha fusionado\Nde nuevo con Dios.
+Dialogue: 0,0:18:38.40,0:18:42.39,Default,,0,0,0,,Píkoro se ha fusionado\Nde nuevo con Kami sama.
 Dialogue: 0,0:18:42.52,0:18:44.54,Default,,0,0,0,,¿Cómo dices? ¿Se ha fusionado?
 Dialogue: 0,0:18:47.60,0:18:49.63,Default,,0,0,0,,Así que es eso...
 Dialogue: 0,0:18:50.40,0:18:55.23,Default,,0,0,0,,¡Estoy seguro de que la fuerza de\Ncombate que he sentido antes era incluso
-Dialogue: 0,0:18:56.15,0:19:00.40,Default,,0,0,0,,superior a la mía como Súper Saiyajin! ¡Imposible! ¡Él sólo es un namek!
+Dialogue: 0,0:18:56.15,0:19:00.40,Default,,0,0,0,,superior a la mía como Súper Saiyajin! ¡Imposible! ¡Él sólo es un namekuseijin!
 Dialogue: 0,0:19:03.00,0:19:05.27,Default,,0,0,0,,¡Ahí está! ¡Es Ten Shin Han!
 Dialogue: 0,0:19:08.00,0:19:13.78,Default,,0,0,0,,¿Qué debemos hacer? Incluso con mi poder\Nactual, es muy posible que no pueda
 Dialogue: 0,0:19:13.82,0:19:18.23,Default,,0,0,0,,ocuparme al mismo tiempo del Nº 17,\Nel Nº 18 y además el Nº 16.
 Dialogue: 0,0:19:18.56,0:19:21.07,Default,,0,0,0,,De hecho, lo único que podemos\Nhacer es acabar con Cell.
-Dialogue: 0,0:19:24.68,0:19:33.11,Default,,0,0,0,,Oye, Píkoro... o sea, Dios...\NEsto... ¿Cómo debo llamarte?
+Dialogue: 0,0:19:24.68,0:19:33.11,Default,,0,0,0,,Oye, Píkoro... o sea, Kami sama...\NEsto... ¿Cómo debo llamarte?
 Dialogue: 0,0:19:33.28,0:19:35.66,Default,,0,0,0,,Ten Shin Han ya está aquí.
-Dialogue: 0,0:19:36.24,0:19:38.84,Default,,0,0,0,,Entendido. Ahora os lo contaré todo.
+Dialogue: 0,0:19:36.24,0:19:38.84,Default,,0,0,0,,Entendido. Ahora se los contaré todo.
 Dialogue: 0,0:19:45.48,0:19:49.50,Default,,0,0,0,,Vegeta y Ten Shin Han no lo han visto,\Npero ese monstruo de antes era un
-Dialogue: 0,0:19:49.52,0:19:53.61,Default,,0,0,0,,Androide creado de forma independiente\Npor el ordenador del Dr. Gero.
+Dialogue: 0,0:19:49.52,0:19:53.61,Default,,0,0,0,,Androide creado de forma independiente\Npor la computadora del Dr. Gero.
 Dialogue: 0,0:19:54.31,0:19:55.40,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:20:42.20,0:20:46.54,Default,,0,0,0,,Oye, ya sabes que esta\Nropa no me gusta.
 Dialogue: 0,0:20:46.99,0:20:50.31,Default,,0,0,0,,Si pasamos cerca de alguna ciudad\Ndecente, quiero que nos lleves.
@@ -256,8 +256,8 @@ Dialogue: 0,0:21:41.97,0:21:43.75,Default,,0,0,0,,¿Qué broma es ésta?
 Dialogue: 0,0:21:45.92,0:21:50.51,Default,,0,0,0,,¿Es que ahora todo el mundo se cree\Ncapaz de superar al Súper Saiyajin,
 Dialogue: 0,0:21:50.55,0:21:56.83,Default,,0,0,0,,el guerrero definitivo?\N¡Qué rabia! ¿Verdad, Kakarotto?
 Dialogue: 0,0:22:05.38,0:22:08.20,Default,,0,0,0,,Cuántos humanos...
-Dialogue: 0,0:22:11.04,0:22:14.07,Default,,0,0,0,,Esperadme, Nº 17 y Nº 18.
-Dialogue: 0,0:22:14.20,0:22:19.40,Default,,0,0,0,,En pocos días, mi poder superará\Nal vuestro y entonces os absorberé.
+Dialogue: 0,0:22:11.04,0:22:14.07,Default,,0,0,0,,Esperenme, Nº 17 y Nº 18.
+Dialogue: 0,0:22:14.20,0:22:19.40,Default,,0,0,0,,En pocos días, mi poder superará\Nal suyo y entonces los absorberé.
 Dialogue: 0,0:22:20.06,0:22:27.50,Default,,0,0,0,,¿Quién podrá salvar al mundo de la desesperación\N en una situación tan nefasta como ésta?
 Dialogue: 0,0:22:43.65,0:22:47.39,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
 Dialogue: 0,0:22:47.60,0:22:52.99,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
