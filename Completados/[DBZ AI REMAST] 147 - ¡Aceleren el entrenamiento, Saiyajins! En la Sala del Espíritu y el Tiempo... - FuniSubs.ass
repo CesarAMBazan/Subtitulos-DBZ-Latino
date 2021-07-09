@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -82,7 +82,7 @@ Dialogue: 0,0:03:38.51,0:03:41.62,Default,,0,0,0,,Entrenaré durante un año y s
 Dialogue: 0,0:03:45.22,0:03:48.46,Default,,0,0,0,,¿Un año? Pero si tardas tanto...
 Dialogue: 0,0:03:48.59,0:03:52.26,Default,,0,0,0,,Entrenaremos en un lugar donde\Nun año sólo será un día.
 Dialogue: 0,0:03:56.63,0:04:00.82,Default,,0,0,0,,Chichi, quiero llevarme a Gohan\Nconmigo, ¿te parece bien?
-Dialogue: 0,0:04:06.39,0:04:08.54,Default,,0,0,0,,¡Tienes que estar de broma!
+Dialogue: 0,0:04:06.39,0:04:08.54,Default,,0,0,0,,¡Tienes que estar bromeando!
 Dialogue: 0,0:04:11.31,0:04:15.82,Default,,0,0,0,,Pero supongo que diga lo que diga no\Nservirá de nada, así que no te detendré.
 Dialogue: 0,0:04:15.95,0:04:20.66,Default,,0,0,0,,No hay nada que hacer. Así que ya\Npuestos, consigue que se haga muy fuerte.
 Dialogue: 0,0:04:20.79,0:04:22.26,Default,,0,0,0,,Chichi...
@@ -103,7 +103,7 @@ Dialogue: 0,0:05:50.19,0:05:53.20,Default,,0,0,0,,Si Gokú estuviera aquí...
 Dialogue: 0,0:05:54.07,0:05:55.10,Default,,0,0,0,,¡Gokú!
 Dialogue: 0,0:05:55.31,0:05:57.27,Default,,0,0,0,,Sí, si Gokú estuviera aquí...
 Dialogue: 0,0:05:57.67,0:05:58.73,Default,,0,0,0,,¡Gokú!
-Dialogue: 0,0:05:59.31,0:06:02.50,Default,,0,0,0,,Sí, Gokú con su cambio\Nde lugar instantáneo...
+Dialogue: 0,0:05:59.31,0:06:02.50,Default,,0,0,0,,Sí, Gokú con su Movimiento\Ninstantaneo...
 Dialogue: 0,0:06:02.67,0:06:04.10,Default,,0,0,0,,¡Papá!
 Dialogue: 0,0:06:04.31,0:06:05.62,Default,,0,0,0,,Podría...
 Dialogue: 0,0:06:07.51,0:06:08.65,Default,,0,0,0,,¿Qué hay?
@@ -111,14 +111,14 @@ Dialogue: 0,0:06:11.43,0:06:15.86,Default,,0,0,0,,Eso, aparecerse en cualquier\N
 Dialogue: 0,0:06:16.43,0:06:18.58,Default,,0,0,0,,¡Go... ! ¡Go...! ¡Go...!
 Dialogue: 0,0:06:19.11,0:06:20.98,Default,,0,0,0,,¿Qué hay, Krilin?
 Dialogue: 0,0:06:22.39,0:06:23.82,Default,,0,0,0,,¡Gokú!
-Dialogue: 0,0:06:26.15,0:06:29.00,Default,,0,0,0,,¡Gokú! ¡Te he echado a faltar!
+Dialogue: 0,0:06:26.15,0:06:29.00,Default,,0,0,0,,¡Gokú! ¡Te he echado de menos!
 Dialogue: 0,0:06:32.05,0:06:36.20,Default,,0,0,0,,¡No sabes cómo esperaba este momento!\N¿Cuándo te has despertado?
 Dialogue: 0,0:06:41.43,0:06:43.26,Default,,0,0,0,,Entonces, ¿ya estás bien?
 Dialogue: 0,0:06:43.39,0:06:45.74,Default,,0,0,0,,Sí, aunque tengo el estómago vacío.
 Dialogue: 0,0:06:45.77,0:06:50.70,Default,,0,0,0,,¿El estómago? Qué típico de ti, Gokú.\NEso es que ya estás bien.
 Dialogue: 0,0:06:51.03,0:06:53.26,Default,,0,0,0,,Sí, estoy perfectamente.
 Dialogue: 0,0:07:15.27,0:07:16.74,Default,,0,0,0,,¡Papá!
-Dialogue: 0,0:07:27.59,0:07:29.17,Default,,0,0,0,,¡Diosccolo!
+Dialogue: 0,0:07:27.59,0:07:29.17,Default,,0,0,0,,¡Kami-sama-koro!
 Dialogue: 0,0:07:29.17,0:07:30.26,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:07:32.63,0:07:34.90,Default,,0,0,0,,No fusiones los nombres.
 Dialogue: 0,0:07:35.03,0:07:38.94,Default,,0,0,0,,Mi base es principalmente la de Píkoro,\Nasí que puedes llamarme Píkoro.
@@ -174,16 +174,16 @@ Dialogue: 0,0:13:27.17,0:13:30.05,Default,,0,0,0,,No puedo sentir el poder\Nde G
 Dialogue: 0,0:13:30.17,0:13:33.05,Default,,0,0,0,,Pero seguramente ha ido a\Ncasa de alguno de sus amigos.
 Dialogue: 0,0:13:33.15,0:13:35.45,Default,,0,0,0,,Eso quiere decir que estará\Nen la Capsule Corporation
 Dialogue: 0,0:13:35.63,0:13:38.14,Default,,0,0,0,,o en la pequeña isla\Nde Mutenroshi.
-Dialogue: 0,0:13:38.57,0:13:41.17,Default,,0,0,0,,Tiene sentido.\N¿Cuál nos pilla más cerca?
+Dialogue: 0,0:13:38.57,0:13:41.17,Default,,0,0,0,,Tiene sentido.\N¿Cuál nos queda más cerca?
 Dialogue: 0,0:13:41.70,0:13:43.27,Default,,0,0,0,,La casa de Mutenroshi.
 Dialogue: 0,0:13:43.35,0:13:46.38,Default,,0,0,0,,A unos 2.700 kilómetros\Nal sudeste de aquí.
-Dialogue: 0,0:13:47.77,0:13:48.74,Default,,0,0,0,,Venga, vamos.
-Dialogue: 0,0:13:50.15,0:13:51.50,Default,,0,0,0,,Lo que sea...
+Dialogue: 0,0:13:47.77,0:13:48.74,Default,,0,0,0,,Bien, vamos.
+Dialogue: 0,0:13:50.15,0:13:51.50,Default,,0,0,0,,Como sea...
 Dialogue: 0,0:14:58.19,0:15:00.54,Default,,0,0,0,,Hemos llegado demasiado tarde.
-Dialogue: 0,0:15:16.83,0:15:20.26,Default,,0,0,0,,Estaba convencido de que\Nesta vez le pillaríamos...
+Dialogue: 0,0:15:16.83,0:15:20.26,Default,,0,0,0,,Estaba convencido de que\Nesta vez lo atraparíamos...
 Dialogue: 0,0:15:37.95,0:15:39.06,Default,,0,0,0,,Es él.
 Dialogue: 0,0:15:53.47,0:15:55.22,Default,,0,0,0,,Está bien, adelante.
-Dialogue: 0,0:15:56.87,0:16:00.38,Default,,0,0,0,,Ahí dentro tenéis bañera,\Nbaño y comida.
+Dialogue: 0,0:15:56.87,0:16:00.38,Default,,0,0,0,,Ahí dentro tienen bañera,\Nbaño y comida.
 Dialogue: 0,0:16:06.31,0:16:09.85,Default,,0,0,0,,Kakarotto, ¿por qué me\Nanimas a entrenarme?
 Dialogue: 0,0:16:10.27,0:16:13.81,Default,,0,0,0,,Sabes que mi objetivo\Nfinal eres tú.
 Dialogue: 0,0:16:14.51,0:16:18.86,Default,,0,0,0,,Esta vez nos enfrentamos a un enemigo\Nal que no podremos derrotar solos.
@@ -192,7 +192,7 @@ Dialogue: 0,0:16:22.07,0:16:24.94,Default,,0,0,0,,Puede que te arrepientas\Nde h
 Dialogue: 0,0:16:38.91,0:16:41.66,Default,,0,0,0,,Es aquí. ¿Quién entrará primero?
 Dialogue: 0,0:16:41.99,0:16:44.58,Default,,0,0,0,,Vegeta y Trunks irán primero.
 Dialogue: 0,0:16:45.11,0:16:46.25,Default,,0,0,0,,Está bien.
-Dialogue: 0,0:16:58.11,0:16:59.14,Default,,0,0,0,,Entrad.
+Dialogue: 0,0:16:58.11,0:16:59.14,Default,,0,0,0,,Entren.
 Dialogue: 0,0:17:01.55,0:17:03.06,Default,,0,0,0,,Gracias, Gokú.
 Dialogue: 0,0:17:03.23,0:17:06.38,Default,,0,0,0,,Ánimo, Trunks.\NPórtate bien con Vegeta.
 Dialogue: 0,0:17:13.59,0:17:15.10,Default,,0,0,0,,Buena suerte.
@@ -203,7 +203,7 @@ Dialogue: 0,0:18:11.95,0:18:18.02,Default,,0,0,0,,Es inmenso. Entiendo que Gokú
 Dialogue: 0,0:18:18.02,0:18:20.02,Default,,0,0,0,,antes de empezar a sentirse mal.
 Dialogue: 0,0:18:20.90,0:18:23.80,Default,,0,0,0,,Así es. Es perfecto.
 Dialogue: 0,0:18:32.32,0:18:37.29,Default,,0,0,0,,¿Un año entero con mi padre\Nen un lugar como éste?
-Dialogue: 0,0:18:43.19,0:18:47.82,Default,,0,0,0,,Esto no marcha. Maldición...\NSuprime su rastro de energía...
+Dialogue: 0,0:18:43.19,0:18:47.82,Default,,0,0,0,,Esto no va bien. Maldición...\NSuprime su rastro de energía...
 Dialogue: 0,0:18:48.67,0:18:52.90,Default,,0,0,0,,Es inútil. Tiene un montón\Nde sitios para esconderse.
 Dialogue: 0,0:18:53.31,0:18:57.10,Default,,0,0,0,,Esto no me gusta. A estas alturas,\Nya debe de ser mucho más fuerte.
 Dialogue: 0,0:18:57.12,0:19:00.97,Default,,0,0,0,,Y no sabemos cuándo estará listo para\Ncombinarse con el Nº 17 y el Nº 18.
@@ -220,27 +220,27 @@ Dialogue: 0,0:19:48.79,0:19:51.22,Default,,0,0,0,,Hola, ¿está Gokú?
 Dialogue: 0,0:19:51.80,0:19:55.89,Default,,0,0,0,,¡Maldición!\N¿Llegan en buen momento o no?
 Dialogue: 0,0:19:58.31,0:20:01.38,Default,,0,0,0,,Parece que Son Gokú no está aquí.
 Dialogue: 0,0:20:02.47,0:20:03.45,Default,,0,0,0,,Vaya...
-Dialogue: 0,0:20:03.63,0:20:06.54,Default,,0,0,0,,¡Despertad! Tenemos visita.
+Dialogue: 0,0:20:03.63,0:20:06.54,Default,,0,0,0,,¡Despierten! Tenemos visita.
 Dialogue: 0,0:20:08.03,0:20:10.82,Default,,0,0,0,,¿Cómo? ¿Qué pasa?
-Dialogue: 0,0:20:17.11,0:20:20.30,Default,,0,0,0,,¡Marchaos de aquí ahora mismo!\N¡Son Gokú no está!
-Dialogue: 0,0:20:20.43,0:20:25.22,Default,,0,0,0,,Eso parece. Pero seguro que\Npodéis decirnos dónde está.
+Dialogue: 0,0:20:17.11,0:20:20.30,Default,,0,0,0,,¡Vayasne de aquí ahora mismo!\N¡Son Gokú no está!
+Dialogue: 0,0:20:20.43,0:20:25.22,Default,,0,0,0,,Eso parece. Pero seguro que\Npueden decirnos dónde está.
 Dialogue: 0,0:20:25.55,0:20:28.74,Default,,0,0,0,,¿Cómo han sabido de este lugar?.
 Dialogue: 0,0:20:29.47,0:20:32.10,Default,,0,0,0,,¿Piensas que te lo diremos\Npor las buenas?
-Dialogue: 0,0:20:32.27,0:20:37.82,Default,,0,0,0,,Bueno, no lo sé. Pero si no lo hacéis,\Ntendremos que sacároslo por la fuerza.
+Dialogue: 0,0:20:32.27,0:20:37.82,Default,,0,0,0,,Bueno, no lo sé. Pero si no lo hacen,\Ntendremos que sacárselos por la fuerza.
 Dialogue: 0,0:20:38.95,0:20:42.38,Default,,0,0,0,,¿Esos son los Androides\Nde los que hablaban?
-Dialogue: 0,0:20:44.95,0:20:47.70,Default,,0,0,0,,Ya comprendo.\NPodéis intentarlo si queréis.
+Dialogue: 0,0:20:44.95,0:20:47.70,Default,,0,0,0,,Ya comprendo.\NPueden intentarlo si quieren.
 Dialogue: 0,0:20:47.87,0:20:51.22,Default,,0,0,0,,Allí hay una isla en la que\Nno vive nadie. Iremos allí.
-Dialogue: 0,0:20:51.51,0:20:54.18,Default,,0,0,0,,Vaya, vaya, no escarmentáis.
-Dialogue: 0,0:20:54.51,0:20:58.94,Default,,0,0,0,,Vosotros quedaos aquí. Ya debéis\Nsaber que no serviríais de nada.
-Dialogue: 0,0:21:11.39,0:21:13.14,Default,,0,0,0,,Ey, ¿creéis que ganará?
+Dialogue: 0,0:20:51.51,0:20:54.18,Default,,0,0,0,,Vaya, vaya, no pierden el tiempo.
+Dialogue: 0,0:20:54.51,0:20:58.94,Default,,0,0,0,,Ustedes quedense aquí. Ya deben\Nsaber que no serviran de nada.
+Dialogue: 0,0:21:11.39,0:21:13.14,Default,,0,0,0,,Ey, ¿creen que ganará?
 Dialogue: 0,0:21:13.27,0:21:15.54,Default,,0,0,0,,Es imposible. Son tres contra uno.
 Dialogue: 0,0:21:15.67,0:21:19.02,Default,,0,0,0,,Falta poco para que dos de los que van\Ncon Gokú acaben el entrenamiento.
 Dialogue: 0,0:21:19.15,0:21:21.74,Default,,0,0,0,,Mientras tendremos que\Nconfiar en Píkoro.
 Dialogue: 0,0:21:57.35,0:22:00.89,Default,,0,0,0,,A menos que hables, esta\Nvez te mataremos. ¿Entendido?
-Dialogue: 0,0:22:02.75,0:22:05.46,Default,,0,0,0,,No os resultará tan fácil\Ncomo la última vez.
+Dialogue: 0,0:22:02.75,0:22:05.46,Default,,0,0,0,,No les resultará tan fácil\Ncomo la última vez.
 Dialogue: 0,0:22:13.12,0:22:17.14,Default,,0,0,0,,Finalmente, la lucha entre\Nel Nº 17 y Píkoro da comienzo.
 Dialogue: 0,0:22:17.55,0:22:20.77,Default,,0,0,0,,¿Cuál es el verdadero alcance\Ndel poder de Píkoro ahora que
-Dialogue: 0,0:22:20.77,0:22:22.25,Default,,0,0,0,,se ha fusionado con Dios?
+Dialogue: 0,0:22:20.77,0:22:22.25,Default,,0,0,0,,se ha fusionado con Kami sama?
 Dialogue: 0,0:22:44.99,0:22:48.73,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
 Dialogue: 0,0:22:48.94,0:22:54.33,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
 Dialogue: 0,0:22:54.84,0:22:56.82,Karaoke Español,,0,0,0,,{\blur.8}Al encontrarles,\Npalpita mi corazón
