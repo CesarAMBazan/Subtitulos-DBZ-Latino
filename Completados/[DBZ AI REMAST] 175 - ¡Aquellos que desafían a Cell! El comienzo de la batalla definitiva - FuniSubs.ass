@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -64,12 +64,12 @@ Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\
 Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,{\blur.8}egao urutora Z de
 Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
 Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
-Dialogue: 0,0:02:11.64,0:02:17.23,Default,,0,0,0,,El nuevo Dios, Dende, ha devuelto\Na la vida las esferas del dragón
+Dialogue: 0,0:02:11.64,0:02:17.23,Default,,0,0,0,,El nuevo Kami sama, Dende, ha devuelto\Na la vida las esferas del dragón
 Dialogue: 0,0:02:17.36,0:02:21.08,Default,,0,0,0,,y Gokú recorre la Tierra\Npara reunirlas.
 Dialogue: 0,0:02:33.12,0:02:36.35,Default,,0,0,0,,¡Ya tengo las siete!
 Dialogue: 0,0:02:36.88,0:02:42.62,Default,,0,0,0,,Mientras, el resto de guerreros\Nse entrenan para el Cell Game.
 Dialogue: 0,0:03:00.84,0:03:05.23,Default,,0,0,0,,Sólo queda un día para que\Ndé comienzo la batalla.
-Dialogue: 0,0:03:30.16,0:03:32.62,Default,,0,0,0,,Venga, me voy.
+Dialogue: 0,0:03:30.16,0:03:32.62,Default,,0,0,0,,Bien, me voy.
 Dialogue: 0,0:03:45.44,0:03:49.84,Default,,0,0,0,,¡Ten cuidado, Gokú!\NNo quiero que mueras.
 Dialogue: 0,0:03:50.36,0:03:52.43,Default,,0,0,0,,Sí, entendido.
 Dialogue: 0,0:03:53.04,0:03:55.75,Default,,0,0,0,,Gohan no luchará, ¿verdad?
@@ -85,9 +85,9 @@ Dialogue: 0,0:04:32.04,0:04:33.79,Default,,0,0,0,,¿Eh? ¿Y Vegeta?
 Dialogue: 0,0:04:33.92,0:04:36.11,Default,,0,0,0,,Ha decidido adelantarse.
 Dialogue: 0,0:04:36.28,0:04:42.62,Default,,0,0,0,,¿En serio? Parece muy entusiasmado.\NDebe de haber mejorado mucho.
 Dialogue: 0,0:04:52.72,0:04:56.32,Default,,0,0,0,,¿Qué pasa, chicos?\N¿A qué vienen esas caras?
-Dialogue: 0,0:04:56.84,0:04:58.39,Default,,0,0,0,,¿Estáis nerviosos?
-Dialogue: 0,0:04:58.68,0:05:02.51,Default,,0,0,0,,Gokú, tenemos un problema gordo.
-Dialogue: 0,0:05:04.28,0:05:09.86,Default,,0,0,0,,Recuerdas que pedimos que las bolas de\Ndragón pudieran revivir a mucha gente
+Dialogue: 0,0:04:56.84,0:04:58.39,Default,,0,0,0,,¿Están nerviosos?
+Dialogue: 0,0:04:58.68,0:05:02.51,Default,,0,0,0,,Gokú, tenemos gran problema.
+Dialogue: 0,0:05:04.28,0:05:09.86,Default,,0,0,0,,Recuerdas que pedimos que las Esferas del\Ndragón pudieran revivir a mucha gente
 Dialogue: 0,0:05:09.88,0:05:11.28,Default,,0,0,0,,con un solo deseo, ¿verdad?
 Dialogue: 0,0:05:11.28,0:05:12.39,Default,,0,0,0,,Sí.
 Dialogue: 0,0:05:13.44,0:05:16.95,Default,,0,0,0,,Pues eso significa que las personas\Nque ya han muerto alguna vez
@@ -95,7 +95,7 @@ Dialogue: 0,0:05:17.08,0:05:19.38,Default,,0,0,0,,no podrán volver a ser revivi
 Dialogue: 0,0:05:20.68,0:05:25.04,Default,,0,0,0,,Lo siento.\NSi lo hubiera sabido antes...
 Dialogue: 0,0:05:26.80,0:05:32.11,Default,,0,0,0,,Venga, no te preocupes, Dende.\NMientras no nos maten, todo irá bien.
 Dialogue: 0,0:05:32.28,0:05:35.47,Default,,0,0,0,,¿Cómo puedes decir eso?\N¡Vamos a luchar contra Cell!
-Dialogue: 0,0:05:35.68,0:05:40.47,Default,,0,0,0,,No pasa nada, no pasa nada.\NVamos tirando. Ya son casi las doce.
+Dialogue: 0,0:05:35.68,0:05:40.47,Default,,0,0,0,,No pasa nada, no pasa nada.\NVamos. Ya son casi las doce.
 Dialogue: 0,0:05:51.84,0:05:56.39,Default,,0,0,0,,Al fin ha llegado el día.\NNo tardes, Son Gokú.
 Dialogue: 0,0:06:03.00,0:06:05.62,Default,,0,0,0,,Quedan veinte minutos para\Nque comience el Cell Game,
 Dialogue: 0,0:06:05.64,0:06:07.48,Default,,0,0,0,,¡qué decidirá el destino de La Tierra!
@@ -131,7 +131,7 @@ Dialogue: 0,0:09:10.08,0:09:13.84,Default,,0,0,0,,¡Observen cómo la tensión\N
 Dialogue: 0,0:09:13.84,0:09:18.38,Default,,0,0,0,,¡En estos momentos, me dirijo hacia el\Nring en el que dentro de pocos minutos
 Dialogue: 0,0:09:18.38,0:09:20.92,Default,,0,0,0,,se decidirá el destino del mundo!
 Dialogue: 0,0:09:34.94,0:09:39.39,Default,,0,0,0,,Disculpe... ¿podemos subir\Nnosotros también al ring?
-Dialogue: 0,0:09:39.80,0:09:42.64,Default,,0,0,0,,Mientras yo esté aquí,\Nno os pasará nada.
+Dialogue: 0,0:09:39.80,0:09:42.64,Default,,0,0,0,,Mientras yo esté aquí,\Nno les pasará nada.
 Dialogue: 0,0:09:43.36,0:09:44.63,Default,,0,0,0,,Está bien.
 Dialogue: 0,0:09:46.84,0:09:51.11,Default,,0,0,0,,¿Qué sensaciones tiene, Mr. Satan?\NDígaselo a nuestra audiencia.
 Dialogue: 0,0:09:51.40,0:09:54.67,Default,,0,0,0,,Me compadezco de Cell por\Nsu fallo de cálculo.
@@ -146,7 +146,7 @@ Dialogue: 0,0:10:21.32,0:10:24.51,Default,,0,0,0,,¡Pero eso no funcionará conm
 Dialogue: 0,0:10:27.84,0:10:30.30,Default,,0,0,0,,Hace ver que no le oye.
 Dialogue: 0,0:10:31.40,0:10:34.43,Default,,0,0,0,,Está paralizado por el miedo.
 Dialogue: 0,0:10:38.28,0:10:41.07,Default,,0,0,0,,En ese caso, vamos a burlarnos de él.
-Dialogue: 0,0:10:44.20,0:10:46.95,Default,,0,0,0,,¡Anda, ven y bésame el culo!
+Dialogue: 0,0:10:44.20,0:10:46.95,Default,,0,0,0,,¡Anda, ven y bésame el trasero!
 Dialogue: 0,0:10:52.16,0:10:55.22,Default,,0,0,0,,Se merece que lo maten...
 Dialogue: 0,0:11:22.64,0:11:25.30,Default,,0,0,0,,¡Son Yamcha y Ten Shin Han!
 Dialogue: 0,0:11:29.72,0:11:34.27,Default,,0,0,0,,Nosotros también venimos,\Npero no participaremos en la batalla.
@@ -186,8 +186,8 @@ Dialogue: 0,0:15:46.48,0:15:50.15,Default,,0,0,0,,Al fin llegas, Gokú.
 Dialogue: 0,0:15:50.76,0:15:52.31,Default,,0,0,0,,Te esperaba.
 Dialogue: 0,0:15:55.84,0:15:58.28,Default,,0,0,0,,Eh, ahí...
 Dialogue: 0,0:15:58.32,0:15:59.27,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:16:15.00,0:16:17.07,Default,,0,0,0,,Ya les veo. Están ahí.
-Dialogue: 0,0:16:17.40,0:16:18.83,Default,,0,0,0,,¡Venga, vamos!
+Dialogue: 0,0:16:15.00,0:16:17.07,Default,,0,0,0,,Ya los veo. Están ahí.
+Dialogue: 0,0:16:17.40,0:16:18.83,Default,,0,0,0,,¡Bien, vamos!
 Dialogue: 0,0:17:08.80,0:17:10.19,Default,,0,0,0,,¿Quiénes son esos?
 Dialogue: 0,0:17:10.28,0:17:12.55,Default,,0,0,0,,¡Que no molesten a Satan!
 Dialogue: 0,0:17:12.88,0:17:15.66,Default,,0,0,0,,¡Gohan!
@@ -195,7 +195,7 @@ Dialogue: 0,0:17:16.84,0:17:22.00,Default,,0,0,0,,¡No lo hagas, Gohan! ¡No luc
 Dialogue: 0,0:17:22.00,0:17:25.59,Default,,0,0,0,,¡Chichi, cálmate!\N¡Chichi, haz el favor de calmarte!
 Dialogue: 0,0:17:25.62,0:17:29.90,Default,,0,0,0,,¡No luches! ¡Pueden matarte!\N¡No lo hagas, Gohan!
 Dialogue: 0,0:17:29.98,0:17:32.63,Default,,0,0,0,,¡Por favor, Gohan, no lo hagas!
-Dialogue: 0,0:17:44.20,0:17:46.43,Default,,0,0,0,,Os doy la bienvenida a todos.
+Dialogue: 0,0:17:44.20,0:17:46.43,Default,,0,0,0,,Les doy la bienvenida a todos.
 Dialogue: 0,0:17:47.84,0:17:50.30,Default,,0,0,0,,¿Hacía falta que vinieran todos?
 Dialogue: 0,0:17:50.52,0:17:54.79,Default,,0,0,0,,Toda esa gente también\Nha llegado volando...
 Dialogue: 0,0:17:55.36,0:17:59.27,Default,,0,0,0,,Parece que ese truco se\Nha puesto de moda.
@@ -211,25 +211,25 @@ Dialogue: 0,0:19:05.04,0:19:07.60,Default,,0,0,0,,Me están robando protagonismo
 Dialogue: 0,0:19:11.32,0:19:14.67,Default,,0,0,0,,¿Ya ha comenzado la lucha?
 Dialogue: 0,0:19:16.20,0:19:17.87,Default,,0,0,0,,Creo que aún no.
 Dialogue: 0,0:19:18.28,0:19:19.78,Default,,0,0,0,,Vamos allá.
-Dialogue: 0,0:19:22.36,0:19:26.30,Default,,0,0,0,,Dejad que yo sea el\Nprimero en luchar.
+Dialogue: 0,0:19:22.36,0:19:26.30,Default,,0,0,0,,Dejen que yo sea el\Nprimero en luchar.
 Dialogue: 0,0:19:26.48,0:19:29.23,Default,,0,0,0,,No tienes que empezar tú, Gokú.
 Dialogue: 0,0:19:29.72,0:19:31.79,Default,,0,0,0,,¿Te parece bien, Vegeta?
 Dialogue: 0,0:19:32.20,0:19:34.27,Default,,0,0,0,,Haz lo que te dé la gana.
 Dialogue: 0,0:19:34.40,0:19:37.79,Default,,0,0,0,,De todas maneras, yo seré\Nel que lo acabe.
-Dialogue: 0,0:19:45.00,0:19:48.39,Default,,0,0,0,,¡No decidáis el orden\Npor vuestra cuenta!
-Dialogue: 0,0:19:50.08,0:19:55.71,Default,,0,0,0,,Disculpad, ¿vosotros también habéis\Nvenido a participar en el Cell Game?
+Dialogue: 0,0:19:45.00,0:19:48.39,Default,,0,0,0,,¡No decidan el orden\Npor vuestra cuenta!
+Dialogue: 0,0:19:50.08,0:19:55.71,Default,,0,0,0,,Disculpen, ¿ustedes también han\Nvenido a participar en el Cell Game?
 Dialogue: 0,0:19:56.00,0:19:58.67,Default,,0,0,0,,Eso es. Pero no todos.
 Dialogue: 0,0:19:59.96,0:20:04.47,Default,,0,0,0,,¡Con esto no se puede hacer bromas!\N¡Esto no es un juego!
-Dialogue: 0,0:20:04.60,0:20:07.43,Default,,0,0,0,,¡No tenéis ni idea de\Nlo serio que es!
+Dialogue: 0,0:20:04.60,0:20:07.43,Default,,0,0,0,,¡No tienen ni idea de\Nlo serio que es!
 Dialogue: 0,0:20:07.96,0:20:10.52,Default,,0,0,0,,Tú sí que no tienes ni idea.
 Dialogue: 0,0:20:15.32,0:20:17.51,Default,,0,0,0,,Esto sí que es una sorpresa.
-Dialogue: 0,0:20:17.68,0:20:22.54,Default,,0,0,0,,¿Cómo es posible que aún queden paletos\Nignorantes que nunca hayan oído hablar
+Dialogue: 0,0:20:17.68,0:20:22.54,Default,,0,0,0,,¿Cómo es posible que aún queden personas\Nignorantes que nunca hayan oído hablar
 Dialogue: 0,0:20:22.58,0:20:26.30,Default,,0,0,0,,de Mr. Satan, el campeón mundial\Nde artes marciales?
-Dialogue: 0,0:20:31.40,0:20:35.06,Default,,0,0,0,,¡Por si no lo sabéis, Mr. Satan ha\Nderrotado a todos sus adversarios!
+Dialogue: 0,0:20:31.40,0:20:35.06,Default,,0,0,0,,¡Por si no lo saben, Mr. Satan ha\Nderrotado a todos sus adversarios!
 Dialogue: 0,0:20:35.08,0:20:39.74,Default,,0,0,0,,¡Es el campeón indiscutible!\N¡Es el hombre más fuerte del mundo!
-Dialogue: 0,0:20:43.16,0:20:47.19,Default,,0,0,0,,Muy bien, os haré el favor\Nde enseñaros algo.
-Dialogue: 0,0:21:04.56,0:21:06.59,Default,,0,0,0,,¿Qué os ha parecido?
-Dialogue: 0,0:21:06.60,0:21:11.58,Default,,0,0,0,,¡Increíble! ¡Mr. Satan es el mejor!\N¿A que es increíble?
+Dialogue: 0,0:20:43.16,0:20:47.19,Default,,0,0,0,,Muy bien, les haré el favor\Nde enseñarles algo.
+Dialogue: 0,0:21:04.56,0:21:06.59,Default,,0,0,0,,¿Qué les ha parecido?
+Dialogue: 0,0:21:06.60,0:21:11.58,Default,,0,0,0,,¡Increíble! ¡Mr. Satan es el mejor!\N¿Acaso no es increíble?
 Dialogue: 0,0:21:20.00,0:21:23.15,Default,,0,0,0,,No se sorprenden lo más mínimo...
 Dialogue: 0,0:21:24.40,0:21:28.51,Default,,0,0,0,,Gokú, no pasa nada.\NDéjale empezar a él.
 Dialogue: 0,0:21:28.92,0:21:31.38,Default,,0,0,0,,Está bien, pero...
@@ -276,5 +276,5 @@ Dialogue: 0,0:24:18.36,0:24:20.84,Default,,0,0,0,,¿Los pupilos números\Nuno y 
 Dialogue: 0,0:24:20.84,0:24:24.02,Default,,0,0,0,,¡Y ahora, dos nuevos\Nrivales han llegado!
 Dialogue: 0,0:24:24.02,0:24:27.78,Default,,0,0,0,,¡El Veloz Caroni, y\NPiroshiki el Poderoso!
 Dialogue: 0,0:24:27.78,0:24:29.98,Default,,0,0,0,,Próximamente en Dragon Ball Z
-Dialogue: 0,0:24:29.98,0:24:33.12,Default,,0,0,0,,¡Esperad un momento! El gran\Nalboroto del escuadrón de Satan
+Dialogue: 0,0:24:29.98,0:24:33.12,Default,,0,0,0,,¡Esperen un momento! El gran\Nalboroto del escuadrón de Satan
 Dialogue: 0,0:24:33.12,0:24:36.05,Default,,0,0,0,,Espero que esa gente\Nno salga herida.
