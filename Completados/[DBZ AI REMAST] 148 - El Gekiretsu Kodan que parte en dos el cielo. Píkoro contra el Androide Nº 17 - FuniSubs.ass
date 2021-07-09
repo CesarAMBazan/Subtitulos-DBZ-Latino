@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones 
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -66,21 +66,21 @@ Dialogue: 0,0:01:34.11,0:01:37.33,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\f
 Dialogue: 0,0:01:37.34,0:01:38.87,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
 Dialogue: 0,0:01:50.68,0:01:54.87,Default,,0,0,0,,Cell mata a una persona tras otra\Ny continúa aumentando su poder.
 Dialogue: 0,0:02:02.68,0:02:06.22,Default,,0,0,0,,Por su parte, Gokú ya está\N totalmente recuperado.
-Dialogue: 0,0:02:15.32,0:02:18.98,Default,,0,0,0,,Hay una sala en el Palacio de Dios\Nen la que puedes entrenar durante
+Dialogue: 0,0:02:15.32,0:02:18.98,Default,,0,0,0,,Hay una sala en el Palacio de Kami sama\Nen la que puedes entrenar durante
 Dialogue: 0,0:02:19.10,0:02:21.35,Default,,0,0,0,,un año en un solo día.
 Dialogue: 0,0:02:21.90,0:02:23.10,Default,,0,0,0,,¿En serio?
-Dialogue: 0,0:02:27.14,0:02:28.42,Default,,0,0,0,,Entrad.
+Dialogue: 0,0:02:27.14,0:02:28.42,Default,,0,0,0,,Entren.
 Dialogue: 0,0:02:31.44,0:02:36.75,Default,,0,0,0,,El entrenamiento para ir más allá\Ndel Súper Saiyajin ha comenzado.
 Dialogue: 0,0:02:40.10,0:02:44.00,Default,,0,0,0,,Pero cuando falta poco para que\Nhaya transcurrido un día,
-Dialogue: 0,0:02:44.08,0:02:46.51,Default,,0,0,0,,ocurre lo peor que cabía esperar.
+Dialogue: 0,0:02:44.08,0:02:46.51,Default,,0,0,0,,ocurre lo peor que podia pasar.
 Dialogue: 0,0:02:49.54,0:02:51.47,Default,,0,0,0,,¿Está Gokú?
-Dialogue: 0,0:02:51.88,0:02:56.32,Default,,0,0,0,,Si no nos lo decís, tendremos\Nque sacároslo por la fuerza.
-Dialogue: 0,0:02:56.96,0:03:00.15,Default,,0,0,0,,Ya comprendo.\NPodéis intentarlo si queréis.
+Dialogue: 0,0:02:51.88,0:02:56.32,Default,,0,0,0,,Si no nos lo dicen, tendremos\Nque sacárselos por la fuerza.
+Dialogue: 0,0:02:56.96,0:03:00.15,Default,,0,0,0,,Ya comprendo.\NPueden intentarlo si quieren.
 Dialogue: 0,0:03:00.32,0:03:03.63,Default,,0,0,0,,Allí hay una isla en la que\Nno vive nadie. Iremos allí.
-Dialogue: 0,0:03:03.66,0:03:06.18,Default,,0,0,0,,Vaya, vaya, no escarmentáis.
+Dialogue: 0,0:03:03.66,0:03:06.18,Default,,0,0,0,,Vaya, vaya, no pierden el tiempo.
 Dialogue: 0,0:04:06.16,0:04:09.70,Default,,0,0,0,,A menos que hables,\Nesta vez te mataremos.
 Dialogue: 0,0:04:12.28,0:04:13.34,Default,,0,0,0,,¿Entendido?
-Dialogue: 0,0:04:25.52,0:04:28.23,Default,,0,0,0,,No os resultará tan fácil\Ncomo la última vez.
+Dialogue: 0,0:04:25.52,0:04:28.23,Default,,0,0,0,,No les resultará tan fácil\Ncomo la última vez.
 Dialogue: 0,0:04:40.72,0:04:43.02,Default,,0,0,0,,No entiendo por qué quieres\Nluchar una batalla que sabes
 Dialogue: 0,0:04:43.06,0:04:44.60,Default,,0,0,0,,que no puedes ganar.
 Dialogue: 0,0:04:45.50,0:04:47.20,Default,,0,0,0,,¿Tratas de ganar tiempo?
@@ -96,10 +96,10 @@ Dialogue: 0,0:06:55.54,0:06:56.95,Default,,0,0,0,,frente a nuestros ojos.
 Dialogue: 0,0:06:57.48,0:06:58.70,Default,,0,0,0,,Increíble...
 Dialogue: 0,0:07:00.00,0:07:01.51,Default,,0,0,0,,Cuesta de creer.
 Dialogue: 0,0:07:03.64,0:07:06.27,Default,,0,0,0,,No. Eso aún no es nada.
-Dialogue: 0,0:07:08.88,0:07:12.95,Default,,0,0,0,,Dios fusionado con Píkoro puede\Naumentar su energía mucho más.
+Dialogue: 0,0:07:08.88,0:07:12.95,Default,,0,0,0,,Kami sama fusionado con Píkoro puede\Naumentar su energía mucho más.
 Dialogue: 0,0:07:13.12,0:07:14.99,Default,,0,0,0,,Esto es tan sólo el principio.
 Dialogue: 0,0:07:15.60,0:07:17.27,Default,,0,0,0,,No puede ser...
-Dialogue: 0,0:07:19.32,0:07:20.71,Default,,0,0,0,,¡Dios!
+Dialogue: 0,0:07:19.32,0:07:20.71,Default,,0,0,0,,¡Kami sama!
 Dialogue: 0,0:07:21.06,0:07:24.19,Default,,0,0,0,,Ya ha comenzado.\NEl que lucha es Píkoro.
 Dialogue: 0,0:07:24.56,0:07:27.07,Default,,0,0,0,,¿Su adversario es Cell?
 Dialogue: 0,0:07:27.92,0:07:32.39,Default,,0,0,0,,No puedo sentir la energía de su\Nrival, seguramente son los Androides.
@@ -119,7 +119,7 @@ Dialogue: 0,0:09:41.88,0:09:43.15,Default,,0,0,0,,¡No escaparás!
 Dialogue: 0,0:09:59.44,0:10:00.39,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:10:34.00,0:10:35.27,Default,,0,0,0,,Vaya...
 Dialogue: 0,0:10:50.40,0:10:57.20,Default,,0,0,0,,¡Imposible! ¡Con mi velocidad!\N¡Es imposible!
-Dialogue: 0,0:12:10.36,0:12:12.31,Default,,0,0,0,,Te estás creciendo, ¿eh?
+Dialogue: 0,0:12:10.36,0:12:12.31,Default,,0,0,0,,Te crees mucho, ¿eh?
 Dialogue: 0,0:12:28.74,0:12:37.27,Default,,0,0,0,,Duérmete niño, duérmete ya,\Nque viene el coco...
 Dialogue: 0,0:12:38.46,0:12:40.60,Default,,0,0,0,,Finalmente se ha dormido.
 Dialogue: 0,0:12:40.82,0:12:43.07,Default,,0,0,0,,¿Sí? Me alegro.
@@ -148,7 +148,7 @@ Dialogue: 0,0:16:11.18,0:16:12.88,Default,,0,0,0,,Yo no estaría tan seguro.
 Dialogue: 0,0:16:13.02,0:16:17.32,Default,,0,0,0,,No podemos sentir el poder de su rival,\Nasí que no nos emocionemos tan pronto.
 Dialogue: 0,0:16:18.62,0:16:22.30,Default,,0,0,0,,Sí, después de todo, los Androides\Nno desprenden energía...
 Dialogue: 0,0:16:35.64,0:16:38.45,Default,,0,0,0,,¿Qué pasa? ¿Ya has terminado?
-Dialogue: 0,0:16:41.50,0:16:46.98,Default,,0,0,0,,¡De verdad! ¡Me estoy cansando!\N¡Nº 1 7, acaba con él de una vez!
+Dialogue: 0,0:16:41.50,0:16:46.98,Default,,0,0,0,,¡De verdad! ¡Me estoy cansando!\N¡Nº 17, acaba con él de una vez!
 Dialogue: 0,0:16:47.12,0:16:49.49,Default,,0,0,0,,¡¿O es que quieres que lo haga yo?!
 Dialogue: 0,0:16:50.22,0:16:51.40,Default,,0,0,0,,¡No digas tonterías!
 Dialogue: 0,0:16:51.50,0:16:54.70,Default,,0,0,0,,¿Quieres que te deje mi sitio\Ncuando mejor me lo estoy pasando?
@@ -169,12 +169,12 @@ Dialogue: 0,0:20:22.50,0:20:26.37,Default,,0,0,0,,Qué lástima.\NNo sabes cuán
 Dialogue: 0,0:20:28.06,0:20:30.65,Default,,0,0,0,,¡Esto no ha hecho más que empezar!
 Dialogue: 0,0:20:31.78,0:20:36.17,Default,,0,0,0,,Vamos a cambiar de sitio.\NAlguien ha destruido la isla.
 Dialogue: 0,0:20:37.74,0:20:39.89,Default,,0,0,0,,Tienes que ser más cuidadoso.
-Dialogue: 0,0:21:00.34,0:21:04.84,Default,,0,0,0,,Esa energía tan potente es la\Nde Píkoro fusionado con Dios.
+Dialogue: 0,0:21:00.34,0:21:04.84,Default,,0,0,0,,Esa energía tan potente es la\Nde Píkoro fusionado con Kami sama.
 Dialogue: 0,0:21:05.06,0:21:09.25,Default,,0,0,0,,Y el único adversario contra el que\Nnecesitaría desplegar tanto poder es...
-Dialogue: 0,0:21:12.30,0:21:17.32,Default,,0,0,0,,¡Sólo pueden ser el Nº 17 y el Nº 18!\N¡Ya os tengo! ¡Justo a tiempo!
+Dialogue: 0,0:21:12.30,0:21:17.32,Default,,0,0,0,,¡Sólo pueden ser el Nº 17 y el Nº 18!\N¡Ya los tengo! ¡Justo a tiempo!
 Dialogue: 0,0:21:21.34,0:21:23.13,Default,,0,0,0,,Me he salvado...
-Dialogue: 0,0:21:28.94,0:21:31.50,Default,,0,0,0,,¡Enseguida voy! ¡Esperadme!
-Dialogue: 0,0:21:32.14,0:21:36.13,Default,,0,0,0,,¡Mi poder ya es más grande\Nque el vuestro!
+Dialogue: 0,0:21:28.94,0:21:31.50,Default,,0,0,0,,¡Enseguida voy! ¡Esperenme!
+Dialogue: 0,0:21:32.14,0:21:36.13,Default,,0,0,0,,¡Mi poder ya es más grande\Nque el suyo!
 Dialogue: 0,0:21:38.66,0:21:43.53,Default,,0,0,0,,Finalmente, Cell ha descubierto dónde se\Nencuentran el Nº 17 y los otros.
 Dialogue: 0,0:22:07.22,0:22:13.94,Default,,0,0,0,,La situación empeora por momentos.\NGokú, date prisa con tu entrenamiento.
 Dialogue: 0,0:22:43.29,0:22:47.03,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
