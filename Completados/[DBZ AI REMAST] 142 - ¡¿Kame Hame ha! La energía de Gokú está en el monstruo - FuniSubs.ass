@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -65,27 +65,27 @@ Dialogue: 0,0:01:26.77,0:01:29.94,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\
 Dialogue: 0,0:01:30.40,0:01:34.06,Karaoke Japones,,0,0,0,,{\blur.8}egao urutora Z de
 Dialogue: 0,0:01:34.06,0:01:37.28,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
 Dialogue: 0,0:01:37.29,0:01:38.82,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
-Dialogue: 0,0:02:40.76,0:02:45.23,Default,,0,0,0,,Adiós, Dios. No muera.
-Dialogue: 0,0:02:46.36,0:02:48.92,Default,,0,0,0,,Ya no soy ni Dios ni Píkoro.
-Dialogue: 0,0:02:49.36,0:02:52.83,Default,,0,0,0,,Sólo un namek que hace mucho\Nque olvidó su nombre.
+Dialogue: 0,0:02:40.76,0:02:45.23,Default,,0,0,0,,Adiós, Kami sama. No muera.
+Dialogue: 0,0:02:46.36,0:02:48.92,Default,,0,0,0,,Ya no soy ni Kami sama ni Píkoro.
+Dialogue: 0,0:02:49.36,0:02:52.83,Default,,0,0,0,,Sólo un namekuseijin que hace mucho\Nque olvidó su nombre.
 Dialogue: 0,0:03:19.76,0:03:23.23,Default,,0,0,0,,El monstruo misterioso\Nfinalmente se deja ver.
 Dialogue: 0,0:03:23.56,0:03:27.80,Default,,0,0,0,,Y trae consigo un\Nsorprendente secreto.
 Dialogue: 0,0:04:07.72,0:04:10.15,Default,,0,0,0,,Finalmente das la cara, monstruo.
 Dialogue: 0,0:04:30.88,0:04:33.03,Default,,0,0,0,,¡Por favor, ayúdeme!
 Dialogue: 0,0:04:35.72,0:04:39.39,Default,,0,0,0,,¿Qué? ¡Esa energía que desprende...!
 Dialogue: 0,0:04:42.60,0:04:47.11,Default,,0,0,0,,¡No puede ser!\N¿Qué significa esto?
-Dialogue: 0,0:05:05.92,0:05:10.99,Default,,0,0,0,,El Sr. Popo tiene miedo.\NDios y Píkoro unidos son muy fuertes.
+Dialogue: 0,0:05:05.92,0:05:10.99,Default,,0,0,0,,El Mr. Popo tiene miedo.\NKami sama y Píkoro unidos son muy fuertes.
 Dialogue: 0,0:05:11.16,0:05:16.63,Default,,0,0,0,,Pero presiento que no será suficiente\Npara derrotar a ese monstruo.
-Dialogue: 0,0:05:22.60,0:05:24.11,Default,,0,0,0,,Dios...
+Dialogue: 0,0:05:22.60,0:05:24.11,Default,,0,0,0,,Kami sama...
 Dialogue: 0,0:05:26.32,0:05:29.27,Default,,0,0,0,,¡Ayúdeme, por favor!
 Dialogue: 0,0:05:29.72,0:05:36.98,Default,,0,0,0,,¡Soy el hombre más rico del pueblo!\N¡Le daré todo el dinero que quiera!
 Dialogue: 0,0:05:37.00,0:05:38.58,Default,,0,0,0,,¡Sálveme!
 Dialogue: 0,0:05:43.20,0:05:45.99,Default,,0,0,0,,¡Ey! ¡Haga alguna cosa!
-Dialogue: 0,0:05:47.28,0:05:51.66,Default,,0,0,0,,Ni siquiera estoy seguro de que puedas\Nentender lo que digo, pero suéltale.
+Dialogue: 0,0:05:47.28,0:05:51.66,Default,,0,0,0,,Ni siquiera estoy seguro de que puedas\Nentender lo que digo, pero suéltalo.
 Dialogue: 0,0:05:51.68,0:05:54.22,Default,,0,0,0,,Por despreciable que sea,\Nuna vida es una vida.
 Dialogue: 0,0:06:02.12,0:06:04.76,Default,,0,0,0,,S-Sálvame...
 Dialogue: 0,0:06:34.30,0:06:39.40,Default,,0,0,0,,Mi... dine... ro
-Dialogue: 0,0:07:10.52,0:07:16.64,Default,,0,0,0,,Tú serás el siguiente en acabar así,\NPíkoro Daimaoh.
+Dialogue: 0,0:07:10.52,0:07:16.64,Default,,0,0,0,,Tú serás el siguiente en acabar así,\NPíkoro Daimakú.
 Dialogue: 0,0:07:37.56,0:07:40.79,Default,,0,0,0,,¿Cómo? ¿Qué es esto?
 Dialogue: 0,0:08:01.64,0:08:03.43,Default,,0,0,0,,¿Qué es lo que pasa, Gohan?
 Dialogue: 0,0:08:03.56,0:08:06.28,Default,,0,0,0,,Siento la energía de\NPíkoro por duplicado.
@@ -115,7 +115,7 @@ Dialogue: 0,0:10:46.68,0:10:49.03,Default,,0,0,0,,Eso no será necesario.
 Dialogue: 0,0:10:49.56,0:10:53.71,Default,,0,0,0,,Porque en pocos segundos\Nme servirás de alimento.
 Dialogue: 0,0:10:54.48,0:10:57.39,Default,,0,0,0,,Ya veo. No tienes intención\Nde decírmelo.
 Dialogue: 0,0:11:03.96,0:11:08.39,Default,,0,0,0,,En ese caso, acabaré con\Ntu vida sin respuestas.
-Dialogue: 0,0:11:10.20,0:11:14.59,Default,,0,0,0,,¿Así que Píkoro Daimaoh,\Ntiene intención de matarme?
+Dialogue: 0,0:11:10.20,0:11:14.59,Default,,0,0,0,,¿Así que Píkoro Daimakú,\Ntiene intención de matarme?
 Dialogue: 0,0:11:14.96,0:11:18.55,Default,,0,0,0,,De algún modo, pareces saber\Nquién es Píkoro.
 Dialogue: 0,0:11:20.96,0:11:22.07,Default,,0,0,0,,Pero...
 Dialogue: 0,0:12:07.40,0:12:09.59,Default,,0,0,0,,Desafortunadamente para ti...
@@ -132,7 +132,7 @@ Dialogue: 0,0:13:31.22,0:13:33.73,Default,,0,0,0,,¿Qué es lo que está ocurrie
 Dialogue: 0,0:13:39.88,0:13:41.93,Default,,0,0,0,,¡Tiene que ser Píkoro!
 Dialogue: 0,0:13:43.82,0:13:48.68,Default,,0,0,0,,Pero, ¿esa energía no es\Ndiferente de la de Píkoro?
 Dialogue: 0,0:13:48.98,0:13:52.01,Default,,0,0,0,,¡Es increíble!\N¡Al final se han unido!
-Dialogue: 0,0:13:52.46,0:13:58.66,Default,,0,0,0,,¿Unido? ¿Quieres decir con Dios?\N¿Vuelven a ser uno como al principio?
+Dialogue: 0,0:13:52.46,0:13:58.66,Default,,0,0,0,,¿Unido? ¿Quieres decir con Kami sama?\N¿Vuelven a ser uno como al principio?
 Dialogue: 0,0:13:58.94,0:14:03.65,Default,,0,0,0,,Eso mismo. Y como Píkoro ya\Nde por sí era muy fuerte...
 Dialogue: 0,0:14:04.30,0:14:07.65,Default,,0,0,0,,ésa es la energía de un Súper Namekuseijin.
 Dialogue: 0,0:14:11.26,0:14:16.85,Default,,0,0,0,,Es fantástico. ¿Ha sido capaz\Nde aumentar tanto su poder?
@@ -140,7 +140,7 @@ Dialogue: 0,0:14:25.48,0:14:28.80,Default,,0,0,0,,El hecho de que hayas extermin
 Dialogue: 0,0:14:29.02,0:14:31.10,Default,,0,0,0,,juega a mi favor.
 Dialogue: 0,0:14:31.10,0:14:32.85,Default,,0,0,0,,¿Y eso por qué?
 Dialogue: 0,0:14:39.38,0:14:42.25,Default,,0,0,0,,¿Qué quieres decir con eso?
-Dialogue: 0,0:14:43.18,0:14:45.28,Default,,0,0,0,,Que puedo ir a por todas.
+Dialogue: 0,0:14:43.18,0:14:45.28,Default,,0,0,0,,Que puedo pelear sin contenerme.
 Dialogue: 0,0:14:47.86,0:14:49.22,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:15:30.38,0:15:32.68,Default,,0,0,0,,E-Esa onda de choque...
 Dialogue: 0,0:15:37.46,0:15:39.81,Default,,0,0,0,,Es ahí. Ya ha comenzado.
@@ -153,14 +153,14 @@ Dialogue: 0,0:16:27.86,0:16:29.17,Default,,0,0,0,,Nº 16...
 Dialogue: 0,0:16:29.34,0:16:32.20,Default,,0,0,0,,Probablemente, dos poderes\Ninmensos que se enfrentan.
 Dialogue: 0,0:16:34.54,0:16:37.93,Default,,0,0,0,,¿Tienes un radar de poder instalado?
 Dialogue: 0,0:16:38.26,0:16:40.16,Default,,0,0,0,,¿Por qué no nos lo habías dicho?
-Dialogue: 0,0:16:40.66,0:16:42.44,Default,,0,0,0,,No me lo habíais preguntado.
+Dialogue: 0,0:16:40.66,0:16:42.44,Default,,0,0,0,,No me lo habian preguntado.
 Dialogue: 0,0:16:42.96,0:16:45.82,Default,,0,0,0,,Supongo que no. Entonces,
 Dialogue: 0,0:16:45.86,0:16:49.21,Default,,0,0,0,,¿puedes decirnos quiénes son\Nlos que se enfrentan?
 Dialogue: 0,0:16:50.04,0:16:53.42,Default,,0,0,0,,No lo sé. No están en nuestro\Nbanco de datos.
 Dialogue: 0,0:16:54.66,0:16:57.73,Default,,0,0,0,,Pero uno de ellos tiene un poder\Nlo bastante grande como para
-Dialogue: 0,0:16:57.74,0:16:59.18,Default,,0,0,0,,equipararse con el vuestro.
+Dialogue: 0,0:16:57.74,0:16:59.18,Default,,0,0,0,,equipararse con el de ustedes.
 Dialogue: 0,0:16:59.44,0:17:00.28,Default,,0,0,0,,¿Cómo?
-Dialogue: 0,0:17:03.42,0:17:08.93,Default,,0,0,0,,Una chapuza más del Dr. Gero.\NTu radar no funciona bien.
+Dialogue: 0,0:17:03.42,0:17:08.93,Default,,0,0,0,,Una porquería más del Dr. Gero.\NTu radar no funciona bien.
 Dialogue: 0,0:17:09.44,0:17:13.82,Default,,0,0,0,,En este mundo no hay nadie con un poder\Nque pueda equipararse al nuestro.
 Dialogue: 0,0:17:14.46,0:17:15.77,Default,,0,0,0,,Es ridículo.
 Dialogue: 0,0:17:18.26,0:17:20.00,Default,,0,0,0,,Vamos, Nº 16.
@@ -180,7 +180,7 @@ Dialogue: 0,0:20:38.22,0:20:42.14,Default,,0,0,0,,Así que revertí a la forma d
 Dialogue: 0,0:20:43.14,0:20:49.13,Default,,0,0,0,,En cualquier caso, me sorprende que\Nsepas lo de la máquina del tiempo.
 Dialogue: 0,0:20:49.62,0:20:50.89,Default,,0,0,0,,Pero...
 Dialogue: 0,0:20:54.62,0:20:57.97,Default,,0,0,0,,dudo mucho que sepas esto...
-Dialogue: 0,0:21:13.70,0:21:16.33,Default,,0,0,0,,Ostras... ¡no puede ser!
+Dialogue: 0,0:21:13.70,0:21:16.33,Default,,0,0,0,,Diablos... ¡no puede ser!
 Dialogue: 0,0:21:17.42,0:21:20.12,Default,,0,0,0,,¡Es otra vez la energía de Gokú!
 Dialogue: 0,0:21:23.38,0:21:25.12,Default,,0,0,0,,Ka
 Dialogue: 0,0:21:25.42,0:21:27.40,Default,,0,0,0,,Me
