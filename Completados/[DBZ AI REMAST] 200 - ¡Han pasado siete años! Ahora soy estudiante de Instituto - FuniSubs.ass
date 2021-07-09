@@ -1,0 +1,316 @@
+﻿[Script Info]
+; Estado = Faltan correcciones
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.54,0:00:24.37,Karaoke Español,,0,0,0,,{\blur.8}El caos nos está alcanzado
+Dialogue: 0,0:00:26.39,0:00:29.95,Karaoke Español,,0,0,0,,{\blur.8}No es momento de llorar
+Dialogue: 0,0:00:31.87,0:00:35.70,Karaoke Español,,0,0,0,,{\blur.8}Multiplicando nuestra emoción por cien
+Dialogue: 0,0:00:37.70,0:00:41.38,Karaoke Español,,0,0,0,,{\blur.8}Nos convertiremos en el alma de la fiesta
+Dialogue: 0,0:00:43.56,0:00:48.68,Karaoke Español,,0,0,0,,{\blur.8}Las cosas en las que te puedes perder
+Dialogue: 0,0:00:49.21,0:00:54.35,Karaoke Español,,0,0,0,,{\blur.8}Algún día harán de ti alguien increíble
+Dialogue: 0,0:00:54.87,0:01:00.35,Karaoke Español,,0,0,0,,{\blur.8}NO-TEN P-KAN El cielo está azul
+Dialogue: 0,0:01:00.51,0:01:05.49,Karaoke Español,,0,0,0,,{\blur.8}IPPAI OPPAI Me siento bien
+Dialogue: 0,0:01:05.80,0:01:11.61,Karaoke Español,,0,0,0,,{\blur.8}Juega con problemas,\Nchico travieso
+Dialogue: 0,0:01:11.82,0:01:14.64,Karaoke Español,,0,0,0,,{\blur.8}¡Tenemos el poder!
+Dialogue: 0,0:01:14.65,0:01:20.18,Karaoke Español,,0,0,0,,{\blur.8}Dragon Ball Z
+Dialogue: 0,0:01:20.34,0:01:25.74,Karaoke Español,,0,0,0,,{\blur.8}NO-TEN P-KAN Tengo la cabeza despejada
+Dialogue: 0,0:01:25.97,0:01:31.19,Karaoke Español,,0,0,0,,{\blur.8}RA-MEN ROPPAI A mamá le da igual
+Dialogue: 0,0:01:31.19,0:01:37.26,Karaoke Español,,0,0,0,,{\blur.8}Es el final del siglo, así que divirtámonos, chica traviesa
+Dialogue: 0,0:01:37.26,0:01:40.11,Karaoke Español,,0,0,0,,{\blur.8}¡Tenemos el poder!
+Dialogue: 0,0:01:40.11,0:01:45.59,Karaoke Español,,0,0,0,,{\blur.8}Dragon Ball Z
+Dialogue: 0,0:00:20.54,0:00:24.37,Karaoke Japones,,0,0,0,,{\blur.8}hachamecha ga oshiyosete kuru
+Dialogue: 0,0:00:26.39,0:00:29.95,Karaoke Japones,,0,0,0,,{\blur.8}naite'ru ba'ai ja nai
+Dialogue: 0,0:00:31.87,0:00:35.70,Karaoke Japones,,0,0,0,,{\blur.8}waku{{\fs30}-{\fs}waku wo  hyaku{\fs30}-{\fs}bai ni shite
+Dialogue: 0,0:00:37.70,0:00:41.38,Karaoke Japones,,0,0,0,,{\blur.8}paatii no shuyaku ni naroo
+Dialogue: 0,0:00:43.56,0:00:48.68,Karaoke Japones,,0,0,0,,{\blur.8}muchuu ni naneru mono ga
+Dialogue: 0,0:00:49.21,0:00:54.35,Karaoke Japones,,0,0,0,,{\blur.8}itsu ka kimi wo sugee yatsu ni suru n da
+Dialogue: 0,0:00:54.87,0:01:00.35,Karaoke Japones,,0,0,0,,{\blur.8}NO{\fs30} • • • {\fs}TEN  P{\fs30}-{\fs}KAN sora wa  harete
+Dialogue: 0,0:01:00.51,0:01:05.49,Karaoke Japones,,0,0,0,,{\blur.8}IPPAI  OPPAI boku  genki
+Dialogue: 0,0:01:05.80,0:01:11.61,Karaoke Japones,,0,0,0,,{\blur.8}toraburu to asobe yancha{\fs30} • {\fs}booi
+Dialogue: 0,0:01:11.82,0:01:14.64,Karaoke Japones,,0,0,0,,{\blur.8}We gotta power{\fax-0.3} !
+Dialogue: 0,0:01:14.65,0:01:20.18,Karaoke Japones,,0,0,0,,{\blur.8}Doragon Booru Z
+Dialogue: 0,0:01:20.34,0:01:25.74,Karaoke Japones,,0,0,0,,{\blur.8}NO{\fs30} • • • {\fs}TEN  P{\fs30}-{\fs}KAN atama saete
+Dialogue: 0,0:01:25.97,0:01:31.19,Karaoke Japones,,0,0,0,,{\blur.8}RA{\fs30}-{\fs}MEN  ROPPAI haha nonki
+Dialogue: 0,0:01:31.19,0:01:37.26,Karaoke Japones,,0,0,0,,{\blur.8}seikimatsu  hashage ochame{\fs30} • {\fs}gaaru
+Dialogue: 0,0:01:37.26,0:01:40.11,Karaoke Japones,,0,0,0,,{\blur.8}We gotta power{\fax-0.3} !
+Dialogue: 0,0:01:40.11,0:01:45.59,Karaoke Japones,,0,0,0,,{\blur.8}Doragon Booru Z
+Dialogue: 0,0:02:14.72,0:02:18.32,Default,,0,0,0,,Han pasado varios años desde\Nla batalla contra Cell.
+Dialogue: 0,0:02:21.57,0:02:27.34,Default,,0,0,0,,La Tierra fue salvada por Son Gokuh\Ne hijo de las diabólicas garras de Cell.
+Dialogue: 0,0:02:27.34,0:02:31.03,Default,,0,0,0,,La gente pudo vivir en\Npaz una vez más.
+Dialogue: 0,0:02:31.20,0:02:35.04,Default,,0,0,0,,Pero en cuanto se acostumbraron\Na la paz, volvieron a surgir
+Dialogue: 0,0:02:35.04,0:02:38.00,Default,,0,0,0,,hombres estúpidos y malvados.
+Dialogue: 0,0:02:38.08,0:02:40.80,Default,,0,0,0,,Los seres humanos son así...
+Dialogue: 0,0:03:25.11,0:03:30.63,Default,,0,0,0,,En el área rural donde vive\NSon Gohan no hay escuelas.
+Dialogue: 0,0:03:30.92,0:03:36.42,Default,,0,0,0,,Hasta ahora ha estudiado a través\Nde cursos por correspondencia.
+Dialogue: 0,0:03:36.42,0:03:40.77,Default,,0,0,0,,Pero, su madre Chichi considera\Nque con eso ya no es suficiente
+Dialogue: 0,0:03:41.04,0:03:44.83,Default,,0,0,0,,y hoy comienza a ir al\Ninstituto en Satan City.
+Dialogue: 0,0:03:57.76,0:04:01.03,Default,,0,0,0,,Estamos en los límites de la ciudad.\NSerá mejor que baje aquí.
+Dialogue: 0,0:04:03.32,0:04:06.91,Default,,0,0,0,,¡Bye bye, Kinton!\N¡Cuento contigo para el viaje de vuelta!
+Dialogue: 0,0:04:16.17,0:04:21.83,Default,,0,0,0,,Papá, todo el mundo cree que Mr. Satan\Nfue el héroe que salvó la Tierra de Cell.
+Dialogue: 0,0:04:22.88,0:04:30.35,Default,,0,0,0,,Y como Mr. Satan vivía aquí,\Nrebautizaron la ciudad como Satan City.
+Dialogue: 0,0:04:50.42,0:04:53.47,Default,,0,0,0,,¡Vamos, vamos!\N¡Dense prisa y entréguenos todo el dinero!
+Dialogue: 0,0:04:53.60,0:04:55.23,Default,,0,0,0,,¿Es que quiéren morir?
+Dialogue: 0,0:04:55.35,0:04:57.26,Default,,0,0,0,,¡No nos hagan perder el tiempo!
+Dialogue: 0,0:04:57.86,0:04:59.42,Default,,0,0,0,,¡Rápido, date prisa!
+Dialogue: 0,0:05:03.26,0:05:05.74,Default,,0,0,0,,Me parece que ya lo tenemos todo.
+Dialogue: 0,0:05:05.88,0:05:07.71,Default,,0,0,0,,¡Vamos, larguémonos de aquí!
+Dialogue: 0,0:05:08.48,0:05:12.02,Default,,0,0,0,,Cuando hayamos gastado todo el\Ndinero, volveremos por más.
+Dialogue: 0,0:05:18.88,0:05:21.91,Default,,0,0,0,,Jo, he tardado demasiado.
+Dialogue: 0,0:05:26.00,0:05:26.80,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:05:57.00,0:05:59.30,Default,,0,0,0,,¡Vamos, vamos! ¡Disparen!
+Dialogue: 0,0:06:05.26,0:06:09.18,Default,,0,0,0,,Otra vez igual... esta ciudad\Nno tiene arreglo.
+Dialogue: 0,0:06:10.56,0:06:13.83,Default,,0,0,0,,Me transformaré para que\Nnadie sepa quién soy.
+Dialogue: 0,0:06:17.36,0:06:20.15,Default,,0,0,0,,¡Vamos, vamos!\N¡Vengan por nosotros!
+Dialogue: 0,0:06:28.60,0:06:30.51,Default,,0,0,0,,Pero, ¿qué...?
+Dialogue: 0,0:06:31.51,0:06:33.98,Default,,0,0,0,,¡¿Quién demonios eres tú?!
+Dialogue: 0,0:07:03.28,0:07:04.83,Default,,0,0,0,,¡Es un monstruo!
+Dialogue: 0,0:07:05.02,0:07:06.31,Default,,0,0,0,,¡Arranca!
+Dialogue: 0,0:07:29.55,0:07:31.31,Default,,0,0,0,,Increíble...
+Dialogue: 0,0:07:37.97,0:07:40.42,Default,,0,0,0,,¿Qué ha pasado?
+Dialogue: 0,0:07:52.28,0:07:53.07,Default,,0,0,0,,¡Eh!
+Dialogue: 0,0:07:54.12,0:07:57.97,Default,,0,0,0,,¿Quién ha hecho esto?\NY no me digas que ha sido la policía.
+Dialogue: 0,0:07:58.04,0:08:01.47,Default,,0,0,0,,No sé, no lo he visto.
+Dialogue: 0,0:08:02.60,0:08:06.17,Default,,0,0,0,,Y yo que he venido corriendo hasta aquí.\NMe pregunto quién habrá sido.
+Dialogue: 0,0:08:07.92,0:08:10.79,Default,,0,0,0,,Ah, Srta. Videl.\NYo lo he visto todo.
+Dialogue: 0,0:08:10.92,0:08:13.87,Default,,0,0,0,,Ha sido el Guerrero de Pelo Dorado.
+Dialogue: 0,0:08:14.00,0:08:17.11,Default,,0,0,0,,¿El Guerrero de Pelo Dorado?\N¿Otra vez él?
+Dialogue: 0,0:08:17.33,0:08:21.10,Default,,0,0,0,,Es increíblemente rápido.
+Dialogue: 0,0:08:21.13,0:08:27.86,Default,,0,0,0,,Y ha hecho dar una vuelta de campana a un\Ncoche a la fuga con un solo movimiento.
+Dialogue: 0,0:08:27.86,0:08:33.33,Default,,0,0,0,,Ah, y creo que es estudiante del\NInstituto Orange Star igual que usted.
+Dialogue: 0,0:08:33.44,0:08:36.47,Default,,0,0,0,,Llevaba el mismo emblema que usted.
+Dialogue: 0,0:08:38.17,0:08:41.03,Default,,0,0,0,,¿Un estudiante de mi instituto?
+Dialogue: 0,0:08:44.24,0:08:49.23,Default,,0,0,0,,No conozco a nadie que se le\Nparezca... con el pelo dorado...
+Dialogue: 0,0:09:04.57,0:09:08.67,Default,,0,0,0,,Oye, Sharpener, tú no eres el\NGuerrero de Pelo Dorado, ¿verdad?
+Dialogue: 0,0:09:08.84,0:09:10.55,Default,,0,0,0,,Lamento decepcionarte.
+Dialogue: 0,0:09:10.84,0:09:13.37,Default,,0,0,0,,Estoy demasiado ocupado con\Nlos entrenamientos matutinos
+Dialogue: 0,0:09:14.13,0:09:17.11,Default,,0,0,0,,como para dedicarme a\Nsemejantes tonterías.
+Dialogue: 0,0:09:17.60,0:09:22.15,Default,,0,0,0,,Oye, Videl, ¿crees que ese tipo\Nes más fuerte que tu padre?
+Dialogue: 0,0:09:22.22,0:09:23.24,Default,,0,0,0,,No seas idiota.
+Dialogue: 0,0:09:23.24,0:09:26.75,Default,,0,0,0,,El padre de Videl es Mr. Satan,\Nel salvador de la Tierra.
+Dialogue: 0,0:09:26.92,0:09:30.11,Default,,0,0,0,,No hay nadie más fuerte que él.
+Dialogue: 0,0:09:37.56,0:09:39.15,Default,,0,0,0,,Buenos días, clase.
+Dialogue: 0,0:09:39.48,0:09:44.75,Default,,0,0,0,,Hoy damos la bienvenida a\Nun nuevo alumno en clase.
+Dialogue: 0,0:09:45.20,0:09:46.63,Default,,0,0,0,,Pasa.
+Dialogue: 0,0:09:49.72,0:09:50.94,Default,,0,0,0,,Hola.
+Dialogue: 0,0:09:51.40,0:09:54.97,Default,,0,0,0,,Soy Gohan, Son Gohan.\NEncantado de conocerlos.
+Dialogue: 0,0:09:55.08,0:09:59.00,Default,,0,0,0,,Vaya, qué guapo. Es mi tipo.
+Dialogue: 0,0:09:59.00,0:10:01.46,Default,,0,0,0,,¿Ha dicho Gohan? Qué nombre más raro.
+Dialogue: 0,0:10:05.82,0:10:08.79,Default,,0,0,0,,Me parece que le tengo visto.
+Dialogue: 0,0:10:09.88,0:10:13.24,Default,,0,0,0,,Parece el típico pollito\Nhijo de mamá.
+Dialogue: 0,0:10:14.00,0:10:19.26,Default,,0,0,0,,Gohan ha sacado unas notas perfectas\Nen el examen de acceso en Matemáticas,
+Dialogue: 0,0:10:19.32,0:10:23.83,Default,,0,0,0,,Química, Física, Historia,\NJaponés e Inglés.
+Dialogue: 0,0:10:25.66,0:10:29.86,Default,,0,0,0,,¡Silencio! Es un buen estudiante y quiero\Nque le ayuden en todo lo que puedan.
+Dialogue: 0,0:10:30.24,0:10:33.67,Default,,0,0,0,,Gohan, por favor, elige\Nun asiento vacío.
+Dialogue: 0,0:10:33.84,0:10:34.75,Default,,0,0,0,,Sí.
+Dialogue: 0,0:10:35.26,0:10:37.15,Default,,0,0,0,,A ver...
+Dialogue: 0,0:10:37.22,0:10:38.30,Default,,0,0,0,,¡Aquí!
+Dialogue: 0,0:10:39.22,0:10:40.66,Default,,0,0,0,,Aquí, aquí.
+Dialogue: 0,0:10:41.48,0:10:42.75,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:11:16.08,0:11:17.26,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:11:17.33,0:11:21.80,Default,,0,0,0,,Yo soy Eraser.\NEncantada de conocerte. Y ésta es Videl.
+Dialogue: 0,0:11:24.66,0:11:28.93,Default,,0,0,0,,Hoy comenzaremos por la\Npágina veinticuatro.
+Dialogue: 0,0:11:29.20,0:11:33.87,Default,,0,0,0,,Gohan, ¿quieres que te sorprenda?\N¿Sabes quién es el padre de Videl?
+Dialogue: 0,0:11:34.00,0:11:37.04,Default,,0,0,0,,Pues es, Mr. Satan.
+Dialogue: 0,0:11:37.08,0:11:39.80,Default,,0,0,0,,¿Mr. Satan?
+Dialogue: 0,0:11:41.20,0:11:43.44,Default,,0,0,0,,Ya te he dicho que te sorprendería.
+Dialogue: 0,0:11:43.48,0:11:47.44,Default,,0,0,0,,¿Así que eres la hija de Mr. Satan?
+Dialogue: 0,0:11:47.57,0:11:49.55,Default,,0,0,0,,Sí, deberías estarle agradecido.
+Dialogue: 0,0:11:49.55,0:11:54.48,Default,,0,0,0,,Es gracias a su padre que\Nestamos todos vivos.
+Dialogue: 0,0:11:55.02,0:11:56.35,Default,,0,0,0,,¡Claro! ¡Tú...!
+Dialogue: 0,0:11:57.31,0:12:01.04,Default,,0,0,0,,Estabas ahí cuando han detenido\Na los atracadores de bancos.
+Dialogue: 0,0:12:01.35,0:12:02.35,Default,,0,0,0,,Sí.
+Dialogue: 0,0:12:02.62,0:12:05.97,Default,,0,0,0,,¿Es el que te ha dicho lo\Ndel Guerrero de Pelo Dorado?
+Dialogue: 0,0:12:06.53,0:12:10.00,Default,,0,0,0,,¿El Guerrero de Pelo Dorado?\N¿Y eso qué es?
+Dialogue: 0,0:12:10.48,0:12:13.55,Default,,0,0,0,,Acabas de llegar y por eso no lo sabes,
+Dialogue: 0,0:12:13.55,0:12:17.37,Default,,0,0,0,,Es un defensor de la justicia, que en los últimos\Ndiez días se ha dejado ver tres veces.
+Dialogue: 0,0:12:17.48,0:12:22.22,Default,,0,0,0,,Parece increíblemente fuerte.\NTiene el pelo tieso y dorado.
+Dialogue: 0,0:12:22.26,0:12:24.04,Default,,0,0,0,,Se ha hecho muy famoso.
+Dialogue: 0,0:12:24.11,0:12:26.02,Default,,0,0,0,,¡Está hablando de mí!
+Dialogue: 0,0:12:26.13,0:12:30.11,Default,,0,0,0,,Se refiere a las dos veces que vine\Na matricularme y a esta mañana.
+Dialogue: 0,0:13:03.34,0:13:10.35,Default,,0,0,0,,¡Eh! Un testigo me dijo que el Guerrero de Pelo Dorado\Nllevaba el emblema de este Instituto.
+Dialogue: 0,0:13:11.06,0:13:15.97,Default,,0,0,0,,Llevaba una camiseta blanca,\Nun chaleco negro y pantalones marrones.
+Dialogue: 0,0:13:19.34,0:13:21.60,Default,,0,0,0,,Debe ser una coincidencia,\Npero justo igual que tú.
+Dialogue: 0,0:13:21.71,0:13:23.37,Default,,0,0,0,,Mira, es verdad.
+Dialogue: 0,0:13:23.40,0:13:25.37,Default,,0,0,0,,Bueno, es que...
+Dialogue: 0,0:13:25.42,0:13:27.73,Default,,0,0,0,,¡Los de ahí arriba!\N¡Silencio, por favor!
+Dialogue: 0,0:13:28.42,0:13:29.81,Default,,0,0,0,,Sí, sí.
+Dialogue: 0,0:13:30.82,0:13:32.73,Default,,0,0,0,,Vamos a continuar.
+Dialogue: 0,0:13:36.70,0:13:38.41,Default,,0,0,0,,Fíjense bien en él.
+Dialogue: 0,0:13:38.54,0:13:41.21,Default,,0,0,0,,¿A ustedes les parece un guerrero?
+Dialogue: 0,0:13:41.54,0:13:46.33,Default,,0,0,0,,Todo el mundo sabe que el que es bueno\Nen los estudios no es bueno en la lucha.
+Dialogue: 0,0:13:47.30,0:13:49.68,Default,,0,0,0,,Y tampoco tiene el pelo dorado.
+Dialogue: 0,0:13:49.86,0:13:54.13,Default,,0,0,0,,Tienes razón. Me sabe mal decirlo,\Npero parece muy débil.
+Dialogue: 0,0:13:54.34,0:13:55.65,Default,,0,0,0,,Eso mismo.
+Dialogue: 0,0:13:58.58,0:14:05.57,Default,,0,0,0,,Estoy segura de que no es él, pero\Nen los videos del combate de papá
+Dialogue: 0,0:14:05.62,0:14:09.88,Default,,0,0,0,,contra Cell había una gente rara a\Nla que se le ponía el pelo dorado.
+Dialogue: 0,0:14:10.10,0:14:13.17,Default,,0,0,0,,Papá dijo que era un truco\Nsin importancia, pero...
+Dialogue: 0,0:14:13.20,0:14:18.05,Default,,0,0,0,,Oye, Gohan, ¿vas y vienes de casa o\Ntienes un apartamento en la ciudad?
+Dialogue: 0,0:14:18.11,0:14:20.29,Default,,0,0,0,,Vengo desde casa.
+Dialogue: 0,0:14:20.78,0:14:22.61,Default,,0,0,0,,¿Dónde está? ¿Dónde está tu casa?
+Dialogue: 0,0:14:22.78,0:14:27.28,Default,,0,0,0,,En la zona 439 Este.\NEn un pequeño pueblo.
+Dialogue: 0,0:14:27.42,0:14:31.64,Default,,0,0,0,,¡¿En la zona 439 Este?!\N¡Te quedas conmigo, ¿no?!
+Dialogue: 0,0:14:31.64,0:14:33.76,Default,,0,0,0,,¡Eso está a mil kilómetros de aquí!
+Dialogue: 0,0:14:33.80,0:14:36.33,Default,,0,0,0,,¡Ya he tenido suficiente!
+Dialogue: 0,0:14:36.35,0:14:38.44,Default,,0,0,0,,¡¿Quiéren hacer el favor de callar?!
+Dialogue: 0,0:14:40.94,0:14:46.33,Default,,0,0,0,,¿Y cómo vienes? Incluso con una nave\Ntardarías 5 horas en llegar hasta aquí.
+Dialogue: 0,0:14:46.55,0:14:51.13,Default,,0,0,0,,Por eso he llegado tarde.\NEs terrible.
+Dialogue: 0,0:14:53.31,0:14:55.05,Default,,0,0,0,,Maldita sea...
+Dialogue: 0,0:15:00.54,0:15:03.37,Default,,0,0,0,,Está bien, vamos a traducir hasta aquí.
+Dialogue: 0,0:15:03.62,0:15:06.49,Default,,0,0,0,,¿Quién quiere hacerlo?
+Dialogue: 0,0:15:09.18,0:15:12.01,Default,,0,0,0,,Mr. Satan sale hasta en\Nlos libros de texto.
+Dialogue: 0,0:15:12.18,0:15:14.69,Default,,0,0,0,,Satan City es de lo que no hay.
+Dialogue: 0,0:15:15.02,0:15:19.61,Default,,0,0,0,,¡Eh, tú! ¿Por qué no lo traduces tú,\NMr. Notas Perfectas?
+Dialogue: 0,0:15:20.74,0:15:22.17,Default,,0,0,0,,Vamos, Gohan.
+Dialogue: 0,0:15:25.98,0:15:28.97,Default,,0,0,0,,Eres el estudiante nuevo, ¿verdad?
+Dialogue: 0,0:15:29.14,0:15:30.81,Default,,0,0,0,,¿Tu nombre era...?
+Dialogue: 0,0:15:31.34,0:15:34.86,Default,,0,0,0,,¡Es Son Gohan el de\Nlas notas perfectas!
+Dialogue: 0,0:15:35.82,0:15:39.21,Default,,0,0,0,,Es correcto, ¿verdad?\NAdelante, Gohan, traduce.
+Dialogue: 0,0:15:39.78,0:15:40.73,Default,,0,0,0,,Sí.
+Dialogue: 0,0:15:40.94,0:15:42.45,Default,,0,0,0,,Esto...
+Dialogue: 0,0:15:42.48,0:15:44.65,Default,,0,0,0,,¿En qué página estamos?
+Dialogue: 0,0:15:46.42,0:15:48.53,Default,,0,0,0,,En la página veinticuatro.
+Dialogue: 0,0:15:49.40,0:15:55.73,Default,,0,0,0,,Sí. Mr. Satan se trasladó a Satan City, que por aquel\Nentonces era conocida como Orange Star,
+Dialogue: 0,0:15:55.77,0:15:59.93,Default,,0,0,0,,después de ganar\Nel vigésimo cuarto Gran Torneo de las Artes Marciales.
+Dialogue: 0,0:15:59.93,0:16:03.71,Default,,0,0,0,,Incluso después de convertirse\Nen campeón mundial, Mr. Satan
+Dialogue: 0,0:16:03.75,0:16:07.49,Default,,0,0,0,,sigue entrenando a diario y es habitual\Nverle haciendo jogging por la ciudad.
+Dialogue: 0,0:16:10.58,0:16:16.91,Default,,0,0,0,,Otra vez están hablando de mí.\NQué duro es ser famoso. ¿No les parece?
+Dialogue: 0,0:16:23.42,0:16:26.88,Default,,0,0,0,,La clase de gimnasia de hoy la\Ndedicaremos a continuar el partido
+Dialogue: 0,0:16:26.91,0:16:28.49,Default,,0,0,0,,de béisbol de ayer.
+Dialogue: 0,0:16:29.10,0:16:31.64,Default,,0,0,0,,Oye, ¿sabes jugar al béisbol?
+Dialogue: 0,0:16:31.66,0:16:35.25,Default,,0,0,0,,No, no he jugado nunca,\Npero conozco las reglas.
+Dialogue: 0,0:16:35.42,0:16:39.64,Default,,0,0,0,,¿No has jugado nunca? Es genial.
+Dialogue: 0,0:16:39.91,0:16:42.25,Default,,0,0,0,,Es lo que pasa cuando\Nsiempre estás estudiando.
+Dialogue: 0,0:16:43.14,0:16:45.85,Default,,0,0,0,,Videl, te lo dejo para tu equipo.
+Dialogue: 0,0:16:45.98,0:16:47.09,Default,,0,0,0,,Yo no lo quiero.
+Dialogue: 0,0:16:47.13,0:16:53.11,Default,,0,0,0,,¿Por qué no? Es listo. A lo mejor\Nse le ocurre alguna estrategia.
+Dialogue: 0,0:16:54.30,0:16:55.52,Default,,0,0,0,,A lo mejor...
+Dialogue: 0,0:16:55.78,0:16:56.65,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:16:56.94,0:17:00.37,Default,,0,0,0,,Tú defiende el Right Field.\NSabes lo que es el "Right Field", ¿no?
+Dialogue: 0,0:17:01.10,0:17:02.95,Default,,0,0,0,,Sí, la derecha.
+Dialogue: 0,0:17:02.95,0:17:04.29,Default,,0,0,0,,¿La derecha?
+Dialogue: 0,0:17:04.82,0:17:07.38,Default,,0,0,0,,Bueno, vendría a ser eso...
+Dialogue: 0,0:17:08.42,0:17:11.29,Default,,0,0,0,,Espero que a Gohan le vaya bien.
+Dialogue: 0,0:17:12.10,0:17:18.73,Default,,0,0,0,,Es la primera vez que va a una escuela.\NEspero que haga amigos.
+Dialogue: 0,0:17:27.34,0:17:31.14,Default,,0,0,0,,Mamá y Bulma me dijeron que si\Nla gente descubría mi identidad,
+Dialogue: 0,0:17:31.14,0:17:33.29,Default,,0,0,0,,habría un gran alboroto.
+Dialogue: 0,0:17:33.90,0:17:39.33,Default,,0,0,0,,Tengo que contenerme todo lo que pueda.\NQué complicado es todo en este mundo.
+Dialogue: 0,0:17:40.34,0:17:42.72,Default,,0,0,0,,¡Haz un Home Run, Sharpener!
+Dialogue: 0,0:17:43.74,0:17:45.57,Default,,0,0,0,,No la tocarás, Sharpener.
+Dialogue: 0,0:17:54.90,0:17:55.96,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:17:56.14,0:17:58.05,Default,,0,0,0,,¡Lo ha conseguido! ¡Es un Home Run!
+Dialogue: 0,0:18:08.14,0:18:10.13,Default,,0,0,0,,El corredor no ha llegado\Na la tercera base.
+Dialogue: 0,0:18:10.26,0:18:13.33,Default,,0,0,0,,Supongo que si tiro la pelota a\Nla tercera base, quedará eliminado.
+Dialogue: 0,0:18:14.66,0:18:18.13,Default,,0,0,0,,Vamos... flojito, flojito...\NAsí estará bien.
+Dialogue: 0,0:18:31.10,0:18:33.33,Default,,0,0,0,,¡Fuera!
+Dialogue: 0,0:18:36.54,0:18:40.42,Default,,0,0,0,,Lo he conseguido.\NTres eliminados. Cambio.
+Dialogue: 0,0:18:46.90,0:18:50.52,Default,,0,0,0,,Oh, no... me parece que\Nigualmente me he pasado.
+Dialogue: 0,0:18:50.78,0:18:55.71,Default,,0,0,0,,Has estado increíble. Yo diría que\Nhas hecho un salto de ocho metros.
+Dialogue: 0,0:18:55.71,0:18:57.81,Default,,0,0,0,,La suerte del principiante...
+Dialogue: 0,0:18:58.54,0:19:01.21,Default,,0,0,0,,¿Qué? ¿La suerte del principiante?
+Dialogue: 0,0:19:01.26,0:19:04.26,Default,,0,0,0,,¿A eso le llamas suerte?
+Dialogue: 0,0:19:04.26,0:19:06.64,Default,,0,0,0,,El siguiente bateador.
+Dialogue: 0,0:19:07.26,0:19:10.29,Default,,0,0,0,,Le toca al número ocho.\N¿Ése no eres tú?
+Dialogue: 0,0:19:10.80,0:19:14.20,Default,,0,0,0,,¡Sí, sí, sí! ¡Lo siento!
+Dialogue: 0,0:19:15.08,0:19:18.02,Default,,0,0,0,,Es él. A ver cómo se le da batear.
+Dialogue: 0,0:19:18.06,0:19:19.97,Default,,0,0,0,,Enseguida lo veremos.
+Dialogue: 0,0:19:23.66,0:19:26.09,Default,,0,0,0,,¿Eres un bateador zurdo?
+Dialogue: 0,0:19:26.50,0:19:27.53,Default,,0,0,0,,¿No es correcto?
+Dialogue: 0,0:19:27.55,0:19:31.48,Default,,0,0,0,,No pasa nada, pero así estás\Ncogiendo el bate al revés.
+Dialogue: 0,0:19:31.66,0:19:32.85,Default,,0,0,0,,¿Al revés?
+Dialogue: 0,0:19:32.95,0:19:36.04,Default,,0,0,0,,Haz lo que quieras.
+Dialogue: 0,0:19:36.94,0:19:39.65,Default,,0,0,0,,Has estropeado mi Home Run.
+Dialogue: 0,0:19:40.48,0:19:42.44,Default,,0,0,0,,Te daré una pequeña sorpresa.
+Dialogue: 0,0:19:43.06,0:19:47.45,Default,,0,0,0,,Es mejor que no llame la atención.\NNo puedo darle a la pelota.
+Dialogue: 0,0:19:49.22,0:19:52.89,Default,,0,0,0,,Allá voy.\NSi no lo esquivas, morirás.
+Dialogue: 0,0:19:57.98,0:19:58.85,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,0:20:04.02,0:20:07.41,Default,,0,0,0,,¡Será idiota!\N¡¿Por qué no lo ha esquivado?!
+Dialogue: 0,0:20:17.38,0:20:20.89,Default,,0,0,0,,A eso se le llama Dead Ball, ¿verdad?
+Dialogue: 0,0:20:23.24,0:20:24.57,Default,,0,0,0,,¡Qué suerte!
+Dialogue: 0,0:20:24.57,0:20:26.48,Default,,0,0,0,,No he tenido que darle a la pelota\Npara llegar a la primera base.
+Dialogue: 0,0:20:26.48,0:20:28.45,Default,,0,0,0,,Así no llamo la atención.
+Dialogue: 0,0:20:28.62,0:20:31.44,Default,,0,0,0,,¿Quién es ese muchacho?
+Dialogue: 0,0:20:34.70,0:20:36.29,Default,,0,0,0,,Qué sospechoso...
+Dialogue: 0,0:20:47.66,0:20:50.61,Default,,0,0,0,,Eh, tú, ¿en qué club vas a entrar?
+Dialogue: 0,0:20:51.00,0:20:53.64,Default,,0,0,0,,Aún no lo he decidido.
+Dialogue: 0,0:20:53.82,0:20:57.29,Default,,0,0,0,,Pues apúntate a boxeo.\NEres más duro de lo que pensaba.
+Dialogue: 0,0:20:57.42,0:20:59.29,Default,,0,0,0,,Creo que te iría muy bien.
+Dialogue: 0,0:20:59.50,0:21:02.95,Default,,0,0,0,,En realidad no pensaba entrar\Nen ningún club. Es que...
+Dialogue: 0,0:21:02.97,0:21:07.26,Default,,0,0,0,,Claro, claro. La casa de Gohan está\Ntan lejos que no tiene tiempo
+Dialogue: 0,0:21:07.28,0:21:09.96,Default,,0,0,0,,para actividades extraescolares.
+Dialogue: 0,0:21:10.10,0:21:11.45,Default,,0,0,0,,¡Eso es!
+Dialogue: 0,0:21:11.90,0:21:16.57,Default,,0,0,0,,Oye, Gohan, ¿me dejas en mi\Ncasa de camino a la tuya?
+Dialogue: 0,0:21:17.06,0:21:21.09,Default,,0,0,0,,Esto... no puedo.\NEs que mi coche es de una plaza.
+Dialogue: 0,0:21:21.30,0:21:23.97,Default,,0,0,0,,Pues trasládate a Satan City.
+Dialogue: 0,0:21:24.22,0:21:26.33,Default,,0,0,0,,No, no puedo...
+Dialogue: 0,0:21:32.14,0:21:34.06,Default,,0,0,0,,Sabía que había algo sospechoso.
+Dialogue: 0,0:21:34.20,0:21:38.95,Default,,0,0,0,,Si su casa está tan lejos, ¿cómo es\Nque no va en coche o en nave?
+Dialogue: 0,0:21:53.86,0:21:54.92,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:22:08.50,0:22:10.95,Default,,0,0,0,,Las ciudades son agotadoras...
+Dialogue: 0,0:22:11.02,0:22:13.45,Default,,0,0,0,,El Guerrero del Pelo Dorado...
+Dialogue: 0,0:22:14.14,0:22:17.13,Default,,0,0,0,,Necesito algo mejor para\Nocultar mi identidad.
+Dialogue: 0,0:22:17.78,0:22:19.97,Default,,0,0,0,,Será mejor que lo consulte con Bulma.
+Dialogue: 0,0:22:20.10,0:22:23.77,Default,,0,0,0,,El primer día de escuela\Nde Gohan ha terminado.
+Dialogue: 0,0:22:24.14,0:22:30.13,Default,,0,0,0,,Gohan nunca se había sentido\Ntan cansado en toda su vida.
+Dialogue: 0,0:22:34.28,0:22:38.60,Karaoke Español,,0,0,0,,{\blur.8}Ángel... Ángel... Ángel...
+Dialogue: 0,0:22:40.84,0:22:45.14,Karaoke Español,,0,0,0,,{\blur.8}Ángel... Ángel... Ángel...
+Dialogue: 0,0:22:49.76,0:22:55.23,Karaoke Español,,0,0,0,,{\blur.8}En lo más profundo, de los recuerdos\Nsepultados por el tiempo
+Dialogue: 0,0:22:56.13,0:23:01.84,Karaoke Español,,0,0,0,,{\blur.8}En efecto, nosotros fuimos ángeles
+Dialogue: 0,0:23:02.48,0:23:08.47,Karaoke Español,,0,0,0,,{\blur.8}Desde lo alto del cielo,\Nesparcimos semillas de amor
+Dialogue: 0,0:23:09.27,0:23:14.36,Karaoke Español,,0,0,0,,{\blur.8}Quisimos librar al mundo de la tristeza
+Dialogue: 0,0:23:15.36,0:23:18.36,Karaoke Español,,0,0,0,,{\blur.8}Dime, si alzas la vista
+Dialogue: 0,0:23:18.64,0:23:27.26,Karaoke Español,,0,0,0,,{\blur.8}y ves el gran Cielo Azul, ¿no te llena de valor...
+Dialogue: 0,0:23:27.53,0:23:28.78,Karaoke Español,,0,0,0,,{\blur.8}incluso ahora?
+Dialogue: 0,0:23:29.12,0:23:35.49,Karaoke Español,,0,0,0,,{\blur.8}A mis amigos: pensé que habíamos perdido\Nlas alas de nuestras espaldas
+Dialogue: 0,0:23:35.50,0:23:41.74,Karaoke Español,,0,0,0,,{\blur.8}Pero aún persiste\Nun poder maravilloso
+Dialogue: 0,0:23:42.13,0:23:48.56,Karaoke Español,,0,0,0,,{\blur.8}A mis amigos: abracemos la luz\Ny sigamos soñando
+Dialogue: 0,0:23:48.65,0:23:55.55,Karaoke Español,,0,0,0,,{\blur.8}Mira, hay un arcoiris flotando en tus ojos
+Dialogue: 0,0:23:55.55,0:23:59.90,Karaoke Español,,0,0,0,,{\blur.8}Ángel... Ángel... Ángel...
+Dialogue: 0,0:23:55.55,0:23:58.84,Karaoke Español,,0,0,0,,{\blur.8}Mira, hay un arcoiris flotando en tus ojos
+Dialogue: 0,0:22:34.28,0:22:38.60,Karaoke Japones,,0,0,0,,{\blur.8}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • •
+Dialogue: 0,0:22:40.84,0:22:45.14,Karaoke Japones,,0,0,0,,{\blur.8}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • •
+Dialogue: 0,0:22:49.76,0:22:55.23,Karaoke Japones,,0,0,0,,{\blur.8}toki ni uzumoreta kioku no kanata
+Dialogue: 0,0:22:56.13,0:23:01.84,Karaoke Japones,,0,0,0,,{\blur.8}sou sa boku{\fsp-1\fscx80\fscy85}-{\fsp\fscx\fscy}tachi wa tenshi datta
+Dialogue: 0,0:23:02.48,0:23:08.47,Karaoke Japones,,0,0,0,,{\blur.8}sora no ue kara ai no tane o makichirashite
+Dialogue: 0,0:23:09.27,0:23:14.36,Karaoke Japones,,0,0,0,,{\blur.8}kono hoshi kara kanashimi keshitakatta
+Dialogue: 0,0:23:15.36,0:23:18.36,Karaoke Japones,,0,0,0,,{\blur.8}nee hiroi buruu{\fs30} • {\fs}sukai
+Dialogue: 0,0:23:18.64,0:23:27.26,Karaoke Japones,,0,0,0,,{\blur.8}miagete iru to yuuki ga wakanai ka{\fs30} • • • {\fs}
+Dialogue: 0,0:23:27.53,0:23:28.78,Karaoke Japones,,0,0,0,,{\blur.8}ima de mo {\fs45\fnWolf Sans\fax-0.3\fscx85\fscy75}?
+Dialogue: 0,0:23:29.12,0:23:35.49,Karaoke Japones,,0,0,0,,{\blur.8}TO MY FRIENDS senaka no hane wa nakushita keredo
+Dialogue: 0,0:23:35.50,0:23:41.74,Karaoke Japones,,0,0,0,,{\blur.8}mada fushigi na chikara nokotte 'ru
+Dialogue: 0,0:23:42.13,0:23:48.56,Karaoke Japones,,0,0,0,,{\blur.8}TO MY FRIENDS hikari o daite yume o miyou yo
+Dialogue: 0,0:23:48.65,0:23:58.84,Karaoke Japones,,0,0,0,,{\blur.8}hora kimi no hitomi ni niji ga kakaru
+Dialogue: 0,0:23:55.55,0:23:59.90,Karaoke Japones,,0,0,0,,{\blur.8}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • • {\fs}ANGEL{\fs30} • • •
+Dialogue: 0,0:24:10.13,0:24:12.76,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
+Dialogue: 0,0:24:15.24,0:24:17.41,Default,,0,0,0,,¡Hola, soy Gokuh!
+Dialogue: 0,0:24:17.41,0:24:21.68,Default,,0,0,0,,Gohan, qué es ese traje tan gracioso\Nque llevas. ¿Qué ocurre?
+Dialogue: 0,0:24:21.68,0:24:24.19,Default,,0,0,0,,Parece encantarle ese dispositivo\Nde transformación,
+Dialogue: 0,0:24:24.19,0:24:25.99,Default,,0,0,0,,que oculta su identidad.
+Dialogue: 0,0:24:25.99,0:24:28.26,Default,,0,0,0,,Se transforma una y otra vez,\Nsin motivo alguno,
+Dialogue: 0,0:24:28.26,0:24:30.19,Default,,0,0,0,,y parece entusiasmado.
+Dialogue: 0,0:24:30.19,0:24:32.33,Default,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:32.33,0:24:35.83,Default,,0,0,0,,Por el amor y la justicia:\NAparece el Gran Saiyaman
+Dialogue: 0,0:24:35.83,0:24:37.51,Default,,0,0,0,,¡Soy el qué no tolera la maldad!
