@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Incompleto
+; Estado = Faltan correcciones
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -26,44 +26,44 @@ Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,Atravieso las brillantes nubes y
-Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,Vuelo lejos (Vuelo lejos)
-Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,Un panorama se extiende\Na través de mi cuerpo.
-Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,La Tierra, al ser pateada en la cara,
-Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,se enfurece (se enfurece)
-Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,¡Provocando la erupción de los volcanes!
-Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,Si dentro de un iceberg derretido,
-Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
-Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
-Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,¡No importa lo que suceda,\Nnada me podrá afectar!
-Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
-Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,No importa lo fuerte que lata tu pecho,
-Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,¡La Genki-dama rugirá!
-Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
-Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
-Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,CHA-LA HEAD-CHA-LA
-Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,¡Con una sonrisa Ultra-Z,
-Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,hoy también estoy\Nai-yai-yai-yai-yai...!
-Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,¡Comenzando!
-Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Español,,0,0,0,,{\blur.8}Atravieso las brillantes nubes y
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Español,,0,0,0,,{\blur.8}Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Español,,0,0,0,,{\blur.8}Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Español,,0,0,0,,{\blur.8}La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Español,,0,0,0,,{\blur.8}se enfurece (se enfurece)
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Español,,0,0,0,,{\blur.8}¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Español,,0,0,0,,{\blur.8}Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Español,,0,0,0,,{\blur.8}hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Español,,0,0,0,,{\blur.8}¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Español,,0,0,0,,{\blur.8}No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Español,,0,0,0,,{\blur.8}¡La Genki-dama rugirá!
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Español,,0,0,0,,{\blur.8}¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Español,,0,0,0,,{\blur.8}¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Español,,0,0,0,,{\blur.8}hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Español,,0,0,0,,{\blur.8}¡Comenzando!
+Dialogue: 0,0:00:12.36,0:00:15.11,Karaoke Japones,,0,0,0,,{\blur.8}hikaru kumo wo tsukuinuke
+Dialogue: 0,0:00:15.11,0:00:17.69,Karaoke Japones,,0,0,0,,{\blur.8}Fly Away  < Fly Away >
+Dialogue: 0,0:00:17.69,0:00:24.14,Karaoke Japones,,0,0,0,,{\blur.8}karadajuu ni hirogaru panorama
+Dialogue: 0,0:00:24.86,0:00:27.43,Karaoke Japones,,0,0,0,,{\blur.8}kao wo kerareta chikyuu ga
+Dialogue: 0,0:00:27.43,0:00:30.14,Karaoke Japones,,0,0,0,,{\blur.8}okotte < okotte >
+Dialogue: 0,0:00:30.16,0:00:35.85,Karaoke Japones,,0,0,0,,{\blur.8}kazan wo bakuhatsu saseru
+Dialogue: 0,0:00:36.97,0:00:42.65,Karaoke Japones,,0,0,0,,{\blur.8}toketa koori no naka ni
+Dialogue: 0,0:00:43.53,0:00:51.75,Karaoke Japones,,0,0,0,,{\blur.8}kyouryuu ga itara tamanori shikomitai ne
+Dialogue: 0,0:00:52.51,0:00:55.47,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:00:55.94,0:01:04.27,Karaoke Japones,,0,0,0,,{\blur.8}nani ga okite mo kibun wa heno heno kappa
+Dialogue: 0,0:01:04.94,0:01:08.07,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA mune ga
+Dialogue: 0,0:01:08.53,0:01:12.05,Karaoke Japones,,0,0,0,,{\blur.8}pachi{\fs30}-{\fs}pachi suru hodo sawagu
+Dialogue: 0,0:01:12.22,0:01:14.32,Karaoke Japones,,0,0,0,,{\blur.8}Genki Dama
+Dialogue: 0,0:01:14.33,0:01:17.49,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:01:17.93,0:01:25.11,Karaoke Japones,,0,0,0,,{\blur.8}atama karappo no hou ga yume tsumekomeru
+Dialogue: 0,0:01:26.79,0:01:29.96,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:01:30.42,0:01:34.08,Karaoke Japones,,0,0,0,,{\blur.8}egao urutora Z de
+Dialogue: 0,0:01:34.08,0:01:37.30,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
+Dialogue: 0,0:01:37.31,0:01:38.84,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
 Dialogue: 0,0:01:59.40,0:02:03.18,Default,,0,0,0,,Gracias a Gokú, que sacrificó su\Nvida para salvar a la humanidad
 Dialogue: 0,0:02:03.20,0:02:07.27,Default,,0,0,0,,y animó a Gohan a no rendirse,\Nel androide definitivo Cell
 Dialogue: 0,0:02:07.28,0:02:09.55,Default,,0,0,0,,ha sido finalmente derrotado.
@@ -71,7 +71,6 @@ Dialogue: 0,0:02:14.32,0:02:17.75,Default,,0,0,0,,La paz ha vuelto a la Tierra.
 Dialogue: 0,0:02:31.36,0:02:34.00,Default,,0,0,0,,Y mientras, Gokú...
 Dialogue: 0,0:02:45.04,0:02:49.71,Default,,0,0,0,,También parece feliz en el Más Allá\Ncon sus compañeros de infortunio.
 Dialogue: 0,0:03:18.80,0:03:21.71,Default,,0,0,0,,No tengo moral para empezar de nuevo...
-Dialogue: 0,0:03:39.08,0:03:44.87,Default,,0,0,0,,
 Dialogue: 0,0:03:54.08,0:04:00.11,Default,,0,0,0,,¡Eh! ¡Para, Gokú!\N¡Es peligroso! ¡Para de una vez! ¡Eh!
 Dialogue: 0,0:04:12.04,0:04:13.35,Default,,0,0,0,,¡Diablos!
 Dialogue: 0,0:04:14.00,0:04:17.76,Default,,0,0,0,,El Camino de la Serpiente es\Ntan largo como siempre...
@@ -182,80 +181,80 @@ Dialogue: 0,0:12:42.04,0:12:45.40,Default,,0,0,0,,y lo terrorífico que puede\Nl
 Dialogue: 0,0:12:52.06,0:13:00.72,Default,,0,0,0,,¡Es el coche que siempre he querido\Ntener! ¡Dai Kaioh es el mejor!
 Dialogue: 0,0:13:00.81,0:13:07.05,Default,,0,0,0,,¡Yo también quiero uno!\N¡El diseño es perfecto! ¡Es lo más!
 Dialogue: 0,0:13:07.46,0:13:10.73,Default,,0,0,0,,Kaioh, vamos yendo.
-Dialogue: 0,0:13:10.81,0:13:12.17,Kaioh del Oeste,,0,0,0,,¡Eh, ustedes!
+Dialogue: 0,0:13:10.81,0:13:12.17,Default,,0,0,0,,¡Eh, ustedes!
 Dialogue: 0,0:13:13.87,0:13:15.34,Default,,0,0,0,,Pero, ¿qué...?
 Dialogue: 0,0:13:22.26,0:13:24.33,Default,,0,0,0,,El Kaioh del Oeste...
 Dialogue: 0,0:13:30.89,0:13:32.00,Default,,0,0,0,,¿Qué...?
 Dialogue: 0,0:13:40.67,0:13:42.21,Default,,0,0,0,,¿Qué pasa?
 Dialogue: 0,0:13:42.58,0:13:45.53,Default,,0,0,0,,¿Qué? ¿Qué? ¿Qué es esto?
-Dialogue: 0,0:13:45.77,0:13:48.29,Kaioh del Oeste,,0,0,0,,¡Tú! ¿Qué estás haciendo aquí?
+Dialogue: 0,0:13:45.77,0:13:48.29,Default,,0,0,0,,¡Tú! ¿Qué estás haciendo aquí?
 Dialogue: 0,0:13:48.49,0:13:50.32,Default,,0,0,0,,¿Qué estás haciendo tú?
-Dialogue: 0,0:13:51.52,0:13:55.64,Kaioh del Oeste,,0,0,0,,He decidido hacer una visita a Paiku Han\Nporque hacía mucho que no lo veía.
-Dialogue: 0,0:13:55.64,0:14:00.28,Kaioh del Oeste,,0,0,0,,Paiku Han es el luchador más fuerte\Ndel Oeste de la Galaxia.
+Dialogue: 0,0:13:51.52,0:13:55.64,Default,,0,0,0,,He decidido hacer una visita a Paiku Han\Nporque hacía mucho que no lo veía.
+Dialogue: 0,0:13:55.64,0:14:00.28,Default,,0,0,0,,Paiku Han es el luchador más fuerte\Ndel Oeste de la Galaxia.
 Dialogue: 0,0:14:06.70,0:14:08.89,Default,,0,0,0,,¿Qué pasa?
 Dialogue: 0,0:14:13.79,0:14:16.19,Default,,0,0,0,,¿Qué pasa?
-Dialogue: 0,0:14:26.42,0:14:27.76,Kaioh del Oeste,,0,0,0,,¿Estás muerto?
+Dialogue: 0,0:14:26.42,0:14:27.76,Default,,0,0,0,,¿Estás muerto?
 Dialogue: 0,0:14:29.14,0:14:30.61,Default,,0,0,0,,Es que...
-Dialogue: 0,0:14:30.68,0:14:32.30,Kaioh del Oeste,,0,0,0,,¡Un Kaioh muerto!
-Dialogue: 0,0:14:33.78,0:14:37.21,Kaioh del Oeste,,0,0,0,,¡Tiene gracia!\N¡Mucha más que tus chistes malos!
+Dialogue: 0,0:14:30.68,0:14:32.30,Default,,0,0,0,,¡Un Kaioh muerto!
+Dialogue: 0,0:14:33.78,0:14:37.21,Default,,0,0,0,,¡Tiene gracia!\N¡Mucha más que tus chistes malos!
 Dialogue: 0,0:14:37.90,0:14:41.09,Default,,0,0,0,,¿Qué quieres decir con que\Nmis chistes son malos?
 Dialogue: 0,0:14:41.68,0:14:44.46,Default,,0,0,0,,Además, hay una buena\Nexplicación para esto.
 Dialogue: 0,0:14:45.36,0:14:48.33,Default,,0,0,0,,Yo tengo la culpa de\Nque Kaioh esté muerto.
-Dialogue: 0,0:14:49.34,0:14:51.25,Kaioh del Oeste,,0,0,0,,¿Quién es este tipo?
+Dialogue: 0,0:14:49.34,0:14:51.25,Default,,0,0,0,,¿Quién es este tipo?
 Dialogue: 0,0:14:51.78,0:14:53.89,Default,,0,0,0,,¿Yo? Soy Son Gokú.
 Dialogue: 0,0:14:54.12,0:14:57.61,Default,,0,0,0,,Gokú es un luchador defensor de la\Njusticia que ha salvado un planeta
 Dialogue: 0,0:14:57.63,0:15:00.27,Default,,0,0,0,,del Norte de la Galaxia llamado\NTierra en multitud de ocasiones.
 Dialogue: 0,0:15:00.28,0:15:01.56,Default,,0,0,0,,Es realmente fuerte.
-Dialogue: 0,0:15:01.56,0:15:04.37,Kaioh del Oeste,,0,0,0,,¿Cómo? ¿Realmente fuerte, dices?
-Dialogue: 0,0:15:05.38,0:15:08.09,Kaioh del Oeste,,0,0,0,,Supongo que no insinúas que es\Ntan fuerte como Paiku Han, ¿no?
+Dialogue: 0,0:15:01.56,0:15:04.37,Default,,0,0,0,,¿Cómo? ¿Realmente fuerte, dices?
+Dialogue: 0,0:15:05.38,0:15:08.09,Default,,0,0,0,,Supongo que no insinúas que es\Ntan fuerte como Paiku Han, ¿no?
 Dialogue: 0,0:15:08.52,0:15:09.65,Default,,0,0,0,,No.
 Dialogue: 0,0:15:09.85,0:15:11.72,Default,,0,0,0,,Gokú es más fuerte.
-Dialogue: 0,0:15:12.40,0:15:13.97,Kaioh del Oeste,,0,0,0,,¡Imposible!
-Dialogue: 0,0:15:14.30,0:15:17.53,Kaioh del Oeste,,0,0,0,,Paiku Han es más fuerte.
+Dialogue: 0,0:15:12.40,0:15:13.97,Default,,0,0,0,,¡Imposible!
+Dialogue: 0,0:15:14.30,0:15:17.53,Default,,0,0,0,,Paiku Han es más fuerte.
 Dialogue: 0,0:15:17.86,0:15:20.45,Default,,0,0,0,,¡No, seguro que es Gokú!
-Dialogue: 0,0:15:20.64,0:15:23.46,Kaioh del Oeste,,0,0,0,,¡Seguro, seguro que es Paiku Han!
+Dialogue: 0,0:15:20.64,0:15:23.46,Default,,0,0,0,,¡Seguro, seguro que es Paiku Han!
 Dialogue: 0,0:15:23.46,0:15:25.17,Default,,0,0,0,,¡Contigo no se puede razonar!
-Dialogue: 0,0:15:25.17,0:15:26.70,Kaioh del Oeste,,0,0,0,,¡Contigo sí que no se puede!
+Dialogue: 0,0:15:25.17,0:15:26.70,Default,,0,0,0,,¡Contigo sí que no se puede!
 Dialogue: 0,0:15:26.70,0:15:28.60,Default,,0,0,0,,¡Lo decidiremos con un duelo!
-Dialogue: 0,0:15:30.44,0:15:32.03,Kaioh del Oeste,,0,0,0,,¡Me lo has quitado de la boca!
+Dialogue: 0,0:15:30.44,0:15:32.03,Default,,0,0,0,,¡Me lo has quitado de la boca!
 Dialogue: 0,0:15:38.66,0:15:40.88,Default,,0,0,0,,¡Vamos, adelante, Gokú!
 Dialogue: 0,0:15:40.99,0:15:43.34,Default,,0,0,0,,¿Quieres que luche ahora mismo?
-Dialogue: 0,0:15:43.37,0:15:46.19,Kaioh del Oeste,,0,0,0,,¡Paiku Han, dale una buena lección!
-Dialogue: 0,0:15:46.27,0:15:48.17,Dai Kaioh,,0,0,0,,Un momento...
+Dialogue: 0,0:15:43.37,0:15:46.19,Default,,0,0,0,,¡Paiku Han, dale una buena lección!
+Dialogue: 0,0:15:46.27,0:15:48.17,Default,,0,0,0,,Un momento...
 Dialogue: 0,0:15:48.80,0:15:50.43,Default,,0,0,0,,Esa voz es...
-Dialogue: 0,0:15:51.06,0:15:53.36,Kaioh del Oeste,,0,0,0,,¡Dai Kaioh!
+Dialogue: 0,0:15:51.06,0:15:53.36,Default,,0,0,0,,¡Dai Kaioh!
 Dialogue: 0,0:15:51.06,0:15:53.36,Default,,0,0,0,,¡Dai Kaioh!
 Dialogue: 0,0:15:54.56,0:15:55.68,Default,,0,0,0,,¿Eh, dónde?
 Dialogue: 0,0:15:55.85,0:15:58.45,Default,,0,0,0,,¡Va, va, va, arrodíllate, Gokú!
-Dialogue: 0,0:16:18.86,0:16:19.89,Dai Kaioh,,0,0,0,,¡Hola!
+Dialogue: 0,0:16:18.86,0:16:19.89,Default,,0,0,0,,¡Hola!
 Dialogue: 0,0:16:20.34,0:16:22.45,Default,,0,0,0,,¡Dai Kaioh!
-Dialogue: 0,0:16:20.34,0:16:22.45,Kaioh del Oeste,,0,0,0,,¡Dai Kaioh!
+Dialogue: 0,0:16:20.34,0:16:22.45,Default,,0,0,0,,¡Dai Kaioh!
 Dialogue: 0,0:16:34.30,0:16:36.68,Default,,0,0,0,,¿Éste es Dai Kaioh?
-Dialogue: 0,0:16:46.20,0:16:49.37,Dai Kaioh,,0,0,0,,Siento interrumpir.\NEsto... Paiku Han,
-Dialogue: 0,0:16:49.37,0:16:52.77,Dai Kaioh,,0,0,0,,¿podrías hacerme un\Nencargo en el Ku-jigo?
-Dialogue: 0,0:16:52.80,0:16:53.42,Pikkon,,0,0,0,,¡Sí!
+Dialogue: 0,0:16:46.20,0:16:49.37,Default,,0,0,0,,Siento interrumpir.\NEsto... Paiku Han,
+Dialogue: 0,0:16:49.37,0:16:52.77,Default,,0,0,0,,¿podrías hacerme un\Nencargo en el Ku-jigo?
+Dialogue: 0,0:16:52.80,0:16:53.42,Default,,0,0,0,,¡Sí!
 Dialogue: 0,0:16:53.93,0:16:55.63,Default,,0,0,0,,¿Qué es el Ku-jigo?
 Dialogue: 0,0:16:55.77,0:17:00.05,Default,,0,0,0,,Jigoku: {\c&Hffffff&\3c&H000000&\4c&H5D5D63&}Infierno\N
 Dialogue: 0,0:16:55.77,0:16:57.04,Default,,0,0,0,,Está hablando del Jigoku.
 Dialogue: 0,0:16:57.04,0:17:00.20,Default,,0,0,0,,Tomas la "ku" de Jigoku, la pones\Nal principio, y tienes Ku-jigo.
-Dialogue: 0,0:17:00.30,0:17:03.92,Dai Kaioh,,0,0,0,,Parece que hay algo de\Nalboroto en el Ku-jigo.
+Dialogue: 0,0:17:00.30,0:17:03.92,Default,,0,0,0,,Parece que hay algo de\Nalboroto en el Ku-jigo.
 Dialogue: 0,0:17:04.22,0:17:05.67,Default,,0,0,0,,{\pos(120,520)}¿Alboroto?
 Dialogue: 0,0:17:04.22,0:17:05.67,Default,,0,0,0,,{\pos(360,520)}¿Alboroto?
-Dialogue: 0,0:17:04.22,0:17:05.67,Kaioh del Oeste,,0,0,0,,{\pos(600,520)}¿Alboroto?
-Dialogue: 0,0:17:06.22,0:17:11.45,Dai Kaioh,,0,0,0,,Hace poco, Enma envió a ese\NAndroide llamado Cell.
+Dialogue: 0,0:17:04.22,0:17:05.67,Default,,0,0,0,,{\pos(600,520)}¿Alboroto?
+Dialogue: 0,0:17:06.22,0:17:11.45,Default,,0,0,0,,Hace poco, Enma envió a ese\NAndroide llamado Cell.
 Dialogue: 0,0:17:12.06,0:17:12.93,Default,,0,0,0,,¿Cell?
 Dialogue: 0,0:17:15.74,0:17:18.04,Default,,0,0,0,,¡Cell, te condeno al infierno!
-Dialogue: 0,0:17:24.34,0:17:26.84,Dai Kaioh,,0,0,0,,Y ese Cell se ha juntado\Ncon la pandilla de Freezer
-Dialogue: 0,0:17:26.84,0:17:29.29,Dai Kaioh,,0,0,0,,y están poniendo patas\Narribas el Ku-gijo.
+Dialogue: 0,0:17:24.34,0:17:26.84,Default,,0,0,0,,Y ese Cell se ha juntado\Ncon la pandilla de Freezer
+Dialogue: 0,0:17:26.84,0:17:29.29,Default,,0,0,0,,y están poniendo patas\Narribas el Ku-gijo.
 Dialogue: 0,0:17:29.42,0:17:30.45,Default,,0,0,0,,¿Cell ha...?
 Dialogue: 0,0:17:30.49,0:17:31.64,Default,,0,0,0,,¿Freezer y los otros...?
-Dialogue: 0,0:17:31.66,0:17:35.17,Dai Kaioh,,0,0,0,,Por eso me gustaría que\Nles pusieras en cintura.
-Dialogue: 0,0:17:35.32,0:17:36.41,Pikkon,,0,0,0,,A sus órdenes, majestad.
+Dialogue: 0,0:17:31.66,0:17:35.17,Default,,0,0,0,,Por eso me gustaría que\Nles pusieras en cintura.
+Dialogue: 0,0:17:35.32,0:17:36.41,Default,,0,0,0,,A sus órdenes, majestad.
 Dialogue: 0,0:17:38.10,0:17:39.92,Default,,0,0,0,,¡Tú solo no podrás!\N¡Yo también voy!
 Dialogue: 0,0:17:41.02,0:17:43.00,Default,,0,0,0,,¡Gokú, eso no lo decides tú!
-Dialogue: 0,0:17:43.02,0:17:44.49,Dai Kaioh,,0,0,0,,No pasa nada.
+Dialogue: 0,0:17:43.02,0:17:44.49,Default,,0,0,0,,No pasa nada.
 Dialogue: 0,0:17:44.73,0:17:48.29,Default,,0,0,0,,Kaioh del Norte, parece\Nque sabe lo que hace.
-Dialogue: 0,0:17:54.94,0:17:57.34,Pikkon,,0,0,0,,No necesito tu ayuda para nada.
+Dialogue: 0,0:17:54.94,0:17:57.34,Default,,0,0,0,,No necesito tu ayuda para nada.
 Dialogue: 0,0:17:57.90,0:18:01.85,Default,,0,0,0,,¡Eso es porque no conoces a Cell\Ny a Freezer! ¡Son duros de pelear!
 Dialogue: 0,0:18:02.33,0:18:04.30,Default,,0,0,0,,¡Esta vez se han pasado de la raya!
 Dialogue: 0,0:18:12.66,0:18:14.17,Default,,0,0,0,,Qué desastre...
@@ -295,45 +294,44 @@ Dialogue: 0,0:21:50.24,0:21:51.76,Default,,0,0,0,,Mierda...
 Dialogue: 0,0:21:51.79,0:21:54.53,Default,,0,0,0,,Mira que seguir vivos\Ncon estas heridas...
 Dialogue: 0,0:21:56.56,0:21:58.84,Default,,0,0,0,,Está claro que es el lnfierno.
 Dialogue: 0,0:22:01.61,0:22:04.97,Default,,0,0,0,,Ya está. Ahora no harán daño a nadie.
-Dialogue: 0,0:22:06.20,0:22:08.09,Pikkon,,0,0,0,,Sí, así es.
-Dialogue: 0,0:22:09.50,0:22:13.09,Pikkon,,0,0,0,,Es increíble. Es realmente increíble.
+Dialogue: 0,0:22:06.20,0:22:08.09,Default,,0,0,0,,Sí, así es.
+Dialogue: 0,0:22:09.50,0:22:13.09,Default,,0,0,0,,Es increíble. Es realmente increíble.
 Dialogue: 0,0:22:13.71,0:22:16.86,Default,,0,0,0,,Me estoy empezando a emocionar\Ncon esto del Más Allá.
 Dialogue: 0,0:22:17.20,0:22:21.69,Default,,0,0,0,,En el Más Allá, hay luchadores\Nmejores que Gokú.
 Dialogue: 0,0:22:22.38,0:22:26.53,Default,,0,0,0,,Gokú está emocionado por\Nlas aventuras que le esperan.
-Dialogue: 0,0:22:44.79,0:22:48.53,Karaoke Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
-Dialogue: 0,0:22:44.79,0:22:48.53,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:22:48.74,0:22:54.13,Karaoke Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
-Dialogue: 0,0:22:48.74,0:22:54.13,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:22:54.64,0:22:56.62,Karaoke Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
-Dialogue: 0,0:22:54.64,0:22:56.62,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:00.31,0:23:07.47,Karaoke Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
-Dialogue: 0,0:23:00.31,0:23:07.47,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:07.63,0:23:12.10,Karaoke Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
-Dialogue: 0,0:23:07.63,0:23:12.10,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:12.10,0:23:15.83,Karaoke Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
-Dialogue: 0,0:23:12.10,0:23:15.83,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:16.02,0:23:19.59,Karaoke Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
-Dialogue: 0,0:23:16.02,0:23:19.59,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:19.59,0:23:21.72,Karaoke Español,,0,0,0,,Ahí está... ven, ven, ven
-Dialogue: 0,0:23:19.59,0:23:21.72,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:23.94,0:23:31.07,Karaoke Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
-Dialogue: 0,0:23:23.94,0:23:31.07,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:31.77,0:23:33.49,Karaoke Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
-Dialogue: 0,0:23:31.77,0:23:33.49,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:33.74,0:23:35.52,Karaoke Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
-Dialogue: 0,0:23:33.74,0:23:35.52,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:35.74,0:23:37.75,Karaoke Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
-Dialogue: 0,0:23:35.74,0:23:37.75,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:37.75,0:23:39.62,Karaoke Español,,0,0,0,,¡Qué dolor!
-Dialogue: 0,0:23:37.75,0:23:39.62,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:39.62,0:23:44.64,Karaoke Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
-Dialogue: 0,0:23:39.62,0:23:44.64,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:45.31,0:23:46.32,Karaoke Español,,0,0,0,,Lo siento.
-Dialogue: 0,0:23:45.31,0:23:46.32,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:47.57,0:23:52.49,Karaoke Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
-Dialogue: 0,0:23:47.57,0:23:52.49,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:55.42,0:24:01.33,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
-Dialogue: 0,0:23:55.42,0:24:01.33,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:44.79,0:22:48.53,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:48.74,0:22:54.13,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:54.64,0:22:56.62,Karaoke Español,,0,0,0,,{\blur.8}Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:23:00.31,0:23:07.47,Karaoke Español,,0,0,0,,{\blur.8}La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:07.63,0:23:12.10,Karaoke Español,,0,0,0,,{\blur.8}Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:12.10,0:23:15.83,Karaoke Español,,0,0,0,,{\blur.8}Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:16.02,0:23:19.59,Karaoke Español,,0,0,0,,{\blur.8}Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:19.59,0:23:21.72,Karaoke Español,,0,0,0,,{\blur.8}Ahí está... ven, ven, ven
+Dialogue: 0,0:23:23.94,0:23:31.07,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:31.77,0:23:33.49,Karaoke Español,,0,0,0,,{\blur.8}La hambrienta y traviesa\Nnube voladora,
+Dialogue: 0,0:23:33.74,0:23:35.52,Karaoke Español,,0,0,0,,{\blur.8}Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:35.74,0:23:37.75,Karaoke Español,,0,0,0,,{\blur.8}Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:37.75,0:23:39.62,Karaoke Español,,0,0,0,,{\blur.8}¡Qué dolor!
+Dialogue: 0,0:23:39.62,0:23:44.64,Karaoke Español,,0,0,0,,{\blur.8}¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:45.31,0:23:46.32,Karaoke Español,,0,0,0,,{\blur.8}Lo siento.
+Dialogue: 0,0:23:47.57,0:23:52.49,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:55.42,0:24:01.33,Karaoke Español,,0,0,0,,{\blur.8}¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:22:44.79,0:22:48.53,Karaoke Japones,,0,0,0,,{\blur.8}kakete kuru yo appuru iro monsutaa
+Dialogue: 0,0:22:48.74,0:22:54.13,Karaoke Japones,,0,0,0,,{\blur.8}tonde kuru yo nattsu no kaori eirian
+Dialogue: 0,0:22:54.64,0:22:56.62,Karaoke Japones,,0,0,0,,{\blur.8}deatte dokkin{\fs30}-{\fs}dokkin
+Dialogue: 0,0:23:00.31,0:23:07.47,Karaoke Japones,,0,0,0,,{\blur.8}pika{\fs30}-{\fs}pika ginga wa poppukoon shawaa
+Dialogue: 0,0:23:07.63,0:23:12.10,Karaoke Japones,,0,0,0,,{\blur.8}kinou ni bai{\fs30} • {\fs}bai{\fs30} • {\fs}bai (Go{\fs30} • {\fs}ha{\fs30} • {\fs}n)
+Dialogue: 0,0:23:12.10,0:23:15.83,Karaoke Japones,,0,0,0,,{\blur.8}fu{\fs30} • {\fs}shi{\fs30} • {\fs}gi (ip{\fs30} • {\fs}pa{\fs30} • {\fs}i)
+Dialogue: 0,0:23:16.02,0:23:19.59,Karaoke Japones,,0,0,0,,{\blur.8}chikara o komete (okawari OK)
+Dialogue: 0,0:23:19.59,0:23:21.72,Karaoke Japones,,0,0,0,,{\blur.8}kochira e rai{\fs30} • {\fs}rai{\fs30} • {\fs}rai
+Dialogue: 0,0:23:23.94,0:23:31.07,Karaoke Japones,,0,0,0,,{\blur.8}Woh... mirakuru ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:31.77,0:23:33.49,Karaoke Japones,,0,0,0,,{\blur.8}haraheri wanpaku Kinto'un
+Dialogue: 0,0:23:33.74,0:23:35.52,Karaoke Japones,,0,0,0,,{\blur.8}yama hodo takusan suiheisen
+Dialogue: 0,0:23:35.74,0:23:39.62,Karaoke Japones,,0,0,0,,{\blur.8}deatte wakarete deatte wakarete ta{\fs30} • {\fs}i{\fs30} • {\fs}he{\fs30} • {\fs}n
+Dialogue: 0,0:23:39.62,0:23:44.64,Karaoke Japones,,0,0,0,,{\blur.8}Ah mou Kami{\fs30}-{\fs}sama mo tsurai yo ne{\fs35\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+Dialogue: 0,0:23:45.31,0:23:46.32,Karaoke Japones,,0,0,0,,{\blur.8}... go{\fs30} • {\fs}men
+Dialogue: 0,0:23:47.57,0:23:52.49,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:55.42,0:24:01.33,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:24:08.63,0:24:11.26,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
 Dialogue: 0,0:24:12.00,0:24:13.80,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:13.80,0:24:16.67,Default,,0,0,0,,Kaioh, si gano el Torneo del Más Allá,
@@ -343,6 +341,3 @@ Dialogue: 0,0:24:23.28,0:24:26.18,Default,,0,0,0,,serán muy parecidos a Paikuha
 Dialogue: 0,0:24:26.18,0:24:28.15,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:28.15,0:24:32.05,Default,,0,0,0,,¡¡El Más Allá!! Yo soy el gran héroe\Nde las generaciones venideras
 Dialogue: 0,0:24:32.05,0:24:34.78,Default,,0,0,0,,¡Increible!\NYo también quiero participar.
-Dialogue: 0,0:24:34.82,0:24:38.28,Default,,0,0,0,,
-Dialogue: 0,0:24:34.82,0:24:38.28,Default,,0,0,0,,
-Dialogue: 0,0:24:34.82,0:24:38.28,Default,,0,0,0,,
