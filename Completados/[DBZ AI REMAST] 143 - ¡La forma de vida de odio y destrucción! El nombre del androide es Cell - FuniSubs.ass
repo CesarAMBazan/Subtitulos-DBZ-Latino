@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -68,8 +68,8 @@ Dialogue: 0,0:01:50.44,0:01:54.59,Default,,0,0,0,,Gokú aun no se ha recuperado\
 Dialogue: 0,0:01:55.20,0:02:00.83,Default,,0,0,0,,Además, los androides siguen buscando a Gokú.
 Dialogue: 0,0:02:14.32,0:02:19.83,Default,,0,0,0,,Pero ahora ha aparecido un horror\Naún mayor que excede esta crisis.
 Dialogue: 0,0:02:26.16,0:02:32.47,Default,,0,0,0,,Un monstruo llegado del futuro que\Nabsorbe la energía de la gente.
-Dialogue: 0,0:02:42.88,0:02:47.71,Default,,0,0,0,,Con el propósito de oponerse a él,\Nha nacido un nuevo y poderoso namek
-Dialogue: 0,0:02:47.88,0:02:52.90,Default,,0,0,0,,resultado de la fusión\Nde Dios y Píkoro.
+Dialogue: 0,0:02:42.88,0:02:47.71,Default,,0,0,0,,Con el propósito de oponerse a él,\Nha nacido un nuevo y poderoso namekuseijin
+Dialogue: 0,0:02:47.88,0:02:52.90,Default,,0,0,0,,resultado de la fusión\Nde Kami sama y Píkoro.
 Dialogue: 0,0:02:53.04,0:02:56.35,Default,,0,0,0,,La batalla finalmente ha comenzado...
 Dialogue: 0,0:03:20.84,0:03:27.60,Default,,0,0,0,,¡La forma de vida de odio y destrucción!\NEl nombre del androide es Cell
 Dialogue: 0,0:03:48.28,0:03:50.08,Default,,0,0,0,,Ka
@@ -81,7 +81,7 @@ Dialogue: 0,0:04:05.10,0:04:07.75,Default,,0,0,0,,¿Cómo es posible?
 Dialogue: 0,0:04:09.68,0:04:12.62,Default,,0,0,0,,¡Ha!
 Dialogue: 0,0:04:12.66,0:04:13.80,Default,,0,0,0,,¡Es el auténtico!
 Dialogue: 0,0:04:33.48,0:04:35.59,Default,,0,0,0,,Tu vida me pertenece.
-Dialogue: 0,0:04:48.16,0:04:52.48,Default,,0,0,0,,Parece que te lo he clavado en el brazo...\NPero el resultado será el mismo.
+Dialogue: 0,0:04:48.16,0:04:52.48,Default,,0,0,0,,Parece que te he dado en el brazo...\NPero el resultado será el mismo.
 Dialogue: 0,0:04:52.52,0:04:56.39,Default,,0,0,0,,Te extraeré toda tu poderosa\Nesencia vital.
 Dialogue: 0,0:05:06.24,0:05:11.67,Default,,0,0,0,,En cualquier caso, ¿contra quién está\Nenfrentándose Píkoro en estos momentos?
 Dialogue: 0,0:05:12.12,0:05:16.18,Default,,0,0,0,,Casi seguro que se trata del monstruo\Nque salió del huevo después de viajar
@@ -97,7 +97,7 @@ Dialogue: 0,0:06:07.16,0:06:08.38,Default,,0,0,0,,¡Papá!
 Dialogue: 0,0:06:18.64,0:06:20.59,Default,,0,0,0,,Ha vuelto a dormirse.
 Dialogue: 0,0:06:21.08,0:06:23.46,Default,,0,0,0,,Pero pronto abrirá los ojos, ¿verdad?
 Dialogue: 0,0:06:23.54,0:06:24.78,Default,,0,0,0,,Sí.
-Dialogue: 0,0:06:24.96,0:06:28.19,Default,,0,0,0,,Voy a decírselo a WOolong\Ny a los demás.
+Dialogue: 0,0:06:24.96,0:06:28.19,Default,,0,0,0,,Voy a decírselo a Oolong\Ny a los demás.
 Dialogue: 0,0:06:29.52,0:06:30.95,Default,,0,0,0,,¡Chicos!
 Dialogue: 0,0:06:38.60,0:06:42.38,Default,,0,0,0,,Acabamos de recibir la noticia de que\Nen estos momentos las fuerzas armadas
 Dialogue: 0,0:06:42.52,0:06:45.30,Default,,0,0,0,,han comenzado una movilización\Nde emergencia hacia Gingertown.
@@ -112,16 +112,16 @@ Dialogue: 0,0:07:16.28,0:07:20.83,Default,,0,0,0,,Parece ser que estamos experim
 Dialogue: 0,0:07:21.08,0:07:23.68,Default,,0,0,0,,Esperen.\NYa podemos realizar la conexión.
 Dialogue: 0,0:08:17.20,0:08:18.26,Default,,0,0,0,,¡Es él!
 Dialogue: 0,0:08:19.36,0:08:28.60,Default,,0,0,0,,¡Eh, tú! ¡Estás completamente rodeado!\N¡Ríndete sin oponer más resistencia!
-Dialogue: 0,0:08:34.36,0:08:37.64,Default,,0,0,0,,Desgraciados... ¿os atrevéis\Na interrumpir mi comida?
+Dialogue: 0,0:08:34.36,0:08:37.64,Default,,0,0,0,,Desgraciados... ¿se atreven\Na interrumpir mi comida?
 Dialogue: 0,0:08:52.08,0:08:54.28,Default,,0,0,0,,¡Maldición! ¡Fuego! ¡Fuego!
 Dialogue: 0,0:09:27.92,0:09:29.27,Default,,0,0,0,,Lo hemos conseguido.
 Dialogue: 0,0:09:29.44,0:09:30.55,Default,,0,0,0,,¡Sigue vivo!
 Dialogue: 0,0:09:30.72,0:09:31.86,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:09:32.76,0:09:35.03,Default,,0,0,0,,¡Miserables cucarachas!
-Dialogue: 0,0:09:38.36,0:09:40.31,Default,,0,0,0,,¡Disparad los misiles!
+Dialogue: 0,0:09:38.36,0:09:40.31,Default,,0,0,0,,¡Disparen los misiles!
 Dialogue: 0,0:10:06.32,0:10:08.56,Default,,0,0,0,,Tan sólo ha sido una\Npequeña distracción.
 Dialogue: 0,0:10:09.76,0:10:13.98,Default,,0,0,0,,Y ahora, ¿qué tal si\Ncontinuamos con la comida?
-Dialogue: 0,0:10:32.84,0:10:34.27,Default,,0,0,0,,Dios...
+Dialogue: 0,0:10:32.84,0:10:34.27,Default,,0,0,0,,Kami sama...
 Dialogue: 0,0:10:42.60,0:10:44.84,Default,,0,0,0,,Desgraciado...
 Dialogue: 0,0:11:55.98,0:11:57.99,Default,,0,0,0,,¿Ocurre algo, Nº 16?
 Dialogue: 0,0:11:58.48,0:12:01.39,Default,,0,0,0,,Ha habido una fluctuación en esas\Nlecturas de poder de antes.
@@ -147,12 +147,12 @@ Dialogue: 0,0:13:33.40,0:13:35.83,Default,,0,0,0,,y puedes hacer el Kame Hame Ha
 Dialogue: 0,0:13:44.28,0:13:48.35,Default,,0,0,0,,Está bien. De todos modos,\Nvas a morir, así que te lo diré.
 Dialogue: 0,0:13:51.68,0:13:55.82,Default,,0,0,0,,Mi nombre es Cell. Soy un Androide.
 Dialogue: 0,0:13:56.04,0:13:58.11,Default,,0,0,0,,¿Un Androide?
-Dialogue: 0,0:13:58.68,0:14:03.27,Default,,0,0,0,,Fui concebido por el\Nordenador del Dr. Gero.
+Dialogue: 0,0:13:58.68,0:14:03.27,Default,,0,0,0,,Fui concebido por la\Ncomputadora del Dr. Gero.
 Dialogue: 0,0:14:04.12,0:14:05.99,Default,,0,0,0,,¿Otra vez el Dr. Gero?
 Dialogue: 0,0:14:06.32,0:14:11.26,Default,,0,0,0,,Hace mucho tiempo, el Dr. Gero comenzó\Na reunir las células de los mejores
 Dialogue: 0,0:14:11.38,0:14:15.92,Default,,0,0,0,,guerreros para investigar cómo sintetizar\Nun androide a partir de ellas.
 Dialogue: 0,0:14:16.36,0:14:19.46,Default,,0,0,0,,Pero pensó que el proyecto le llevaría\Ndemasiado tiempo y lo abandonó.
-Dialogue: 0,0:14:34.68,0:14:39.84,Default,,0,0,0,,Pero el ordenador continuó\Nejecutando el programa.
+Dialogue: 0,0:14:34.68,0:14:39.84,Default,,0,0,0,,Pero la computadora continuó\Nejecutando el programa.
 Dialogue: 0,0:15:00.96,0:15:02.39,Default,,0,0,0,,Píkoro...
 Dialogue: 0,0:15:07.36,0:15:09.19,Default,,0,0,0,,Son Gokú...
 Dialogue: 0,0:15:12.52,0:15:17.87,Default,,0,0,0,,y las células de Vegeta, fueron recogidas durante\Nla batalla que tuvo lugar cuando
@@ -162,21 +162,21 @@ Dialogue: 0,0:15:41.68,0:15:46.31,Default,,0,0,0,,Eso explica por qué tu Kame H
 Dialogue: 0,0:15:47.00,0:15:48.38,Default,,0,0,0,,Y además...
 Dialogue: 0,0:15:51.20,0:15:57.66,Default,,0,0,0,,tuvimos la suerte de obtener las células de Freezer\N y su padre cuando vinieron a la Tierra.
 Dialogue: 0,0:16:25.76,0:16:30.86,Default,,0,0,0,,También podíamos haber tomado células\Nde ese Trunks, pero ya teníamos
-Dialogue: 0,0:16:31.32,0:16:34.35,Default,,0,0,0,,suficientes datos sobre los Saiyajins.
-Dialogue: 0,0:16:35.92,0:16:38.87,Default,,0,0,0,,¿C-Cómo conseguisteis las células?
+Dialogue: 0,0:16:31.32,0:16:34.35,Default,,0,0,0,,suficientes datos sobre los Saiyajin.
+Dialogue: 0,0:16:35.92,0:16:38.87,Default,,0,0,0,,¿C-Cómo conseguiste las células?
 Dialogue: 0,0:16:39.00,0:16:43.27,Default,,0,0,0,,¡No percibí nada extraño\Nen aquellos momentos!
-Dialogue: 0,0:16:43.68,0:16:47.88,Default,,0,0,0,,Supongo que el Dr. Gero ya os explicó\Nque todas vuestras acciones eran
+Dialogue: 0,0:16:43.68,0:16:47.88,Default,,0,0,0,,Supongo que el Dr. Gero ya les explicó\Nque todas sus acciones eran
 Dialogue: 0,0:16:47.88,0:16:50.20,Default,,0,0,0,,registradas por un robot espía.
 Dialogue: 0,0:16:51.04,0:16:53.82,Default,,0,0,0,,Se trata de un robot pequeño\Ncomo un insecto.
 Dialogue: 0,0:16:53.90,0:16:59.34,Default,,0,0,0,,Nadie lo advirtió mientras recogía\Nlas células. Fíjate bien.
-Dialogue: 0,0:16:59.36,0:17:05.15,Default,,0,0,0,,Ahora mismo está aquí, enviando los\Ndatos de esta situación al ordenador.
+Dialogue: 0,0:16:59.36,0:17:05.15,Default,,0,0,0,,Ahora mismo está aquí, enviando los\Ndatos de esta situación a la computadora.
 Dialogue: 0,0:17:06.68,0:17:10.75,Default,,0,0,0,,Es posible que también\Nquiera tus células.
 Dialogue: 0,0:17:14.18,0:17:15.78,Default,,0,0,0,,¡Desgraciado!
 Dialogue: 0,0:17:21.48,0:17:23.82,Default,,0,0,0,,Ya no sirve de nada destruirlo.
 Dialogue: 0,0:17:24.00,0:17:28.32,Default,,0,0,0,,Las células necesarias han sido\Nrecogidas y el experimento ha comenzado.
 Dialogue: 0,0:17:29.08,0:17:33.62,Default,,0,0,0,,Dentro de veinticuatro años\Nseré completado.
 Dialogue: 0,0:17:33.68,0:17:37.38,Default,,0,0,0,,¡Imposible! ¡El laboratorio del\NDr. Gero ha sido destruido!
-Dialogue: 0,0:17:37.56,0:17:42.18,Default,,0,0,0,,El ordenador se encuentra en una\Nhabitación debajo del laboratorio.
+Dialogue: 0,0:17:37.56,0:17:42.18,Default,,0,0,0,,La computadora se encuentra en una\Nhabitación debajo del laboratorio.
 Dialogue: 0,0:17:43.84,0:17:45.35,Default,,0,0,0,,Comprendo.
 Dialogue: 0,0:17:46.92,0:17:52.18,Default,,0,0,0,,¿Y cómo es que tardaste tres años en\Naparecer después de llegar a esta época?
 Dialogue: 0,0:17:52.56,0:17:57.76,Default,,0,0,0,,Una vez regreso al huevo, necesito\Npasar tres años en estado embrionario
@@ -187,13 +187,13 @@ Dialogue: 0,0:18:07.92,0:18:11.34,Default,,0,0,0,,¿Por qué motivo te has moles
 Dialogue: 0,0:18:11.34,0:18:15.48,Default,,0,0,0,,Para alcanzar mi forma perfecta,\Nla absorción de esencias vitales
 Dialogue: 0,0:18:15.62,0:18:17.72,Default,,0,0,0,,de seres humanos no es suficiente.
 Dialogue: 0,0:18:18.44,0:18:23.87,Default,,0,0,0,,Es imprescindible que absorba dos formas\Nde vida especializadas esenciales.
-Dialogue: 0,0:18:24.68,0:18:29.59,Default,,0,0,0,,El ordenador me dijo que esas formas\Nde vida especializadas eran...
+Dialogue: 0,0:18:24.68,0:18:29.59,Default,,0,0,0,,La computadora me dijo que esas formas\Nde vida especializadas eran...
 Dialogue: 0,0:18:32.92,0:18:38.15,Default,,0,0,0,,Los Androides creados por el\NDr. Gero, el Nº 17 y el Nº 18.
 Dialogue: 0,0:18:38.76,0:18:39.74,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:18:57.80,0:19:03.56,Default,,0,0,0,,Pero en el futuro del que provengo\Nel Nº 17 y el Nº 1 8 ya no existían.
 Dialogue: 0,0:19:03.64,0:19:06.78,Default,,0,0,0,,Es posible que fueran\Ndestruidos por Trunks.
 Dialogue: 0,0:19:07.12,0:19:11.71,Default,,0,0,0,,Pero afortunadamente para mí,\NTrunks tenía esa máquina del tiempo.
-Dialogue: 0,0:19:29.64,0:19:38.28,Default,,0,0,0,,Después de matarle, vine a esta\Népoca para buscar al Nº 17 y al Nº 18.
+Dialogue: 0,0:19:29.64,0:19:38.28,Default,,0,0,0,,Después de matarlo, vine a esta\Népoca para buscar al Nº 17 y al Nº 18.
 Dialogue: 0,0:20:22.94,0:20:25.50,Default,,0,0,0,,¿P-Por qué escogiste esta época?
 Dialogue: 0,0:20:25.58,0:20:30.75,Default,,0,0,0,,Trunks ya había configurado la\Nmáquina para venir a esta época.
 Dialogue: 0,0:20:30.78,0:20:33.66,Default,,0,0,0,,Todo lo que hice fue pulsar el botón.
@@ -201,14 +201,14 @@ Dialogue: 0,0:20:34.24,0:20:35.59,Default,,0,0,0,,Comprendo.
 Dialogue: 0,0:20:35.80,0:20:40.38,Default,,0,0,0,,Trunks debía de haber preparado la\Nmáquina para venir a decirnos
 Dialogue: 0,0:20:40.54,0:20:43.90,Default,,0,0,0,,que había conseguido destruir\Na los Androides.
 Dialogue: 0,0:20:44.08,0:20:46.43,Default,,0,0,0,,Y-Y entonces él...
-Dialogue: 0,0:20:46.76,0:20:49.44,Default,,0,0,0,,El ordenador también me dijo...
+Dialogue: 0,0:20:46.76,0:20:49.44,Default,,0,0,0,,La computadora también me dijo...
 Dialogue: 0,0:20:50.26,0:20:53.90,Default,,0,0,0,,que una vez alcanzara mi forma\Nperfecta, tendría un poder terrible,
 Dialogue: 0,0:20:53.94,0:20:56.50,Default,,0,0,0,,más allá de los límites\Nde la imaginación.
 Dialogue: 0,0:20:56.64,0:21:01.62,Default,,0,0,0,,¿Por qué razón? ¿Por qué razón\Nansías tanto semejante poder?
 Dialogue: 0,0:21:02.64,0:21:05.79,Default,,0,0,0,,¿Por qué razón?\NQué pregunta más absurda.
-Dialogue: 0,0:21:05.92,0:21:11.12,Default,,0,0,0,,El ordenador había sido programado para\Ncrear el ser más fuerte posible,
+Dialogue: 0,0:21:05.92,0:21:11.12,Default,,0,0,0,,La computadora había sido programada para\Ncrear el ser más fuerte posible,
 Dialogue: 0,0:21:11.20,0:21:14.00,Default,,0,0,0,,sin ningún tipo de restricciones.
-Dialogue: 0,0:21:15.12,0:21:20.56,Default,,0,0,0,,O tal vez, sea cosa de la sangre de\Nlos Saiyajins, Freezer y Píkoro
+Dialogue: 0,0:21:15.12,0:21:20.56,Default,,0,0,0,,O tal vez, sea cosa de la sangre de\Nlos Saiyajin, Freezer y Píkoro
 Dialogue: 0,0:21:20.60,0:21:22.83,Default,,0,0,0,,que corre por mis venas.
 Dialogue: 0,0:21:23.64,0:21:25.07,Default,,0,0,0,,Comprendo.
 Dialogue: 0,0:21:25.18,0:21:28.42,Default,,0,0,0,,¿Ya estás satisfecho?
@@ -220,7 +220,7 @@ Dialogue: 0,0:21:51.84,0:21:56.02,Default,,0,0,0,,Es posible que lleves mi sangr
 Dialogue: 0,0:21:56.06,0:21:58.03,Default,,0,0,0,,mi poder de regeneración.
 Dialogue: 0,0:22:00.92,0:22:03.55,Default,,0,0,0,,La situación se ha invertido.
 Dialogue: 0,0:22:03.72,0:22:08.91,Default,,0,0,0,,Sin embargo, aún se desconoce el\Nverdadero poder de este monstruo.
-Dialogue: 0,0:22:10.00,0:22:17.48,Default,,0,0,0,,Guerreros Z, no permitáis que el\Nmonstruo Cell alcance la forma perfecta.
+Dialogue: 0,0:22:10.00,0:22:17.48,Default,,0,0,0,,Guerreros Z, no permitan que el\Nmonstruo Cell alcance la forma perfecta.
 Dialogue: 0,0:22:43.25,0:22:46.99,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
 Dialogue: 0,0:22:47.20,0:22:52.59,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
 Dialogue: 0,0:22:53.10,0:22:55.08,Karaoke Español,,0,0,0,,{\blur.8}Al encontrarles,\Npalpita mi corazón
@@ -262,4 +262,4 @@ Dialogue: 0,0:24:16.48,0:24:20.22,Default,,0,0,0,,¡No importa cómo pero\Nabsor
 Dialogue: 0,0:24:20.22,0:24:24.60,Default,,0,0,0,,¡Alcanzaré mi forma perfecta,\Ny obtendré el máximo poder!
 Dialogue: 0,0:24:24.80,0:24:26.86,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:26.86,0:24:30.66,Default,,0,0,0,,¡El lamentable grave error de Píkoro!\N¡Cell anda suelto por la ciudad!
-Dialogue: 0,0:24:30.87,0:24:33.05,Default,,0,0,0,,¡Rápido, tenemos que atraparle!
+Dialogue: 0,0:24:30.87,0:24:33.05,Default,,0,0,0,,¡Rápido, tenemos que atraparlo!
