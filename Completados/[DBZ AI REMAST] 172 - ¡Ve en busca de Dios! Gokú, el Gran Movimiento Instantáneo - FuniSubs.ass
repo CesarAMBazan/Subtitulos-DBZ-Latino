@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -123,7 +123,7 @@ Dialogue: 0,0:08:43.23,0:08:47.18,Default,,0,0,0,,Me hizo muy feliz.\NFue como u
 Dialogue: 0,0:08:49.59,0:08:52.90,Default,,0,0,0,,Gokú es un marido ejemplar.
 Dialogue: 0,0:09:10.47,0:09:15.38,Default,,0,0,0,,¿Qué les parece si pasamos a ver a\NMutenroshi antes de volver a casa?
 Dialogue: 0,0:09:15.75,0:09:16.73,Default,,0,0,0,,Está bien...
-Dialogue: 0,0:09:37.07,0:09:40.46,Default,,0,0,0,,¡Idiota! ¡¿Se puede saber\Na qué esperas?!
+Dialogue: 0,0:09:37.07,0:09:40.46,Default,,0,0,0,,¡Idiota! ¡¿Se puede saber\Nqué esperas?!
 Dialogue: 0,0:09:40.71,0:09:43.74,Default,,0,0,0,,¡Cállate o Cell te comerá vivo!
 Dialogue: 0,0:09:56.79,0:09:58.46,Default,,0,0,0,,El tráfico está fatal.
 Dialogue: 0,0:09:59.79,0:10:02.30,Default,,0,0,0,,Todo el mundo escapa\Nde las ciudades.
@@ -194,18 +194,18 @@ Dialogue: 0,0:18:38.84,0:18:43.36,Default,,0,0,0,,Ya veo, pero lamentándolo muc
 Dialogue: 0,0:18:44.41,0:18:48.56,Default,,0,0,0,,Una vez fusionados, no podemos\Nvolver a separarnos.
 Dialogue: 0,0:18:48.73,0:18:53.00,Default,,0,0,0,,De no ser así,\Nno habría dudado tanto.
 Dialogue: 0,0:18:53.93,0:18:58.48,Default,,0,0,0,,¿En serio?\NEntonces no hay nada que hacer...
-Dialogue: 0,0:19:00.33,0:19:04.36,Default,,0,0,0,,Oye, Gohan me contó que\Nlos nameks supervivientes
+Dialogue: 0,0:19:00.33,0:19:04.36,Default,,0,0,0,,Oye, Gohan me contó que\Nlos namekuseijin supervivientes
 Dialogue: 0,0:19:04.36,0:19:06.99,Default,,0,0,0,,se marcharon a otro planeta.
 Dialogue: 0,0:19:07.41,0:19:09.48,Default,,0,0,0,,Voy a ir a buscarlos.
 Dialogue: 0,0:19:09.61,0:19:10.83,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:19:11.33,0:19:16.84,Default,,0,0,0,,¡Si lo consigo y uno de ellos quiere\Nquedarse en la Tierra para siempre,
 Dialogue: 0,0:19:17.50,0:19:20.60,Default,,0,0,0,,Kami Sama resucitará y las\Nesferas del dragón con él!
-Dialogue: 0,0:19:24.81,0:19:28.48,Default,,0,0,0,,¡Voy a buscar el nuevo\Nplaneta de los nameks!
+Dialogue: 0,0:19:24.81,0:19:28.48,Default,,0,0,0,,¡Voy a buscar el nuevo\Nplaneta de los namekuseijin!
 Dialogue: 0,0:19:29.05,0:19:32.80,Default,,0,0,0,,Popo se pondrá muy contento\Nsi encuentras un nuevo Dios.
 Dialogue: 0,0:19:33.05,0:19:36.32,Default,,0,0,0,,Pero, Gokú, ¿cómo lo\Ntraerás a la Tierra?
 Dialogue: 0,0:19:36.61,0:19:41.55,Default,,0,0,0,,Podría llevar mucho tiempo traerle\Nhasta aquí desde otro planeta.
-Dialogue: 0,0:19:42.29,0:19:46.64,Default,,0,0,0,,No te preocupes. Puedo usar el\NMovimiento Instantáneo.
-Dialogue: 0,0:19:47.09,0:19:51.52,Default,,0,0,0,,Puedo buscar una energía parecida a la\Nde Píkoro y así encontraré a los nameks.
+Dialogue: 0,0:19:42.29,0:19:46.64,Default,,0,0,0,,No te preocupes. Puedo usar la\NTeletransportación.
+Dialogue: 0,0:19:47.09,0:19:51.52,Default,,0,0,0,,Puedo buscar una energía parecida a la\Nde Píkoro y así encontraré a los namekuseijin.
 Dialogue: 0,0:19:51.52,0:19:53.96,Default,,0,0,0,,¿Eres capaz de detectar\Nuna energía a esa distancia?
 Dialogue: 0,0:19:54.85,0:19:59.00,Default,,0,0,0,,Puede... puedo hacerlo si\Nno está demasiado lejos.
 Dialogue: 0,0:19:59.93,0:20:03.12,Default,,0,0,0,,Voy a intentarlo ahora mismo.\NNo hagáis ruido.
@@ -266,6 +266,6 @@ Dialogue: 0,0:24:17.83,0:24:19.24,Default,,0,0,0,,te aseguro que Gohan\Nestará 
 Dialogue: 0,0:24:19.24,0:24:22.44,Default,,0,0,0,,Si. Aunque no lo parezca,\Nes un compañero excepcional.
 Dialogue: 0,0:24:22.44,0:24:25.51,Default,,0,0,0,,Ahora, veamos\Nal nuevo Kami Sama en acción.
 Dialogue: 0,0:24:25.51,0:24:27.58,Default,,0,0,0,,Próximamente en Dragon Ball Z
-Dialogue: 0,0:24:27.58,0:24:30.68,Default,,0,0,0,,¡La primera labor de Dende!\N¡Las esferas del dragón vuelven a la vida!
+Dialogue: 0,0:24:27.58,0:24:30.68,Default,,0,0,0,,¡La primera labor de Dende!\N¡Las Esferas del Dragón vuelven a la vida!
 Dialogue: 0,0:24:30.68,0:24:33.72,Default,,0,0,0,,¡Hurra! ¡Ahora podré ver\N de nuevo a Dende,
-Dialogue: 0,0:24:33.72,0:24:35.80,Default,,0,0,0,,y las Bolas de Dragón\Nvolverán a la normalidad!
+Dialogue: 0,0:24:33.72,0:24:35.80,Default,,0,0,0,,y las Esferas del Dragón\Nvolverán a la normalidad!

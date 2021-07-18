@@ -75,13 +75,13 @@ Dialogue: 0,0:02:38.55,0:02:43.37,Default,,0,0,0,,Por lo que, la población mund
 Dialogue: 0,0:02:43.37,0:02:47.47,Default,,0,0,0,,pequeños y aislados con el propósito\Nde evitar convertirse en blancos.
 Dialogue: 0,0:02:51.04,0:02:53.87,Default,,0,0,0,,¿Se puede saber qué haces?\N¡Date prisa!
 Dialogue: 0,0:02:54.16,0:02:56.62,Default,,0,0,0,,¡Va a venir ese monstruo!
-Dialogue: 0,0:02:57.20,0:02:58.51,Default,,0,0,0,,¡A la mierda!
+Dialogue: 0,0:02:57.20,0:02:58.51,Default,,0,0,0,,¡Ya fue suficiente!
 Dialogue: 0,0:03:03.80,0:03:04.82,Default,,0,0,0,,¡Idiota!
 Dialogue: 0,0:03:18.60,0:03:21.23,Default,,0,0,0,,Ha cundido en pánico.
 Dialogue: 0,0:03:29.76,0:03:33.46,Default,,0,0,0,,Yo mismo tengo ganas de\Nlargarme lo más lejos posible.
 Dialogue: 0,0:03:33.60,0:03:36.39,Default,,0,0,0,,Te escondas donde te escondas,\Nno servirá de nada.
-Dialogue: 0,0:03:36.56,0:03:40.02,Chaoz,,0,0,0,,Es verdad. Cell dijo que si todos los\Nluchadores que nos representaran
-Dialogue: 0,0:03:40.08,0:03:43.71,Chaoz,,0,0,0,,eran derrotados, exterminaría a todos y\Ncada uno de los habitantes del planeta.
+Dialogue: 0,0:03:36.56,0:03:40.02,Default,,0,0,0,,Es verdad. Cell dijo que si todos los\Nluchadores que nos representaran
+Dialogue: 0,0:03:40.08,0:03:43.71,Default,,0,0,0,,eran derrotados, exterminaría a todos y\Ncada uno de los habitantes del planeta.
 Dialogue: 0,0:03:43.96,0:03:45.06,Default,,0,0,0,,¡Ya sé!
 Dialogue: 0,0:03:45.06,0:03:49.63,Default,,0,0,0,,¿Y si utilizamos la nave espacial de casa\Nde Bulma para escapar a otro planeta?
 Dialogue: 0,0:03:49.76,0:03:50.98,Default,,0,0,0,,¡Oolong!
@@ -127,7 +127,7 @@ Dialogue: 0,0:07:53.44,0:07:58.51,Default,,0,0,0,,Y también siento la energía 
 Dialogue: 0,0:08:02.76,0:08:05.79,Default,,0,0,0,,¿Ése es Gohan?\N¡Casi no lo reconozco!
 Dialogue: 0,0:08:11.72,0:08:14.07,Default,,0,0,0,,Cuéntenme lo que ha pasado.
 Dialogue: 0,0:08:15.40,0:08:16.62,Default,,0,0,0,,Pues...
-Dialogue: 0,0:08:17.32,0:08:21.87,Default,,0,0,0,,Eh, antes de eso, Sr. Popo,\N¿puedes prepararnos algo de comer?
+Dialogue: 0,0:08:17.32,0:08:21.87,Default,,0,0,0,,Eh, antes de eso, Mr. Popo,\N¿puedes prepararnos algo de comer?
 Dialogue: 0,0:08:22.00,0:08:24.79,Default,,0,0,0,,¡Me muero de hambre!
 Dialogue: 0,0:08:28.80,0:08:31.55,Default,,0,0,0,,Típico de ti, Gokú.
 Dialogue: 0,0:08:41.52,0:08:43.27,Default,,0,0,0,,¡Qué rico! ¡Qué rico!
@@ -140,7 +140,7 @@ Dialogue: 0,0:09:36.44,0:09:38.11,Default,,0,0,0,,Claro que hemos comido.
 Dialogue: 0,0:09:38.24,0:09:41.59,Default,,0,0,0,,Lo que pasa es que ni Gohan ni yo somos\Ncapaces de cocinar nada decente.
 Dialogue: 0,0:09:41.72,0:09:44.31,Default,,0,0,0,,Hace mucho tiempo que no\Nprobamos nada sabroso.
 Dialogue: 0,0:09:44.48,0:09:45.99,Default,,0,0,0,,Así que es eso...
-Dialogue: 0,0:09:53.44,0:09:57.35,Default,,0,0,0,,¿Qué les pasa? ¿Son Súper Saiyajins?
+Dialogue: 0,0:09:53.44,0:09:57.35,Default,,0,0,0,,¿Qué les pasa? ¿Son Súper Saiyajin?
 Dialogue: 0,0:09:57.80,0:10:01.07,Default,,0,0,0,,No, tienen un aire\Nun poco diferente.
 Dialogue: 0,0:10:01.40,0:10:05.15,Default,,0,0,0,,Se mantienen en ese estado como si fuera\Nla cosa más normal del mundo.
 Dialogue: 0,0:10:07.60,0:10:10.11,Default,,0,0,0,,Muchas gracias por la comilona.
@@ -149,7 +149,7 @@ Dialogue: 0,0:10:15.20,0:10:18.51,Default,,0,0,0,,Perdona que te hayamos hecho\N
 Dialogue: 0,0:10:18.92,0:10:21.77,Default,,0,0,0,,¡Sí! Pues...
 Dialogue: 0,0:10:34.06,0:10:36.51,Default,,0,0,0,,¡Ey! ¡Ey!
 Dialogue: 0,0:10:39.53,0:10:43.07,Default,,0,0,0,,Parece que lo estás pasando bien.\N¿Has visto algo?
-Dialogue: 0,0:11:13.44,0:11:16.82,Default,,0,0,0,,¡Quita del medio!\N¡No podemos pasar!
+Dialogue: 0,0:11:13.44,0:11:16.82,Default,,0,0,0,,¡Quítense!\N¡No podemos pasar!
 Dialogue: 0,0:11:16.86,0:11:18.35,Default,,0,0,0,,¡Eso! ¡Eso!
 Dialogue: 0,0:11:29.24,0:11:31.24,Default,,0,0,0,,¿No venían hacia aquí?
 Dialogue: 0,0:11:33.96,0:11:36.59,Default,,0,0,0,,Si ustedes no vienen,\Ntendré que ir yo.
@@ -179,10 +179,10 @@ Dialogue: 0,0:14:08.12,0:14:10.50,Default,,0,0,0,,¿Quién podía imaginar algo 
 Dialogue: 0,0:14:16.32,0:14:20.10,Default,,0,0,0,,Así que eso es lo que ha pasado.\N¿Un torneo de artes marciales?
 Dialogue: 0,0:14:20.28,0:14:23.07,Default,,0,0,0,,Desde luego, ha tenido\Nuna idea interesante.
 Dialogue: 0,0:14:24.04,0:14:25.83,Default,,0,0,0,,¿Interesante, dices?
-Dialogue: 0,0:14:26.12,0:14:30.03,Default,,0,0,0,,Sr. Popo, no has\Ntirado mi ropa, ¿no?
+Dialogue: 0,0:14:26.12,0:14:30.03,Default,,0,0,0,,Mr. Popo, no has\Ntirado mi ropa, ¿no?
 Dialogue: 0,0:14:30.20,0:14:33.03,Default,,0,0,0,,No, no la he tirado.
 Dialogue: 0,0:14:44.44,0:14:46.55,Default,,0,0,0,,La lavé y la guardé.
-Dialogue: 0,0:14:47.28,0:14:49.84,Default,,0,0,0,,Gracias, Sr. Popo.
+Dialogue: 0,0:14:47.28,0:14:49.84,Default,,0,0,0,,Gracias, Mr. Popo.
 Dialogue: 0,0:14:53.00,0:14:56.91,Default,,0,0,0,,Si se lo pides a mamá,\Nte dará otra nueva.
 Dialogue: 0,0:14:57.68,0:15:02.07,Default,,0,0,0,,No, ésta ya me está bien.\NQuiero luchar como terrestre.
 Dialogue: 0,0:15:06.80,0:15:10.27,Default,,0,0,0,,Píkoro, yo también\Nquiero ropa nueva.

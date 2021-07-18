@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -78,7 +78,7 @@ Dialogue: 0,0:03:28.74,0:03:34.53,Default,,0,0,0,,Ahora que lo pienso, yo tambi�
 Dialogue: 0,0:03:35.78,0:03:38.57,Default,,0,0,0,,¿En Namekusei también tienen deberes?
 Dialogue: 0,0:03:38.70,0:03:39.92,Default,,0,0,0,,Claro que sí.
 Dialogue: 0,0:03:40.44,0:03:44.89,Default,,0,0,0,,Se ha de estudiar mucho para llegar a ser\Nalguien en la familia de los dragones.
-Dialogue: 0,0:03:45.18,0:03:48.08,Default,,0,0,0,,No entiendo ni jota del idioma namek.
+Dialogue: 0,0:03:45.18,0:03:48.08,Default,,0,0,0,,No entiendo ni jota del idioma namekusei.
 Dialogue: 0,0:03:50.94,0:03:52.41,Default,,0,0,0,,No tiene ninguna gracia.
 Dialogue: 0,0:03:52.44,0:03:57.53,Default,,0,0,0,,Al ponerse a estudiar así de golpe,\Nme dejan a mí como un perezoso.
 Dialogue: 0,0:04:08.45,0:04:11.09,Default,,0,0,0,,Creo que me voy a la Kame House.
@@ -109,13 +109,13 @@ Dialogue: 0,0:07:23.22,0:07:24.97,Default,,0,0,0,,Menudo imbécil...
 Dialogue: 0,0:07:26.50,0:07:29.60,Default,,0,0,0,,Mira que hay gente rara en el mundo...
 Dialogue: 0,0:07:36.73,0:07:38.53,Default,,0,0,0,,¡Ya tengo cuatro!
 Dialogue: 0,0:07:59.30,0:08:02.05,Default,,0,0,0,,Padre, ¿cómo te ha ido?
-Dialogue: 0,0:08:22.42,0:08:26.69,Default,,0,0,0,,¿Y esto? Hay dos bolas\Nmoviéndose juntas.
+Dialogue: 0,0:08:22.42,0:08:26.69,Default,,0,0,0,,¿Y esto? Hay dos esferas\Nmoviéndose juntas.
 Dialogue: 0,0:08:57.58,0:08:58.69,Default,,0,0,0,,¿Quién es?
 Dialogue: 0,0:08:58.82,0:08:59.93,Default,,0,0,0,,Soy yo.
 Dialogue: 0,0:09:00.09,0:09:04.37,Default,,0,0,0,,Oh, maestro Tao Pai Pai.\NLo estaba esperando.
 Dialogue: 0,0:09:13.34,0:09:17.97,Default,,0,0,0,,Maestro, ¿trae los objetos\Nde valor que le pedí?
 Dialogue: 0,0:09:19.80,0:09:21.06,Default,,0,0,0,,Aquí están.
-Dialogue: 0,0:09:24.66,0:09:29.60,Default,,0,0,0,,¿Así que éstas son las legendarias bolas\Nde dragón que conceden cualquier deseo?
+Dialogue: 0,0:09:24.66,0:09:29.60,Default,,0,0,0,,¿Así que éstas son las legendarias Esferas\NDel Dragón que conceden cualquier deseo?
 Dialogue: 0,0:09:30.02,0:09:34.49,Default,,0,0,0,,Me ha costado mucho conseguirlas.\NSerán suyas por cien millones cada una.
 Dialogue: 0,0:09:35.62,0:09:41.17,Default,,0,0,0,,Gracias a ellas, aunque Cell destruya\Nla Tierra, yo, Walker,
 Dialogue: 0,0:09:41.30,0:09:46.49,Default,,0,0,0,,el emperador del crimen,\Nsobreviviré para contarlo.
@@ -130,7 +130,7 @@ Dialogue: 0,0:10:12.50,0:10:15.81,Default,,0,0,0,,¿De veras? Confío en usted, 
 Dialogue: 0,0:10:18.22,0:10:21.69,Default,,0,0,0,,En realidad, he encontrado\Nesas dos por casualidad...
 Dialogue: 0,0:10:34.50,0:10:36.80,Default,,0,0,0,,Parece que están por aquí.
 Dialogue: 0,0:10:50.10,0:10:51.69,Default,,0,0,0,,¿Y ése quién es?
-Dialogue: 0,0:10:58.93,0:11:00.33,Default,,0,0,0,,¡Bolas de dragón!
+Dialogue: 0,0:10:58.93,0:11:00.33,Default,,0,0,0,,¡Esferas del Dragón!
 Dialogue: 0,0:11:00.34,0:11:01.53,Default,,0,0,0,,¡¿Qué?!
 Dialogue: 0,0:11:01.98,0:11:03.89,Default,,0,0,0,,Fijo que están dentro.
 Dialogue: 0,0:11:04.02,0:11:07.05,Default,,0,0,0,,Parece que el pato ha\Nvenido a nosotros.
@@ -159,7 +159,7 @@ Dialogue: 0,0:12:55.72,0:12:59.84,Default,,0,0,0,,Has sido muy hábil al\Ndar co
 Dialogue: 0,0:13:01.28,0:13:04.93,Default,,0,0,0,,¡Ey! ¡Aquí!
 Dialogue: 0,0:13:05.36,0:13:06.13,Default,,0,0,0,,¿Qué?
 Dialogue: 0,0:13:07.01,0:13:08.49,Default,,0,0,0,,¡Ven! ¡Ven!
-Dialogue: 0,0:13:13.88,0:13:15.35,Default,,0,0,0,,¡Bolas de dragón!
+Dialogue: 0,0:13:13.88,0:13:15.35,Default,,0,0,0,,¡Esferas del Dragón!
 Dialogue: 0,0:13:17.84,0:13:21.48,Default,,0,0,0,,Se ha de tener valor para\Nentrar en esta habitación.
 Dialogue: 0,0:13:21.48,0:13:25.84,Default,,0,0,0,,Si no quieres que te hagamos daño,\Nentréganos las esferas del dragón
 Dialogue: 0,0:13:25.84,0:13:27.27,Default,,0,0,0,,y lárgate de aquí.
@@ -226,17 +226,17 @@ Dialogue: 0,0:18:57.60,0:18:59.35,Default,,0,0,0,,¡Lo he conseguido!
 Dialogue: 0,0:19:01.56,0:19:03.43,Default,,0,0,0,,Ahora sólo faltan dos.
 Dialogue: 0,0:19:17.84,0:19:19.71,Default,,0,0,0,,Qué difícil...
 Dialogue: 0,0:19:34.80,0:19:37.14,Default,,0,0,0,,Oye, si lo haces así...
-Dialogue: 0,0:19:37.37,0:19:41.04,Default,,0,0,0,,Calla. Tengo que hacerlo yo solo.
+Dialogue: 0,0:19:37.37,0:19:41.04,Default,,0,0,0,,Callate. Tengo que hacerlo yo solo.
 Dialogue: 0,0:19:42.16,0:19:43.60,Default,,0,0,0,,Sí...
 Dialogue: 0,0:19:43.96,0:19:45.63,Default,,0,0,0,,Sólo falta uno.
 Dialogue: 0,0:19:57.32,0:19:58.79,Default,,0,0,0,,Lo he conseguido...
 Dialogue: 0,0:19:59.40,0:20:01.25,Default,,0,0,0,,¡Lo he conseguido!
-Dialogue: 0,0:20:01.24,0:20:03.86,Default,,0,0,0,,¡Enhorabuena!
+Dialogue: 0,0:20:01.24,0:20:03.86,Default,,0,0,0,,¡Felicidades!
 Dialogue: 0,0:20:13.84,0:20:17.23,Default,,0,0,0,,Hemos llegado tan lejos que\NGokú jamás nos encontrará.
 Dialogue: 0,0:20:18.12,0:20:21.70,Default,,0,0,0,,Todo gracias a su buen\Nhacer, maestro.
 Dialogue: 0,0:20:22.96,0:20:23.99,Default,,0,0,0,,¿Y esto?
 Dialogue: 0,0:20:25.08,0:20:28.60,Default,,0,0,0,,¿Dónde se habrán metido\Nel jefe y los otros?
-Dialogue: 0,0:20:28.64,0:20:30.59,Default,,0,0,0,,Es igual, no te preocupes.
+Dialogue: 0,0:20:28.64,0:20:30.59,Default,,0,0,0,,Da igual, no te preocupes.
 Dialogue: 0,0:20:40.80,0:20:43.01,Default,,0,0,0,,¡Son Gokú!
 Dialogue: 0,0:20:43.64,0:20:45.83,Default,,0,0,0,,Miren, las he desenredado.
 Dialogue: 0,0:20:45.96,0:20:47.75,Default,,0,0,0,,Sí, en efecto...
@@ -297,6 +297,3 @@ Dialogue: 0,0:24:24.61,0:24:27.81,Default,,0,0,0,,¡No decidan el orden por su c
 Dialogue: 0,0:24:27.81,0:24:29.91,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:29.91,0:24:33.38,Default,,0,0,0,,¡Aquellos que desafían a Cell!\NEl comienzo de la batalla definitiva
 Dialogue: 0,0:24:33.38,0:24:37.84,Default,,0,0,0,,¿Eh? ¿de verdad piensa, ese tal Satan,\Nluchar contra Cell?
-Dialogue: 0,0:24:35.82,0:24:39.29,Default,,0,0,0,,
-Dialogue: 0,0:24:35.82,0:24:39.29,Default,,0,0,0,,
-Dialogue: 0,0:24:35.82,0:24:39.29,Default,,0,0,0,,

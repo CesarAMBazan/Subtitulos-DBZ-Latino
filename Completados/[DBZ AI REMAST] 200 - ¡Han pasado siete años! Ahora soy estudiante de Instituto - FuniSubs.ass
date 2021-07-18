@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -172,10 +172,10 @@ Dialogue: 0,0:14:13.20,0:14:18.05,Default,,0,0,0,,Oye, Gohan, ¿vas y vienes de 
 Dialogue: 0,0:14:18.11,0:14:20.29,Default,,0,0,0,,Vengo desde casa.
 Dialogue: 0,0:14:20.78,0:14:22.61,Default,,0,0,0,,¿Dónde está? ¿Dónde está tu casa?
 Dialogue: 0,0:14:22.78,0:14:27.28,Default,,0,0,0,,En la zona 439 Este.\NEn un pequeño pueblo.
-Dialogue: 0,0:14:27.42,0:14:31.64,Default,,0,0,0,,¡¿En la zona 439 Este?!\N¡Te quedas conmigo, ¿no?!
+Dialogue: 0,0:14:27.42,0:14:31.64,Default,,0,0,0,,¡¿En la zona 439 Este?!\N¡Estas bromeando, ¿no?!
 Dialogue: 0,0:14:31.64,0:14:33.76,Default,,0,0,0,,¡Eso está a mil kilómetros de aquí!
 Dialogue: 0,0:14:33.80,0:14:36.33,Default,,0,0,0,,¡Ya he tenido suficiente!
-Dialogue: 0,0:14:36.35,0:14:38.44,Default,,0,0,0,,¡¿Quiéren hacer el favor de callar?!
+Dialogue: 0,0:14:36.35,0:14:38.44,Default,,0,0,0,,¡¿Quiéren hacer el favor de callarse?!
 Dialogue: 0,0:14:40.94,0:14:46.33,Default,,0,0,0,,¿Y cómo vienes? Incluso con una nave\Ntardarías 5 horas en llegar hasta aquí.
 Dialogue: 0,0:14:46.55,0:14:51.13,Default,,0,0,0,,Por eso he llegado tarde.\NEs terrible.
 Dialogue: 0,0:14:53.31,0:14:55.05,Default,,0,0,0,,Maldita sea...
@@ -239,7 +239,7 @@ Dialogue: 0,0:19:15.08,0:19:18.02,Default,,0,0,0,,Es él. A ver cómo se le da b
 Dialogue: 0,0:19:18.06,0:19:19.97,Default,,0,0,0,,Enseguida lo veremos.
 Dialogue: 0,0:19:23.66,0:19:26.09,Default,,0,0,0,,¿Eres un bateador zurdo?
 Dialogue: 0,0:19:26.50,0:19:27.53,Default,,0,0,0,,¿No es correcto?
-Dialogue: 0,0:19:27.55,0:19:31.48,Default,,0,0,0,,No pasa nada, pero así estás\Ncogiendo el bate al revés.
+Dialogue: 0,0:19:27.55,0:19:31.48,Default,,0,0,0,,No pasa nada, pero así estás\Nagarrando el bate al revés.
 Dialogue: 0,0:19:31.66,0:19:32.85,Default,,0,0,0,,¿Al revés?
 Dialogue: 0,0:19:32.95,0:19:36.04,Default,,0,0,0,,Haz lo que quieras.
 Dialogue: 0,0:19:36.94,0:19:39.65,Default,,0,0,0,,Has estropeado mi Home Run.

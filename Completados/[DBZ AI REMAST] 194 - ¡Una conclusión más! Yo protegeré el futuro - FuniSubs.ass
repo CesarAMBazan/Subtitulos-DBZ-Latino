@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -200,7 +200,7 @@ Dialogue: 0,0:17:03.95,0:17:07.55,Default,,0,0,0,,No hay nadie en el mundo\Nque 
 Dialogue: 0,0:17:07.64,0:17:08.94,Default,,0,0,0,,Ya lo veremos.
 Dialogue: 0,0:17:22.44,0:17:25.24,Default,,0,0,0,,¡No pienso dejarte volver al pasado!
 Dialogue: 0,0:17:25.35,0:17:27.06,Default,,0,0,0,,¡Ya es suficiente!
-Dialogue: 0,0:17:46.11,0:17:52.55,Default,,0,0,0,,Esto no es como debería ser...\Nmierda... soy el Androide definitivo.
+Dialogue: 0,0:17:46.11,0:17:52.55,Default,,0,0,0,,Esto no es como debería ser...\Nmaldición... soy el Androide definitivo.
 Dialogue: 0,0:17:52.67,0:17:55.66,Default,,0,0,0,,Es inconcebible que pueda\Nperder contra ese muchacho.
 Dialogue: 0,0:18:19.15,0:18:21.53,Default,,0,0,0,,¡Cell, no puedo permitirlo!
 Dialogue: 0,0:18:21.95,0:18:25.86,Default,,0,0,0,,¡Por el bien de la Tierra,\Nno puedo permitir tu existencia!

@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:27.60,0:03:32.04,Default,,0,0,0,,Finalmente, Gokú ha lanzado s
 Dialogue: 0,0:04:10.61,0:04:12.44,Default,,0,0,0,,Gokú...
 Dialogue: 0,0:04:24.85,0:04:28.63,Default,,0,0,0,,¡Increíble...! ¿Qué ha pasado?
 Dialogue: 0,0:04:48.57,0:04:51.00,Default,,0,0,0,,¡Sí! ¡Lo ha conseguido!
-Dialogue: 0,0:04:51.53,0:04:54.72,Default,,0,0,0,,¡Claro! ¡Ha usado\Nel Movimiento Instantáneo!
+Dialogue: 0,0:04:51.53,0:04:54.72,Default,,0,0,0,,¡Claro! ¡Ha usado\Nla Teletransportación!
 Dialogue: 0,0:04:54.93,0:04:58.40,Default,,0,0,0,,¡Eh, lo ha conseguido!\N¡Al final, Gokú ha ganado!
 Dialogue: 0,0:05:09.57,0:05:12.88,Default,,0,0,0,,¿Qué les pasa a todos?\N¿No se alegran?
 Dialogue: 0,0:05:13.17,0:05:17.48,Default,,0,0,0,,Mr. Satan, parece que ese\Nindividuo ha derrotado a Cell.
@@ -110,7 +110,7 @@ Dialogue: 0,0:07:28.37,0:07:31.40,Default,,0,0,0,,¿Esto también es alguna\Ncla
 Dialogue: 0,0:07:32.04,0:07:35.06,Default,,0,0,0,,¡Por supuesto que es un truco!
 Dialogue: 0,0:07:42.97,0:07:46.12,Default,,0,0,0,,Así que puedes regenerarte, ¿no?
 Dialogue: 0,0:07:46.37,0:07:49.40,Default,,0,0,0,,Exactamente. Igual que Píkoro.
-Dialogue: 0,0:07:49.77,0:07:51.76,Default,,0,0,0,,¡Desgraciado de mierda!
+Dialogue: 0,0:07:49.77,0:07:51.76,Default,,0,0,0,,¡Desgraciado!
 Dialogue: 0,0:07:52.61,0:07:56.04,Default,,0,0,0,,Ya me parecía que te había\Nganado muy fácilmente,
 Dialogue: 0,0:07:56.06,0:08:00.20,Default,,0,0,0,,pero al menos tu energía\Nha disminuido bastante.
 Dialogue: 0,0:08:00.97,0:08:05.24,Default,,0,0,0,,Igual que la tuya. Estás más cansado\Na cada minuto que pasa.

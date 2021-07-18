@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -74,7 +74,7 @@ Dialogue: 0,0:02:46.35,0:02:50.19,Default,,0,0,0,,Tomaran parte en ese Gran Torn
 Dialogue: 0,0:02:50.36,0:02:51.39,Default,,0,0,0,,Sí...
 Dialogue: 0,0:02:54.12,0:02:57.97,Default,,0,0,0,,El terror está a punto de\Napoderarse del mundo entero.
 Dialogue: 0,0:02:57.97,0:03:00.79,Default,,0,0,0,,Sólo faltan ocho días para\Nque dé comienzo el Cell Game.
-Dialogue: 0,0:03:19.10,0:03:21.87,Default,,0,0,0,,Y entonces Yajirobee dijo...
+Dialogue: 0,0:03:19.10,0:03:21.87,Default,,0,0,0,,Y entonces Yajirobe dijo...
 Dialogue: 0,0:03:22.20,0:03:25.15,Default,,0,0,0,,''Perdona. ¿Sabes que te\Ntengo mucho respeto?
 Dialogue: 0,0:03:25.15,0:03:28.15,Default,,0,0,0,,¿Por qué no nos hacemos amigos?''
 Dialogue: 0,0:03:32.80,0:03:34.65,Default,,0,0,0,,Así, Gohan. Fíjate en mí.
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:39.56,0:03:41.52,Default,,0,0,0,,Así no...
 Dialogue: 0,0:03:41.52,0:03:42.82,Default,,0,0,0,,Esta vez sí...
 Dialogue: 0,0:04:02.20,0:04:04.80,Default,,0,0,0,,¡Dejen de tomarme el pelo!
 Dialogue: 0,0:04:05.36,0:04:08.20,Default,,0,0,0,,¡Me da igual si es para\Nluchar contra Cell!
-Dialogue: 0,0:04:08.20,0:04:11.32,Default,,0,0,0,,¡En la mesa, no quiero\Nque sean Súper Saiyajins!
+Dialogue: 0,0:04:08.20,0:04:11.32,Default,,0,0,0,,¡En la mesa, no quiero\Nque sean Súper Saiyajin!
 Dialogue: 0,0:04:11.84,0:04:16.10,Default,,0,0,0,,¡Si siguen así van a romper la\Nvajilla y hasta la casa entera!
 Dialogue: 0,0:04:16.20,0:04:19.50,Default,,0,0,0,,Esta tarde celebramos la\Nfiesta de cumpleaños de Gohan.
 Dialogue: 0,0:04:19.52,0:04:21.31,Default,,0,0,0,,¿Qué se supone que vamos a hacer?
@@ -125,7 +125,7 @@ Dialogue: 0,0:07:24.65,0:07:27.32,Default,,0,0,0,,Siento lástima por él.
 Dialogue: 0,0:07:28.96,0:07:30.35,Default,,0,0,0,,No pasa nada...
 Dialogue: 0,0:07:34.16,0:07:38.67,Default,,0,0,0,,Dentro de ocho días, Gohan y yo\Ntendremos que luchar contra Cell.
 Dialogue: 0,0:07:40.56,0:07:43.07,Default,,0,0,0,,Cell es terriblemente poderoso.
-Dialogue: 0,0:07:43.24,0:07:47.15,Default,,0,0,0,,Para ser sincero, no sé\Nsi podré derrotarle.
+Dialogue: 0,0:07:43.24,0:07:47.15,Default,,0,0,0,,Para ser sincero, no sé\Nsi podré derrotarlo.
 Dialogue: 0,0:07:49.64,0:07:54.57,Default,,0,0,0,,Quiero que Gohan pase más\Ntiempo con Chichi.
 Dialogue: 0,0:07:57.72,0:07:58.75,Default,,0,0,0,,Gokú...
 Dialogue: 0,0:08:01.07,0:08:06.87,Default,,0,0,0,,Esto... la tabla de planchar\Ndebería estar por aquí...
@@ -136,10 +136,10 @@ Dialogue: 0,0:08:12.30,0:08:14.93,Default,,0,0,0,,{\pos(340,98.667)\frz11.55}Esp
 Dialogue: 0,0:08:12.30,0:08:14.93,Default,,0,0,0,,{\pos(457.333,418.667)\frz9.708}Hijo
 Dialogue: 0,0:08:20.72,0:08:24.75,Default,,0,0,0,,¡Oh, ya no me acordaba!
 Dialogue: 0,0:08:30.48,0:08:35.35,Default,,0,0,0,,Se ha hecho muy mayor,\Npero entonces era un encanto.
-Dialogue: 0,0:08:41.24,0:08:42.60,Default,,0,0,0,,Qué mono.
+Dialogue: 0,0:08:41.24,0:08:42.60,Default,,0,0,0,,Qué bonito.
 Dialogue: 0,0:08:43.36,0:08:45.92,Default,,0,0,0,,Pero, ¿no es un poco pequeño?
 Dialogue: 0,0:08:46.12,0:08:48.31,Default,,0,0,0,,Los bebés son pequeños.
-Dialogue: 0,0:08:51.52,0:08:54.75,Default,,0,0,0,,¿No creéis que deberíamos\Nponerle un nombre?
+Dialogue: 0,0:08:51.52,0:08:54.75,Default,,0,0,0,,¿No creen que deberíamos\Nponerle un nombre?
 Dialogue: 0,0:08:55.44,0:08:58.03,Default,,0,0,0,,Yo ya he pensado en uno.
 Dialogue: 0,0:09:00.00,0:09:02.25,Default,,0,0,0,,¿Cuál es?
 Dialogue: 0,0:09:03.36,0:09:04.67,Default,,0,0,0,,Einstein.
@@ -180,7 +180,7 @@ Dialogue: 0,0:11:26.41,0:11:27.72,Default,,0,0,0,,Gohan: {\c&Hffffff&\3c&H000000
 Dialogue: 0,0:11:26.41,0:11:27.72,Default,,0,0,0,,¡Gohan!
 Dialogue: 0,0:11:33.90,0:11:35.30,Default,,0,0,0,,Gohan...
 Dialogue: 0,0:11:37.45,0:11:42.02,Default,,0,0,0,,¡Claro! Podemos ponerle\Nel nombre del abuelo.
-Dialogue: 0,0:11:42.60,0:11:49.56,Default,,0,0,0,,Me parece bien. Si le ponéis el nombre\Nde Son Gohan, no tendré ninguna objeción.
+Dialogue: 0,0:11:42.60,0:11:49.56,Default,,0,0,0,,Me parece bien. Si le ponen el nombre\Nde Son Gohan, no tendré ninguna objeción.
 Dialogue: 0,0:11:49.85,0:11:53.68,Default,,0,0,0,,Está bien, entonces te llamarás Gohan.\NSon Gohan.
 Dialogue: 0,0:11:56.69,0:12:01.24,Default,,0,0,0,,¿Ves? A ti también te gusta Gohan.\NSon Gohan.
 Dialogue: 0,0:12:04.22,0:12:06.67,Default,,0,0,0,,¡Arriba! ¡Arriba!
@@ -235,8 +235,8 @@ Dialogue: 0,0:19:17.05,0:19:19.32,Default,,0,0,0,,Tienes mucha suerte de\Ntener 
 Dialogue: 0,0:19:19.55,0:19:21.46,Default,,0,0,0,,La verdad es que yo no...
 Dialogue: 0,0:19:21.63,0:19:27.46,Default,,0,0,0,,Le has salvado la vida, ¡pero no\Ndeberías haber soltado esa cosa!
 Dialogue: 0,0:19:27.87,0:19:33.57,Default,,0,0,0,,¡Vas a matar a Gohan!\N¡La próxima vez ten más cuidado!
-Dialogue: 0,0:19:33.83,0:19:35.02,Default,,0,0,0,,Perdona...
-Dialogue: 0,0:19:37.59,0:19:42.75,Default,,0,0,0,,Vamos, Gohan, tienes un papá horrible,\Nasí que le dejaremos solo.
+Dialogue: 0,0:19:33.83,0:19:35.02,Default,,0,0,0,,Perdón...
+Dialogue: 0,0:19:37.59,0:19:42.75,Default,,0,0,0,,Vamos, Gohan, tienes un papá horrible,\Nasí que lo dejaremos solo.
 Dialogue: 0,0:19:42.77,0:19:44.12,Default,,0,0,0,,¡Eh, Chichi!
 Dialogue: 0,0:19:50.27,0:19:53.07,Default,,0,0,0,,Perdona por el agujero.
 Dialogue: 0,0:19:57.75,0:19:59.34,Default,,0,0,0,,¿Vamos, papá?
@@ -261,49 +261,45 @@ Dialogue: 0,0:22:04.19,0:22:08.94,Default,,0,0,0,,Gohan ha crecido rodeado de lo
 Dialogue: 0,0:22:09.19,0:22:14.02,Default,,0,0,0,,Y puede sentir el profundo amor\Nque ambos sienten por él.
 Dialogue: 0,0:22:15.15,0:22:23.20,Default,,0,0,0,,Pero, ¿serán Gokú y Gohan capaces\Nde proteger esta era de paz?
 Dialogue: 0,0:22:23.95,0:22:27.18,Default,,0,0,0,,Sólo quedan siete días para\Nque dé comienzo el Cell Game.
-Dialogue: 0,0:22:44.85,0:22:48.59,Karaoke Español,,0,0,0,,Ahí viene corriendo,\Nun monstruo color manzana
-Dialogue: 0,0:22:44.85,0:22:48.59,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:22:48.80,0:22:54.19,Karaoke Español,,0,0,0,,Ahi viendo volando,\Nun alien con olor nuez
-Dialogue: 0,0:22:48.80,0:22:54.19,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:22:54.70,0:22:56.68,Karaoke Español,,0,0,0,,Al encontrarles,\Npalpita mi corazón
-Dialogue: 0,0:22:54.70,0:22:56.68,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:00.37,0:23:07.53,Karaoke Español,,0,0,0,,La galaxia es como una ducha\Nde brillantes palomitas
-Dialogue: 0,0:23:00.37,0:23:07.53,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:07.69,0:23:12.16,Karaoke Español,,0,0,0,,Al ayer dile adiós, adiós, adiós\N(Arroz)
-Dialogue: 0,0:23:07.69,0:23:12.16,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:12.16,0:23:15.89,Karaoke Español,,0,0,0,,Mis-te-rio\N(Mucho arroz)
-Dialogue: 0,0:23:12.16,0:23:15.89,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:16.08,0:23:19.65,Karaoke Español,,0,0,0,,Concentra tu fuerza\N(Otra ración está bien)
-Dialogue: 0,0:23:16.08,0:23:19.65,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:19.65,0:23:21.78,Karaoke Español,,0,0,0,,Ahí está... ven, ven, ven
-Dialogue: 0,0:23:19.65,0:23:21.78,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:24.00,0:23:31.13,Karaoke Español,,0,0,0,,¡Uhh... Milagroso Poder Zenkai!
-Dialogue: 0,0:23:24.00,0:23:31.13,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:31.83,0:23:33.55,Karaoke Español,,0,0,0,,La hambrienta y traviesa\Nnube kinton,
-Dialogue: 0,0:23:31.83,0:23:33.55,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:33.80,0:23:35.58,Karaoke Español,,0,0,0,,Y tantos horizontes\Ncomo montañas,
-Dialogue: 0,0:23:33.80,0:23:35.58,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:35.80,0:23:37.81,Karaoke Español,,0,0,0,,Se encuentran y se separan,\Nse encuentran y se separan
-Dialogue: 0,0:23:35.80,0:23:37.81,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:37.81,0:23:39.68,Karaoke Español,,0,0,0,,¡Qué dolor!
-Dialogue: 0,0:23:37.81,0:23:39.68,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:39.68,0:23:44.70,Karaoke Español,,0,0,0,,¡Oh, no! ¡Incluso Kami Sama está sufriendo!
-Dialogue: 0,0:23:39.68,0:23:44.70,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:45.37,0:23:46.38,Karaoke Español,,0,0,0,,Lo siento.
-Dialogue: 0,0:23:45.37,0:23:46.38,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:47.63,0:23:52.55,Karaoke Español,,0,0,0,,¡Uhh... Saciante Poder Zenkai!
-Dialogue: 0,0:23:47.63,0:23:52.55,Karaoke Japones,,0,0,0,,
-Dialogue: 0,0:23:55.48,0:24:01.39,Karaoke Español,,0,0,0,,¡Sal, increíble poder Zenkai!
-Dialogue: 0,0:23:55.48,0:24:01.39,Karaoke Japones,,0,0,0,,
+Dialogue: 0,0:22:44.85,0:22:48.59,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:48.80,0:22:54.19,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:54.70,0:22:56.68,Karaoke Español,,0,0,0,,{\blur.8}Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:23:00.37,0:23:07.53,Karaoke Español,,0,0,0,,{\blur.8}La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:07.69,0:23:12.16,Karaoke Español,,0,0,0,,{\blur.8}Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:12.16,0:23:15.89,Karaoke Español,,0,0,0,,{\blur.8}Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:16.08,0:23:19.65,Karaoke Español,,0,0,0,,{\blur.8}Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:19.65,0:23:21.78,Karaoke Español,,0,0,0,,{\blur.8}Ahí está... ven, ven, ven
+Dialogue: 0,0:23:24.00,0:23:31.13,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:31.83,0:23:33.55,Karaoke Español,,0,0,0,,{\blur.8}La hambrienta y traviesa\Nnube voladora,
+Dialogue: 0,0:23:33.80,0:23:35.58,Karaoke Español,,0,0,0,,{\blur.8}Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:35.80,0:23:37.81,Karaoke Español,,0,0,0,,{\blur.8}Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:37.81,0:23:39.68,Karaoke Español,,0,0,0,,{\blur.8}¡Qué dolor!
+Dialogue: 0,0:23:39.68,0:23:44.70,Karaoke Español,,0,0,0,,{\blur.8}¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:45.37,0:23:46.38,Karaoke Español,,0,0,0,,{\blur.8}Lo siento.
+Dialogue: 0,0:23:47.63,0:23:52.55,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:55.48,0:24:01.39,Karaoke Español,,0,0,0,,{\blur.8}¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:22:44.85,0:22:48.59,Karaoke Japones,,0,0,0,,{\blur.8}kakete kuru yo appuru iro monsutaa
+Dialogue: 0,0:22:48.80,0:22:54.19,Karaoke Japones,,0,0,0,,{\blur.8}tonde kuru yo nattsu no kaori eirian
+Dialogue: 0,0:22:54.70,0:22:56.68,Karaoke Japones,,0,0,0,,{\blur.8}deatte dokkin{\fs30}-{\fs}dokkin
+Dialogue: 0,0:23:00.37,0:23:07.53,Karaoke Japones,,0,0,0,,{\blur.8}pika{\fs30}-{\fs}pika ginga wa poppukoon shawaa
+Dialogue: 0,0:23:07.69,0:23:12.16,Karaoke Japones,,0,0,0,,{\blur.8}kinou ni bai{\fs30} • {\fs}bai{\fs30} • {\fs}bai (Go{\fs30} • {\fs}ha{\fs30} • {\fs}n)
+Dialogue: 0,0:23:12.16,0:23:15.89,Karaoke Japones,,0,0,0,,{\blur.8}fu{\fs30} • {\fs}shi{\fs30} • {\fs}gi (ip{\fs30} • {\fs}pa{\fs30} • {\fs}i)
+Dialogue: 0,0:23:16.08,0:23:19.65,Karaoke Japones,,0,0,0,,{\blur.8}chikara o komete (okawari OK)
+Dialogue: 0,0:23:19.65,0:23:21.78,Karaoke Japones,,0,0,0,,{\blur.8}kochira e rai{\fs30} • {\fs}rai{\fs30} • {\fs}rai
+Dialogue: 0,0:23:24.00,0:23:31.13,Karaoke Japones,,0,0,0,,{\blur.8}Woh... mirakuru ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:31.83,0:23:33.55,Karaoke Japones,,0,0,0,,{\blur.8}haraheri wanpaku Kinto'un
+Dialogue: 0,0:23:33.80,0:23:35.58,Karaoke Japones,,0,0,0,,{\blur.8}yama hodo takusan suiheisen
+Dialogue: 0,0:23:35.80,0:23:39.68,Karaoke Japones,,0,0,0,,{\blur.8}deatte wakarete deatte wakarete ta{\fs30} • {\fs}i{\fs30} • {\fs}he{\fs30} • {\fs}n
+Dialogue: 0,0:23:39.68,0:23:44.70,Karaoke Japones,,0,0,0,,{\blur.8}Ah mou Kami{\fs30}-{\fs}sama mo tsurai yo ne{\fs35\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+Dialogue: 0,0:23:45.37,0:23:46.38,Karaoke Japones,,0,0,0,,{\blur.8}... go{\fs30} • {\fs}men
+Dialogue: 0,0:23:47.63,0:23:52.55,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:55.48,0:24:01.39,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:24:08.46,0:24:11.09,Default,,0,0,0,,{\pos(348.619,110.81)}Avance
 Dialogue: 0,0:24:11.92,0:24:14.12,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:14.12,0:24:17.09,Default,,0,0,0,,¿El ejército ha iniciado\Nun ataque frontal contra Cell?
 Dialogue: 0,0:24:17.09,0:24:19.49,Default,,0,0,0,,¡Deténganse!\N¡Van a morir para nada!
 Dialogue: 0,0:24:19.49,0:24:20.75,Default,,0,0,0,,Dime, Gokú...
-Dialogue: 0,0:24:20.75,0:24:24.63,Default,,0,0,0,,¿no existe la manera de que regrese\N Kami Sama y las Bolas de Dragón?
+Dialogue: 0,0:24:20.75,0:24:24.63,Default,,0,0,0,,¿no existe la manera de que regrese\N Kami Sama y las Esferas del Dragón?
 Dialogue: 0,0:24:24.63,0:24:26.60,Default,,0,0,0,,Próximamente en Dragon Ball Z
-Dialogue: 0,0:24:26.60,0:24:30.10,Default,,0,0,0,,¡En busca de Kami Sama! Gokú,\Nel Gran Movimiento Instantáneo
-Dialogue: 0,0:24:30.10,0:24:33.80,Default,,0,0,0,,Papá, ¿puedes hacer el movimiento\Ninstantáneo a través del Espacio?
-Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,
-Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,
-Dialogue: 0,0:24:34.66,0:24:38.12,Default,,0,0,0,,
+Dialogue: 0,0:24:26.60,0:24:30.10,Default,,0,0,0,,¡En busca de Kami Sama! Gokú,\Nla Gran Teletransportación.
+Dialogue: 0,0:24:30.10,0:24:33.80,Default,,0,0,0,,Papá, ¿puedes hacer la teletransportación\Na través del Espacio?

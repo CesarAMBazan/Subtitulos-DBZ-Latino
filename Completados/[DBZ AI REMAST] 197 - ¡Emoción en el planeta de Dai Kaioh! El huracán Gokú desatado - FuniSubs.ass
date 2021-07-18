@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -71,7 +71,7 @@ Dialogue: 0,0:02:13.62,0:02:17.65,Default,,0,0,0,,El ganador será entrenado\Npe
 Dialogue: 0,0:02:17.68,0:02:23.14,Default,,0,0,0,,considerado el más fuerte\Ndel Más Allá.
 Dialogue: 0,0:02:32.96,0:02:36.31,Default,,0,0,0,,Gokú se esfuerza al\Nmáximo para ganar.
 Dialogue: 0,0:02:37.96,0:02:45.65,Default,,0,0,0,,Kaioh del Sur, ¿podría decirnos\Ncuándo saldrá Kyatapi del capullo?
-Dialogue: 0,0:02:47.24,0:02:51.07,Default,,0,0,0,,En unos 1 200 años.
+Dialogue: 0,0:02:47.24,0:02:51.07,Default,,0,0,0,,En unos 1200 años.
 Dialogue: 0,0:02:53.88,0:02:55.99,Default,,0,0,0,,No puedo esperar tanto.
 Dialogue: 0,0:02:56.12,0:02:59.97,Default,,0,0,0,,Son Gokú es el ganador\Nde este combate.
 Dialogue: 0,0:02:59.97,0:03:04.45,Default,,0,0,0,,Gokú pasa la primera\Neliminatoria sin dificultades.
@@ -145,12 +145,12 @@ Dialogue: 0,0:12:58.80,0:13:04.48,Default,,0,0,0,,No existe ninguna regla que\Ni
 Dialogue: 0,0:13:04.53,0:13:07.60,Default,,0,0,0,,Es verdad, pero aún así...
 Dialogue: 0,0:13:32.88,0:13:36.60,Default,,0,0,0,,No puedo moverme bien en el agua.
 Dialogue: 0,0:13:38.45,0:13:39.40,Default,,0,0,0,,¡Vamos!
-Dialogue: 0,0:13:41.78,0:13:43.66,Default,,0,0,0,,
-Dialogue: 0,0:13:56.46,0:13:57.64,Default,,0,0,0,,
-Dialogue: 0,0:13:57.64,0:13:58.69,Default,,0,0,0,,
-Dialogue: 0,0:14:01.13,0:14:02.28,Default,,0,0,0,,
-Dialogue: 0,0:14:02.28,0:14:03.82,Default,,0,0,0,,
-Dialogue: 0,0:14:05.96,0:14:09.85,Default,,0,0,0,,
+Dialogue: 0,0:13:41.78,0:13:43.66,Default,,0,0,0,,¡Taiyoken!
+Dialogue: 0,0:13:56.46,0:13:57.64,Default,,0,0,0,,Ka
+Dialogue: 0,0:13:57.64,0:13:58.69,Default,,0,0,0,,Me
+Dialogue: 0,0:14:01.13,0:14:02.28,Default,,0,0,0,,Ha
+Dialogue: 0,0:14:02.28,0:14:03.82,Default,,0,0,0,,Me
+Dialogue: 0,0:14:05.96,0:14:09.85,Default,,0,0,0,,¡Ha!
 Dialogue: 0,0:14:51.77,0:14:53.70,Default,,0,0,0,,¡Ha salido del ring!
 Dialogue: 0,0:14:56.56,0:14:59.52,Default,,0,0,0,,¡El ganador es Son Gokú!
 Dialogue: 0,0:15:03.05,0:15:07.29,Default,,0,0,0,,¡Sabía que tú podías, Gokú!\N¡Muy bien!

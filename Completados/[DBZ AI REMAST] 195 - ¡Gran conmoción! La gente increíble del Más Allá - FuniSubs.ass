@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -85,7 +85,7 @@ Dialogue: 0,0:04:47.76,0:04:51.27,Default,,0,0,0,,¡Oye, tu! ¡No los llames ''t
 Dialogue: 0,0:04:52.20,0:04:58.78,Default,,0,0,0,,¡Entre ellos se encuentra la mayor\Nautoridad del Más Allá! ¡Dai Kaioh!
 Dialogue: 0,0:04:58.84,0:05:00.65,Default,,0,0,0,,¿Dai Kaioh?
 Dialogue: 0,0:05:04.12,0:05:06.07,Default,,0,0,0,,En efecto, Dai Kaioh.
-Dialogue: 0,0:05:14.20,0:05:18.83,Default,,0,0,0,,Dai Kaioh está por encima de los cuatro\NKaiohs que gobiernan los cuatro puntos
+Dialogue: 0,0:05:14.20,0:05:18.83,Default,,0,0,0,,Dai Kaioh está por encima de los cuatro\NKaioh que gobiernan los cuatro puntos
 Dialogue: 0,0:05:18.83,0:05:20.33,Default,,0,0,0,,cardinales de la Galaxia.
 Dialogue: 0,0:05:20.33,0:05:24.80,Default,,0,0,0,,Con toda seguridad es el ser\Nmás fuerte del Más Allá.
 Dialogue: 0,0:05:28.88,0:05:34.07,Default,,0,0,0,,Es conocido por su afición a la lucha\Ny en su planeta se reúnen luchadores
@@ -106,19 +106,19 @@ Dialogue: 0,0:06:51.20,0:06:56.43,Default,,0,0,0,,¿Tendrá que volver otra vez?
 Dialogue: 0,0:07:01.52,0:07:02.91,Default,,0,0,0,,¡Ya vuelve!
 Dialogue: 0,0:07:11.52,0:07:14.91,Default,,0,0,0,,Se me ha ocurrido una forma de\Nllegar antes hasta Enma Daioh.
 Dialogue: 0,0:07:17.16,0:07:18.55,Default,,0,0,0,,¡Gokú, no...!
-Dialogue: 0,0:07:33.56,0:07:38.19,Default,,0,0,0,,¡Rápido! ¡No empujen!\N¡Por favor, no se salgan de la cola!
+Dialogue: 0,0:07:33.56,0:07:38.19,Default,,0,0,0,,¡Rápido! ¡No empujen!\N¡Por favor, no se salgan de la fila!
 Dialogue: 0,0:07:40.52,0:07:42.48,Default,,0,0,0,,Al cielo.
 Dialogue: 0,0:07:47.86,0:07:50.19,Default,,0,0,0,,{\pos(361.143,320.932)}Enma Daioh
 Dialogue: 0,0:07:42.48,0:07:48.66,Default,,0,0,0,,¡Sí! ¡Sí! ¡Al cielo! ¡Lo he conseguido!\N¡Genial! ¡Lo he conseguido!
 Dialogue: 0,0:07:48.92,0:07:49.87,Default,,0,0,0,,Vamos...
 Dialogue: 0,0:07:50.40,0:07:52.35,Default,,0,0,0,,El siguiente.
 Dialogue: 0,0:07:55.08,0:07:55.95,Default,,0,0,0,,Ey.
-Dialogue: 0,0:07:56.12,0:07:59.35,Default,,0,0,0,,Eh, mira tú por donde,\Npero si es Son Gokú.
+Dialogue: 0,0:07:56.12,0:07:59.35,Default,,0,0,0,,Eh, mira que sorpresa,\Npero si es Son Gokú.
 Dialogue: 0,0:07:59.72,0:08:03.83,Default,,0,0,0,,¿Ya vuelves a estar muerto?\N¿Y el Sr. Kaioh también?
 Dialogue: 0,0:08:04.44,0:08:07.59,Default,,0,0,0,,Es una larga historia de la\Nque prefiero no hablar...
 Dialogue: 0,0:08:07.84,0:08:10.71,Default,,0,0,0,,Enma Daioh, tengo un poco de prisa.
 Dialogue: 0,0:08:10.88,0:08:13.67,Default,,0,0,0,,Oye, ¿no te quedas a tomar el té?
-Dialogue: 0,0:08:14.00,0:08:17.12,Default,,0,0,0,,Oye, tú. No puedes colarte aquí.
+Dialogue: 0,0:08:14.00,0:08:17.12,Default,,0,0,0,,Oye, tú. No puedes meterte aquí.
 Dialogue: 0,0:08:17.36,0:08:20.11,Default,,0,0,0,,Tendrás que esperar tu\Nturno para ser juzgado.
 Dialogue: 0,0:08:28.88,0:08:30.79,Default,,0,0,0,,¡Tiene cuerpo...!
 Dialogue: 0,0:08:32.68,0:08:35.11,Default,,0,0,0,,Así que tiene un pase especial,\N¿no es así?
@@ -138,7 +138,7 @@ Dialogue: 0,0:09:24.62,0:09:30.42,Default,,0,0,0,,{\fscx67\fscy67\pos(81,132)}L�
 Dialogue: 0,0:09:24.62,0:09:30.42,Default,,0,0,0,,{\fscx61\fscy61\pos(169,320)}Shimoto
 Dialogue: 0,0:09:24.20,0:09:29.71,Default,,0,0,0,,Espíritus del grupo A con destino\Nal Cielo, síganme por favor.
 Dialogue: 0,0:09:30.42,0:09:33.42,Default,,0,0,0,,{\fscx71\fscy71\frx18\fry328\pos(478,287)\frz11.34}Suenaga
-Dialogue: 0,0:09:30.60,0:09:33.27,Default,,0,0,0,,Por favor, no se salgan de la cola.
+Dialogue: 0,0:09:30.60,0:09:33.27,Default,,0,0,0,,Por favor, no se salgan de la fila.
 Dialogue: 0,0:09:33.60,0:09:38.57,Default,,0,0,0,,Les rogamos que sigan al espíritu que\Ntienen delante para no perderse.
 Dialogue: 0,0:09:38.59,0:09:40.01,Default,,0,0,0,,¡Sí!
 Dialogue: 0,0:09:51.84,0:09:56.14,Default,,0,0,0,,¿Cómo es que nosotros tenemos que\Nir solos en un avión tan cutre?

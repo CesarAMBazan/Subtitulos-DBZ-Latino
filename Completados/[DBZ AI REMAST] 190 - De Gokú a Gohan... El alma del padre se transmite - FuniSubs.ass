@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -69,7 +69,6 @@ Dialogue: 0,0:02:23.02,0:02:25.35,Default,,0,0,0,,¡Papá!
 Dialogue: 0,0:02:49.90,0:02:53.73,Default,,0,0,0,,Pero Cell sigue vivo.
 Dialogue: 0,0:03:17.10,0:03:20.88,Default,,0,0,0,,No quiero seguir jugando.\NEs hora de acabar con esto.
 Dialogue: 0,0:03:36.02,0:03:38.17,Default,,0,0,0,,¡Desaparecerán junto con la Tierra!
-Dialogue: 0,0:03:39.38,0:03:45.56,Default,,0,0,0,,
 Dialogue: 0,0:03:48.95,0:03:53.53,Default,,0,0,0,,La Tierra y todo lo que hay\Nen ella desaparecerá.
 Dialogue: 0,0:04:01.66,0:04:04.13,Default,,0,0,0,,No hay nada que hacer...\Nno puedo ganar...
 Dialogue: 0,0:04:04.17,0:04:05.97,Default,,0,0,0,,Cell ha vuelto con un\Npoder ilimitado.
@@ -81,7 +80,7 @@ Dialogue: 0,0:04:39.46,0:04:41.75,Default,,0,0,0,,¡Es como un tifón!
 Dialogue: 0,0:04:42.10,0:04:46.05,Default,,0,0,0,,¡Pero mi deber como reportero\Nes seguir narrando lo que sucede
 Dialogue: 0,0:04:46.22,0:04:48.88,Default,,0,0,0,,aunque falle la retransmisión!
 Dialogue: 0,0:04:53.02,0:04:57.80,Default,,0,0,0,,No puedo creer que me haya\Nconvertido en una carga.
-Dialogue: 0,0:04:58.00,0:05:01.77,Default,,0,0,0,,Yo, un miembro de la raza\Nguerrera de los Saiyajins.
+Dialogue: 0,0:04:58.00,0:05:01.77,Default,,0,0,0,,Yo, un miembro de la raza\Nguerrera de los Saiyajin.
 Dialogue: 0,0:05:05.17,0:05:08.13,Default,,0,0,0,,Lo siento mucho, Gohan.
 Dialogue: 0,0:05:10.51,0:05:13.21,Default,,0,0,0,,¿Qué? ¿Vegeta se disculpa?
 Dialogue: 0,0:05:15.70,0:05:19.97,Default,,0,0,0,,Se ha dado cuenta de que esta\Nvez no hay nada que hacer.
@@ -141,7 +140,7 @@ Dialogue: 0,0:13:29.80,0:13:31.71,Default,,0,0,0,,como acabar con Gokú.
 Dialogue: 0,0:13:32.30,0:13:37.84,Default,,0,0,0,,Pretendía desarrollar el poder definitivo\Nque dominara todo el Universo.
 Dialogue: 0,0:13:38.18,0:13:42.31,Default,,0,0,0,,Lo he comprendido en el\Ntranscurso de esta lucha.
 Dialogue: 0,0:13:42.50,0:13:49.06,Default,,0,0,0,,Mientras mi núcleo permanezca intacto\Npuedo regenerarme como Píkoro.
-Dialogue: 0,0:13:49.38,0:13:53.29,Default,,0,0,0,,Al igual que los Saiyajins, experimento un\Naumento de poder cada vez que sobrevivo
+Dialogue: 0,0:13:49.38,0:13:53.29,Default,,0,0,0,,Al igual que los Saiyajin, experimento un\Naumento de poder cada vez que sobrevivo
 Dialogue: 0,0:13:53.46,0:13:56.93,Default,,0,0,0,,a una situación entre la\Nvida y la muerte.
 Dialogue: 0,0:13:57.30,0:14:03.25,Default,,0,0,0,,Y poseo un corazón de\Npiedra como Freezer.
 Dialogue: 0,0:14:03.86,0:14:07.97,Default,,0,0,0,,Todo exactamente como el\NDr. Gero había calculado.
@@ -185,10 +184,10 @@ Dialogue: 0,0:18:04.55,0:18:06.32,Default,,0,0,0,,¡Jo, qué aburrido!
 Dialogue: 0,0:18:07.30,0:18:10.02,Default,,0,0,0,,Ha resultado ser de\Nlo más anticlimático.
 Dialogue: 0,0:18:10.11,0:18:13.51,Default,,0,0,0,,Bueno, así no tengo que esperar\Nmás para acabar con todo.
 Dialogue: 0,0:18:16.46,0:18:20.69,Default,,0,0,0,,Es el fin. Es el fin de todo.\NLa Tierra desaparecerá.
-Dialogue: 0,0:18:26.78,0:18:33.60,Default,,0,0,0,,No digas tonterías, Gohan.\NLos Saiyajins nunca se rinden, Gohan.
+Dialogue: 0,0:18:26.78,0:18:33.60,Default,,0,0,0,,No digas tonterías, Gohan.\NLos Saiyajin nunca se rinden, Gohan.
 Dialogue: 0,0:18:35.70,0:18:38.66,Default,,0,0,0,,¡Papá...! ¿Dónde estás?
 Dialogue: 0,0:18:43.70,0:18:47.97,Default,,0,0,0,,En el Más Allá. Puedo hablar\Ncontigo gracias a Kaioh.
-Dialogue: 0,0:18:54.22,0:18:57.89,Default,,0,0,0,,La sangre guerrera de los\NSaiyajins corre por tus venas.
+Dialogue: 0,0:18:54.22,0:18:57.89,Default,,0,0,0,,La sangre guerrera de los\NSaiyajin corre por tus venas.
 Dialogue: 0,0:18:58.78,0:19:01.69,Default,,0,0,0,,Lanza un Kame Hame Ha con\Ntodas tus fuerzas.
 Dialogue: 0,0:19:01.98,0:19:05.17,Default,,0,0,0,,Si lo haces, estoy seguro\Nde que le ganarás.
 Dialogue: 0,0:19:05.26,0:19:11.80,Default,,0,0,0,,Pero sólo puedo usar un brazo y me\Nqueda menos de la mitad de mi energía.

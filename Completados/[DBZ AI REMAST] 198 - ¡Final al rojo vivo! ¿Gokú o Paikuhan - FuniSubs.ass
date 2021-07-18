@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -258,7 +258,7 @@ Dialogue: 0,0:24:11.70,0:24:13.53,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:13.53,0:24:17.24,Default,,0,0,0,,Maldición, los ataques de Paikuhan son\Nmuy rápidos para poder verlos.
 Dialogue: 0,0:24:17.24,0:24:21.21,Default,,0,0,0,,¡Es capaz de esquivar mi Kamehame-Ha,\Nincluso de frente! ¿Qué puedo hacer?
 Dialogue: 0,0:24:21.21,0:24:23.53,Default,,0,0,0,,Gokú, ¿qué estás haciendo?
-Dialogue: 0,0:24:23.53,0:24:26.58,Default,,0,0,0,,¡Si no ganas, estoy jodido!
+Dialogue: 0,0:24:23.53,0:24:26.58,Default,,0,0,0,,¡Si no ganas, estoy acabado!
 Dialogue: 0,0:24:26.58,0:24:28.71,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:28.71,0:24:32.42,Default,,0,0,0,,¡Qué no se escape la victoria! El decisivo\N Kame Hame Ha, a supervelocidad
 Dialogue: 0,0:24:32.42,0:24:35.56,Default,,0,0,0,,Cuando se trata de tener coraje,\N¡seguro que gana papá!

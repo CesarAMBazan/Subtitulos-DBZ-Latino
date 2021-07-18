@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -83,7 +83,6 @@ Dialogue: 0,0:04:45.06,0:04:46.54,Default,,0,0,0,,Eso mismo.
 Dialogue: 0,0:04:46.54,0:04:53.18,Default,,0,0,0,,Para que lo entiendan, hasta ahora Gokú\Nno había mostrado su verdadera fuerza.
 Dialogue: 0,0:04:53.22,0:04:54.73,Default,,0,0,0,,Eso es lo que quiero decir.
 Dialogue: 0,0:04:55.40,0:04:56.87,Default,,0,0,0,,¿Cómo?
-Dialogue: 0,0:04:57.12,0:05:04.57,Default,,0,0,0,,{\fscx150\fscy150\pos(133.333,69.333)}Gua, ja, ja, ja
 Dialogue: 0,0:04:57.12,0:05:00.74,Default,,0,0,0,,No has olvidado nuestra apuesta,\N¿verdad, Kaioh del Oeste?
 Dialogue: 0,0:05:00.88,0:05:04.35,Default,,0,0,0,,¡Si Gokú gana, me darás\Ntu planeta de Kaioh!
 Dialogue: 0,0:05:04.76,0:05:06.65,Default,,0,0,0,,¡Seré yo el que gane!
@@ -91,9 +90,9 @@ Dialogue: 0,0:05:06.69,0:05:10.54,Default,,0,0,0,,¡Paikuhan tampoco ha mostrado
 Dialogue: 0,0:05:23.84,0:05:28.90,Default,,0,0,0,,¿Qué clase de combate presenciaremos\Na partir de ahora?
 Dialogue: 0,0:05:28.90,0:05:31.89,Default,,0,0,0,,¡No tengo ni idea de\Nlo que nos espera!
 Dialogue: 0,0:05:32.36,0:05:35.15,Default,,0,0,0,,Yo tampoco puedo ni imaginarlo.
-Dialogue: 0,0:05:36.73,0:05:38.00,Default,,0,0,0,,
-Dialogue: 0,0:05:38.00,0:05:39.46,Default,,0,0,0,,
-Dialogue: 0,0:05:40.16,0:05:42.30,Default,,0,0,0,,
+Dialogue: 0,0:05:36.73,0:05:38.00,Default,,0,0,0,,Ka me
+Dialogue: 0,0:05:38.00,0:05:39.46,Default,,0,0,0,,Ha me
+Dialogue: 0,0:05:40.16,0:05:42.30,Default,,0,0,0,,¡Ha!
 Dialogue: 0,0:05:51.92,0:05:52.95,Default,,0,0,0,,¡Ya te tengo!
 Dialogue: 0,0:06:25.56,0:06:26.70,Default,,0,0,0,,Aquí, Gokú.
 Dialogue: 0,0:06:35.52,0:06:40.27,Default,,0,0,0,,Ni siquiera lo he visto llegar ahí.\NNo puedo seguir sus movimientos.
@@ -101,16 +100,16 @@ Dialogue: 0,0:06:42.32,0:06:45.91,Default,,0,0,0,,Has aumentado de poder\Ncon tu
 Dialogue: 0,0:06:46.29,0:06:49.18,Default,,0,0,0,,pero no me superas\Nen velocidad.
 Dialogue: 0,0:06:50.91,0:06:53.43,Default,,0,0,0,,Me siento un poco decepcionado.
 Dialogue: 0,0:07:12.08,0:07:12.99,Default,,0,0,0,,¡Prepárate!
-Dialogue: 0,0:07:13.31,0:07:16.73,Default,,0,0,0,,
+Dialogue: 0,0:07:13.31,0:07:16.73,Default,,0,0,0,,¡Hyper Tornado!
 Dialogue: 0,0:08:11.46,0:08:14.35,Default,,0,0,0,,¡No olvides nuestra apuesta,\NKaioh del Norte!
 Dialogue: 0,0:08:14.36,0:08:15.83,Default,,0,0,0,,¡Ya lo sé!
 Dialogue: 0,0:08:24.48,0:08:28.31,Default,,0,0,0,,Gokú, tu cuerpo se\Nencuentra al límite.
 Dialogue: 0,0:08:51.80,0:08:52.94,Default,,0,0,0,,¿Cómo?
-Dialogue: 0,0:09:04.69,0:09:08.17,Default,,0,0,0,,
-Dialogue: 0,0:09:13.02,0:09:14.12,Default,,0,0,0,,
-Dialogue: 0,0:09:14.12,0:09:15.61,Default,,0,0,0,,
-Dialogue: 0,0:09:15.61,0:09:16.78,Default,,0,0,0,,
-Dialogue: 0,0:09:16.78,0:09:18.03,Default,,0,0,0,,
+Dialogue: 0,0:09:04.69,0:09:08.17,Default,,0,0,0,,¡Super Kaioh Ken!
+Dialogue: 0,0:09:13.02,0:09:14.12,Default,,0,0,0,,Ka
+Dialogue: 0,0:09:14.12,0:09:15.61,Default,,0,0,0,,Me
+Dialogue: 0,0:09:15.61,0:09:16.78,Default,,0,0,0,,Ha
+Dialogue: 0,0:09:16.78,0:09:18.03,Default,,0,0,0,,Me
 Dialogue: 0,0:10:00.06,0:10:00.87,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:10:23.44,0:10:26.81,Default,,0,0,0,,Qué pena... le ha faltado muy poco.
 Dialogue: 0,0:10:28.24,0:10:29.46,Default,,0,0,0,,Increíble...
@@ -125,15 +124,15 @@ Dialogue: 0,0:11:08.76,0:11:10.95,Default,,0,0,0,,Tú también eres muy fuerte.
 Dialogue: 0,0:11:11.56,0:11:15.67,Default,,0,0,0,,Me emociona poder luchar contra\Nalguien tan fuerte como tú.
 Dialogue: 0,0:11:16.56,0:11:21.63,Default,,0,0,0,,Yo también siento lo mismo.\NEs una lástima que tenga que acabar.
 Dialogue: 0,0:11:22.84,0:11:23.87,Default,,0,0,0,,¿Cómo?
-Dialogue: 0,0:11:31.09,0:11:33.07,Default,,0,0,0,,
-Dialogue: 0,0:11:33.72,0:11:37.45,Default,,0,0,0,,
-Dialogue: 0,0:11:51.88,0:11:52.86,Default,,0,0,0,,
-Dialogue: 0,0:11:53.86,0:11:56.12,Default,,0,0,0,,
+Dialogue: 0,0:11:31.09,0:11:33.07,Default,,0,0,0,,¡Thunder...
+Dialogue: 0,0:11:33.72,0:11:37.45,Default,,0,0,0,,Flash!
+Dialogue: 0,0:11:51.88,0:11:52.86,Default,,0,0,0,,¡Thunder...
+Dialogue: 0,0:11:53.86,0:11:56.12,Default,,0,0,0,,Flash!
 Dialogue: 0,0:12:25.80,0:12:26.63,Default,,0,0,0,,Increíble...
 Dialogue: 0,0:12:26.96,0:12:29.67,Default,,0,0,0,,No he visto venir ese ataque...
 Dialogue: 0,0:13:15.45,0:13:16.49,Default,,0,0,0,,Otra vez...
-Dialogue: 0,0:13:17.57,0:13:19.57,Default,,0,0,0,,
-Dialogue: 0,0:13:20.80,0:13:23.08,Default,,0,0,0,,
+Dialogue: 0,0:13:17.57,0:13:19.57,Default,,0,0,0,,¡Thunder...
+Dialogue: 0,0:13:20.80,0:13:23.08,Default,,0,0,0,,Flash!
 Dialogue: 0,0:14:19.44,0:14:22.00,Default,,0,0,0,,Un poco más y nos achicharra...
 Dialogue: 0,0:14:22.12,0:14:25.35,Default,,0,0,0,,Con lo que me costó hacer ese ring...
 Dialogue: 0,0:14:25.97,0:14:28.58,Default,,0,0,0,,¡Ese Paikuhan...!
@@ -144,17 +143,17 @@ Dialogue: 0,0:14:55.61,0:14:56.71,Default,,0,0,0,,No lo sé.
 Dialogue: 0,0:14:56.92,0:15:03.77,Default,,0,0,0,,Paikuhan y Gokú se han perdido\Nde vista en las alturas.
 Dialogue: 0,0:15:03.92,0:15:07.27,Default,,0,0,0,,¿Cuál de los dos se impondrá\Nen este intenso duelo?
 Dialogue: 0,0:15:10.28,0:15:13.06,Default,,0,0,0,,No está nada mal...
-Dialogue: 0,0:16:00.83,0:16:04.35,Default,,0,0,0,,
+Dialogue: 0,0:16:00.83,0:16:04.35,Default,,0,0,0,,¡Kame Hame Ha!
 Dialogue: 0,0:16:09.08,0:16:12.15,Default,,0,0,0,,Mis ataques no le\Nhacen ningún efecto.
 Dialogue: 0,0:16:34.48,0:16:35.97,Default,,0,0,0,,Y ahora el golpe de gracia.
 Dialogue: 0,0:16:36.44,0:16:39.39,Default,,0,0,0,,Voy a sacarte del ring\Ncon mi Thunder Flash.
 Dialogue: 0,0:16:56.20,0:17:01.71,Default,,0,0,0,,Esa técnica debe de tener algún punto\Ndébil... ¡tengo que encontrarlo!
-Dialogue: 0,0:17:13.98,0:17:15.08,Default,,0,0,0,,
+Dialogue: 0,0:17:13.98,0:17:15.08,Default,,0,0,0,,¡Thunder...
 Dialogue: 0,0:17:20.04,0:17:21.10,Default,,0,0,0,,¡Ahora!
-Dialogue: 0,0:17:22.00,0:17:23.65,Default,,0,0,0,,
-Dialogue: 0,0:17:28.90,0:17:30.32,Default,,0,0,0,,
-Dialogue: 0,0:17:30.32,0:17:32.25,Default,,0,0,0,,
-Dialogue: 0,0:17:32.25,0:17:33.86,Default,,0,0,0,,
+Dialogue: 0,0:17:22.00,0:17:23.65,Default,,0,0,0,,Flash!
+Dialogue: 0,0:17:28.90,0:17:30.32,Default,,0,0,0,,Ka me
+Dialogue: 0,0:17:30.32,0:17:32.25,Default,,0,0,0,,Ha me
+Dialogue: 0,0:17:32.25,0:17:33.86,Default,,0,0,0,,¡Ha!
 Dialogue: 0,0:18:00.08,0:18:03.62,Default,,0,0,0,,¡Paikuhan ha salido del ring!
 Dialogue: 0,0:18:04.00,0:18:10.67,Default,,0,0,0,,¡El campeón del Gran Torneo de Artes\NMarciales del Más Allá es Son Gokú!
 Dialogue: 0,0:18:28.60,0:18:30.15,Default,,0,0,0,,Me has ganado...

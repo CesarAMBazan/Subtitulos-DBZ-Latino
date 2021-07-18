@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -73,7 +73,7 @@ Dialogue: 0,0:02:47.51,0:02:49.26,Default,,0,0,0,,Mientras tanto, Gokú...
 Dialogue: 0,0:02:50.27,0:02:52.02,Default,,0,0,0,,He tenido una idea.
 Dialogue: 0,0:02:52.35,0:02:55.54,Default,,0,0,0,,Podemos encontrar un nuevo\NKami Sama en Namekusei.
 Dialogue: 0,0:02:56.03,0:02:59.34,Default,,0,0,0,,¡Kami Sama resucitará y las\Nesferas del dragón con él!
-Dialogue: 0,0:02:59.39,0:03:02.74,Default,,0,0,0,,Gokú viaja con la Teletransportación\NInstantánea al planeta de Kaioh,
+Dialogue: 0,0:02:59.39,0:03:02.74,Default,,0,0,0,,Gokú viaja con la Teletransportación\Nal planeta de Kaioh,
 Dialogue: 0,0:03:02.91,0:03:05.47,Default,,0,0,0,,desde donde espera encontrar\Nel Nuevo Namekusei.
 Dialogue: 0,0:03:12.31,0:03:13.70,Default,,0,0,0,,¿Gokú?
 Dialogue: 0,0:03:24.59,0:03:25.65,Default,,0,0,0,,¡Hola!
@@ -93,32 +93,32 @@ Dialogue: 0,0:04:31.47,0:04:35.78,Default,,0,0,0,,Por mucho que recemos,\NKami S
 Dialogue: 0,0:04:39.07,0:04:46.75,Default,,0,0,0,,Ya comprendo. El Androide Cell, ¿eh?\NDesde luego, es algo terrible.
 Dialogue: 0,0:04:47.11,0:04:52.94,Default,,0,0,0,,Pero, después de todo, en tu mundo\Nno paran de pasar cosas terribles.
 Dialogue: 0,0:04:53.07,0:04:54.18,Default,,0,0,0,,Sí.
-Dialogue: 0,0:04:54.68,0:04:58.46,Default,,0,0,0,,Por eso quiero encontrar un\Nnamek que sea el nuevo Kami Sama
-Dialogue: 0,0:04:58.77,0:05:01.80,Default,,0,0,0,,para que las bolas de\Ndragón puedan resucitar.
+Dialogue: 0,0:04:54.68,0:04:58.46,Default,,0,0,0,,Por eso quiero encontrar un\Nnamekuseijin que sea el nuevo Kami Sama
+Dialogue: 0,0:04:58.77,0:05:01.80,Default,,0,0,0,,para que las Esferas del\NDragón puedan resucitar.
 Dialogue: 0,0:05:04.19,0:05:09.10,Default,,0,0,0,,¿Puedes ayudarme a encontrar\Nel planeta Namekusei?
 Dialogue: 0,0:05:11.31,0:05:13.86,Default,,0,0,0,,Entendido. Lo intentaremos.
 Dialogue: 0,0:05:32.55,0:05:34.82,Default,,0,0,0,,Espero que lo consigas.
-Dialogue: 0,0:05:35.87,0:05:40.46,Default,,0,0,0,,El Sr. Popo se siente\Nmuy solo sin Kami Sama.
+Dialogue: 0,0:05:35.87,0:05:40.46,Default,,0,0,0,,El Mr. Popo se siente\Nmuy solo sin Kami Sama.
 Dialogue: 0,0:05:41.07,0:05:47.70,Default,,0,0,0,,Y no lo culpo. Debe ser aburrido\Nvivir solo en el Palacio de Kami Sama...
 Dialogue: 0,0:05:47.70,0:05:52.02,Default,,0,0,0,,¡Cállate! ¡No puedo concentrarme!
 Dialogue: 0,0:05:56.53,0:06:02.40,Default,,0,0,0,,¡Ah...! ¡Ah...! ¡A, e, i, o, u!
 Dialogue: 0,0:06:05.39,0:06:07.62,Default,,0,0,0,,Haz el favor de concentrarte.
-Dialogue: 0,0:06:09.31,0:06:10.90,Default,,0,0,0,,Perdona, perdona...
+Dialogue: 0,0:06:09.31,0:06:10.90,Default,,0,0,0,,Perdón, perdón...
 Dialogue: 0,0:06:12.27,0:06:13.82,Default,,0,0,0,,Ya los tengo, ya los tengo...
 Dialogue: 0,0:06:13.82,0:06:16.82,Default,,0,0,0,,Ahora están en aquella dirección.
 Dialogue: 0,0:06:17.11,0:06:18.62,Default,,0,0,0,,¿En serio? ¡Gracias!
 Dialogue: 0,0:06:20.91,0:06:22.86,Default,,0,0,0,,Vamos, en esa dirección.
 Dialogue: 0,0:06:22.99,0:06:25.62,Default,,0,0,0,,Por muy lejos que estén,\Nsi sé en qué dirección buscar,
 Dialogue: 0,0:06:25.75,0:06:27.66,Default,,0,0,0,,podré encontrar sus energías.
-Dialogue: 0,0:06:27.66,0:06:30.18,Default,,0,0,0,,¡Increíble! El movimiento\Ninstantáneo, ¿eh?
+Dialogue: 0,0:06:27.66,0:06:30.18,Default,,0,0,0,,¡Increíble! La\NTeletransportación, ¿eh?
 Dialogue: 0,0:06:30.66,0:06:32.82,Default,,0,0,0,,¿Dónde aprendiste ese\Nmaravilloso truco?
-Dialogue: 0,0:06:32.99,0:06:38.31,Default,,0,0,0,,¡Ya sé! El Movimiento Instantáneo\Nes la técnica favorita de los yadrats.
+Dialogue: 0,0:06:32.99,0:06:38.31,Default,,0,0,0,,¡Ya sé! La Teletransportación\Nes la técnica favorita de los yadrats.
 Dialogue: 0,0:06:38.43,0:06:41.51,Default,,0,0,0,,Apuesto a que te\Nla enseñaron ellos.
 Dialogue: 0,0:06:42.44,0:06:46.42,Default,,0,0,0,,Ya comprendo.\NEs de lo más conveniente.
 Dialogue: 0,0:06:47.59,0:06:49.60,Default,,0,0,0,,¿Quieres hacer el favor de callarte?
 Dialogue: 0,0:06:50.75,0:06:52.48,Default,,0,0,0,,¡Te la he devuelto!
 Dialogue: 0,0:06:57.55,0:06:59.42,Default,,0,0,0,,¡Ya está! ¡Esa energía...!
-Dialogue: 0,0:06:59.71,0:07:02.09,Default,,0,0,0,,¡No hay duda de que es la\Nenergía de los nameks!
+Dialogue: 0,0:06:59.71,0:07:02.09,Default,,0,0,0,,¡No hay duda de que es la\Nenergía de los namekuseijin!
 Dialogue: 0,0:07:02.27,0:07:03.82,Default,,0,0,0,,¡Gracias, Kaioh!
 Dialogue: 0,0:07:12.95,0:07:14.01,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:07:19.75,0:07:21.94,Default,,0,0,0,,¡Hay muchos Píkoros!
@@ -132,7 +132,7 @@ Dialogue: 0,0:07:50.19,0:07:53.89,Default,,0,0,0,,Parece que la Tierra\Ncorre un
 Dialogue: 0,0:07:54.23,0:07:57.58,Default,,0,0,0,,¿Entonces ya sabes lo de Cell?
 Dialogue: 0,0:07:57.91,0:08:05.18,Default,,0,0,0,,Ignoro los detalles, pero siento una gran\Nmaldad que proviene de esa dirección.
 Dialogue: 0,0:08:05.84,0:08:07.86,Default,,0,0,0,,Así me ahorro explicaciones.
-Dialogue: 0,0:08:08.07,0:08:14.02,Default,,0,0,0,,Busco a algún namek que haga de Kami Sama\Nporque necesitamos las esferas del dragón
+Dialogue: 0,0:08:08.07,0:08:14.02,Default,,0,0,0,,Busco a algún namekuseijin que haga de Kami Sama\Nporque necesitamos las esferas del dragón
 Dialogue: 0,0:08:14.04,0:08:17.30,Default,,0,0,0,,para resucitar a toda la\Ngente asesinada por Cell.
 Dialogue: 0,0:08:19.07,0:08:23.57,Default,,0,0,0,,De hecho, Píkoro también\Nes de Namekusei.
 Dialogue: 0,0:08:23.79,0:08:27.98,Default,,0,0,0,,¿Píkoro? ¡Ah, el hijo de Kattatsu!
@@ -167,7 +167,7 @@ Dialogue: 0,0:10:13.15,0:10:16.48,Default,,0,0,0,,¡Ey! He ido a Nuevo Namekusei
 Dialogue: 0,0:10:16.75,0:10:18.06,Default,,0,0,0,,¡Dende!
 Dialogue: 0,0:10:18.23,0:10:20.74,Default,,0,0,0,,¿Él es el nuevo Kami Sama?
 Dialogue: 0,0:10:21.15,0:10:22.02,Default,,0,0,0,,Sí.
-Dialogue: 0,0:10:23.71,0:10:27.06,Default,,0,0,0,,¿Seguro que Dende está preparado\Npara ser el nuevo Dios?
+Dialogue: 0,0:10:23.71,0:10:27.06,Default,,0,0,0,,¿Seguro que Dende está preparado\Npara ser el nuevo Kami sama?
 Dialogue: 0,0:10:28.63,0:10:30.26,Default,,0,0,0,,Claro que sí.
 Dialogue: 0,0:10:30.43,0:10:34.02,Default,,0,0,0,,Espera un momento, iré a\Nbuscar a Gohan y a Krilin.
 Dialogue: 0,0:10:34.03,0:10:35.14,Default,,0,0,0,,Vamos.
@@ -212,7 +212,7 @@ Dialogue: 0,0:13:43.59,0:13:47.13,Default,,0,0,0,,a su dragón ahora mismo.
 Dialogue: 0,0:13:47.17,0:13:48.13,Default,,0,0,0,,¿En serio?
 Dialogue: 0,0:13:48.27,0:13:51.37,Default,,0,0,0,,Esas esferas del dragón se han convertido\Nen piedras y se han esparcido
 Dialogue: 0,0:13:51.37,0:13:52.97,Default,,0,0,0,,por toda la Tierra.
-Dialogue: 0,0:13:53.43,0:13:56.58,Default,,0,0,0,,El Sr. Popo tiene la\Nmaqueta del dragón.
+Dialogue: 0,0:13:53.43,0:13:56.58,Default,,0,0,0,,El Mr. Popo tiene la\Nmaqueta del dragón.
 Dialogue: 0,0:13:57.55,0:14:00.17,Default,,0,0,0,,¡Muy bien!\N¡Entonces ya lo tenemos todo!
 Dialogue: 0,0:14:00.20,0:14:01.37,Default,,0,0,0,,¡Genial!
 Dialogue: 0,0:14:01.59,0:14:07.10,Default,,0,0,0,,Oye, ¿y podremos pedir tres deseos\Ncomo cuando estábamos en Namekusei?
@@ -226,9 +226,9 @@ Dialogue: 0,0:14:31.15,0:14:33.66,Default,,0,0,0,,¿Puedes hacer que funcionen a
 Dialogue: 0,0:14:33.95,0:14:35.09,Default,,0,0,0,,Sí.
 Dialogue: 0,0:14:35.51,0:14:39.05,Default,,0,0,0,,Muy bien, entonces que así sea.
 Dialogue: 0,0:14:39.87,0:14:43.26,Default,,0,0,0,,Entendido. ¿Dónde está\Nla maqueta del dragón?
-Dialogue: 0,0:14:43.39,0:14:45.95,Default,,0,0,0,,Sr. Popo, trae la maqueta.
+Dialogue: 0,0:14:43.39,0:14:45.95,Default,,0,0,0,,Mr. Popo, trae la maqueta.
 Dialogue: 0,0:14:46.11,0:14:47.17,Default,,0,0,0,,Sí.
-Dialogue: 0,0:14:53.11,0:14:56.06,Default,,0,0,0,,Es obra del Sr. Popo.
+Dialogue: 0,0:14:53.11,0:14:56.06,Default,,0,0,0,,Es obra del Mr. Popo.
 Dialogue: 0,0:14:57.35,0:15:00.10,Default,,0,0,0,,El dragón tiene una forma\Nmuy interesante.
 Dialogue: 0,0:15:00.31,0:15:02.02,Default,,0,0,0,,Vamos, voy a intentarlo.
 Dialogue: 0,0:15:02.23,0:15:03.62,Default,,0,0,0,,¡Ánimo, Dende!
@@ -239,7 +239,7 @@ Dialogue: 0,0:16:50.47,0:16:51.42,Default,,0,0,0,,¿Ya?
 Dialogue: 0,0:16:51.63,0:16:52.90,Default,,0,0,0,,¡Fantástico!
 Dialogue: 0,0:16:53.19,0:16:54.33,Default,,0,0,0,,Sorprendente.
 Dialogue: 0,0:16:54.40,0:16:57.74,Default,,0,0,0,,Tiene mucho potencial.
-Dialogue: 0,0:16:58.35,0:17:03.55,Default,,0,0,0,,Le pediré prestado el Dragon\NRadar a Bulma para buscar las bolas.
+Dialogue: 0,0:16:58.35,0:17:03.55,Default,,0,0,0,,Le pediré prestado el Dragon\NRadar a Bulma para buscar las esferas.
 Dialogue: 0,0:17:03.75,0:17:05.14,Default,,0,0,0,,Cuento contigo, Gokú.
 Dialogue: 0,0:17:05.31,0:17:06.10,Default,,0,0,0,,Sí.
 Dialogue: 0,0:17:06.27,0:17:10.80,Default,,0,0,0,,Gohan, no hay necesidad de más\Nentrenamientos antes del Cell Game.

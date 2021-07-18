@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -99,7 +99,6 @@ Dialogue: 0,0:08:44.68,0:08:48.73,Default,,0,0,0,,Ese joven repartidor será\Nmi
 Dialogue: 0,0:08:49.80,0:08:52.36,Default,,0,0,0,,¿Entonces qué será de nosotros?
 Dialogue: 0,0:08:52.48,0:08:54.43,Default,,0,0,0,,¿No somos sus favoritos?
 Dialogue: 0,0:08:54.56,0:08:58.04,Default,,0,0,0,,¡Idiotas! ¡Ustedes ya\Nhan sido expulsados!
-Dialogue: 0,0:08:58.08,0:09:00.27,Default,,0,0,0,,¡No puede ser!
 Dialogue: 0,0:08:58.08,0:09:00.27,Default,,0,0,0,,¡No puede ser!
 Dialogue: 0,0:09:00.44,0:09:03.31,Default,,0,0,0,,Es una idea brillante, Mr. Satan.
 Dialogue: 0,0:09:03.48,0:09:08.19,Default,,0,0,0,,Con ese niño, el dojo de Mr. Satan\Nserá más popular que nunca.
@@ -225,5 +224,5 @@ Dialogue: 0,0:24:16.20,0:24:18.57,Default,,0,0,0,,¡Va volarse por los aires,\Ny
 Dialogue: 0,0:24:20.20,0:24:22.54,Default,,0,0,0,,Esta pelea termina en empate.
 Dialogue: 0,0:24:22.54,0:24:26.31,Default,,0,0,0,,¡Puede que muera, pero\Nla Tierra también desaparecerá!
 Dialogue: 0,0:24:26.31,0:24:28.48,Default,,0,0,0,,Próximamente en Dragon Ball Z
-Dialogue: 0,0:24:28.48,0:24:32.48,Default,,0,0,0,,¡Adiós a todos! El último Movimiento\N Instantáneo de Gokú
+Dialogue: 0,0:24:28.48,0:24:32.48,Default,,0,0,0,,¡Adiós a todos! El última Teletransportación\Nde Gokú
 Dialogue: 0,0:24:32.48,0:24:36.08,Default,,0,0,0,,¡Por mi culpa... \Npor mi culpa mi papá morirá!

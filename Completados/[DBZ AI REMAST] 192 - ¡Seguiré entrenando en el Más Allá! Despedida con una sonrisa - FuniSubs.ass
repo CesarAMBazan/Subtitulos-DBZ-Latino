@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -70,7 +70,6 @@ Dialogue: 0,0:02:04.97,0:02:06.14,Default,,0,0,0,,¡Ahora!
 Dialogue: 0,0:02:28.24,0:02:31.68,Default,,0,0,0,,Finalmente... Cell ha sido derrotado.
 Dialogue: 0,0:02:32.48,0:02:37.53,Default,,0,0,0,,Ahora la paz volverá una vez más\Na la Tierra, pero esta vez
 Dialogue: 0,0:02:37.57,0:02:42.77,Default,,0,0,0,,el precio a pagar ha\Nsido muy alto.
-Dialogue: 0,0:02:46.97,0:02:53.46,Default,,0,0,0,,
 Dialogue: 0,0:03:08.28,0:03:13.83,Default,,0,0,0,,¿Es posible?\N¿Realmente ha derrotado a Cell?
 Dialogue: 0,0:03:29.88,0:03:33.93,Default,,0,0,0,,¡Increíble! ¡Eh, Gohan, has\Nestado realmente increíble!
 Dialogue: 0,0:03:33.93,0:03:34.99,Default,,0,0,0,,¡Lo has conseguido!
@@ -122,7 +121,7 @@ Dialogue: 0,0:07:56.04,0:08:00.71,Default,,0,0,0,,Estaban perdiendo el tiempo co
 Dialogue: 0,0:08:00.73,0:08:04.44,Default,,0,0,0,,así que me he puesto impaciente y les\Nhe dicho ''basta ya de tonterías''
 Dialogue: 0,0:08:04.44,0:08:08.19,Default,,0,0,0,,y luego le he dado una\Nbuena paliza a Cell.
 Dialogue: 0,0:08:10.40,0:08:11.67,Default,,0,0,0,,Pan comido.
-Dialogue: 0,0:08:11.80,0:08:13.19,Default,,0,0,0,,¡Es lo más!
+Dialogue: 0,0:08:11.80,0:08:13.19,Default,,0,0,0,,¡Es el mejor!
 Dialogue: 0,0:08:13.40,0:08:18.31,Default,,0,0,0,,¿Y qué ha pasado con el joven\Nrepartidor y los otros?
 Dialogue: 0,0:08:18.37,0:08:24.46,Default,,0,0,0,,Pan comido... ah, me han dado las\Ngracias y se han ido a casa.
 Dialogue: 0,0:08:24.95,0:08:28.67,Default,,0,0,0,,¡Ey, la radio de la unidad\Nmóvil todavía funciona!
@@ -157,7 +156,7 @@ Dialogue: 0,0:10:14.76,0:10:17.14,Default,,0,0,0,,Esto no me llena nada...
 Dialogue: 0,0:10:17.56,0:10:20.99,Default,,0,0,0,,Nunca había visto a un\Nmuerto tan vivo...
 Dialogue: 0,0:10:23.68,0:10:24.82,Default,,0,0,0,,¿Ya están aquí?
 Dialogue: 0,0:10:28.52,0:10:31.64,Default,,0,0,0,,¡Eh, no han estado del todo mal!
-Dialogue: 0,0:10:32.06,0:10:33.02,Default,,0,0,0,,¿Yajirobee?
+Dialogue: 0,0:10:32.06,0:10:33.02,Default,,0,0,0,,¿Yajirobe?
 Dialogue: 0,0:10:33.16,0:10:39.19,Default,,0,0,0,,Quería venir a darles una ayuda,\Npero tenía la nave en malas condiciones.
 Dialogue: 0,0:10:39.24,0:10:40.75,Default,,0,0,0,,No me digas...
 Dialogue: 0,0:10:40.88,0:10:43.59,Default,,0,0,0,,Seguro que ni se le ha\Npasado por la cabeza...
@@ -195,7 +194,7 @@ Dialogue: 0,0:13:25.40,0:13:27.15,Default,,0,0,0,,Disimula un poco...
 Dialogue: 0,0:13:27.28,0:13:30.60,Default,,0,0,0,,¿Qué? ¿En serio? Estás de broma, ¿no?
 Dialogue: 0,0:13:30.64,0:13:33.11,Default,,0,0,0,,¡Pero si es un Androide!
 Dialogue: 0,0:13:37.72,0:13:40.18,Default,,0,0,0,,¿Y por qué debería\Nestarte agradecida?
-Dialogue: 0,0:13:40.36,0:13:46.07,Default,,0,0,0,,¿Esperabas que te diera las gracias\Ny te diera de la mano, hombrecito?
+Dialogue: 0,0:13:40.36,0:13:46.07,Default,,0,0,0,,¿Esperabas que te diera las gracias\Ny te diera la mano, hombrecito?
 Dialogue: 0,0:13:46.92,0:13:48.87,Default,,0,0,0,,¿Es un chiste o qué?
 Dialogue: 0,0:13:56.71,0:13:58.91,Default,,0,0,0,,¡Esa desgraciada...!
 Dialogue: 0,0:13:59.28,0:14:03.47,Default,,0,0,0,,¿Quién te crees que eres?\N¿Quieres que te dé lo que te mereces?

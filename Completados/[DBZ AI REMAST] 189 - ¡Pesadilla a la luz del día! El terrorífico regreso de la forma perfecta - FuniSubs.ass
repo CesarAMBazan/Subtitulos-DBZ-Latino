@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -115,8 +115,8 @@ Dialogue: 0,0:09:09.20,0:09:11.55,Default,,0,0,0,,de poder como el de Son Gohan.
 Dialogue: 0,0:09:12.44,0:09:15.75,Default,,0,0,0,,Es probable que debido a las\Ncélulas de Saiyajin que tengo,
 Dialogue: 0,0:09:16.16,0:09:19.16,Default,,0,0,0,,enfrentarme a una situación\Nentre la vida y la muerte
 Dialogue: 0,0:09:19.20,0:09:21.18,Default,,0,0,0,,me haya hecho mucho más fuerte.
-Dialogue: 0,0:09:22.88,0:09:26.15,Default,,0,0,0,,Y por si fuera poco, he asimilado\Nla técnica del Movimiento
-Dialogue: 0,0:09:26.16,0:09:27.95,Default,,0,0,0,,Instantáneo de Gokú.
+Dialogue: 0,0:09:22.88,0:09:26.15,Default,,0,0,0,,Y por si fuera poco, he asimilado\Nla técnica de la
+Dialogue: 0,0:09:26.16,0:09:27.95,Default,,0,0,0,,Teletransportación de Gokú.
 Dialogue: 0,0:09:34.28,0:09:38.79,Default,,0,0,0,,En otras palabras, regreso\Nmás perfecto que nunca.
 Dialogue: 0,0:09:39.36,0:09:45.43,Default,,0,0,0,,En lugar de matarme, Son Gokú me ha\Ndado un maravilloso regalo de despedida.
 Dialogue: 0,0:10:05.72,0:10:07.55,Default,,0,0,0,,Gohan...

@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -194,8 +194,8 @@ Dialogue: 0,0:15:54.61,0:15:56.18,Default,,0,0,0,,¡Krilin!
 Dialogue: 0,0:16:11.61,0:16:13.44,Default,,0,0,0,,¿Quieres salvarlo?
 Dialogue: 0,0:16:14.21,0:16:17.22,Default,,0,0,0,,Es inútil, morirá pronto.
 Dialogue: 0,0:16:21.85,0:16:25.55,Default,,0,0,0,,Harías mejor en preocuparte\Npor ti mismo.
-Dialogue: 0,0:16:26.09,0:16:28.04,Default,,0,0,0,,Quita...
-Dialogue: 0,0:16:30.05,0:16:33.97,Default,,0,0,0,,¡Quita de en medio!
+Dialogue: 0,0:16:26.09,0:16:28.04,Default,,0,0,0,,Quitate...
+Dialogue: 0,0:16:30.05,0:16:33.97,Default,,0,0,0,,¡Quitate de en medio!
 Dialogue: 0,0:17:43.77,0:17:49.46,Default,,0,0,0,,Cuando me enfado de verdad, mi poder\Nse eleva hasta límites insospechados
 Dialogue: 0,0:17:49.46,0:17:51.10,Default,,0,0,0,,y lucho como un poseido.
 Dialogue: 0,0:17:53.77,0:17:58.60,Default,,0,0,0,,Y además entrené en la Sala del Espíritu\Ny el Tiempo para aumentar de poder.

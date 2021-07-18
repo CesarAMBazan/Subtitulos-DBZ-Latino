@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -91,7 +91,6 @@ Dialogue: 0,0:06:23.34,0:06:26.75,Default,,0,0,0,,Se nota que eres un\Nignorante
 Dialogue: 0,0:06:28.80,0:06:32.19,Default,,0,0,0,,Como experto en artes marciales,\NMr. Satan ha tenido que realizar
 Dialogue: 0,0:06:32.22,0:06:36.31,Default,,0,0,0,,un movimiento brusco para contrarrestar\Nel resbalón y mantener el equilibrio.
 Dialogue: 0,0:06:36.64,0:06:38.91,Default,,0,0,0,,¿Así que ha sido eso?
-Dialogue: 0,0:06:39.04,0:06:40.83,Default,,0,0,0,,¡Claro que ha sido eso!
 Dialogue: 0,0:06:39.04,0:06:40.83,Default,,0,0,0,,¡Claro que ha sido eso!
 Dialogue: 0,0:06:41.92,0:06:42.90,Default,,0,0,0,,Está bien...
 Dialogue: 0,0:06:44.88,0:06:47.26,Default,,0,0,0,,Pero que nadie se preocupe.
