@@ -1,0 +1,272 @@
+﻿[Script Info]
+; Estado = Faltan correcciones
+Title: Default Aegisub file
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 708
+PlayResY: 480
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 249
+Active Line: 260
+Video Position: 35364
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Funimitation,28,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,1,0,1,2,0,2,40,40,25,1
+Style: Karaoke Japones,Faxfont Tone,40,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,8,0,0,10,0
+Style: Karaoke Español,Faxfont Tone,36,&H00FFFFFF,&H000000FF,&H00000000,&H501D0032,0,0,0,0,100,100,0,0,1,0,0,2,0,0,6,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.34,0:00:15.09,Karaoke Español,,0,0,0,,{\blur.8}Atravieso las brillantes nubes y
+Dialogue: 0,0:00:15.09,0:00:17.67,Karaoke Español,,0,0,0,,{\blur.8}Vuelo lejos (Vuelo lejos)
+Dialogue: 0,0:00:17.67,0:00:24.12,Karaoke Español,,0,0,0,,{\blur.8}Un panorama se extiende\Na través de mi cuerpo.
+Dialogue: 0,0:00:24.84,0:00:27.41,Karaoke Español,,0,0,0,,{\blur.8}La Tierra, al ser pateada en la cara,
+Dialogue: 0,0:00:27.41,0:00:30.12,Karaoke Español,,0,0,0,,{\blur.8}se enfurece (se enfurece)
+Dialogue: 0,0:00:30.14,0:00:35.83,Karaoke Español,,0,0,0,,{\blur.8}¡Provocando la erupción de los volcanes!
+Dialogue: 0,0:00:36.95,0:00:42.63,Karaoke Español,,0,0,0,,{\blur.8}Si dentro de un iceberg derretido,
+Dialogue: 0,0:00:43.51,0:00:51.73,Karaoke Español,,0,0,0,,{\blur.8}hubiese un dinosaurio.\N¡Le enseñaría a hacer equilibrios sobre una pelota!
+Dialogue: 0,0:00:52.49,0:00:55.45,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:00:55.92,0:01:04.25,Karaoke Español,,0,0,0,,{\blur.8}¡No importa lo que suceda,\Nnada me podrá afectar!
+Dialogue: 0,0:01:04.92,0:01:08.05,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:08.51,0:01:12.03,Karaoke Español,,0,0,0,,{\blur.8}No importa lo fuerte que lata tu pecho,
+Dialogue: 0,0:01:12.20,0:01:14.30,Karaoke Español,,0,0,0,,{\blur.8}¡La Genki-dama rugirá!
+Dialogue: 0,0:01:14.31,0:01:17.47,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:17.91,0:01:25.09,Karaoke Español,,0,0,0,,{\blur.8}¡Prefiero tener la cabeza vacía,\Ny así poder llenarla de sueños!
+Dialogue: 0,0:01:26.77,0:01:29.94,Karaoke Español,,0,0,0,,{\blur.8}CHA-LA HEAD-CHA-LA
+Dialogue: 0,0:01:30.40,0:01:34.06,Karaoke Español,,0,0,0,,{\blur.8}¡Con una sonrisa Ultra-Z,
+Dialogue: 0,0:01:34.06,0:01:37.28,Karaoke Español,,0,0,0,,{\blur.8}hoy también estoy\Nai-yai-yai-yai-yai...!
+Dialogue: 0,0:01:37.29,0:01:38.82,Karaoke Español,,0,0,0,,{\blur.8}¡Comenzando!
+Dialogue: 0,0:00:12.34,0:00:15.09,Karaoke Japones,,0,0,0,,{\blur.8}hikaru kumo wo tsukuinuke
+Dialogue: 0,0:00:15.09,0:00:17.67,Karaoke Japones,,0,0,0,,{\blur.8}Fly Away  < Fly Away >
+Dialogue: 0,0:00:17.67,0:00:24.12,Karaoke Japones,,0,0,0,,{\blur.8}karadajuu ni hirogaru panorama
+Dialogue: 0,0:00:24.84,0:00:27.41,Karaoke Japones,,0,0,0,,{\blur.8}kao wo kerareta chikyuu ga
+Dialogue: 0,0:00:27.41,0:00:30.12,Karaoke Japones,,0,0,0,,{\blur.8}okotte < okotte >
+Dialogue: 0,0:00:30.14,0:00:35.83,Karaoke Japones,,0,0,0,,{\blur.8}kazan wo bakuhatsu saseru
+Dialogue: 0,0:00:36.95,0:00:42.63,Karaoke Japones,,0,0,0,,{\blur.8}toketa koori no naka ni
+Dialogue: 0,0:00:43.51,0:00:51.73,Karaoke Japones,,0,0,0,,{\blur.8}kyouryuu ga itara tamanori shikomitai ne
+Dialogue: 0,0:00:52.49,0:00:55.45,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:00:55.92,0:01:04.25,Karaoke Japones,,0,0,0,,{\blur.8}nani ga okite mo kibun wa heno heno kappa
+Dialogue: 0,0:01:04.92,0:01:08.05,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA mune ga
+Dialogue: 0,0:01:08.51,0:01:12.03,Karaoke Japones,,0,0,0,,{\blur.8}pachi{\fs30}-{\fs}pachi suru hodo sawagu
+Dialogue: 0,0:01:12.20,0:01:14.30,Karaoke Japones,,0,0,0,,{\blur.8}Genki Dama
+Dialogue: 0,0:01:14.31,0:01:17.47,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:01:17.91,0:01:25.09,Karaoke Japones,,0,0,0,,{\blur.8}atama karappo no hou ga yume tsumekomeru
+Dialogue: 0,0:01:26.77,0:01:29.94,Karaoke Japones,,0,0,0,,{\blur.8}CHA{\fs30}-{\fs}LA HEAD{\fs30}-{\fs}CHA{\fs30}-{\fs}LA
+Dialogue: 0,0:01:30.40,0:01:34.06,Karaoke Japones,,0,0,0,,{\blur.8}egao urutora Z de
+Dialogue: 0,0:01:34.06,0:01:37.28,Karaoke Japones,,0,0,0,,{\blur.8}kyou mo ai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30}-{\fs}yai{\fs30} • • • • • •
+Dialogue: 0,0:01:37.29,0:01:38.82,Karaoke Japones,,0,0,0,,{\blur.8}Sparking{\fs30\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+Dialogue: 0,0:01:52.03,0:01:56.94,Default,,0,0,0,,Gokú y Píkoro forman el mejor\Nequipo de la Tierra, pero Raditz les
+Dialogue: 0,0:01:57.00,0:01:59.66,Default,,0,0,0,,supera en fuerza de lejos.
+Dialogue: 0,0:02:16.67,0:02:20.37,Default,,0,0,0,,Entonces, cuando los dos se encuentran\Ntotalmente indefensos y la vida de
+Dialogue: 0,0:02:20.46,0:02:24.49,Default,,0,0,0,,Gokú corre peligro,\Nen ese preciso instante...
+Dialogue: 0,0:02:58.39,0:02:59.53,Default,,0,0,0,,¿Qué es esto?
+Dialogue: 0,0:03:04.43,0:03:07.38,Default,,0,0,0,,El hijo de Gokú.
+Dialogue: 0,0:03:09.03,0:03:11.26,Default,,0,0,0,,Imposible...
+Dialogue: 0,0:03:12.23,0:03:13.62,Default,,0,0,0,,Gohan...
+Dialogue: 0,0:03:25.76,0:03:30.03,Default,,0,0,0,,Escapa... Gohan. . .\N¡Escapa!
+Dialogue: 0,0:03:35.35,0:03:36.98,Default,,0,0,0,,Fuerza de combate,
+Dialogue: 0,0:03:39.57,0:03:43.11,Default,,0,0,0,,¿1307 unidades?
+Dialogue: 0,0:03:49.71,0:03:55.30,Default,,0,0,0,,¡No hagas daño a mi papá!
+Dialogue: 0,0:04:24.31,0:04:26.35,Default,,0,0,0,,Gohan...
+Dialogue: 0,0:04:27.37,0:04:28.53,Default,,0,0,0,,Papá...
+Dialogue: 0,0:04:30.87,0:04:32.06,Default,,0,0,0,,Tú...
+Dialogue: 0,0:04:34.03,0:04:35.78,Default,,0,0,0,,Papá...
+Dialogue: 0,0:04:40.95,0:04:43.70,Default,,0,0,0,,¡Maldito mocoso!
+Dialogue: 0,0:04:43.96,0:04:45.21,Default,,0,0,0,,¡Escapa!
+Dialogue: 0,0:04:48.57,0:04:50.34,Default,,0,0,0,,¡Gohan, escapa!
+Dialogue: 0,0:04:54.09,0:04:56.22,Default,,0,0,0,,¡Escapa, rápido!
+Dialogue: 0,0:04:57.86,0:05:01.66,Default,,0,0,0,,Ahora su fuerza de combate\Nes de 1 unidad.
+Dialogue: 0,0:05:04.86,0:05:09.38,Default,,0,0,0,,Su fuerza le cambia según\Nsus emociones.
+Dialogue: 0,0:05:10.87,0:05:12.34,Default,,0,0,0,,Papá...
+Dialogue: 0,0:05:12.63,0:05:14.50,Default,,0,0,0,,¡Escapa!
+Dialogue: 0,0:05:16.56,0:05:18.02,Default,,0,0,0,,¡Gohan!
+Dialogue: 0,0:05:23.23,0:05:25.10,Default,,0,0,0,,¡Gohan!
+Dialogue: 0,0:05:31.69,0:05:34.22,Default,,0,0,0,,No lo hagas, por favor,\Nes sólo...
+Dialogue: 0,0:05:34.25,0:05:38.29,Default,,0,0,0,,¿Quieres decir que es sólo un niño?\NTienes que estar de broma.
+Dialogue: 0,0:05:38.76,0:05:42.66,Default,,0,0,0,,La fuerza de combate de ese mocoso es\Nconsiderablemente superior a la vuestra.
+Dialogue: 0,0:05:43.03,0:05:46.34,Default,,0,0,0,,Acabaré con él ahora que todavía\Nno es capaz de usarla.
+Dialogue: 0,0:05:48.41,0:05:53.46,Default,,0,0,0,,Pero no te preocupes, pronto te\Nreunirás con él en el infierno.
+Dialogue: 0,0:06:05.39,0:06:07.74,Default,,0,0,0,,¡No lo hagas!
+Dialogue: 0,0:06:08.79,0:06:13.87,Default,,0,0,0,,Eres el primero que ha conseguido\Nherirme de esta manera.
+Dialogue: 0,0:06:18.35,0:06:20.69,Default,,0,0,0,,Pero... éste será tu fin.
+Dialogue: 0,0:06:33.51,0:06:38.06,Default,,0,0,0,,¡Maldito! ¿Aún te quedan fuerzas?
+Dialogue: 0,0:06:41.39,0:06:43.22,Default,,0,0,0,,¡Píkoro!
+Dialogue: 0,0:06:47.30,0:06:51.65,Default,,0,0,0,,¡Rápido! ¡Usa aquella técnica!
+Dialogue: 0,0:07:00.86,0:07:08.71,Default,,0,0,0,,Me estaba preparando para este momento,\Npero necesitaré un poco más de tiempo.
+Dialogue: 0,0:07:09.08,0:07:11.94,Default,,0,0,0,,¿Por qué no le has cogido de la cola?
+Dialogue: 0,0:07:12.11,0:07:17.34,Default,,0,0,0,,Si hace falta puede cortarse su\Npropia cola para liberarse.
+Dialogue: 0,0:07:17.35,0:07:18.98,Default,,0,0,0,,¡Así que lo sabías!
+Dialogue: 0,0:07:24.67,0:07:30.66,Default,,0,0,0,,¡Píkoro! ¡Rápido! ¡Rápido!\N¡Hazlo!
+Dialogue: 0,0:07:32.11,0:07:37.18,Default,,0,0,0,,¡Mierda! El ataque de ese mocoso\Nme ha debilitado.
+Dialogue: 0,0:07:38.34,0:07:44.78,Default,,0,0,0,,¡Suéltame, Kakarotto! ¡No seas idiota!\N¡Si me sujetas, tú también morirás!
+Dialogue: 0,0:07:48.19,0:07:50.56,Default,,0,0,0,,No me importa morir contigo...
+Dialogue: 0,0:07:51.04,0:07:55.81,Default,,0,0,0,,¿Cómo dices?\N¿Es que estás loco?
+Dialogue: 0,0:07:55.84,0:07:58.71,Default,,0,0,0,,Ésta es la única forma de derrotarte.
+Dialogue: 0,0:08:01.43,0:08:06.70,Default,,0,0,0,,¡Son Gokú! No me contendré.
+Dialogue: 0,0:08:08.04,0:08:12.74,Default,,0,0,0,,Me gusta la idea de acabar\Ncontigo al mismo tiempo.
+Dialogue: 0,0:08:17.75,0:08:23.80,Default,,0,0,0,,Aún y así, tus amigos reunirán las bolas\Nde dragón y te devolverán a la vida.
+Dialogue: 0,0:08:24.67,0:08:28.98,Default,,0,0,0,,¡Píkoro, rápido!\N¡Tengo las costillas rotas!
+Dialogue: 0,0:08:35.84,0:08:37.84,Default,,0,0,0,,¡Date prisa!
+Dialogue: 0,0:08:44.96,0:08:47.67,Default,,0,0,0,,¡1 480 unidades!
+Dialogue: 0,0:08:55.50,0:09:02.72,Default,,0,0,0,,¡Suéltame! ¡Estaba equivocado!\N¡Nunca más volveré a este planeta!
+Dialogue: 0,0:09:06.24,0:09:09.11,Default,,0,0,0,,¿Crees que me engañarás de nuevo?
+Dialogue: 0,0:09:10.18,0:09:14.63,Default,,0,0,0,,¡No te miento!\N¡¿Es que no confías en tu hermano?!
+Dialogue: 0,0:09:14.87,0:09:18.06,Default,,0,0,0,,¡Píkoro, hazlo de una vez!
+Dialogue: 0,0:09:22.74,0:09:26.90,Default,,0,0,0,,Siento haberte hecho esperar.\N¿Estás listo?
+Dialogue: 0,0:09:28.67,0:09:31.26,Default,,0,0,0,,¡Hazlo!
+Dialogue: 0,0:09:33.55,0:09:35.18,Default,,0,0,0,,¡No lo hagas!
+Dialogue: 0,0:09:35.36,0:09:39.48,Default,,0,0,0,,¡Makankosappo!
+Dialogue: 0,0:09:39.49,0:09:41.02,Default,,0,0,0,,¡No lo hagas!
+Dialogue: 0,0:10:13.02,0:10:16.38,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:11:10.93,0:11:17.11,Default,,0,0,0,,Mierda. No puedo creer que vaya\Na morir a manos de esos tres...
+Dialogue: 0,0:11:20.92,0:11:23.19,Default,,0,0,0,,Te está bien empleado.
+Dialogue: 0,0:11:26.04,0:11:35.10,Default,,0,0,0,,Jamás imaginé que Kakarotto. . .\Nsacrificaría su propia vida.
+Dialogue: 0,0:11:36.82,0:11:41.76,Default,,0,0,0,,Imbécil... Son Gokú resucitará\Nmuy pronto.
+Dialogue: 0,0:11:42.12,0:11:42.85,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:11:43.26,0:11:47.44,Default,,0,0,0,,En este planeta hay algo llamado\Nbolas de dragón.
+Dialogue: 0,0:11:47.79,0:11:51.54,Default,,0,0,0,,Hacen realidad cualquier deseo\Nque les pidas.
+Dialogue: 0,0:11:52.23,0:11:54.97,Default,,0,0,0,,Incluso pueden revivir a los muertos.
+Dialogue: 0,0:11:55.46,0:12:04.89,Default,,0,0,0,,Malditos... Pero lo que me has\Ndicho es interesante.
+Dialogue: 0,0:12:09.35,0:12:14.08,Default,,0,0,0,,Todo lo que ha pasado aquí ha sido\Ntransmitido a mis dos compañeros
+Dialogue: 0,0:12:14.24,0:12:17.19,Default,,0,0,0,,Saiyajin en la otra punta del Universo.
+Dialogue: 0,0:12:17.19,0:12:17.97,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:12:18.30,0:12:27.86,Default,,0,0,0,,Saben que me han matado y\Nvendrán a vengarse...
+Dialogue: 0,0:12:29.93,0:12:35.93,Default,,0,0,0,,No sólo de vosotros tres,\Nde todos los habitantes del planeta,
+Dialogue: 0,0:12:37.13,0:12:40.12,Default,,0,0,0,,los exterminarán a todos.
+Dialogue: 0,0:12:43.63,0:12:51.88,Default,,0,0,0,,Y una vez estén aquí, a lo mejor me\Nresucitan con eso que has dicho.
+Dialogue: 0,0:12:54.57,0:12:59.96,Default,,0,0,0,,¿Cuándo. . .?\N¿Cuándo llegarán esos dos?
+Dialogue: 0,0:13:00.38,0:13:03.93,Default,,0,0,0,,Un año... Sólo un año...
+Dialogue: 0,0:13:09.15,0:13:14.40,Default,,0,0,0,,¿Un año?\N¿Dos aún más fuertes que él?
+Dialogue: 0,0:13:15.45,0:13:20.31,Default,,0,0,0,,Esa próxima vez, vuestras oportunidades\Nde ganar son nulas.
+Dialogue: 0,0:13:20.70,0:13:24.66,Default,,0,0,0,,Divertíos todo lo que puedan\Nhasta el año que viene.
+Dialogue: 0,0:13:32.97,0:13:44.58,Default,,0,0,0,,Les ha durado poco la alegría, ¿eh?\NDespués de todo, sólo son insectos...
+Dialogue: 0,0:13:58.66,0:14:03.01,Default,,0,0,0,,Apuesto a que Gokú y Gohan se lo están\Npasando bien en la Kame House.
+Dialogue: 0,0:14:04.72,0:14:07.03,Default,,0,0,0,,Me pregunto si Gohan se llevará\Nbien con los demás.
+Dialogue: 0,0:14:09.17,0:14:13.60,Default,,0,0,0,,Seguro que todo va bien.\NEs un niño muy bien educado.
+Dialogue: 0,0:14:18.60,0:14:20.84,Default,,0,0,0,,Debería haber ido con ellos.
+Dialogue: 0,0:14:22.48,0:14:24.71,Default,,0,0,0,,¡Gohan!
+Dialogue: 0,0:14:26.45,0:14:27.62,Default,,0,0,0,,¡Papá!
+Dialogue: 0,0:14:30.93,0:14:33.24,Default,,0,0,0,,Chichi, ¿dónde está Gohan?
+Dialogue: 0,0:14:33.60,0:14:39.04,Default,,0,0,0,,¡Ey, Gohan!\N¡Te he traído muchos regalos!
+Dialogue: 0,0:14:42.74,0:14:43.80,Default,,0,0,0,,Papá...
+Dialogue: 0,0:14:50.73,0:14:53.16,Default,,0,0,0,,Creo que era en esta zona.
+Dialogue: 0,0:15:10.80,0:15:16.79,Default,,0,0,0,,Así estás mejor.\NHablabas demasiado.
+Dialogue: 0,0:15:18.96,0:15:21.52,Default,,0,0,0,,Son Gokú, está muerto.
+Dialogue: 0,0:15:30.23,0:15:31.19,Default,,0,0,0,,Ahí hay alguien.
+Dialogue: 0,0:15:34.01,0:15:35.60,Default,,0,0,0,,Hay varias personas ahí abajo.
+Dialogue: 0,0:15:37.71,0:15:39.29,Default,,0,0,0,,El que está de pie...
+Dialogue: 0,0:15:39.76,0:15:40.71,Default,,0,0,0,,¡Es Píkoro!
+Dialogue: 0,0:15:52.28,0:15:54.87,Default,,0,0,0,,¿Qué debe de haber pasado?
+Dialogue: 0,0:15:56.09,0:16:00.04,Default,,0,0,0,,Mientras tanto, en otro lugar\Ndel Universo...
+Dialogue: 0,0:16:44.37,0:16:48.97,Default,,0,0,0,,Ese Raditz... ha muerto.
+Dialogue: 0,0:16:49.28,0:16:55.11,Default,,0,0,0,,Qué patético. Se ha dejado matar por\Nguerreros con una fuerza de combate
+Dialogue: 0,0:16:55.13,0:16:56.86,Default,,0,0,0,,inferior a las 1000 unidades.
+Dialogue: 0,0:16:57.72,0:16:58.71,Default,,0,0,0,,¿Qué hacemos?
+Dialogue: 0,0:16:59.06,0:17:01.80,Default,,0,0,0,,¿Dejamos este planeta para más\Ntarde y vamos hacia allí?
+Dialogue: 0,0:17:01.93,0:17:08.65,Default,,0,0,0,,Han dicho algo interesante.\NLas bolas de dragón.
+Dialogue: 0,0:17:09.91,0:17:12.28,Default,,0,0,0,,Pueden hacer realidad\Ncualquier deseo.
+Dialogue: 0,0:17:12.77,0:17:14.36,Default,,0,0,0,,Venga, vamos.
+Dialogue: 0,0:17:14.76,0:17:17.09,Default,,0,0,0,,¿Para devolver a la vida a Raditz?
+Dialogue: 0,0:17:17.09,0:17:21.15,Default,,0,0,0,,No digas tonterías.\NNo necesitamos a ese inútil para nada.
+Dialogue: 0,0:17:25.02,0:17:29.29,Default,,0,0,0,,Pediremos la inmortalidad y así nunca\Nenvejeceremos. ¿Qué te parece?
+Dialogue: 0,0:17:29.85,0:17:34.75,Default,,0,0,0,,De esa forma podremos seguir disfrutando\Nde la lucha durante toda la eternidad.
+Dialogue: 0,0:17:35.17,0:17:38.22,Default,,0,0,0,,Ya veo... ¡Buena idea!
+Dialogue: 0,0:17:40.83,0:17:42.56,Default,,0,0,0,,Y eso es lo que ha pasado.
+Dialogue: 0,0:17:44.41,0:17:46.02,Default,,0,0,0,,Comprendo.
+Dialogue: 0,0:17:46.19,0:17:51.53,Default,,0,0,0,,¡Gokú! ¡Gokú! ¡Gokú, aguanta!
+Dialogue: 0,0:17:56.65,0:18:00.75,Default,,0,0,0,,Gohan está bien.\NSólo se ha desmayado.
+Dialogue: 0,0:18:02.02,0:18:04.91,Default,,0,0,0,,Hemos ganado...
+Dialogue: 0,0:18:04.94,0:18:06.03,Default,,0,0,0,,No hables...
+Dialogue: 0,0:18:06.21,0:18:07.12,Default,,0,0,0,,Gokú...
+Dialogue: 0,0:18:07.45,0:18:11.68,Default,,0,0,0,,Al menos. . .\NChichi no podrá regañarme...
+Dialogue: 0,0:18:12.13,0:18:13.35,Default,,0,0,0,,Gokú...
+Dialogue: 0,0:18:22.71,0:18:32.06,Default,,0,0,0,,Krilin. . .\NMorir es una faena, ¿verdad?
+Dialogue: 0,0:18:32.18,0:18:39.80,Default,,0,0,0,,¿Pero qué estás diciendo, Gokú?\N¡Sé fuerte! ¡No pareces tú!
+Dialogue: 0,0:18:40.13,0:18:40.96,Default,,0,0,0,,Gokú.
+Dialogue: 0,0:18:41.99,0:18:47.30,Default,,0,0,0,,Parece que esta vez no lo conseguiré...
+Dialogue: 0,0:18:47.39,0:18:51.79,Default,,0,0,0,,No te preocupes.\NTe devolveremos a la vida pronto.
+Dialogue: 0,0:18:56.19,0:18:58.15,Default,,0,0,0,,Por favor...
+Dialogue: 0,0:19:07.01,0:19:10.94,Default,,0,0,0,,Gokú... ¡Gokú!
+Dialogue: 0,0:19:15.24,0:19:17.88,Default,,0,0,0,,¡Gokú!
+Dialogue: 0,0:19:33.78,0:19:37.64,Default,,0,0,0,,El hijo de Kakarotto tiene una fuerza\Nde combate inusualmente alta
+Dialogue: 0,0:19:38.00,0:19:41.08,Default,,0,0,0,,incluso para un niño Saiyajin.
+Dialogue: 0,0:19:41.19,0:19:43.62,Default,,0,0,0,,A lo mejor es alguna clase de error.
+Dialogue: 0,0:19:43.69,0:19:46.47,Default,,0,0,0,,No. Estoy seguro de que no lo es.
+Dialogue: 0,0:19:47.02,0:19:53.23,Default,,0,0,0,,Raditz resultó gravemente herido\Npor el ataque de ese niño.
+Dialogue: 0,0:19:56.03,0:20:00.76,Default,,0,0,0,,Parece que cuando nuestra sangre se\Nmezcla con la sangre terrestre produce
+Dialogue: 0,0:20:01.03,0:20:04.16,Default,,0,0,0,,un híbrido exageradamente poderoso.
+Dialogue: 0,0:20:04.89,0:20:07.16,Default,,0,0,0,,O sea, un Super-Saiyajin.
+Dialogue: 0,0:20:07.47,0:20:12.92,Default,,0,0,0,,Entiendo. Entonces si criamos muchos\Nde ellos, podemos hacer realidad
+Dialogue: 0,0:20:12.96,0:20:18.76,Default,,0,0,0,,nuestro sueño de restaurar el\Ndominio de los Saiyajin.
+Dialogue: 0,0:20:20.05,0:20:24.90,Default,,0,0,0,,¡No seas idiota! Si crecen unas\Ncriaturas así y se hacen aún más
+Dialogue: 0,0:20:25.18,0:20:28.55,Default,,0,0,0,,fuertes, estamos listos.
+Dialogue: 0,0:20:30.33,0:20:31.76,Default,,0,0,0,,Tienes razón.
+Dialogue: 0,0:20:32.18,0:20:36.92,Default,,0,0,0,,Sea como sea, debemos exterminar\Na la especie humana.
+Dialogue: 0,0:20:37.58,0:20:39.64,Default,,0,0,0,,Con 3 días tendremos bastante.
+Dialogue: 0,0:20:45.29,0:20:49.21,Default,,0,0,0,,Entraremos en animación suspendida\Ndurante el viaje.
+Dialogue: 0,0:20:49.22,0:20:51.52,Default,,0,0,0,,Estoy deseando que llegue\Nel año que viene.
+Dialogue: 0,0:21:12.26,0:21:14.05,Default,,0,0,0,,¡Gokú!
+Dialogue: 0,0:21:17.93,0:21:19.20,Default,,0,0,0,,Gokú...
+Dialogue: 0,0:21:19.51,0:21:20.55,Default,,0,0,0,,Gokú...
+Dialogue: 0,0:21:21.86,0:21:25.64,Default,,0,0,0,,¡Gokú, no mueras!
+Dialogue: 0,0:21:26.78,0:21:27.61,Default,,0,0,0,,Gokú...
+Dialogue: 0,0:21:35.73,0:21:36.94,Default,,0,0,0,,¡Ha desaparecido!
+Dialogue: 0,0:21:39.09,0:21:42.19,Default,,0,0,0,,Entiendo.\NDebe de haber sido cosa de Dios.
+Dialogue: 0,0:21:43.46,0:21:46.57,Default,,0,0,0,,Él es el único con esa habilidad.
+Dialogue: 0,0:21:47.86,0:21:53.90,Default,,0,0,0,,Pretende utilizar a Gokú con\Nalgún ridículo propósito.
+Dialogue: 0,0:21:54.24,0:21:55.45,Default,,0,0,0,,¿Ridículo propósito?
+Dialogue: 0,0:21:57.81,0:22:03.95,Default,,0,0,0,,¿Cómo pretende Dios utilizar a Gokú?
+Dialogue: 0,0:22:05.06,0:22:12.36,Default,,0,0,0,,Con la muerte de Gokú, ¿queda alguna\Nmanera de proteger la Tierra?
+Dialogue: 0,0:22:18.42,0:22:24.77,Default,,0,0,0,,Los poderosos Saiyajin llegarán\Na la Tierra en un año.
+Dialogue: 0,0:22:43.80,0:22:47.54,Karaoke Español,,0,0,0,,{\blur.8}Ahí viene corriendo,\Nun monstruo color manzana
+Dialogue: 0,0:22:47.75,0:22:53.14,Karaoke Español,,0,0,0,,{\blur.8}Ahi viendo volando,\Nun alien con olor nuez
+Dialogue: 0,0:22:53.65,0:22:55.63,Karaoke Español,,0,0,0,,{\blur.8}Al encontrarles,\Npalpita mi corazón
+Dialogue: 0,0:22:59.32,0:23:06.48,Karaoke Español,,0,0,0,,{\blur.8}La galaxia es como una ducha\Nde brillantes palomitas
+Dialogue: 0,0:23:06.64,0:23:11.11,Karaoke Español,,0,0,0,,{\blur.8}Al ayer dile adiós, adiós, adiós\N(Arroz)
+Dialogue: 0,0:23:11.11,0:23:14.84,Karaoke Español,,0,0,0,,{\blur.8}Mis-te-rio\N(Mucho arroz)
+Dialogue: 0,0:23:15.03,0:23:18.60,Karaoke Español,,0,0,0,,{\blur.8}Concentra tu fuerza\N(Otra ración está bien)
+Dialogue: 0,0:23:18.60,0:23:20.73,Karaoke Español,,0,0,0,,{\blur.8}Ahí está... ven, ven, ven
+Dialogue: 0,0:23:22.95,0:23:30.08,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Milagroso Poder Zenkai!
+Dialogue: 0,0:23:30.78,0:23:32.50,Karaoke Español,,0,0,0,,{\blur.8}La hambrienta y traviesa\Nnube voladora,
+Dialogue: 0,0:23:32.75,0:23:34.53,Karaoke Español,,0,0,0,,{\blur.8}Y tantos horizontes\Ncomo montañas,
+Dialogue: 0,0:23:34.75,0:23:36.76,Karaoke Español,,0,0,0,,{\blur.8}Se encuentran y se separan,\Nse encuentran y se separan
+Dialogue: 0,0:23:36.76,0:23:38.63,Karaoke Español,,0,0,0,,{\blur.8}¡Qué dolor!
+Dialogue: 0,0:23:38.63,0:23:43.65,Karaoke Español,,0,0,0,,{\blur.8}¡Oh, no! ¡Incluso Kami Sama está sufriendo!
+Dialogue: 0,0:23:44.32,0:23:45.33,Karaoke Español,,0,0,0,,{\blur.8}Lo siento.
+Dialogue: 0,0:23:46.58,0:23:51.50,Karaoke Español,,0,0,0,,{\blur.8}¡Uhh... Saciante Poder Zenkai!
+Dialogue: 0,0:23:54.43,0:24:00.34,Karaoke Español,,0,0,0,,{\blur.8}¡Sal, increíble poder Zenkai!
+Dialogue: 0,0:22:43.80,0:22:47.54,Karaoke Japones,,0,0,0,,{\blur.8}kakete kuru yo appuru iro monsutaa
+Dialogue: 0,0:22:47.75,0:22:53.14,Karaoke Japones,,0,0,0,,{\blur.8}tonde kuru yo nattsu no kaori eirian
+Dialogue: 0,0:22:53.65,0:22:55.63,Karaoke Japones,,0,0,0,,{\blur.8}deatte dokkin{\fs30}-{\fs}dokkin
+Dialogue: 0,0:22:59.32,0:23:06.48,Karaoke Japones,,0,0,0,,{\blur.8}pika{\fs30}-{\fs}pika ginga wa poppukoon shawaa
+Dialogue: 0,0:23:06.64,0:23:11.11,Karaoke Japones,,0,0,0,,{\blur.8}kinou ni bai{\fs30} • {\fs}bai{\fs30} • {\fs}bai (Go{\fs30} • {\fs}ha{\fs30} • {\fs}n)
+Dialogue: 0,0:23:11.11,0:23:14.84,Karaoke Japones,,0,0,0,,{\blur.8}fu{\fs30} • {\fs}shi{\fs30} • {\fs}gi (ip{\fs30} • {\fs}pa{\fs30} • {\fs}i)
+Dialogue: 0,0:23:15.03,0:23:18.60,Karaoke Japones,,0,0,0,,{\blur.8}chikara o komete (okawari OK)
+Dialogue: 0,0:23:18.60,0:23:20.73,Karaoke Japones,,0,0,0,,{\blur.8}kochira e rai{\fs30} • {\fs}rai{\fs30} • {\fs}rai
+Dialogue: 0,0:23:22.95,0:23:30.08,Karaoke Japones,,0,0,0,,{\blur.8}Woh... mirakuru ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:30.78,0:23:32.50,Karaoke Japones,,0,0,0,,{\blur.8}haraheri wanpaku Kinto'un
+Dialogue: 0,0:23:32.75,0:23:34.53,Karaoke Japones,,0,0,0,,{\blur.8}yama hodo takusan suiheisen
+Dialogue: 0,0:23:34.75,0:23:36.76,Karaoke Japones,,0,0,0,,{\blur.8}deatte wakarete deatte wakarete ta{\fs30} • {\fs}i{\fs30} • {\fs}he{\fs30} • {\fs}n
+Dialogue: 0,0:23:38.63,0:23:43.65,Karaoke Japones,,0,0,0,,{\blur.8}Ah mou Kami{\fs30}-{\fs}sama mo tsurai yo ne{\fs35\fnWolf Sans\fax-0.3\fscx110\fscy110} !
+Dialogue: 0,0:23:44.32,0:23:45.33,Karaoke Japones,,0,0,0,,{\blur.8}... go{\fs30} • {\fs}men
+Dialogue: 0,0:23:46.58,0:23:51.50,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuku ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:23:54.43,0:24:00.34,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
+Dialogue: 0,0:24:07.92,0:24:10.46,Default,,0,0,0,,{\pos(343,95)}Avance
+Dialogue: 0,0:24:11.78,0:24:13.17,Default,,0,0,0,,¡Hola, soy Gokú!
+Dialogue: 0,0:24:13.74,0:24:16.09,Default,,0,0,0,,He acabado viajando a traves del otro mundo...
+Dialogue: 0,0:24:16.38,0:24:17.99,Default,,0,0,0,,...para entrenar con alguien llamado Kaioh
+Dialogue: 0,0:24:18.02,0:24:19.32,Default,,0,0,0,,¿Pero qué dices?
+Dialogue: 0,0:24:19.52,0:24:23.67,Default,,0,0,0,,En este mundo, tu hijo acaba de\Niniciar un duro camino.
+Dialogue: 0,0:24:23.87,0:24:25.67,Default,,0,0,0,,¡Sí, junto a Píkoro!
+Dialogue: 0,0:24:26.42,0:24:28.03,Default,,0,0,0,,Próximamente en Dragon Ball Z
+Dialogue: 0,0:24:28.32,0:24:30.75,Default,,0,0,0,,El señor Enma también se sorprende.\NLa lucha en el más allá.
+Dialogue: 0,0:24:31.25,0:24:34.70,Default,,0,0,0,,¡Papá, tengo miedo del tío Píkoro!
