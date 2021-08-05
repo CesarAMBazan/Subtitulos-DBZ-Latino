@@ -150,6 +150,7 @@ Comment: 0,0:23:48.65,0:23:58.84,Default,,0,0,0,,ほら　君の瞳に　虹が�
 Comment: 0,0:23:48.65,0:23:58.84,Ending 2 Japones izq,,0,0,0,karaoke,{\k26}Ho{\k99}ra {\k43}ki{\k40}mi {\k37}no {\k43}hi{\k26}to{\k38}mi {\k39}ni {\k17}ni{\k84}ji {\k178}ga {\k22}ka{\k20}ka{\k307}ru
 Comment: 0,0:23:55.55,0:23:59.90,Default,,0,0,0,,Ángel... Ángel... Ángel...
 Comment: 0,0:23:55.55,0:23:59.90,Ending 2 Japones der,,0,0,0,karaoke,{\k22}Án{\k143}gel...  {\k20}Án{\k144}gel...  {\k21}Án{\k61}gel...{\k24}
+
 Dialogue: 0,0:00:20.54,0:00:24.37,Opening 2 Español,,0,0,0,,El caos nos está alcanzado
 Dialogue: 0,0:00:26.39,0:00:29.95,Opening 2 Español,,0,0,0,,No es momento de llorar
 Dialogue: 0,0:00:31.87,0:00:35.70,Opening 2 Español,,0,0,0,,Multiplicando nuestra emoción por cien
@@ -180,20 +181,20 @@ Dialogue: 0,0:03:57.76,0:04:01.03,Son Gohan,,0,0,0,,Estamos en los límites de l
 Dialogue: 0,0:04:03.32,0:04:06.91,Son Gohan,,0,0,0,,¡Bye bye, Kinton!\N¡Cuento contigo para el viaje de vuelta!
 Dialogue: 0,0:04:16.17,0:04:21.83,Son Gohan,,0,0,0,,Papá, todo el mundo cree que Mr. Satan\Nfue el héroe que salvó la Tierra de Cell.
 Dialogue: 0,0:04:22.88,0:04:30.35,Son Gohan,,0,0,0,,Y como Mr. Satan vivía aquí,\Nrebautizaron la ciudad como Satan City.
-Dialogue: 0,0:04:38.55,0:04:47.39,Titulos,,0,0,0,,
-Dialogue: 0,0:04:50.42,0:04:53.47,Default,,0,0,0,,¡Vamos, vamos!\N¡Dense prisa y entréguenos todo el dinero!
-Dialogue: 0,0:04:53.60,0:04:55.23,Default,,0,0,0,,¿Es que quiéren morir?
-Dialogue: 0,0:04:55.35,0:04:57.26,Default,,0,0,0,,¡No nos hagan perder el tiempo!
+Dialogue: 0,0:04:38.55,0:04:47.39,Titulos,,0,0,0,,¡Han pasado siete años!\NAhora soy estudiante de Instituto
+Dialogue: 0,0:04:50.42,0:04:53.47,Default,,0,0,0,,¡Venga, venga!\N¡Daos prisa y dadnos todo el dinero!
+Dialogue: 0,0:04:53.60,0:04:55.23,Default,,0,0,0,,¿Es que queréis morir?
+Dialogue: 0,0:04:55.35,0:04:57.26,Default,,0,0,0,,¡No nos hagáis perder el tiempo!
 Dialogue: 0,0:04:57.86,0:04:59.42,Default,,0,0,0,,¡Rápido, date prisa!
 Dialogue: 0,0:05:03.26,0:05:05.74,Default,,0,0,0,,Me parece que ya lo tenemos todo.
-Dialogue: 0,0:05:05.88,0:05:07.71,Default,,0,0,0,,¡Vamos, larguémonos de aquí!
-Dialogue: 0,0:05:08.48,0:05:12.02,Default,,0,0,0,,Cuando hayamos gastado todo el\Ndinero, volveremos por más.
+Dialogue: 0,0:05:05.88,0:05:07.71,Default,,0,0,0,,¡Venga, larguémonos de aquí!
+Dialogue: 0,0:05:08.48,0:05:12.02,Default,,0,0,0,,Cuando hayamos gastado todo el\Ndinero, volveremos a por más.
 Dialogue: 0,0:05:18.88,0:05:21.91,Son Gohan,,0,0,0,,Jo, he tardado demasiado.
-Dialogue: 0,0:05:26.00,0:05:26.80,Son Gohan,,0,0,0,,¡Vamos!
-Dialogue: 0,0:05:57.00,0:05:59.30,Default,,0,0,0,,¡Vamos, vamos! ¡Disparen!
+Dialogue: 0,0:05:26.00,0:05:26.80,Son Gohan,,0,0,0,,¡Venga!
+Dialogue: 0,0:05:57.00,0:05:59.30,Default,,0,0,0,,¡Venga, venga! ¡Disparad!
 Dialogue: 0,0:06:05.26,0:06:09.18,Son Gohan,,0,0,0,,Otra vez igual... esta ciudad\Nno tiene arreglo.
 Dialogue: 0,0:06:10.56,0:06:13.83,Son Gohan,,0,0,0,,Me transformaré para que\Nnadie sepa quién soy.
-Dialogue: 0,0:06:17.36,0:06:20.15,Default,,0,0,0,,¡Vamos, vamos!\N¡Vengan por nosotros!
+Dialogue: 0,0:06:17.36,0:06:20.15,Default,,0,0,0,,¡Venga, venga!\N¡Venid a por nosotros!
 Dialogue: 0,0:06:28.60,0:06:30.51,Default,,0,0,0,,Pero, ¿qué...?
 Dialogue: 0,0:06:31.51,0:06:33.98,Default,,0,0,0,,¡¿Quién demonios eres tú?!
 Dialogue: 0,0:07:03.28,0:07:04.83,Default,,0,0,0,,¡Es un monstruo!
@@ -225,14 +226,14 @@ Dialogue: 0,0:09:37.56,0:09:39.15,Default,,0,0,0,,Buenos días, clase.
 Dialogue: 0,0:09:39.48,0:09:44.75,Default,,0,0,0,,Hoy damos la bienvenida a\Nun nuevo alumno en clase.
 Dialogue: 0,0:09:45.20,0:09:46.63,Default,,0,0,0,,Pasa.
 Dialogue: 0,0:09:49.72,0:09:50.94,Son Gohan,,0,0,0,,Hola.
-Dialogue: 0,0:09:51.40,0:09:54.97,Son Gohan,,0,0,0,,Soy Gohan, Son Gohan.\NEncantado de conocerlos.
-Dialogue: 0,0:09:55.08,0:09:59.00,Eraser,,0,0,0,,Vaya, qué guapo. Es mi tipo.
+Dialogue: 0,0:09:51.40,0:09:54.97,Son Gohan,,0,0,0,,Soy Gohan, Son Gohan.\NEncantado de conoceros.
+Dialogue: 0,0:09:55.08,0:09:59.00,Eraser,,0,0,0,,Vaya, qué mono. Es mi tipo.
 Dialogue: 0,0:09:59.00,0:10:01.46,Personaje Secundario 3,,0,0,0,,¿Ha dicho Gohan? Qué nombre más raro.
 Dialogue: 0,0:10:05.82,0:10:08.79,Videl,,0,0,0,,Me parece que le tengo visto.
-Dialogue: 0,0:10:09.88,0:10:13.24,Sharpener,,0,0,0,,Parece el típico pollito\Nhijo de mamá.
+Dialogue: 0,0:10:09.88,0:10:13.24,Sharpener,,0,0,0,,Parece el típico empollón\Nhijo de mamá.
 Dialogue: 0,0:10:14.00,0:10:19.26,Default,,0,0,0,,Gohan ha sacado unas notas perfectas\Nen el examen de acceso en Matemáticas,
 Dialogue: 0,0:10:19.32,0:10:23.83,Default,,0,0,0,,Química, Física, Historia,\NJaponés e Inglés.
-Dialogue: 0,0:10:25.66,0:10:29.86,Default,,0,0,0,,¡Silencio! Es un buen estudiante y quiero\Nque le ayuden en todo lo que puedan.
+Dialogue: 0,0:10:25.66,0:10:29.86,Default,,0,0,0,,¡Silencio! Es un buen estudiante y quiero\Nque le ayudéis en todo lo que podáis.
 Dialogue: 0,0:10:30.24,0:10:33.67,Default,,0,0,0,,Gohan, por favor, elige\Nun asiento vacío.
 Dialogue: 0,0:10:33.84,0:10:34.75,Son Gohan,,0,0,0,,Sí.
 Dialogue: 0,0:10:35.26,0:10:37.15,Son Gohan,,0,0,0,,A ver...
@@ -263,13 +264,13 @@ Dialogue: 0,0:12:26.13,0:12:30.11,Son Gohan,,0,0,0,,Se refiere a las dos veces q
 Dialogue: 0,0:13:03.34,0:13:10.35,Videl,,0,0,0,,¡Eh! Un testigo me dijo que el Guerrero de Pelo Dorado\Nllevaba el emblema de este Instituto.
 Dialogue: 0,0:13:11.06,0:13:15.97,Videl,,0,0,0,,Llevaba una camiseta blanca,\Nun chaleco negro y pantalones marrones.
 Dialogue: 0,0:13:19.34,0:13:21.60,Videl,,0,0,0,,Debe ser una coincidencia,\Npero justo igual que tú.
-Dialogue: 0,0:13:21.71,0:13:23.37,Eraser,,0,0,0,,Mira, es verdad.
+Dialogue: 0,0:13:21.71,0:13:23.37,Eraser,,0,0,0,,Anda, es verdad.
 Dialogue: 0,0:13:23.40,0:13:25.37,Son Gohan,,0,0,0,,Bueno, es que...
 Dialogue: 0,0:13:25.42,0:13:27.73,Default,,0,0,0,,¡Los de ahí arriba!\N¡Silencio, por favor!
 Dialogue: 0,0:13:28.42,0:13:29.81,Son Gohan,,0,0,0,,Sí, sí.
 Dialogue: 0,0:13:30.82,0:13:32.73,Default,,0,0,0,,Vamos a continuar.
-Dialogue: 0,0:13:36.70,0:13:38.41,Sharpener,,0,0,0,,Fíjense bien en él.
-Dialogue: 0,0:13:38.54,0:13:41.21,Sharpener,,0,0,0,,¿A ustedes les parece un guerrero?
+Dialogue: 0,0:13:36.70,0:13:38.41,Sharpener,,0,0,0,,Fijaos bien en él.
+Dialogue: 0,0:13:38.54,0:13:41.21,Sharpener,,0,0,0,,¿A vosotras os parece un guerrero?
 Dialogue: 0,0:13:41.54,0:13:46.33,Sharpener,,0,0,0,,Todo el mundo sabe que el que es bueno\Nen los estudios no es bueno en la lucha.
 Dialogue: 0,0:13:47.30,0:13:49.68,Sharpener,,0,0,0,,Y tampoco tiene el pelo dorado.
 Dialogue: 0,0:13:49.86,0:13:54.13,Eraser,,0,0,0,,Tienes razón. Me sabe mal decirlo,\Npero parece muy débil.
@@ -284,16 +285,16 @@ Dialogue: 0,0:14:22.78,0:14:27.28,Son Gohan,,0,0,0,,En la zona 439 Este.\NEn un 
 Dialogue: 0,0:14:27.42,0:14:31.64,Eraser,,0,0,0,,¡¿En la zona 439 Este?!\N¡Te quedas conmigo, ¿no?!
 Dialogue: 0,0:14:31.64,0:14:33.76,Eraser,,0,0,0,,¡Eso está a mil kilómetros de aquí!
 Dialogue: 0,0:14:33.80,0:14:36.33,Default,,0,0,0,,¡Ya he tenido suficiente!
-Dialogue: 0,0:14:36.35,0:14:38.44,Default,,0,0,0,,¡¿Quiéren hacer el favor de callar?!
+Dialogue: 0,0:14:36.35,0:14:38.44,Default,,0,0,0,,¡¿Queréis hacer el favor de callar?!
 Dialogue: 0,0:14:40.94,0:14:46.33,Eraser,,0,0,0,,¿Y cómo vienes? Incluso con una nave\Ntardarías 5 horas en llegar hasta aquí.
 Dialogue: 0,0:14:46.55,0:14:51.13,Son Gohan,,0,0,0,,Por eso he llegado tarde.\NEs terrible.
 Dialogue: 0,0:14:53.31,0:14:55.05,Son Gohan,,0,0,0,,Maldita sea...
-Dialogue: 0,0:15:00.54,0:15:03.37,Default,,0,0,0,,Está bien, vamos a traducir hasta aquí.
+Dialogue: 0,0:15:00.54,0:15:03.37,Default,,0,0,0,,Venga, vamos a traducir hasta aquí.
 Dialogue: 0,0:15:03.62,0:15:06.49,Default,,0,0,0,,¿Quién quiere hacerlo?
 Dialogue: 0,0:15:09.18,0:15:12.01,Son Gohan,,0,0,0,,Mr. Satan sale hasta en\Nlos libros de texto.
 Dialogue: 0,0:15:12.18,0:15:14.69,Son Gohan,,0,0,0,,Satan City es de lo que no hay.
 Dialogue: 0,0:15:15.02,0:15:19.61,Sharpener,,0,0,0,,¡Eh, tú! ¿Por qué no lo traduces tú,\NMr. Notas Perfectas?
-Dialogue: 0,0:15:20.74,0:15:22.17,Eraser,,0,0,0,,Vamos, Gohan.
+Dialogue: 0,0:15:20.74,0:15:22.17,Eraser,,0,0,0,,Venga, Gohan.
 Dialogue: 0,0:15:25.98,0:15:28.97,Default,,0,0,0,,Eres el estudiante nuevo, ¿verdad?
 Dialogue: 0,0:15:29.14,0:15:30.81,Default,,0,0,0,,¿Tu nombre era...?
 Dialogue: 0,0:15:31.34,0:15:34.86,Sharpener,,0,0,0,,¡Es Son Gohan el de\Nlas notas perfectas!
@@ -306,7 +307,7 @@ Dialogue: 0,0:15:49.40,0:15:55.73,Son Gohan,,0,0,0,,Sí. Mr. Satan se trasladó 
 Dialogue: 0,0:15:55.77,0:15:59.93,Son Gohan,,0,0,0,,después de ganar\Nel vigésimo cuarto Gran Torneo de las Artes Marciales.
 Dialogue: 0,0:15:59.93,0:16:03.71,Son Gohan,,0,0,0,,Incluso después de convertirse\Nen campeón mundial, Mr. Satan
 Dialogue: 0,0:16:03.75,0:16:07.49,Son Gohan,,0,0,0,,sigue entrenando a diario y es habitual\Nverle haciendo jogging por la ciudad.
-Dialogue: 0,0:16:10.58,0:16:16.91,Mr. Satan,,0,0,0,,Otra vez están hablando de mí.\NQué duro es ser famoso. ¿No les parece?
+Dialogue: 0,0:16:10.58,0:16:16.91,Mr. Satan,,0,0,0,,Otra vez están hablando de mí.\NQué duro es ser famoso. ¿No os parece?
 Dialogue: 0,0:16:23.42,0:16:26.88,Default,,0,0,0,,La clase de gimnasia de hoy la\Ndedicaremos a continuar el partido
 Dialogue: 0,0:16:26.91,0:16:28.49,Default,,0,0,0,,de béisbol de ayer.
 Dialogue: 0,0:16:29.10,0:16:31.64,Sharpener,,0,0,0,,Oye, ¿sabes jugar al béisbol?
@@ -317,9 +318,9 @@ Dialogue: 0,0:16:43.14,0:16:45.85,Sharpener,,0,0,0,,Videl, te lo dejo para tu eq
 Dialogue: 0,0:16:45.98,0:16:47.09,Videl,,0,0,0,,Yo no lo quiero.
 Dialogue: 0,0:16:47.13,0:16:53.11,Eraser,,0,0,0,,¿Por qué no? Es listo. A lo mejor\Nse le ocurre alguna estrategia.
 Dialogue: 0,0:16:54.30,0:16:55.52,Videl,,0,0,0,,A lo mejor...
-Dialogue: 0,0:16:55.78,0:16:56.65,Videl,,0,0,0,,Vamos.
+Dialogue: 0,0:16:55.78,0:16:56.65,Videl,,0,0,0,,Venga.
 Dialogue: 0,0:16:56.94,0:17:00.37,Videl,,0,0,0,,Tú defiende el Right Field.\NSabes lo que es el "Right Field", ¿no?
-Dialogue: 0,0:17:01.10,0:17:04.29,Notas traducción,,0,0,0,,Migi: {\c&Hffffff&\3c&H000000&\4c&H5D5D63&}derecha.
+Dialogue: 0,0:17:01.10,0:17:04.29,Notas traducción,,0,0,0,,Migi: {\1c&HFFFFFF&\3c&H000000&\4c&H5D5D63&}derecha.
 Dialogue: 0,0:17:01.10,0:17:02.95,Son Gohan,,0,0,0,,Sí, la derecha.
 Dialogue: 0,0:17:02.95,0:17:04.29,Videl,,0,0,0,,¿La derecha?
 Dialogue: 0,0:17:04.82,0:17:07.38,Videl,,0,0,0,,Bueno, vendría a ser eso...
@@ -334,7 +335,7 @@ Dialogue: 0,0:17:54.90,0:17:55.96,Videl,,0,0,0,,¡Mierda!
 Dialogue: 0,0:17:56.14,0:17:58.05,Default,,0,0,0,,¡Lo ha conseguido! ¡Es un Home Run!
 Dialogue: 0,0:18:08.14,0:18:10.13,Son Gohan,,0,0,0,,El corredor no ha llegado\Na la tercera base.
 Dialogue: 0,0:18:10.26,0:18:13.33,Son Gohan,,0,0,0,,Supongo que si tiro la pelota a\Nla tercera base, quedará eliminado.
-Dialogue: 0,0:18:14.66,0:18:18.13,Son Gohan,,0,0,0,,Vamos... flojito, flojito...\NAsí estará bien.
+Dialogue: 0,0:18:14.66,0:18:18.13,Son Gohan,,0,0,0,,Venga... flojito, flojito...\NAsí estará bien.
 Dialogue: 0,0:18:31.10,0:18:33.33,Default,,0,0,0,,¡Fuera!
 Dialogue: 0,0:18:36.54,0:18:40.42,Son Gohan,,0,0,0,,Lo he conseguido.\NTres eliminados. Cambio.
 Dialogue: 0,0:18:46.90,0:18:50.52,Son Gohan,,0,0,0,,Oh, no... me parece que\Nigualmente me he pasado.
@@ -352,7 +353,7 @@ Dialogue: 0,0:19:26.50,0:19:27.53,Son Gohan,,0,0,0,,¿No es correcto?
 Dialogue: 0,0:19:27.55,0:19:31.48,Default,,0,0,0,,No pasa nada, pero así estás\Ncogiendo el bate al revés.
 Dialogue: 0,0:19:31.66,0:19:32.85,Son Gohan,,0,0,0,,¿Al revés?
 Dialogue: 0,0:19:32.95,0:19:36.04,Default,,0,0,0,,Haz lo que quieras.
-Dialogue: 0,0:19:36.94,0:19:39.65,Sharpener,,0,0,0,,Has estropeado mi Home Run.
+Dialogue: 0,0:19:36.94,0:19:39.65,Sharpener,,0,0,0,,Me has estropeado mi Home Run.
 Dialogue: 0,0:19:40.48,0:19:42.44,Sharpener,,0,0,0,,Te daré una pequeña sorpresa.
 Dialogue: 0,0:19:43.06,0:19:47.45,Son Gohan,,0,0,0,,Es mejor que no llame la atención.\NNo puedo darle a la pelota.
 Dialogue: 0,0:19:49.22,0:19:52.89,Sharpener,,0,0,0,,Allá voy.\NSi no lo esquivas, morirás.
@@ -362,7 +363,7 @@ Dialogue: 0,0:20:17.38,0:20:20.89,Son Gohan,,0,0,0,,A eso se le llama Dead Ball,
 Dialogue: 0,0:20:23.24,0:20:24.57,Son Gohan,,0,0,0,,¡Qué suerte!
 Dialogue: 0,0:20:24.57,0:20:26.48,Son Gohan,,0,0,0,,No he tenido que darle a la pelota\Npara llegar a la primera base.
 Dialogue: 0,0:20:26.48,0:20:28.45,Sharpener,,0,0,0,,Así no llamo la atención.
-Dialogue: 0,0:20:28.62,0:20:31.44,Sharpener,,0,0,0,,¿Quién es ese muchacho?
+Dialogue: 0,0:20:28.62,0:20:31.44,Sharpener,,0,0,0,,¿Quién es ese tío?
 Dialogue: 0,0:20:34.70,0:20:36.29,Videl,,0,0,0,,Qué sospechoso...
 Dialogue: 0,0:20:47.66,0:20:50.61,Sharpener,,0,0,0,,Eh, tú, ¿en qué club vas a entrar?
 Dialogue: 0,0:20:51.00,0:20:53.64,Son Gohan,,0,0,0,,Aún no lo he decidido.
@@ -410,9 +411,9 @@ Dialogue: 0,0:24:28.26,0:24:30.19,Bulma,,0,0,0,,y parece entusiasmado.
 Dialogue: 0,0:24:30.19,0:24:32.33,Gokuh,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:32.33,0:24:35.83,Gokuh,,0,0,0,,Por el amor y la justicia:\NAparece el Gran Saiyaman
 Dialogue: 0,0:24:35.83,0:24:37.51,Son Gohan,,0,0,0,,¡Soy el qué no tolera la maldad!
-Dialogue: 0,0:24:36.32,0:24:39.79,Titulos,,0,0,0,,
-Dialogue: 0,0:24:36.32,0:24:39.79,Titulos,,0,0,0,,
-Dialogue: 0,0:24:36.32,0:24:39.79,Titulos,,0,0,0,,
+Dialogue: 0,0:24:36.32,0:24:39.79,Titulos,,0,0,0,,{\pos(378.667,57.333)}Próximo capítulo:
+Dialogue: 0,0:24:36.32,0:24:39.79,Titulos,,0,0,0,,{\pos(244,168)}Por el amor y la justicia:
+Dialogue: 0,0:24:36.32,0:24:39.79,Titulos,,0,0,0,,{\pos(376,288)}Aparece el Gran Saiyaman
 Dialogue: 0,0:00:20.04,0:00:20.54,Opening 2 Japones,,0,0,0,fx,{\1a&HFF&\4a&HFF&\1c&H7A7AFE&\3c&H000000&\4c&H20B2D8&\move(1204,86,204,36)\shad2\an5\pos(204,32)}Ha
 Dialogue: 0,0:00:20.54,0:00:20.72,Opening 2 Japones,,0,0,0,fx,{\move(210,36,227,36)\shad2\an5\pos(204,32)\1c&H7A7AFE&\3c&H000000&\4c&H20B2D8&)\t(0,90,\fscx100\fscy100)\t(90,180,\fscx100\fscy100)} {\bord1\pbo+240\p1\1c&H66EBFB&\3c&H0C9AFD&\4a&HFF&\fscx50\fscy50}m -8 -16 b -11 -18 -17 -17 -18 -11 b -18 -12 -23 -9 -21 -5 b -22 -5 -25 -4 -25 -1 b -32 4 -41 -2 -47 2 b -51 7 -41 6 -45 6 b -45 6 -45 6 -45 6 b -48 4 -46 2 -40 5 b -37 6 -29 8 -26 6 b -26 6 -25 7 -24 7 b -24 7 -24 7 -24 7 b -24 8 -22 10 -21 10 b -21 10 -21 10 -21 10 b -21 12 -18 16 -14 14 b -15 17 -9 20 -6 18 b -3 21 1 21 5 19 b 10 22 16 21 18 16 b 22 18 25 14 26 13 b 31 12 32 10 32 5 b 40 3 38 -10 30 -10 b 30 -15 25 -18 22 -17 b 19 -21 12 -20 12 -18 b 9 -21 3 -20 0 -16 b -1 -16 -2 -16 -2 -15 b -4 -18 -7 -16 -8 -16Ha
 Dialogue: 0,0:00:20.54,0:00:20.72,Opening 2 Japones,,0,0,0,fx,{\move(204,36,204,36)\shad2\an5\pos(204,32)\1c&H7A7AFE&\3c&H000000&\4c&H20B2D8&\3a&HFF&)\t(0,90,\3a&H00&\fscx140\fscy140)\t(90,180,\fscx100\fscy100)}Ha
