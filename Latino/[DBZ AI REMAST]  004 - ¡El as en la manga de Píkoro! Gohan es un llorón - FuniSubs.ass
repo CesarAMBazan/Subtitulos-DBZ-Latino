@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -68,9 +68,9 @@ Dialogue: 0,0:01:50.50,0:01:55.41,Default,,0,0,0,,Con la intención de salvar a 
 Dialogue: 0,0:01:55.54,0:01:57.77,Default,,0,0,0,,para luchar contra Raditz.
 Dialogue: 0,0:02:06.03,0:02:12.01,Default,,0,0,0,,Sin embargo, frente al increíble poder\Nde Raditz, Gokú y Píkoro se ven
 Dialogue: 0,0:02:12.11,0:02:17.08,Default,,0,0,0,,abocados a una batalla sin esperanza.
-Dialogue: 0,0:02:52.98,0:02:56.21,Default,,0,0,0,,Antes de que los mate, dejad que\Nos cuente algo interesante...
+Dialogue: 0,0:02:52.98,0:02:56.21,Default,,0,0,0,,Antes de que los mate, dejen que\Nles cuente algo interesante...
 Dialogue: 0,0:02:56.58,0:02:59.50,Default,,0,0,0,,¡Los otros dos Saiyajin son mucho\Nmás fuertes que yo!
-Dialogue: 0,0:03:47.64,0:03:53.00,Default,,0,0,0,,Mierda. Los otros dos Saiyajin\Nson aún más fuertes.
+Dialogue: 0,0:03:47.64,0:03:53.00,Default,,0,0,0,,Maldición. Los otros dos Saiyajin\Nson aún más fuertes.
 Dialogue: 0,0:03:53.94,0:03:55.74,Default,,0,0,0,,¿Cómo es posible?
 Dialogue: 0,0:03:58.62,0:04:02.79,Default,,0,0,0,,Ahora comprenden el terrible poder de\Nlos Saiyajin, pero ya es demasiado tarde.
 Dialogue: 0,0:04:03.22,0:04:06.81,Default,,0,0,0,,Es terrible...\NPreferiría no haberlo sabido.
@@ -81,7 +81,7 @@ Dialogue: 0,0:04:18.98,0:04:25.22,Default,,0,0,0,,Lo siento, pero esta vez no es
 Dialogue: 0,0:04:26.15,0:04:30.80,Default,,0,0,0,,Por supuesto, sin embargo esa emoción\Nse convertirá pronto en desesperación.
 Dialogue: 0,0:04:31.46,0:04:35.57,Default,,0,0,0,,¿Dónde está mi hijo?\N¿Dónde lo escondes?
 Dialogue: 0,0:04:35.70,0:04:39.81,Default,,0,0,0,,No lo escondo.\NLloraba tanto que lo he encerrado.
-Dialogue: 0,0:04:40.42,0:04:43.40,Default,,0,0,0,,Hay un agujero detrás de vosotros.\NEstá ahí.
+Dialogue: 0,0:04:40.42,0:04:43.40,Default,,0,0,0,,Hay un agujero detrás de ustedes.\NEstá ahí.
 Dialogue: 0,0:04:59.44,0:05:02.49,Default,,0,0,0,,Ahí está... Gohan...
 Dialogue: 0,0:05:03.62,0:05:08.56,Default,,0,0,0,,¡Papá! ¡Sálvame, papá!
 Dialogue: 0,0:05:08.82,0:05:13.33,Default,,0,0,0,,¡Espera, Gohan!\N¡Papá te salvará pronto!
@@ -91,15 +91,15 @@ Dialogue: 0,0:05:30.14,0:05:31.73,Default,,0,0,0,,¡Vamos! ¡A por él!
 Dialogue: 0,0:05:32.98,0:05:34.97,Default,,0,0,0,,¡No nos queda otra!
 Dialogue: 0,0:07:13.98,0:07:15.17,Default,,0,0,0,,¿Dónde está?
 Dialogue: 0,0:07:16.10,0:07:16.80,Default,,0,0,0,,Aquí estoy.
-Dialogue: 0,0:07:43.54,0:07:47.97,Default,,0,0,0,,Vuestra alianza no ha servido de nada.\N¿No resulta patético?
-Dialogue: 0,0:07:57.66,0:08:00.71,Default,,0,0,0,,¡Mierda! ¿Estás bien, Píkoro?
+Dialogue: 0,0:07:43.54,0:07:47.97,Default,,0,0,0,,Su alianza no ha servido de nada.\N¿No resulta patético?
+Dialogue: 0,0:07:57.66,0:08:00.71,Default,,0,0,0,,¡Maldición! ¿Estás bien, Píkoro?
 Dialogue: 0,0:08:08.94,0:08:13.85,Default,,0,0,0,,No te preocupes. Puedo seguir\Nluchando aunque me falte un brazo.
 Dialogue: 0,0:08:18.34,0:08:21.77,Default,,0,0,0,,¡Los dos están condenados!
 Dialogue: 0,0:08:40.30,0:08:43.51,Default,,0,0,0,,Espero que Gokú se encuentre bien.
 Dialogue: 0,0:08:44.66,0:08:48.65,Default,,0,0,0,,Tengo un mal presentimiento.\NNunca me había pasado antes.
 Dialogue: 0,0:08:49.06,0:08:51.15,Default,,0,0,0,,Espero que todo vaya bien.
-Dialogue: 0,0:08:52.14,0:08:54.77,Default,,0,0,0,,¿Qué decís? Gokú y Píkoro\Nhan unido sus fuerzas.
-Dialogue: 0,0:08:54.80,0:08:56.29,Default,,0,0,0,,No será fácil derrotarles.
+Dialogue: 0,0:08:52.14,0:08:54.77,Default,,0,0,0,,¿Qué dices? Gokú y Píkoro\Nhan unido sus fuerzas.
+Dialogue: 0,0:08:54.80,0:08:56.29,Default,,0,0,0,,No será fácil derrotarlos.
 Dialogue: 0,0:08:56.70,0:08:58.97,Default,,0,0,0,,Eso es lo que me preocupa.
 Dialogue: 0,0:08:59.14,0:09:04.70,Default,,0,0,0,,Tengo miedo de que Píkoro traicione a\NGokú y se ponga del lado de Raditz.
 Dialogue: 0,0:09:06.06,0:09:09.93,Default,,0,0,0,,Si ellos dos son derrotados,\Nentonces nada importa.
@@ -111,7 +111,7 @@ Dialogue: 0,0:09:36.99,0:09:39.61,Default,,0,0,0,,Lo siento, pero la verdad es q
 Dialogue: 0,0:09:39.78,0:09:41.73,Default,,0,0,0,,Qué perezoso por tu parte.
 Dialogue: 0,0:09:42.03,0:09:45.72,Default,,0,0,0,,Yo he sido el único que se ha esforzado\Npara inventar una nueva técnica.
 Dialogue: 0,0:09:45.79,0:09:50.20,Default,,0,0,0,,¿Qué es lo que están murmurando?\NNinguna estrategia les funcionará conmigo.
-Dialogue: 0,0:09:50.40,0:09:53.29,Default,,0,0,0,,Lo mejor sería que murierais\Nlo antes posible.
+Dialogue: 0,0:09:50.40,0:09:53.29,Default,,0,0,0,,Lo mejor sería que murieran\Nlo antes posible.
 Dialogue: 0,0:09:53.98,0:09:58.05,Default,,0,0,0,,¿De verdad has inventado\Nuna nueva técnica?
 Dialogue: 0,0:09:58.22,0:09:59.20,Default,,0,0,0,,Algo así.
 Dialogue: 0,0:10:00.54,0:10:02.20,Default,,0,0,0,,¿Puedes utilizarla con\Nuna sola mano?
@@ -124,12 +124,12 @@ Dialogue: 0,0:10:34.70,0:10:37.48,Default,,0,0,0,,Y ahora la usarás para ayudar
 Dialogue: 0,0:10:41.34,0:10:45.28,Default,,0,0,0,,Si puedo derrotarle,\Nserás el siguiente.
 Dialogue: 0,0:10:46.62,0:10:47.76,Default,,0,0,0,,¿En serio?
 Dialogue: 0,0:10:48.54,0:10:50.30,Default,,0,0,0,,No es momento para bromas.
-Dialogue: 0,0:10:50.90,0:10:54.77,Default,,0,0,0,,(¿Ahora se reís?\NEstán desesperados.)
+Dialogue: 0,0:10:50.90,0:10:54.77,Default,,0,0,0,,(¿Ahora se rien?\NEstán desesperados.)
 Dialogue: 0,0:10:55.30,0:10:59.46,Default,,0,0,0,,Venga, estoy deseando ver tu\Nnueva técnica. ¡Lo distraeré!
 Dialogue: 0,0:10:59.86,0:11:01.98,Default,,0,0,0,,Aguanta tanto como puedas.
 Dialogue: 0,0:11:06.82,0:11:09.15,Default,,0,0,0,,¡Makkankosappo!
 Dialogue: 0,0:11:13.62,0:11:15.10,Default,,0,0,0,,¡Vamos a divertirnos un poco!
-Dialogue: 0,0:12:10.53,0:12:12.40,Default,,0,0,0,,Qué pesado...
+Dialogue: 0,0:12:10.53,0:12:12.40,Default,,0,0,0,,Qué molesto...
 Dialogue: 0,0:12:14.09,0:12:17.03,Default,,0,0,0,,Ka
 Dialogue: 0,0:12:17.03,0:12:18.74,Default,,0,0,0,,Me
 Dialogue: 0,0:12:20.83,0:12:24.43,Default,,0,0,0,,¡Imposible! ¡Su fuerza de\Ncombate aumenta!
@@ -148,7 +148,7 @@ Dialogue: 0,0:14:24.00,0:14:25.06,Default,,0,0,0,,¡Muere!
 Dialogue: 0,0:14:40.38,0:14:42.02,Default,,0,0,0,,¡Tú si que vas a morir!
 Dialogue: 0,0:14:45.40,0:14:48.51,Default,,0,0,0,,¡Fuerza de combate, 1330 unidades!
 Dialogue: 0,0:14:49.48,0:14:53.68,Default,,0,0,0,,¡Toda su energía está concentrada\Nen la punta del dedo!
-Dialogue: 0,0:14:54.56,0:14:58.68,Default,,0,0,0,,¡Mierda! ¡¿Cómo pueden controlar\Nsu energía a voluntad?!
+Dialogue: 0,0:14:54.56,0:14:58.68,Default,,0,0,0,,¡Maldición! ¡¿Cómo pueden controlar\Nsu energía a voluntad?!
 Dialogue: 0,0:14:59.21,0:15:02.80,Default,,0,0,0,,¡Prueba esto! ¡Makkankosappo!
 Dialogue: 0,0:15:46.72,0:15:52.82,Default,,0,0,0,,Lo ha esquivado.\NSu velocidad es increíble.
 Dialogue: 0,0:15:53.64,0:15:58.66,Default,,0,0,0,,Ha roto mi armadura fácilmente.\NEs una técnica muy poderosa.
@@ -160,13 +160,13 @@ Dialogue: 0,0:16:13.12,0:16:14.79,Default,,0,0,0,,Todo ha terminado...
 Dialogue: 0,0:16:17.01,0:16:18.85,Default,,0,0,0,,Los destruiré a los dos.
 Dialogue: 0,0:16:33.42,0:16:34.75,Default,,0,0,0,,¡Muere!
 Dialogue: 0,0:16:50.14,0:16:53.83,Default,,0,0,0,,Te has descuidado.\NJa, ja, ja...
-Dialogue: 0,0:16:55.12,0:16:57.08,Default,,0,0,0,,¡He cogido tu cola!
-Dialogue: 0,0:17:05.41,0:17:08.39,Default,,0,0,0,,Maldito... ¿Cómo has. . .?
+Dialogue: 0,0:16:55.12,0:16:57.08,Default,,0,0,0,,¡He agarrado tu cola!
+Dialogue: 0,0:17:05.41,0:17:08.39,Default,,0,0,0,,Maldito... ¿Cómo has...?
 Dialogue: 0,0:17:08.99,0:17:12.11,Default,,0,0,0,,¡Píkoro! ¡Ahora!\N¡Usa tu técnica otra vez!
-Dialogue: 0,0:17:12.40,0:17:18.47,Default,,0,0,0,,Entendido. Buen trabajo, Gokú.\NCógele bien la cola.
+Dialogue: 0,0:17:12.40,0:17:18.47,Default,,0,0,0,,Entendido. Buen trabajo, Gokú.\NAgarralo bien la cola.
 Dialogue: 0,0:17:18.92,0:17:21.54,Default,,0,0,0,,Sólo puedo utilizarla una vez más.
 Dialogue: 0,0:17:22.05,0:17:27.49,Default,,0,0,0,,Kakarotto... ¿Es que quieres\Nmatar a tu propio hermano?
-Dialogue: 0,0:17:28.24,0:17:32.55,Default,,0,0,0,,¡Calla! Un ser despreciable como tú\Nno merece ser llamado hermano.
+Dialogue: 0,0:17:28.24,0:17:32.55,Default,,0,0,0,,¡Callate! Un ser despreciable como tú\Nno merece ser llamado hermano.
 Dialogue: 0,0:17:33.24,0:17:37.02,Default,,0,0,0,,Incluso has intentado matarme.\N¿Cómo puedes decir eso?
 Dialogue: 0,0:17:37.46,0:17:40.59,Default,,0,0,0,,¡Estaba equivocado!\N¡Dejaré de ser malvado!
 Dialogue: 0,0:17:40.84,0:17:43.72,Default,,0,0,0,,¡Abandonaré este planeta sin\Ncausar ningún daño!
@@ -190,10 +190,10 @@ Dialogue: 0,0:19:17.58,0:19:19.71,Default,,0,0,0,,Deja que te lo demuestre.
 Dialogue: 0,0:19:27.04,0:19:28.17,Default,,0,0,0,,Papá...
 Dialogue: 0,0:19:34.36,0:19:39.42,Default,,0,0,0,,Duele, ¿verdad?\N¡Muere de una vez!
 Dialogue: 0,0:19:52.03,0:19:55.95,Default,,0,0,0,,¿Qué pasa?\N¿No vas a intentarlo de nuevo?
-Dialogue: 0,0:19:57.72,0:20:00.16,Default,,0,0,0,,No hay nada que hacer. . .\Nlo esquivará.
+Dialogue: 0,0:19:57.72,0:20:00.16,Default,,0,0,0,,No hay nada que hacer...\Nlo esquivará.
 Dialogue: 0,0:20:04.52,0:20:06.03,Default,,0,0,0,,Papá...
 Dialogue: 0,0:20:32.20,0:20:37.33,Default,,0,0,0,,Ese Gohan. Le dije que me enseñara\Nel examen antes de irse.
-Dialogue: 0,0:20:37.92,0:20:39.99,Default,,0,0,0,,Le ha salido muy bien.
+Dialogue: 0,0:20:37.92,0:20:39.99,Default,,0,0,0,,Lo ha hecho muy bien.
 Dialogue: 0,0:20:40.07,0:20:43.69,Default,,0,0,0,,Estoy contenta de hacerle estudiar\N8 horas al día.
 Dialogue: 0,0:20:44.24,0:20:47.45,Default,,0,0,0,,Gokú también estará muy contento\Ncuando se lo enseñe.
 Dialogue: 0,0:20:49.60,0:20:53.05,Default,,0,0,0,,Espero que Gokú y Gohan\Nvuelvan pronto a casa...
@@ -240,7 +240,7 @@ Dialogue: 0,0:23:54.42,0:24:00.33,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobik
 Dialogue: 0,0:24:07.63,0:24:10.01,Default,,0,0,0,,{\pos(340,93)}Avance
 Dialogue: 0,0:24:11.62,0:24:13.11,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:14.18,0:24:16.05,Default,,0,0,0,,¡Gohan, no te acerques a él!
-Dialogue: 0,0:24:16.29,0:24:19.02,Default,,0,0,0,,¡Le voy a golpear otra vez\Ncon mi Makankou sappou!
+Dialogue: 0,0:24:16.29,0:24:19.02,Default,,0,0,0,,¡Le voy a golpear otra vez\Ncon mi Makankosappo!
 Dialogue: 0,0:24:19.64,0:24:23.52,Default,,0,0,0,,Krilin, esto morir\Nes bastante desagradable, ¿no?
 Dialogue: 0,0:24:24.76,0:24:26.48,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:26.79,0:24:29.36,Default,,0,0,0,,¡Gokú muere!\NSólo hay una oportunidad
