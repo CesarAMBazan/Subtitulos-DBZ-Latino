@@ -76,9 +76,9 @@ Dialogue: 0,0:02:43.24,0:02:46.39,Default,,0,0,0,,Gokú... ¡Gokú!
 Dialogue: 0,0:02:48.32,0:02:50.83,Default,,0,0,0,,¡Gokú!
 Dialogue: 0,0:02:54.52,0:02:55.95,Default,,0,0,0,,¡Ha desaparecido!
 Dialogue: 0,0:03:05.14,0:03:06.20,Default,,0,0,0,,¿Ha desaparecido?
-Dialogue: 0,0:03:06.92,0:03:13.79,Default,,0,0,0,,Ha sido cosa de Dios.\NSólo él es capaz de algo así.
+Dialogue: 0,0:03:06.92,0:03:13.79,Default,,0,0,0,,Ha sido cosa de Kami sama.\NSólo él es capaz de algo así.
 Dialogue: 0,0:03:17.64,0:03:19.22,Default,,0,0,0,,¿Por qué lo habrá hecho?
-Dialogue: 0,0:03:21.00,0:03:24.24,Default,,0,0,0,,Si ha sido cosa de Dios,\Npodemos estar tranquilos.
+Dialogue: 0,0:03:21.00,0:03:24.24,Default,,0,0,0,,Si ha sido cosa de Kami sama,\Npodemos estar tranquilos.
 Dialogue: 0,0:03:28.28,0:03:33.92,Default,,0,0,0,,Igualmente, tenemos que reunir las otras\N6 bolas de dragón lo antes posible.
 Dialogue: 0,0:03:34.34,0:03:39.90,Default,,0,0,0,,Maldita sea, ¿dónde están Yamcha\Ny los demás cuando se les necesita?
 Dialogue: 0,0:03:40.51,0:03:42.23,Default,,0,0,0,,¿No fuiste tú la que lo echaste?
@@ -102,7 +102,7 @@ Dialogue: 0,0:05:15.32,0:05:19.31,Default,,0,0,0,,¡Bien! Después empezaré a\N
 Dialogue: 0,0:05:19.57,0:05:22.01,Default,,0,0,0,,¡Píkoro!\N¿Tú que vas a hacer?
 Dialogue: 0,0:05:46.44,0:05:48.22,Default,,0,0,0,,Es como la cola de un lagarto...
 Dialogue: 0,0:05:48.92,0:05:51.15,Default,,0,0,0,,Vosotros buscad las bolas de dragón.
-Dialogue: 0,0:05:51.32,0:05:55.19,Default,,0,0,0,,Ni siquiera el propio Dios tiene el\Npoder de devolver la vida.
+Dialogue: 0,0:05:51.32,0:05:55.19,Default,,0,0,0,,Ni siquiera el propio Kami sama tiene el\Npoder de devolver la vida.
 Dialogue: 0,0:05:56.28,0:06:00.31,Default,,0,0,0,,Pero yo me ocuparé del hijo\Nde Son Gokú.
 Dialogue: 0,0:06:00.56,0:06:01.28,Default,,0,0,0,,¿Cómo?
 Dialogue: 0,0:06:01.91,0:06:04.15,Default,,0,0,0,,¡No puede ser! ¿Qué harás con él?
@@ -114,7 +114,7 @@ Dialogue: 0,0:06:18.69,0:06:21.47,Default,,0,0,0,,Necesitaremos su fuerza cuando
 Dialogue: 0,0:06:21.51,0:06:24.43,Default,,0,0,0,,Saiyajin dentro de un año.
 Dialogue: 0,0:06:27.00,0:06:30.91,Default,,0,0,0,,Para que eso sea posible,\Nsoy el único que puede entrenarle.
 Dialogue: 0,0:06:31.04,0:06:33.20,Default,,0,0,0,,Aunque tengas una buena razón...
-Dialogue: 0,0:06:33.23,0:06:37.16,Default,,0,0,0,,No creo que sea muy buena idea. . .\NJe, je, je...
+Dialogue: 0,0:06:33.23,0:06:37.16,Default,,0,0,0,,No creo que sea muy buena idea...\NJe, je, je...
 Dialogue: 0,0:06:38.16,0:06:41.00,Default,,0,0,0,,Es mejor que preguntes a Gokú\Ny a su madre primero.
 Dialogue: 0,0:06:41.03,0:06:43.12,Default,,0,0,0,,¡No pienso perder el tiempo\Ncon tonterías!
 Dialogue: 0,0:06:44.57,0:06:49.31,Default,,0,0,0,,Si vais a causar problemas, los mataré\Na todos y me lo llevaré.
@@ -150,7 +150,7 @@ Dialogue: 0,0:09:25.51,0:09:26.39,Default,,0,0,0,,Pero...
 Dialogue: 0,0:09:27.07,0:09:30.60,Default,,0,0,0,,Silencio. El Sr. Kaioh es\Naún más fuerte.
 Dialogue: 0,0:09:32.44,0:09:35.52,Default,,0,0,0,,Dios de la Tierra, te he oído.
 Dialogue: 0,0:09:36.00,0:09:39.91,Default,,0,0,0,,Cuando mueras, a lo mejor\Nte envío al infierno.
-Dialogue: 0,0:09:40.28,0:09:43.51,Default,,0,0,0,,Discúlpeme. . .\NCreía que no me escucharía.
+Dialogue: 0,0:09:40.28,0:09:43.51,Default,,0,0,0,,Discúlpeme...\NCreía que no me escucharía.
 Dialogue: 0,0:09:43.64,0:09:46.50,Default,,0,0,0,,Desde luego, tiene unas\Norejas muy grandes.
 Dialogue: 0,0:09:54.52,0:09:58.22,Default,,0,0,0,,Eso no ha tenido ninguna gracia.
 Dialogue: 0,0:10:02.40,0:10:07.99,Default,,0,0,0,,Muy bien. Si quieres arriesgarte,\Npuedes ir a ver al Sr. Kaioh.
@@ -225,7 +225,7 @@ Dialogue: 0,0:15:52.99,0:15:55.47,Default,,0,0,0,,¿Conoce a Baba la Vidente?
 Dialogue: 0,0:15:55.61,0:15:58.53,Default,,0,0,0,,Nos visita ocasionalmente.
 Dialogue: 0,0:15:58.76,0:16:05.28,Default,,0,0,0,,¡Genial! La próxima vez que venga,\Ndígale que avise al Duende Tortuga
 Dialogue: 0,0:16:05.52,0:16:08.59,Default,,0,0,0,,que no me revivan hasta\Ndentro de un año.
-Dialogue: 0,0:16:08.72,0:16:15.66,Default,,0,0,0,,Entendido. A ver. . .\NUn año... Duende Tortuga...
+Dialogue: 0,0:16:08.72,0:16:15.66,Default,,0,0,0,,Entendido. A ver...\NUn año... Duende Tortuga...
 Dialogue: 0,0:16:17.28,0:16:18.69,Default,,0,0,0,,Bueno, vamos allá.
 Dialogue: 0,0:16:21.31,0:16:23.75,Default,,0,0,0,,No tengo que caerme de\Nla serpiente, ¿verdad?
 Dialogue: 0,0:16:24.16,0:16:25.99,Default,,0,0,0,,Sí. Tenga mucho cuidado.
@@ -253,7 +253,7 @@ Dialogue: 0,0:18:51.41,0:18:54.21,Default,,0,0,0,,llegarán dos guerreros\Naún 
 Dialogue: 0,0:18:55.05,0:18:59.15,Default,,0,0,0,,Cuando eso ocurra, aunque Gokú vuelva\Na la vida, no tendremos ninguna
 Dialogue: 0,0:18:59.16,0:19:03.11,Default,,0,0,0,,oportunidad de ganar.\NNecesitamos tu fuerza.
 Dialogue: 0,0:19:03.84,0:19:07.13,Default,,0,0,0,,Tienes que entrenar y aprender a\Nluchar para defender el planeta.
-Dialogue: 0,0:19:07.88,0:19:12.71,Default,,0,0,0,,¿Yo? Es que. . .\NYo no puedo luchar...
+Dialogue: 0,0:19:07.88,0:19:12.71,Default,,0,0,0,,¿Yo? Es que...\NYo no puedo luchar...
 Dialogue: 0,0:19:12.88,0:19:18.72,Default,,0,0,0,,Parece que no eres consciente,\Npero tu poder latente es considerable.
 Dialogue: 0,0:19:19.18,0:19:23.69,Default,,0,0,0,,Así que tienes que entrenar para hacerlo\Nsalir y aprender a usarlo a voluntad.
 Dialogue: 0,0:19:24.08,0:19:26.97,Default,,0,0,0,,No es verdad.\NNo tengo ese poder.
