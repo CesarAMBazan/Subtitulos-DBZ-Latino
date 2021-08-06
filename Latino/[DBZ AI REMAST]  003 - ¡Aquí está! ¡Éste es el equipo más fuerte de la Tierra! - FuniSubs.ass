@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -100,15 +100,15 @@ Dialogue: 0,0:05:07.01,0:05:10.87,Default,,0,0,0,,¡Adiós! ¡Estoy deseando\Nqu
 Dialogue: 0,0:05:11.66,0:05:13.36,Default,,0,0,0,,¡Gohan!
 Dialogue: 0,0:05:15.61,0:05:17.84,Default,,0,0,0,,¡Papá!
 Dialogue: 0,0:05:17.97,0:05:19.72,Default,,0,0,0,,¡Gohan!
-Dialogue: 0,0:05:25.09,0:05:30.10,Default,,0,0,0,,¡Mierda!\N¡Ha ido demasiado lejos!
+Dialogue: 0,0:05:25.09,0:05:30.10,Default,,0,0,0,,¡Maldición!\N¡Ha ido demasiado lejos!
 Dialogue: 0,0:05:31.43,0:05:32.94,Default,,0,0,0,,¿Estás bien, Gokú?
 Dialogue: 0,0:05:33.29,0:05:37.86,Default,,0,0,0,,Lo siento. . .\NNo hemos podido hacer nada.
 Dialogue: 0,0:05:38.66,0:05:39.66,Default,,0,0,0,,Gokú...
-Dialogue: 0,0:05:40.53,0:05:42.12,Default,,0,0,0,,¡Kinton!
+Dialogue: 0,0:05:40.53,0:05:42.12,Default,,0,0,0,,¡Nube voladora!
 Dialogue: 0,0:05:44.73,0:05:46.96,Default,,0,0,0,,¡Espera un momento!\N¡Es inútil, ten paciencia!
 Dialogue: 0,0:05:47.02,0:05:48.96,Default,,0,0,0,,¡No lo hagas! ¡Te matará!
 Dialogue: 0,0:05:49.93,0:05:52.74,Default,,0,0,0,,¿Es que crees que le ganarás si vas?
-Dialogue: 0,0:05:54.49,0:05:57.61,Default,,0,0,0,,Mierda... ¿Qué voy a hacer?
+Dialogue: 0,0:05:54.49,0:05:57.61,Default,,0,0,0,,Maldición... ¿Qué voy a hacer?
 Dialogue: 0,0:05:57.77,0:05:59.43,Default,,0,0,0,,Vamos a pensar...
 Dialogue: 0,0:06:04.14,0:06:06.64,Default,,0,0,0,,¡Menudo golpe!
 Dialogue: 0,0:06:11.41,0:06:18.10,Default,,0,0,0,,Tiene que ser duro encontrar a un\Nhermano y descubrir que es un miserable.
@@ -122,28 +122,28 @@ Dialogue: 0,0:06:43.49,0:06:45.42,Default,,0,0,0,,No puedo hacerlo solo.
 Dialogue: 0,0:06:53.69,0:06:59.64,Default,,0,0,0,,Nosotros te ayudaremos.\NYamcha y Ten Shin Han no están aquí.
 Dialogue: 0,0:06:59.81,0:07:03.61,Default,,0,0,0,,Es verdad. A lo mejor si atacamos los\Ntres podemos hacer alguna cosa...
 Dialogue: 0,0:07:03.77,0:07:07.27,Default,,0,0,0,,Pero no las tengo todas conmigo...
-Dialogue: 0,0:07:09.20,0:07:14.15,Default,,0,0,0,,Bulma, si morimos, busca las bolas\Nde dragón y devuélvenos a la vida.
+Dialogue: 0,0:07:09.20,0:07:14.15,Default,,0,0,0,,Bulma, si morimos, busca las esferas\Ndel dragón y devuélvenos a la vida.
 Dialogue: 0,0:07:14.40,0:07:16.28,Default,,0,0,0,,¡Cuenta conmigo!
 Dialogue: 0,0:07:16.81,0:07:19.16,Default,,0,0,0,,Krilin, no funcionará.
-Dialogue: 0,0:07:20.29,0:07:26.36,Default,,0,0,0,,Dios me explicó que no se podía pedir\Nel mismo deseo dos veces a Shenron.
+Dialogue: 0,0:07:20.29,0:07:26.36,Default,,0,0,0,,Kami sama me explicó que no se podía pedir\Nel mismo deseo dos veces a Shenron.
 Dialogue: 0,0:07:28.81,0:07:35.96,Default,,0,0,0,,Tú como el Maestro Roshi ya han\Nsido revividos una vez por Shenron.
 Dialogue: 0,0:07:37.09,0:07:40.16,Default,,0,0,0,,Así que esta vez...
 Dialogue: 0,0:07:42.35,0:07:46.18,Default,,0,0,0,,¿Sí? Pero no importa...
 Dialogue: 0,0:07:47.17,0:07:48.69,Default,,0,0,0,,¿Me ayudaras igualmente?
 Dialogue: 0,0:07:48.76,0:07:50.14,Default,,0,0,0,,Por supuesto que sí.
 Dialogue: 0,0:07:50.18,0:07:54.92,Default,,0,0,0,,¡Pues claro que sí! ¡Ahora nos toca\Na nosotros echarte una mano!
-Dialogue: 0,0:07:57.65,0:07:59.88,Default,,0,0,0,,(Esta vez fijo que muero)
+Dialogue: 0,0:07:57.65,0:07:59.88,Default,,0,0,0,,(Esta vez seguro que muero)
 Dialogue: 0,0:07:59.93,0:08:04.08,Default,,0,0,0,,(Maldita sea, con las ganas\Nque tenía de casarme)
-Dialogue: 0,0:08:06.43,0:08:14.64,Default,,0,0,0,,¡Podemos reunir las bolas de dragón y\Npedir a Shenron que salve al mundo!
+Dialogue: 0,0:08:06.43,0:08:14.64,Default,,0,0,0,,¡Podemos reunir las esferas del dragón y\Npedir a Shenron que salve al mundo!
 Dialogue: 0,0:08:16.05,0:08:17.19,Default,,0,0,0,,¡Claro!
 Dialogue: 0,0:08:17.32,0:08:20.58,Default,,0,0,0,,¿Podríamos reunirlas en un solo día?
 Dialogue: 0,0:08:20.68,0:08:22.80,Default,,0,0,0,,Oh, claro...
-Dialogue: 0,0:08:23.53,0:08:31.28,Default,,0,0,0,,¡Bien, le atacaremos! No se lo espera,\Nasí que lo cogeremos con la guardia baja.
+Dialogue: 0,0:08:23.53,0:08:31.28,Default,,0,0,0,,¡Bien, lo atacaremos! No se lo espera,\Nasí que lo agarraremos con la guardia baja.
 Dialogue: 0,0:08:31.52,0:08:34.60,Default,,0,0,0,,Pero no sabemos dónde está.
-Dialogue: 0,0:08:34.85,0:08:37.81,Default,,0,0,0,,Bulma, ¿has traído el Dragon\NRadar contigo?
-Dialogue: 0,0:08:38.41,0:08:44.08,Default,,0,0,0,,¡Claro! ¡Hay una bola de dragón\Nen el sombrero de Gohan!
-Dialogue: 0,0:08:45.93,0:08:50.94,Default,,0,0,0,,Ahí está. Mirad, se está moviendo\Na una velocidad increíble.
-Dialogue: 0,0:08:55.01,0:08:55.96,Default,,0,0,0,,¡Se ha detenido!
+Dialogue: 0,0:08:34.85,0:08:37.81,Default,,0,0,0,,Bulma, ¿has traído el Radar del\NDragón contigo?
+Dialogue: 0,0:08:38.41,0:08:44.08,Default,,0,0,0,,¡Claro! ¡Hay una esfera del dragón\Nen el sombrero de Gohan!
+Dialogue: 0,0:08:45.93,0:08:50.94,Default,,0,0,0,,Ahí está. Miren, se está moviendo\Na una velocidad increíble.
+Dialogue: 0,0:08:55.01,0:08:55.96,Default,,0,0,0,,¡Se detuvo!
 Dialogue: 0,0:08:56.07,0:08:59.17,Default,,0,0,0,,¡Genial! ¡No se ha ido al espacio\Nexterior, sigue en la Tierra!
 Dialogue: 0,0:09:00.09,0:09:04.72,Default,,0,0,0,,¡Vamos! ¡Es ahora o nunca!\N¡Espéranos, Gohan!
 Dialogue: 0,0:09:06.44,0:09:11.60,Default,,0,0,0,,¡Es verdad! ¡A lo mejor ganamos!\NAunque no es muy probable...
@@ -170,9 +170,9 @@ Dialogue: 0,0:11:05.97,0:11:07.36,Default,,0,0,0,,¡No permitiré que lo hagas!
 Dialogue: 0,0:11:08.33,0:11:17.04,Default,,0,0,0,,No permitiré que lo hagas, pero unirnos para formar un equipo, es una buena idea.
 Dialogue: 0,0:11:17.17,0:11:20.04,Default,,0,0,0,,De momento, vamos a tener\Nque soportarnos.
 Dialogue: 0,0:11:26.21,0:11:30.32,Default,,0,0,0,,A mí también me repugna\Ncolaborar contigo.
-Dialogue: 0,0:11:33.31,0:11:36.08,Default,,0,0,0,,Bulma, déjame el Dragon Radar.
+Dialogue: 0,0:11:33.31,0:11:36.08,Default,,0,0,0,,Bulma, déjame el Radar del Dragón.
 Dialogue: 0,0:11:37.33,0:11:37.90,Default,,0,0,0,,¡Sí!
-Dialogue: 0,0:11:40.81,0:11:44.06,Default,,0,0,0,,¿Puedes volar tan rápido\Ncomo la Nube Kinton?
+Dialogue: 0,0:11:40.81,0:11:44.06,Default,,0,0,0,,¿Puedes volar tan rápido\Ncomo la Nube Voladora?
 Dialogue: 0,0:11:44.33,0:11:50.56,Default,,0,0,0,,¡Pues claro que sí! No soy como tú\Ncon esa patética técnica de levitación.
 Dialogue: 0,0:12:21.36,0:12:24.41,Default,,0,0,0,,¿Se supone que ahora debemos\Nsentirnos mejor?
 Dialogue: 0,0:12:24.43,0:12:30.06,Default,,0,0,0,,Vaya, vaya, esos dos forman\Nun equipo increíble.
@@ -181,9 +181,9 @@ Dialogue: 0,0:12:36.51,0:12:39.82,Default,,0,0,0,,Tienen posibilidades de ganar.
 Dialogue: 0,0:12:40.59,0:12:43.70,Default,,0,0,0,,¿Pero podemos confiar en Píkoro?
 Dialogue: 0,0:12:43.87,0:12:45.22,Default,,0,0,0,,Tengo un mal presentimiento...
 Dialogue: 0,0:12:45.35,0:12:49.70,Default,,0,0,0,,¿Pero qué estas diciendo?\N¡Es un acontecimiento extraordinario!
-Dialogue: 0,0:12:49.83,0:12:53.37,Default,,0,0,0,,¡Bulma, ¿recuerdas el lugar que\Nha indicado el Dragon Radar?!
+Dialogue: 0,0:12:49.83,0:12:53.37,Default,,0,0,0,,¡Bulma, ¿recuerdas el lugar que\Nha indicado el Radar del Dragón?!
 Dialogue: 0,0:12:53.55,0:12:55.10,Default,,0,0,0,,¡Nosotros también iremos!
-Dialogue: 0,0:13:01.15,0:13:06.22,Default,,0,0,0,,Gohan, debes de estar pasándotelo muy\Nbien en casa de Mutenroshi.
+Dialogue: 0,0:13:01.15,0:13:06.22,Default,,0,0,0,,Gohan, debes de estar pasándotelo muy\Nbien en casa del Maestro Roshi.
 Dialogue: 0,0:13:06.91,0:13:08.50,Default,,0,0,0,,¡Casi lo olvido!
 Dialogue: 0,0:13:09.91,0:13:13.02,Default,,0,0,0,,¿Has acabado tus deberes?
 Dialogue: 0,0:13:14.43,0:13:17.06,Default,,0,0,0,,Bueno, no creo que importe...
@@ -194,9 +194,9 @@ Dialogue: 0,0:14:19.31,0:14:20.34,Default,,0,0,0,,¡Entra ahí!
 Dialogue: 0,0:14:32.03,0:14:36.66,Default,,0,0,0,,¡Déjame salir! ¡Déjame salir!
 Dialogue: 0,0:14:43.11,0:14:47.97,Default,,0,0,0,,Bueno... Iré a buscar algo de comer.
 Dialogue: 0,0:14:49.58,0:14:52.38,Default,,0,0,0,,La señal de alarma.
-Dialogue: 0,0:14:54.47,0:14:58.62,Default,,0,0,0,,¿Fuerza de combate, 71 0 unidades?\N¡Está cerca!
+Dialogue: 0,0:14:54.47,0:14:58.62,Default,,0,0,0,,¿Fuerza de combate, 710 unidades?\N¡Está cerca!
 Dialogue: 0,0:15:02.83,0:15:03.70,Default,,0,0,0,,¿Cómo?
-Dialogue: 0,0:15:15.59,0:15:20.59,Default,,0,0,0,,Mierda. Tiene que ser un error.\NQué susto me ha dado.
+Dialogue: 0,0:15:15.59,0:15:20.59,Default,,0,0,0,,Maldición. Tiene que ser un error.\NQué susto me ha dado.
 Dialogue: 0,0:15:30.79,0:15:34.45,Default,,0,0,0,,¡Está cerca! ¡Lo mejor sería aterrizar\Nantes de seguir adelante!
 Dialogue: 0,0:15:34.78,0:15:37.09,Default,,0,0,0,,¡No merece la pena!\N¡Vamos a seguir volando así!
 Dialogue: 0,0:15:38.07,0:15:43.55,Default,,0,0,0,,Tiene una máquina que le permite\Ndeterminar la posición y
@@ -296,9 +296,9 @@ Dialogue: 0,0:23:45.86,0:23:50.78,Karaoke Japones,,0,0,0,,{\blur.8}Woh... manpuk
 Dialogue: 0,0:23:53.71,0:23:59.62,Karaoke Japones,,0,0,0,,{\blur.8}detekoi tobikiri ZENKAI pawaa{\fs35\fnWolf Sans\fax-0.3\fscx100\fscy100} !
 Dialogue: 0,0:24:06.79,0:24:09.34,Default,,0,0,0,,{\pos(346,93)}Avance
 Dialogue: 0,0:24:11.21,0:24:12.66,Default,,0,0,0,,¡Hola, soy Gokú!
-Dialogue: 0,0:24:13.32,0:24:14.89,Default,,0,0,0,,¡Mierda, es más fuerte que nosotros!
+Dialogue: 0,0:24:13.32,0:24:14.89,Default,,0,0,0,,¡Maldición, es más fuerte que nosotros!
 Dialogue: 0,0:24:14.97,0:24:16.81,Default,,0,0,0,,¿Qué les pasa?\N¿Han terminado ya?
-Dialogue: 0,0:24:17.08,0:24:18.70,Default,,0,0,0,,¿Dónde está toda esa energía que teníais?
+Dialogue: 0,0:24:17.08,0:24:18.70,Default,,0,0,0,,¿Dónde está toda esa energía que tenian?
 Dialogue: 0,0:24:19.12,0:24:19.69,Default,,0,0,0,,¡Píkoro!
 Dialogue: 0,0:24:20.09,0:24:22.81,Default,,0,0,0,,Voy a intentar distraerle.\NEl resto depende de ti.
 Dialogue: 0,0:24:23.68,0:24:25.37,Default,,0,0,0,,Próximamente en Dragon Ball Z
