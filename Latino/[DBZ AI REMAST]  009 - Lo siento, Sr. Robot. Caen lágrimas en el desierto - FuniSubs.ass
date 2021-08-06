@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -83,7 +83,7 @@ Dialogue: 0,0:04:50.96,0:04:53.59,Default,,0,0,0,,¡Atrás! ¡No quiero hacerte 
 Dialogue: 0,0:04:59.56,0:05:03.11,Default,,0,0,0,,¿Por qué siempre me\Nestán persiguiendo?
 Dialogue: 0,0:05:08.13,0:05:10.43,Default,,0,0,0,,¡No tengo buen sabor!
 Dialogue: 0,0:05:46.06,0:05:48.28,Default,,0,0,0,,¡Socorro!
-Dialogue: 0,0:05:54.04,0:05:57.16,Default,,0,0,0,,Me muero de hambre.\N¿No hay nada que llevarse a la boca?
+Dialogue: 0,0:05:54.04,0:05:57.16,Default,,0,0,0,,Me muero de hambre.\N¿No hay nada que comer?
 Dialogue: 0,0:06:36.02,0:06:39.79,Default,,0,0,0,,Eso es una pintura del dios\NBimana de Nemuria.
 Dialogue: 0,0:06:40.80,0:06:43.18,Default,,0,0,0,,Es exactamente igual\Nque en mis libros.
 Dialogue: 0,0:07:08.08,0:07:14.34,Default,,0,0,0,,Es un prototipo de la serie SSS.\NEs un robot cápsula muy antiguo.
@@ -117,7 +117,7 @@ Dialogue: 0,0:09:08.72,0:09:10.29,Default,,0,0,0,,No llores.
 Dialogue: 0,0:09:12.68,0:09:15.95,Default,,0,0,0,,No llores...\NEs la única salida.
 Dialogue: 0,0:09:16.36,0:09:19.03,Default,,0,0,0,,Si quieres vivir, tendrás\Nque bajar por ahí.
 Dialogue: 0,0:09:19.24,0:09:20.46,Default,,0,0,0,,Es que...
-Dialogue: 0,0:09:20.80,0:09:22.83,Default,,0,0,0,,¿Por qué te comportas como un crío?
+Dialogue: 0,0:09:20.80,0:09:22.83,Default,,0,0,0,,¿Por qué te comportas como un bebé?
 Dialogue: 0,0:09:23.00,0:09:26.10,Default,,0,0,0,,Si te quedas aquí, serás enterrado\Nvivo por la arena.
 Dialogue: 0,0:09:27.56,0:09:29.15,Default,,0,0,0,,Márchate ya.
 Dialogue: 0,0:09:30.88,0:09:37.23,Default,,0,0,0,,¿Te has ido? Eh, Son Gohan.\NApágame. Apágame antes de irte.
@@ -147,7 +147,7 @@ Dialogue: 0,0:12:51.78,0:12:53.50,Default,,0,0,0,,Un escorpión.
 Dialogue: 0,0:12:53.54,0:12:57.09,Default,,0,0,0,,Es normal que haya escorpiones\Nen un lugar como éste.
 Dialogue: 0,0:12:59.51,0:13:00.76,Default,,0,0,0,,Tengo mucho miedo.
 Dialogue: 0,0:13:00.77,0:13:04.91,Default,,0,0,0,,Apágame, no me hagas repetirlo.
-Dialogue: 0,0:13:04.92,0:13:06.72,Default,,0,0,0,,Es que...\N{\1c&H0A2801&\2c&H0000FF&\3a&H00&\3c&HFFE9C6&\4c&H000000&}Hazlo de una vez.
+Dialogue: 0,0:13:04.92,0:13:06.72,Default,,0,0,0,,Es que...\NHazlo de una vez.
 Dialogue: 0,0:13:13.58,0:13:15.22,Default,,0,0,0,,¡Me muero de hambre!
 Dialogue: 0,0:13:16.72,0:13:18.43,Default,,0,0,0,,¿Se pueden comer las nubes?
 Dialogue: 0,0:13:21.98,0:13:25.43,Default,,0,0,0,,Soy yo. Tengo mucha hambre.
@@ -181,8 +181,8 @@ Dialogue: 0,0:15:19.28,0:15:21.45,Default,,0,0,0,,¿Y cómo quieres que lo sepa?
 Dialogue: 0,0:15:22.74,0:15:23.75,Default,,0,0,0,,Ya está.
 Dialogue: 0,0:15:27.91,0:15:29.52,Default,,0,0,0,,Está muy caliente.
 Dialogue: 0,0:15:29.52,0:15:31.97,Default,,0,0,0,,Eso no es culpa mía.
-Dialogue: 0,0:15:32.52,0:15:33.96,Default,,0,0,0,,Que aproveche.
-Dialogue: 0,0:15:36.60,0:15:39.92,Default,,0,0,0,,¿Cómo llegaste hasta aquí?\N{\1c&HB2DAEB&\3a&H64&\3c&H325934&\4c&H000000&}Sabe fatal.
+Dialogue: 0,0:15:32.52,0:15:33.96,Default,,0,0,0,,Gracias por la comida.
+Dialogue: 0,0:15:36.60,0:15:39.92,Default,,0,0,0,,¿Cómo llegaste hasta aquí?\NSabe fatal.
 Dialogue: 0,0:15:40.32,0:15:41.81,Default,,0,0,0,,Me he perdido.
 Dialogue: 0,0:15:42.39,0:15:46.33,Default,,0,0,0,,Quiero volver con mi mamá,\Npero no sé cómo hacerlo.
 Dialogue: 0,0:15:47.11,0:15:54.29,Default,,0,0,0,,Debe de ser muy duro, un niño de tu edad\Njamás conseguirá atravesar el desierto.
@@ -200,7 +200,7 @@ Dialogue: 0,0:16:29.54,0:16:31.39,Default,,0,0,0,,Lo leí en los libros.
 Dialogue: 0,0:16:32.00,0:16:36.49,Default,,0,0,0,,A lo mejor otra gente que busque\Neste lugar vendrá y nos rescatará.
 Dialogue: 0,0:16:37.18,0:16:41.10,Default,,0,0,0,,Llevo enterrado en la\Narena 80 años.
 Dialogue: 0,0:16:42.78,0:16:44.71,Default,,0,0,0,,Ey, ¿qué estás haciendo?
-Dialogue: 0,0:16:44.90,0:16:47.13,Default,,0,0,0,,Voy a desenterrarle.
+Dialogue: 0,0:16:44.90,0:16:47.13,Default,,0,0,0,,Voy a desenterrarlo.
 Dialogue: 0,0:16:47.62,0:16:50.72,Default,,0,0,0,,¡Detente! Ya estoy bien como estoy.
 Dialogue: 0,0:16:51.17,0:16:54.42,Default,,0,0,0,,No causes más problemas,\Ndéjame como estoy.
 Dialogue: 0,0:16:58.26,0:17:00.29,Default,,0,0,0,,Saldremos de aquí juntos.
@@ -220,7 +220,7 @@ Dialogue: 0,0:17:47.07,0:17:50.38,Default,,0,0,0,,Sé valiente y salta todo lo\N
 Dialogue: 0,0:17:52.56,0:17:54.77,Default,,0,0,0,,¿Qué ocurre, Son Gohan?
 Dialogue: 0,0:17:56.86,0:17:59.10,Default,,0,0,0,,Vamos, salta.
 Dialogue: 0,0:18:01.37,0:18:02.69,Default,,0,0,0,,Bien.
-Dialogue: 0,0:18:09.90,0:18:11.35,Default,,0,0,0,,Se me olvidaba apagarle.
+Dialogue: 0,0:18:09.90,0:18:11.35,Default,,0,0,0,,Se me olvidaba apagarlo.
 Dialogue: 0,0:18:11.73,0:18:13.86,Default,,0,0,0,,Estúpido, no regreses.
 Dialogue: 0,0:18:25.85,0:18:26.99,Default,,0,0,0,,Son Gohan.
 Dialogue: 0,0:18:28.78,0:18:34.10,Default,,0,0,0,,Ahora ya no importa,\Nla salida está bloqueada.
@@ -292,7 +292,7 @@ Dialogue: 0,0:24:08.46,0:24:10.84,Default,,0,0,0,,{\pos(343,95)}Avance
 Dialogue: 0,0:24:11.96,0:24:13.36,Default,,0,0,0,,¡Hola, soy Gokú!
 Dialogue: 0,0:24:13.74,0:24:15.58,Default,,0,0,0,,Asegúrate de ser más fuerte, Gohan.
 Dialogue: 0,0:24:15.58,0:24:17.05,Default,,0,0,0,,Aún, tienes mucho por recorrer.
-Dialogue: 0,0:24:17.51,0:24:21.87,Default,,0,0,0,,¿Papá, dónde están tus amigos,\NYamcha y Tenshinhan?
+Dialogue: 0,0:24:17.51,0:24:21.87,Default,,0,0,0,,¿Papá, dónde están tus amigos,\NYamcha y Ten Shin Han?
 Dialogue: 0,0:24:22.15,0:24:23.84,Default,,0,0,0,,¿No van a venir a rescatarme?
 Dialogue: 0,0:24:24.65,0:24:28.06,Default,,0,0,0,,Seguro que todavía\Nno saben que estoy muerto.
 Dialogue: 0,0:24:28.62,0:24:30.22,Default,,0,0,0,,Próximamente en Dragon Ball Z
