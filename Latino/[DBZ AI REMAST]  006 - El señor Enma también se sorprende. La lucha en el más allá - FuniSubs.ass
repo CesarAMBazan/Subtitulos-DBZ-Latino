@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -69,7 +69,7 @@ Dialogue: 0,0:01:53.32,0:01:55.55,Default,,0,0,0,,¡Makkankosappo!
 Dialogue: 0,0:02:04.29,0:02:11.15,Default,,0,0,0,,Gokú ha sacrificado su vida para salvar\Na su hijo y al resto del planeta.
 Dialogue: 0,0:02:12.09,0:02:16.43,Default,,0,0,0,,Pero la muerte de Raditz ha hecho que\Ndos Saiyajin aún más poderosos hayan
 Dialogue: 0,0:02:16.46,0:02:20.12,Default,,0,0,0,,puesto su punto de mira en la Tierra.\NLlegarán dentro de un año.
-Dialogue: 0,0:02:26.21,0:02:30.67,Default,,0,0,0,,Morir es una faena, ¿verdad?
+Dialogue: 0,0:02:26.21,0:02:30.67,Default,,0,0,0,,Morir no es muy agradable, ¿verdad?
 Dialogue: 0,0:02:32.92,0:02:36.95,Default,,0,0,0,,No te preocupes.\NTe devolveremos a la vida pronto.
 Dialogue: 0,0:02:37.08,0:02:39.19,Default,,0,0,0,,Por favor...
 Dialogue: 0,0:02:43.24,0:02:46.39,Default,,0,0,0,,Gokú... ¡Gokú!
@@ -79,7 +79,7 @@ Dialogue: 0,0:03:05.14,0:03:06.20,Default,,0,0,0,,¿Ha desaparecido?
 Dialogue: 0,0:03:06.92,0:03:13.79,Default,,0,0,0,,Ha sido cosa de Kami sama.\NSólo él es capaz de algo así.
 Dialogue: 0,0:03:17.64,0:03:19.22,Default,,0,0,0,,¿Por qué lo habrá hecho?
 Dialogue: 0,0:03:21.00,0:03:24.24,Default,,0,0,0,,Si ha sido cosa de Kami sama,\Npodemos estar tranquilos.
-Dialogue: 0,0:03:28.28,0:03:33.92,Default,,0,0,0,,Igualmente, tenemos que reunir las otras\N6 bolas de dragón lo antes posible.
+Dialogue: 0,0:03:28.28,0:03:33.92,Default,,0,0,0,,Igualmente, tenemos que reunir las otras\N6 esferas del dragón lo antes posible.
 Dialogue: 0,0:03:34.34,0:03:39.90,Default,,0,0,0,,Maldita sea, ¿dónde están Yamcha\Ny los demás cuando se les necesita?
 Dialogue: 0,0:03:40.51,0:03:42.23,Default,,0,0,0,,¿No fuiste tú la que lo echaste?
 Dialogue: 0,0:03:43.28,0:03:48.90,Default,,0,0,0,,¿Cómo pudo ese tipo que decía ser hermano\Nde Gokú encontrarlo tan rápidamente?
@@ -98,10 +98,10 @@ Dialogue: 0,0:05:00.86,0:05:03.83,Default,,0,0,0,,Me lo llevaré a casa, lo estu
 Dialogue: 0,0:05:04.04,0:05:08.11,Default,,0,0,0,,Con esto deberíamos poder localizar\Na Yamcha y a Ten Shin Han también.
 Dialogue: 0,0:05:08.24,0:05:11.75,Default,,0,0,0,,En cualquier caso, lo mejor es\Nque volvamos a la Kame House.
 Dialogue: 0,0:05:12.06,0:05:15.03,Default,,0,0,0,,Es verdad. Aquí ya no hacemos nada.
-Dialogue: 0,0:05:15.32,0:05:19.31,Default,,0,0,0,,¡Bien! Después empezaré a\Nbuscar las bolas de dragón.
+Dialogue: 0,0:05:15.32,0:05:19.31,Default,,0,0,0,,¡Bien! Después empezaré a\Nbuscar las esferas del dragón.
 Dialogue: 0,0:05:19.57,0:05:22.01,Default,,0,0,0,,¡Píkoro!\N¿Tú que vas a hacer?
 Dialogue: 0,0:05:46.44,0:05:48.22,Default,,0,0,0,,Es como la cola de un lagarto...
-Dialogue: 0,0:05:48.92,0:05:51.15,Default,,0,0,0,,Vosotros buscad las bolas de dragón.
+Dialogue: 0,0:05:48.92,0:05:51.15,Default,,0,0,0,,Vosotros buscad las esferas del dragón.
 Dialogue: 0,0:05:51.32,0:05:55.19,Default,,0,0,0,,Ni siquiera el propio Kami sama tiene el\Npoder de devolver la vida.
 Dialogue: 0,0:05:56.28,0:06:00.31,Default,,0,0,0,,Pero yo me ocuparé del hijo\Nde Son Gokú.
 Dialogue: 0,0:06:00.56,0:06:01.28,Default,,0,0,0,,¿Cómo?
@@ -245,7 +245,7 @@ Dialogue: 0,0:18:07.89,0:18:12.17,Default,,0,0,0,,Ha sacrificado su vida para\Nd
 Dialogue: 0,0:18:16.96,0:18:20.47,Default,,0,0,0,,Escapa... Gohan... Escapa...
 Dialogue: 0,0:18:25.46,0:18:26.93,Default,,0,0,0,,Papá ha...
 Dialogue: 0,0:18:27.09,0:18:31.13,Default,,0,0,0,,¡Deja de llorar!\N¡Va en serio que te romperé el cuello!
-Dialogue: 0,0:18:35.56,0:18:38.91,Default,,0,0,0,,Tu padre te habló de las bolas\Nde dragón, ¿verdad?
+Dialogue: 0,0:18:35.56,0:18:38.91,Default,,0,0,0,,Tu padre te habló de las esferas\Ndel dragón, ¿verdad?
 Dialogue: 0,0:18:39.36,0:18:43.06,Default,,0,0,0,,Sus amigos las reunirán y devolverán\Na Gokú a la vida.
 Dialogue: 0,0:18:44.00,0:18:46.51,Default,,0,0,0,,Pero ése no es el problema.
 Dialogue: 0,0:18:47.18,0:18:51.39,Default,,0,0,0,,Conseguimos acabar con el tipo que\Nte secuestró, pero dentro de un año
@@ -259,7 +259,7 @@ Dialogue: 0,0:19:19.18,0:19:23.69,Default,,0,0,0,,Así que tienes que entrenar p
 Dialogue: 0,0:19:24.08,0:19:26.97,Default,,0,0,0,,No es verdad.\NNo tengo ese poder.
 Dialogue: 0,0:19:28.32,0:19:29.50,Default,,0,0,0,,¿Quieres una prueba?
 Dialogue: 0,0:19:31.12,0:19:32.95,Default,,0,0,0,,¿Qué estás haciendo?
-Dialogue: 0,0:19:33.08,0:19:40.32,Default,,0,0,0,,¡Qué daño! ¡Para! ¡Qué daño!\N¡Para! ¡Qué daño!
+Dialogue: 0,0:19:33.08,0:19:40.32,Default,,0,0,0,,¡Me duele! ¡Para! ¡Me duele!\N¡Para! ¡Me duele!
 Dialogue: 0,0:19:46.69,0:19:49.07,Default,,0,0,0,,¡Ahora muestra tu poder oculto!
 Dialogue: 0,0:20:14.03,0:20:14.77,Default,,0,0,0,,¿Qué... ?
 Dialogue: 0,0:20:22.48,0:20:26.98,Default,,0,0,0,,Es mucho más poderoso de\Nlo que imaginábamos.
@@ -268,15 +268,15 @@ Dialogue: 0,0:20:35.84,0:20:38.08,Default,,0,0,0,,Aqui estoy apunto de entrenar\
 Dialogue: 0,0:20:38.08,0:20:40.38,Default,,0,0,0,,que en un futuro, podría convertirse\N en mi peor enemigo.
 Dialogue: 0,0:20:43.72,0:20:45.30,Default,,0,0,0,,¿He hecho yo eso?
 Dialogue: 0,0:20:45.46,0:20:48.21,Default,,0,0,0,,Así es. Veo que captas la idea.
-Dialogue: 0,0:20:50.12,0:20:53.30,Default,,0,0,0,,El único momento en el que\N muestras tu poder...
-Dialogue: 0,0:20:53.44,0:20:55.43,Default,,0,0,0,,es cuando experimentas\N alguna emoción fuerte,
+Dialogue: 0,0:20:50.12,0:20:53.30,Default,,0,0,0,,El único momento en el que\Nmuestras tu poder...
+Dialogue: 0,0:20:53.44,0:20:55.43,Default,,0,0,0,,es cuando experimentas\Nalguna emoción fuerte,
 Dialogue: 0,0:20:55.89,0:20:58.31,Default,,0,0,0,,pero sólo te dura\Nuna fracción de segundo.
 Dialogue: 0,0:20:58.60,0:21:00.18,Default,,0,0,0,,¡No puedes ganar de esa forma!
 Dialogue: 0,0:21:00.76,0:21:02.79,Default,,0,0,0,,Voy a enseñarte técnicas\Npara luchar,
 Dialogue: 0,0:21:02.79,0:21:04.42,Default,,0,0,0,,y convertirte en un gran\N guerrero
 Dialogue: 0,0:21:04.64,0:21:05.42,Default,,0,0,0,,¿entendido?
 Dialogue: 0,0:21:06.36,0:21:10.01,Default,,0,0,0,,Pero yo no quiero ser un experto\Nen artes marciales.
-Dialogue: 0,0:21:10.51,0:21:12.82,Default,,0,0,0,,Quiero ser un sabio famoso.
+Dialogue: 0,0:21:10.51,0:21:12.82,Default,,0,0,0,,Quiero ser un investigador famoso.
 Dialogue: 0,0:21:14.20,0:21:17.67,Default,,0,0,0,,Puedes ser lo que quieras,\Npero antes debes derrotar a los dos
 Dialogue: 0,0:21:17.70,0:21:19.86,Default,,0,0,0,,Saiyajin dentro de un año.
 Dialogue: 0,0:21:20.50,0:21:23.12,Default,,0,0,0,,Su intención es exterminar a todos\Nlos habitantes de este planeta.
@@ -333,4 +333,4 @@ Dialogue: 0,0:24:21.39,0:24:22.44,Default,,0,0,0,,¡No actues como un mimado!
 Dialogue: 0,0:24:22.63,0:24:24.85,Default,,0,0,0,,¡Tienes el destino de la Tierra en tus manos!
 Dialogue: 0,0:24:25.44,0:24:27.11,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:27.31,0:24:30.23,Default,,0,0,0,,¡Dinosaurios y supervivencia!\NEl duro entrenamiento de Gohan.
-Dialogue: 0,0:24:30.94,0:24:35.03,Default,,0,0,0,,¡Papá, tengo miedo del tío Píkoro!
+Dialogue: 0,0:24:30.94,0:24:35.03,Default,,0,0,0,,¡Papá, tengo miedo del señor Píkoro!
