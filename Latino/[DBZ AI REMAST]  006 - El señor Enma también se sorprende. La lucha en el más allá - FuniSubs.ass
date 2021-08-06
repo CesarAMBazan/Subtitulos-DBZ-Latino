@@ -101,7 +101,7 @@ Dialogue: 0,0:05:12.06,0:05:15.03,Default,,0,0,0,,Es verdad. Aquí ya no hacemos
 Dialogue: 0,0:05:15.32,0:05:19.31,Default,,0,0,0,,¡Bien! Después empezaré a\Nbuscar las esferas del dragón.
 Dialogue: 0,0:05:19.57,0:05:22.01,Default,,0,0,0,,¡Píkoro!\N¿Tú que vas a hacer?
 Dialogue: 0,0:05:46.44,0:05:48.22,Default,,0,0,0,,Es como la cola de un lagarto...
-Dialogue: 0,0:05:48.92,0:05:51.15,Default,,0,0,0,,Vosotros buscad las esferas del dragón.
+Dialogue: 0,0:05:48.92,0:05:51.15,Default,,0,0,0,,Ustedes busquen las esferas del dragón.
 Dialogue: 0,0:05:51.32,0:05:55.19,Default,,0,0,0,,Ni siquiera el propio Kami sama tiene el\Npoder de devolver la vida.
 Dialogue: 0,0:05:56.28,0:06:00.31,Default,,0,0,0,,Pero yo me ocuparé del hijo\Nde Son Gokú.
 Dialogue: 0,0:06:00.56,0:06:01.28,Default,,0,0,0,,¿Cómo?
@@ -112,14 +112,14 @@ Dialogue: 0,0:06:11.20,0:06:13.11,Default,,0,0,0,,¿Entonces qué?
 Dialogue: 0,0:06:13.37,0:06:18.08,Default,,0,0,0,,Con entrenamiento, ese mocoso puede\Nalcanzar una fuerza de combate tremenda.
 Dialogue: 0,0:06:18.69,0:06:21.47,Default,,0,0,0,,Necesitaremos su fuerza cuando nos\Nencontremos con los otros dos
 Dialogue: 0,0:06:21.51,0:06:24.43,Default,,0,0,0,,Saiyajin dentro de un año.
-Dialogue: 0,0:06:27.00,0:06:30.91,Default,,0,0,0,,Para que eso sea posible,\Nsoy el único que puede entrenarle.
+Dialogue: 0,0:06:27.00,0:06:30.91,Default,,0,0,0,,Para que eso sea posible,\Nsoy el único que puede entrenarlo.
 Dialogue: 0,0:06:31.04,0:06:33.20,Default,,0,0,0,,Aunque tengas una buena razón...
 Dialogue: 0,0:06:33.23,0:06:37.16,Default,,0,0,0,,No creo que sea muy buena idea...\NJe, je, je...
 Dialogue: 0,0:06:38.16,0:06:41.00,Default,,0,0,0,,Es mejor que preguntes a Gokú\Ny a su madre primero.
 Dialogue: 0,0:06:41.03,0:06:43.12,Default,,0,0,0,,¡No pienso perder el tiempo\Ncon tonterías!
-Dialogue: 0,0:06:44.57,0:06:49.31,Default,,0,0,0,,Si vais a causar problemas, los mataré\Na todos y me lo llevaré.
-Dialogue: 0,0:07:01.96,0:07:05.83,Default,,0,0,0,,Dentro de un año, llevaré al mocoso\Na vuestra casa.
-Dialogue: 0,0:07:06.40,0:07:11.10,Default,,0,0,0,,Cuando Gokú vuelva a la vida,\Ndecidle que puede venir a buscarlo.
+Dialogue: 0,0:06:44.57,0:06:49.31,Default,,0,0,0,,Si van a causar problemas, los mataré\Na todos y me lo llevaré.
+Dialogue: 0,0:07:01.96,0:07:05.83,Default,,0,0,0,,Dentro de un año, llevaré al mocoso\Na su casa.
+Dialogue: 0,0:07:06.40,0:07:11.10,Default,,0,0,0,,Cuando Gokú vuelva a la vida,\Ndiganle que puede venir a buscarlo.
 Dialogue: 0,0:07:18.83,0:07:21.30,Default,,0,0,0,,No he tenido nada\Nque ver con esto.
 Dialogue: 0,0:07:21.36,0:07:24.96,Default,,0,0,0,,Morirá, y si no muere, se convertirá\Nen un delincuente.
 Dialogue: 0,0:07:27.52,0:07:31.05,Default,,0,0,0,,Gokú y Chichi se pondrán furiosos.
@@ -142,9 +142,9 @@ Dialogue: 0,0:08:52.90,0:08:55.15,Default,,0,0,0,,¡Muestra un poco más de resp
 Dialogue: 0,0:08:55.85,0:09:00.38,Default,,0,0,0,,Sí, se trataba de tu hermano, ¿verdad?
 Dialogue: 0,0:09:00.62,0:09:03.71,Default,,0,0,0,,Ha ido al infierno, por supuesto.
 Dialogue: 0,0:09:04.03,0:09:05.41,Default,,0,0,0,,¿Ha causado muchos problemas?
-Dialogue: 0,0:09:05.44,0:09:10.95,Default,,0,0,0,,Y tanto que sí.\NPero yo lo he doblegado.
+Dialogue: 0,0:09:05.44,0:09:10.95,Default,,0,0,0,,Por supuesto que sí.\NPero yo lo he doblegado.
 Dialogue: 0,0:09:13.29,0:09:16.16,Default,,0,0,0,,¡Entonces debes de ser muy fuerte!\N¡Era duro de pelar!
-Dialogue: 0,0:09:18.12,0:09:21.10,Default,,0,0,0,,¡Quiero que me entrene\Neste tío de aquí!
+Dialogue: 0,0:09:18.12,0:09:21.10,Default,,0,0,0,,¡Quiero que me entrene\Neste tipo de aquí!
 Dialogue: 0,0:09:21.16,0:09:25.43,Default,,0,0,0,,No levantes la voz. Y no te dirijas\Nal Sr. Enma de esa manera.
 Dialogue: 0,0:09:25.51,0:09:26.39,Default,,0,0,0,,Pero...
 Dialogue: 0,0:09:27.07,0:09:30.60,Default,,0,0,0,,Silencio. El Sr. Kaioh es\Naún más fuerte.
@@ -169,7 +169,7 @@ Dialogue: 0,0:11:02.51,0:11:05.54,Default,,0,0,0,,superar el inaudito poder\Nde 
 Dialogue: 0,0:11:06.36,0:11:12.19,Default,,0,0,0,,Y no sabemos lo fuerte que puede llegar a\Nser Gokú si se entrena con el Sr. Kaioh.
 Dialogue: 0,0:11:12.58,0:11:15.18,Default,,0,0,0,,Nuestra única esperanza es\Nel hijo de Gokú.
 Dialogue: 0,0:11:15.23,0:11:21.99,Default,,0,0,0,,¿Pero podrá Píkoro entrenarle en\Nun espacio de tiempo tan limitado?
-Dialogue: 0,0:11:22.00,0:11:26.00,Default,,0,0,0,,¡Calla! ¡Estás en medio!\N¡Lárgate a casa!
+Dialogue: 0,0:11:22.00,0:11:26.00,Default,,0,0,0,,¡Callate! ¡Estorbas!\N¡Lárgate a casa!
 Dialogue: 0,0:11:27.08,0:11:30.54,Default,,0,0,0,,¡Eso! ¡Tenemos prisa!
 Dialogue: 0,0:11:30.92,0:11:34.57,Default,,0,0,0,,¡Lo siento mucho... !\N¡Lo siento... !
 Dialogue: 0,0:11:39.18,0:11:41.05,Default,,0,0,0,,Disculpe que le haya\Nhecho esperar.
@@ -194,9 +194,9 @@ Dialogue: 0,0:13:35.58,0:13:40.82,Default,,0,0,0,,¡Ni hablar!\N¿Y si se olvida
 Dialogue: 0,0:13:40.94,0:13:42.22,Default,,0,0,0,,Imposible.
 Dialogue: 0,0:13:43.00,0:13:49.71,Default,,0,0,0,,Si le enseñan artes marciales, se podría\Ndar un golpe y caer al océano.
 Dialogue: 0,0:13:50.04,0:13:53.32,Default,,0,0,0,,Entonces podría ser perseguido por\Nun tiburón devorador de hombres o...
-Dialogue: 0,0:13:53.68,0:13:57.50,Default,,0,0,0,,... consumirse en una isla desierta o...
-Dialogue: 0,0:13:59.97,0:14:02.42,Default,,0,0,0,,... ser mordido por una\Nserpiente cuando trata...
-Dialogue: 0,0:14:02.48,0:14:05.65,Default,,0,0,0,,... de alcanzar un plátano porque\Nse muere de hambre.
+Dialogue: 0,0:13:53.68,0:13:57.50,Default,,0,0,0,,...consumirse en una isla desierta o...
+Dialogue: 0,0:13:59.97,0:14:02.42,Default,,0,0,0,,...ser mordido por una\Nserpiente cuando trata...
+Dialogue: 0,0:14:02.48,0:14:05.65,Default,,0,0,0,,...de alcanzar un plátano porque\Nse muere de hambre.
 Dialogue: 0,0:14:05.71,0:14:08.19,Default,,0,0,0,,El veneno se extenderá lentamente\Npor todo su cuerpo y...
 Dialogue: 0,0:14:08.20,0:14:10.66,Default,,0,0,0,,¿Qué haremos si lo vuelve tonto?
 Dialogue: 0,0:14:24.40,0:14:26.31,Default,,0,0,0,,Ya hemos llegado.
@@ -206,7 +206,7 @@ Dialogue: 0,0:14:43.27,0:14:44.78,Default,,0,0,0,,¿Y ahora qué tengo que hacer
 Dialogue: 0,0:14:46.40,0:14:49.86,Default,,0,0,0,,Sólo tiene que seguir el camino\Nde la serpiente.
 Dialogue: 0,0:14:49.90,0:14:52.93,Default,,0,0,0,,Lleva directamente hasta\Nel Sr. Kaioh.
 Dialogue: 0,0:14:54.10,0:14:56.04,Default,,0,0,0,,Parece muy largo.
-Dialogue: 0,0:14:56.76,0:14:57.51,Default,,0,0,0,,Y tanto.
+Dialogue: 0,0:14:56.76,0:14:57.51,Default,,0,0,0,,Por supuesto.
 Dialogue: 0,0:14:57.61,0:15:01.36,Default,,0,0,0,,Según la leyenda, tiene aproximadamente\Nun millón de kilómetros de largo.
 Dialogue: 0,0:15:01.51,0:15:05.74,Default,,0,0,0,,¿Un millón de kilómetros?\N¿Alguien lo ha conseguido?
 Dialogue: 0,0:15:06.56,0:15:12.22,Default,,0,0,0,,En los últimos 100 millones de años,\Ncreo que el Sr. Enma ha sido el único.
@@ -223,9 +223,9 @@ Dialogue: 0,0:15:46.98,0:15:47.65,Default,,0,0,0,,Nos vemos.
 Dialogue: 0,0:15:48.69,0:15:51.65,Default,,0,0,0,,Oye, tengo que pedirte un favor.
 Dialogue: 0,0:15:52.99,0:15:55.47,Default,,0,0,0,,¿Conoce a Baba la Vidente?
 Dialogue: 0,0:15:55.61,0:15:58.53,Default,,0,0,0,,Nos visita ocasionalmente.
-Dialogue: 0,0:15:58.76,0:16:05.28,Default,,0,0,0,,¡Genial! La próxima vez que venga,\Ndígale que avise al Duende Tortuga
+Dialogue: 0,0:15:58.76,0:16:05.28,Default,,0,0,0,,¡Genial! La próxima vez que venga,\Ndígale que avise al Maestro Roshi
 Dialogue: 0,0:16:05.52,0:16:08.59,Default,,0,0,0,,que no me revivan hasta\Ndentro de un año.
-Dialogue: 0,0:16:08.72,0:16:15.66,Default,,0,0,0,,Entendido. A ver...\NUn año... Duende Tortuga...
+Dialogue: 0,0:16:08.72,0:16:15.66,Default,,0,0,0,,Entendido. A ver...\NUn año... Maestro Roshi...
 Dialogue: 0,0:16:17.28,0:16:18.69,Default,,0,0,0,,Bueno, vamos allá.
 Dialogue: 0,0:16:21.31,0:16:23.75,Default,,0,0,0,,No tengo que caerme de\Nla serpiente, ¿verdad?
 Dialogue: 0,0:16:24.16,0:16:25.99,Default,,0,0,0,,Sí. Tenga mucho cuidado.
