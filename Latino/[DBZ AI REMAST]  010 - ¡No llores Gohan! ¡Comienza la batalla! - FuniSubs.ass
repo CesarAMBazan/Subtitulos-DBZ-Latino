@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -74,7 +74,7 @@ Dialogue: 0,0:05:07.75,0:05:09.99,Default,,0,0,0,,No duele, no duele.
 Dialogue: 0,0:05:10.84,0:05:12.66,Default,,0,0,0,,Este remedio es el mejor.
 Dialogue: 0,0:05:12.88,0:05:17.31,Default,,0,0,0,,¡Está sucio! Pónmelo en casa.
 Dialogue: 0,0:05:18.99,0:05:20.19,Default,,0,0,0,,No llores.
-Dialogue: 0,0:05:21.28,0:05:25.11,Default,,0,0,0,,¡Qué daño! ¡Qué daño!
+Dialogue: 0,0:05:21.28,0:05:25.11,Default,,0,0,0,,¡Me duele! ¡Me duele!
 Dialogue: 0,0:06:08.46,0:06:10.70,Default,,0,0,0,,¡Venga! ¡Sólo queda uno!
 Dialogue: 0,0:06:10.82,0:06:11.75,Default,,0,0,0,,¡Sí!
 Dialogue: 0,0:06:14.42,0:06:16.44,Default,,0,0,0,,El partido acabará pronto.
@@ -97,7 +97,7 @@ Dialogue: 0,0:07:39.24,0:07:40.27,Default,,0,0,0,,Claro.
 Dialogue: 0,0:07:43.64,0:07:45.71,Default,,0,0,0,,No tiene remedio.
 Dialogue: 0,0:07:51.08,0:07:52.19,Default,,0,0,0,,¡Play!
 Dialogue: 0,0:07:56.40,0:08:00.27,Default,,0,0,0,,No pasa nada.\NDeja que te dé.
-Dialogue: 0,0:08:02.12,0:08:05.99,Default,,0,0,0,,Bola muerta.\NLlenad las bases.
+Dialogue: 0,0:08:02.12,0:08:05.99,Default,,0,0,0,,Bola muerta.\NLlenen las bases.
 Dialogue: 0,0:08:12.63,0:08:13.62,Default,,0,0,0,,¡Strike!
 Dialogue: 0,0:08:20.04,0:08:23.60,Default,,0,0,0,,Así que quería que le diera.\N¡Por mí no hay problema!
 Dialogue: 0,0:08:40.44,0:08:41.99,Default,,0,0,0,,¡Bola muerta!
@@ -117,11 +117,11 @@ Dialogue: 0,0:09:54.76,0:09:58.01,Default,,0,0,0,,Luego te lo explico.\NAhora ve
 Dialogue: 0,0:10:02.84,0:10:05.18,Default,,0,0,0,,¿Cómo dices?\N¿Gokú ha muerto?
 Dialogue: 0,0:10:05.32,0:10:12.23,Default,,0,0,0,,Murió luchando con ese Saiyajin.\NPero fue una muerte digna de él.
 Dialogue: 0,0:10:13.40,0:10:14.43,Default,,0,0,0,,Gokú...
-Dialogue: 0,0:10:14.60,0:10:17.12,Default,,0,0,0,,Venga, no te preocupes.
-Dialogue: 0,0:10:17.43,0:10:19.63,Default,,0,0,0,,Le devolveremos a la vida\Ncon las esferas del dragón.
+Dialogue: 0,0:10:14.60,0:10:17.12,Default,,0,0,0,,Vamos, no te preocupes.
+Dialogue: 0,0:10:17.43,0:10:19.63,Default,,0,0,0,,Lo devolveremos a la vida\Ncon las esferas del dragón.
 Dialogue: 0,0:10:19.80,0:10:21.04,Default,,0,0,0,,¡Vamos! ¡Date prisa!
 Dialogue: 0,0:10:27.76,0:10:29.87,Default,,0,0,0,,Oh, no, Yamcha.
-Dialogue: 0,0:10:30.13,0:10:33.99,Default,,0,0,0,,Todavía sigue enfadada porque\Nestabas sin blanca y la dejaste
+Dialogue: 0,0:10:30.13,0:10:33.99,Default,,0,0,0,,Todavía sigue enfadada porque\Nestabas sin dinero y la dejaste
 Dialogue: 0,0:10:34.07,0:10:35.83,Default,,0,0,0,,plantada en la última cita.
 Dialogue: 0,0:10:36.09,0:10:39.59,Default,,0,0,0,,Que quede claro.\NNo quiero volver contigo.
 Dialogue: 0,0:10:39.95,0:10:43.79,Default,,0,0,0,,Esto es una emergencia, así que\Ntendremos que cooperar temporalmente.
@@ -133,8 +133,8 @@ Dialogue: 0,0:11:01.32,0:11:04.67,Default,,0,0,0,,¡Seguro que puedes!\N¡Pero e
 Dialogue: 0,0:11:04.96,0:11:08.99,Default,,0,0,0,,Kami sama quiere que vayamos al\Ncielo para entrenarnos.
 Dialogue: 0,0:11:09.03,0:11:14.31,Default,,0,0,0,,¿Cómo? ¿En serio?\NUn entrenamiento con Kami sama...
 Dialogue: 0,0:11:15.56,0:11:19.15,Default,,0,0,0,,No pasa nada, no tienes por\Nqué venir si no quieres.
-Dialogue: 0,0:11:20.48,0:11:24.95,Default,,0,0,0,,¿Qué estas haciendo ahí plantados?\N¡Vamos, Pooal! ¿A qué estás esperando?
-Dialogue: 0,0:11:53.84,0:11:56.73,Default,,0,0,0,,¡Qué daño! ¡Qué daño!
+Dialogue: 0,0:11:20.48,0:11:24.95,Default,,0,0,0,,¿Qué estas haciendo ahí plantados?\N¡Vamos, Puar! ¿A qué estás esperando?
+Dialogue: 0,0:11:53.84,0:11:56.73,Default,,0,0,0,,¡Me duele! ¡Me duele!
 Dialogue: 0,0:12:02.47,0:12:05.20,Default,,0,0,0,,¿Cuántos días habrán pasado?
 Dialogue: 0,0:12:05.41,0:12:09.09,Default,,0,0,0,,Me daré prisa, un año pasa volando.
 Dialogue: 0,0:12:09.88,0:12:11.13,Default,,0,0,0,,Vamos allá.
@@ -156,7 +156,7 @@ Dialogue: 0,0:16:49.28,0:16:52.55,Default,,0,0,0,,Eso no tiene por qué ser así
 Dialogue: 0,0:16:52.72,0:16:55.43,Default,,0,0,0,,Y seguro que Gokú vuelve a la\Nvida más fuerte que nunca.
 Dialogue: 0,0:16:57.73,0:17:02.67,Default,,0,0,0,,Pero lo mejor de todo es que nos\Nentrenará Kami sama en persona.
 Dialogue: 0,0:17:02.93,0:17:09.31,Default,,0,0,0,,Tienes razón. Después del entrenamiento,\Ntodos seremos mucho más fuertes.
-Dialogue: 0,0:17:09.59,0:17:16.68,Default,,0,0,0,,Venga, adelante. Saiyajin o como\Nos llamen, nosotros los derrotaremos.
+Dialogue: 0,0:17:09.59,0:17:16.68,Default,,0,0,0,,Venga, adelante. Saiyajin o como\Nse llamen, nosotros los derrotaremos.
 Dialogue: 0,0:17:16.96,0:17:18.99,Default,,0,0,0,,Así me gusta, Yamcha.
 Dialogue: 0,0:17:19.23,0:17:20.19,Default,,0,0,0,,¡Sí!
 Dialogue: 0,0:17:23.09,0:17:26.53,Default,,0,0,0,,¿Cómo? Entonces han hecho las paces...
@@ -171,8 +171,8 @@ Dialogue: 0,0:18:59.56,0:19:00.92,Default,,0,0,0,,No lo bastante.
 Dialogue: 0,0:19:10.64,0:19:17.37,Default,,0,0,0,,¡He vuelto! Es hora de comer, pero\Nesta vez deja algo para mí.
 Dialogue: 0,0:19:17.47,0:19:18.60,Default,,0,0,0,,No te lo comas to...
 Dialogue: 0,0:19:49.76,0:19:50.75,Default,,0,0,0,,¿Eres tú?
-Dialogue: 0,0:19:52.35,0:19:55.26,Default,,0,0,0,,¡Suéltale! ¡Está herido!
-Dialogue: 0,0:20:02.67,0:20:03.58,Default,,0,0,0,,¡Suéltale!
+Dialogue: 0,0:19:52.35,0:19:55.26,Default,,0,0,0,,¡Suéltalo! ¡Está herido!
+Dialogue: 0,0:20:02.67,0:20:03.58,Default,,0,0,0,,¡Suéltalo!
 Dialogue: 0,0:20:09.22,0:20:11.22,Default,,0,0,0,,Maldito...
 Dialogue: 0,0:22:05.48,0:22:10.19,Default,,0,0,0,,Gohan ha experimentado por primera\Nvez la dura ley de la supervivencia,
 Dialogue: 0,0:22:10.81,0:22:17.07,Default,,0,0,0,,pero no es momento de quedarse quieto,\Nlos Saiyajin no esperan a nadie...
@@ -217,4 +217,4 @@ Dialogue: 0,0:24:19.39,0:24:22.95,Default,,0,0,0,,¡Maldición, siento un hormig
 Dialogue: 0,0:24:23.09,0:24:24.95,Default,,0,0,0,,No subestimen las habilidades\Nde estos tipos.
 Dialogue: 0,0:24:25.78,0:24:27.51,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:27.96,0:24:30.66,Default,,0,0,0,,Despiertan los Saiyajin, los guerreros\Nmás fuertes del Universo
-Dialogue: 0,0:24:31.30,0:24:36.63,Default,,0,0,0,,Papá... ¿Realmente crees que pueda\Nllegar a ser un gran sabio?
+Dialogue: 0,0:24:31.30,0:24:36.63,Default,,0,0,0,,Papá... ¿Realmente crees que pueda\Nllegar a ser un gran investigador?
