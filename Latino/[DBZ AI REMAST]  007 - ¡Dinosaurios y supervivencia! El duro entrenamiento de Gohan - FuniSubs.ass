@@ -1,5 +1,5 @@
 ﻿[Script Info]
-; Estado = Faltan correcciones
+; Estado = Completado
 Title: Default Aegisub file
 ScriptType: v4.00+
 PlayDepth: 0
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:58.47,0:04:03.24,Default,,0,0,0,,¿Tengo que vivir solo en un s
 Dialogue: 0,0:04:07.24,0:04:12.16,Default,,0,0,0,,¡No puedo! ¡Estaré solo!\N¡Me moriré!
 Dialogue: 0,0:04:13.45,0:04:15.24,Default,,0,0,0,,No estarás solo.
 Dialogue: 0,0:04:15.47,0:04:19.96,Default,,0,0,0,,Hay muchos animales sedientos de sangre\Nmerodeando por los alrededores.
-Dialogue: 0,0:04:20.63,0:04:26.43,Default,,0,0,0,,¡Para ya... ! ¡No me dejes!
+Dialogue: 0,0:04:20.63,0:04:26.43,Default,,0,0,0,,¡Espera...! ¡No me dejes!
 Dialogue: 0,0:04:26.43,0:04:30.96,Default,,0,0,0,,¡Ahora no tienes tiempo para lloriquear!
 Dialogue: 0,0:04:33.16,0:04:39.84,Default,,0,0,0,,Dentro de 6 meses te habrás hecho\Nfuerte física y mentalmente.
 Dialogue: 0,0:04:39.97,0:04:47.13,Default,,0,0,0,,No olvides que en tus manos está\Nla llave del destino de este planeta.
@@ -105,11 +105,11 @@ Dialogue: 0,0:06:38.97,0:06:45.14,Default,,0,0,0,,Continúa siendo malvado, pero
 Dialogue: 0,0:06:46.49,0:06:48.12,Default,,0,0,0,,Popo también lo cree.
 Dialogue: 0,0:06:48.25,0:06:52.20,Default,,0,0,0,,El viejo Píkoro Daimaoh jamás habría\Nentrenado al hijo de Son Gokú.
 Dialogue: 0,0:06:52.57,0:06:58.83,Default,,0,0,0,,Supe que había cambiado en el momento\Nen que Raditz, el hermano de Gokú,
-Dialogue: 0,0:06:58.97,0:07:03.95,Default,,0,0,0,,fue al infierno después de que\NPíkoro le matara.
+Dialogue: 0,0:06:58.97,0:07:03.95,Default,,0,0,0,,fue al infierno después de que\NPíkoro lo matara.
 Dialogue: 0,0:07:19.01,0:07:23.84,Default,,0,0,0,,Hasta ahora, las almas de los asesinados\Npor un demonio vagaban en la agonía sin
 Dialogue: 0,0:07:23.97,0:07:27.75,Default,,0,0,0,,hallar jamás el reposo eterno.
-Dialogue: 0,0:07:28.30,0:07:30.52,Default,,0,0,0,,¿Ha pasado por aquí un tipo\N llamado Raditz?
-Dialogue: 0,0:07:30.97,0:07:32.77,Default,,0,0,0,,Y tanto que sí.
+Dialogue: 0,0:07:28.30,0:07:30.52,Default,,0,0,0,,¿Ha pasado por aquí un tipo\Nllamado Raditz?
+Dialogue: 0,0:07:30.97,0:07:32.77,Default,,0,0,0,,Por supuesto que sí.
 Dialogue: 0,0:07:33.45,0:07:37.15,Default,,0,0,0,,El hecho de que Raditz fuera al otro\Nmundo es la prueba de que Píkoro
 Dialogue: 0,0:07:37.29,0:07:39.70,Default,,0,0,0,,ha sufrido algún cambio profundo.
 Dialogue: 0,0:07:42.13,0:07:44.65,Default,,0,0,0,,¿Quiere decir que Píkoro ha\Ndesarrollado una conciencia?
@@ -128,7 +128,7 @@ Dialogue: 0,0:08:44.01,0:08:47.10,Default,,0,0,0,,Entonces, las esferas del drag
 Dialogue: 0,0:08:48.37,0:08:51.24,Default,,0,0,0,,Sólo podemos utilizarlas una vez más.
 Dialogue: 0,0:08:56.70,0:08:59.32,Default,,0,0,0,,¡Tengo miedo!
 Dialogue: 0,0:08:59.81,0:09:01.86,Default,,0,0,0,,¡Tengo miedo!
-Dialogue: 0,0:09:11.66,0:09:13.88,Default,,0,0,0,,¡Ay, qué daño!
+Dialogue: 0,0:09:11.66,0:09:13.88,Default,,0,0,0,,¡Ay, que dolor!
 Dialogue: 0,0:09:19.97,0:09:21.66,Default,,0,0,0,,¡Espera!
 Dialogue: 0,0:10:10.76,0:10:14.32,Default,,0,0,0,,¿Por qué ha tenido que pasar\Npor mi cuello?
 Dialogue: 0,0:10:57.73,0:11:02.16,Default,,0,0,0,,No tenía ni idea de que Gohan\Nfuera tan fuerte.
@@ -146,7 +146,7 @@ Dialogue: 0,0:13:26.08,0:13:27.29,Default,,0,0,0,,¡Krilin!
 Dialogue: 0,0:13:27.42,0:13:29.80,Default,,0,0,0,,Ho... Hola.
 Dialogue: 0,0:13:29.94,0:13:32.97,Default,,0,0,0,,¿Qué estás haciendo aquí\Nfuera hablando solo?
 Dialogue: 0,0:13:33.35,0:13:36.46,Default,,0,0,0,,Esto... He venido para...
-Dialogue: 0,0:13:38.74,0:13:41.65,Default,,0,0,0,,¡Hombre! ¡Cuánto tiempo!
+Dialogue: 0,0:13:38.74,0:13:41.65,Default,,0,0,0,,¡Hola! ¡Cuánto tiempo!
 Dialogue: 0,0:13:42.34,0:13:45.57,Default,,0,0,0,,Hola. Hacía mucho tiempo.
 Dialogue: 0,0:13:45.74,0:13:48.30,Default,,0,0,0,,¿Gokú no ha venido contigo?
 Dialogue: 0,0:13:48.30,0:13:53.39,Default,,0,0,0,,¡Eso es! De hecho, Gokú...
@@ -163,7 +163,7 @@ Dialogue: 0,0:14:23.18,0:14:28.45,Default,,0,0,0,,Vamos, no te quedes ahí.\NPas
 Dialogue: 0,0:14:33.70,0:14:36.89,Default,,0,0,0,,Estoy deseando ver la\Ncara de mi nieto.
 Dialogue: 0,0:14:37.88,0:14:43.07,Default,,0,0,0,,Hace un año que no lo veo,\Ndebe de haber crecido mucho.
 Dialogue: 0,0:14:44.10,0:14:48.89,Default,,0,0,0,,No puedo decirles que no volverá\Nhasta dentro de un año.
-Dialogue: 0,0:14:49.74,0:14:54.96,Default,,0,0,0,,No sabía nada de vosotros, así que llamé\Na la Kame House, pero no había nadie.
+Dialogue: 0,0:14:49.74,0:14:54.96,Default,,0,0,0,,No sabía nada de ustedes, así que llamé\Na la Kame House, pero no había nadie.
 Dialogue: 0,0:14:55.13,0:15:01.82,Default,,0,0,0,,Creo que dijeron algo sobre\Nvisitar una isla desierta...
 Dialogue: 0,0:15:02.81,0:15:06.19,Default,,0,0,0,,Es imposible contactar\Ncon ellos allí...
 Dialogue: 0,0:15:07.14,0:15:11.25,Default,,0,0,0,,Pero se suponía que Gokú y Gohan\Niban a volver a casa esta noche.
@@ -193,8 +193,8 @@ Dialogue: 0,0:19:10.30,0:19:16.76,Default,,0,0,0,,Uno, dos, tres, cuatro.\N¡Fal
 Dialogue: 0,0:19:16.86,0:19:18.89,Default,,0,0,0,,Le ruego que me disculpe.
 Dialogue: 0,0:19:20.58,0:19:22.39,Default,,0,0,0,,¡Qué horror!
 Dialogue: 0,0:19:23.58,0:19:28.19,Default,,0,0,0,,Por esta razón, diles a mis amigos que\Nno me resuciten hasta dentro de un año.
-Dialogue: 0,0:19:28.77,0:19:31.95,Default,,0,0,0,,Ya, ¿y se supone que se lo tengo\Nque decir al Duende Tortuga?
-Dialogue: 0,0:19:32.26,0:19:34.85,Default,,0,0,0,,Sí, no se olvide por favor.
+Dialogue: 0,0:19:28.77,0:19:31.95,Default,,0,0,0,,Ya, ¿y se supone que se lo tengo\Nque decir al Maestro Roshi?
+Dialogue: 0,0:19:32.26,0:19:34.85,Default,,0,0,0,,Sí, que no se le olvide por favor.
 Dialogue: 0,0:19:36.98,0:19:41.51,Default,,0,0,0,,Ese Gokú nunca se rinde.\N¿Quiere ser aún más fuerte?
 Dialogue: 0,0:19:50.35,0:19:54.09,Default,,0,0,0,,Maldita sea, aquel tipo me mintió.\NDijo que no tendría hambre,
 Dialogue: 0,0:19:54.11,0:19:55.73,Default,,0,0,0,,¡pero sí que tengo!
@@ -202,7 +202,7 @@ Dialogue: 0,0:20:09.13,0:20:16.10,Default,,0,0,0,,Tengo mucho miedo... Tengo fr�
 Dialogue: 0,0:20:26.26,0:20:29.55,Default,,0,0,0,,¡Manzanas! ¡Han caído unas manzanas!
 Dialogue: 0,0:20:38.36,0:20:39.35,Default,,0,0,0,,Da igual.
 Dialogue: 0,0:20:47.02,0:20:49.36,Default,,0,0,0,,Qué ácida. Sabe fatal.
-Dialogue: 0,0:20:57.21,0:21:01.72,Default,,0,0,0,,Quiero un bollo.\NEcho a faltar los bollitos.
+Dialogue: 0,0:20:57.21,0:21:01.72,Default,,0,0,0,,Quiero un bollo.\NExtraño los bollitos.
 Dialogue: 0,0:21:14.54,0:21:17.69,Default,,0,0,0,,Quiero el curry de mamá.
 Dialogue: 0,0:21:35.25,0:21:38.15,Default,,0,0,0,,Maldito mocoso,\Nsólo me da problemas.
 Dialogue: 0,0:21:53.72,0:21:55.69,Default,,0,0,0,,Qué miedo...
@@ -253,4 +253,4 @@ Dialogue: 0,0:24:23.03,0:24:24.43,Default,,0,0,0,,¡Su poder destructivo es extr
 Dialogue: 0,0:24:24.99,0:24:26.62,Default,,0,0,0,,Próximamente en Dragon Ball Z
 Dialogue: 0,0:24:27.14,0:24:29.02,Default,,0,0,0,,¡La gran transformación de\Nla noche de luna llena!
 Dialogue: 0,0:24:29.18,0:24:30.77,Default,,0,0,0,,El poder secreto de Gohan
-Dialogue: 0,0:24:31.48,0:24:35.62,Default,,0,0,0,,Papá... ¿Realmente crees que pueda\Nllegar a ser un gran sabio?
+Dialogue: 0,0:24:31.48,0:24:35.62,Default,,0,0,0,,Papá... ¿Realmente crees que pueda\Nllegar a ser un gran investigador?
